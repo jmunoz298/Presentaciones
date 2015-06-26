@@ -61,9 +61,8 @@ url: "http://psicologiasocial.uab.es/juan"
 * Son irracionales
 
 #
-> Los senadores son todos hombres de bien, el Senado romano es una mala bestia
-
-`Citado por Moscovici, 1981`
+> Los senadores son todos hombres de bien, el Senado romano es una mala bestia.\
+`Citado por Moscovici, 1981`{.autor}
 
 #
 
@@ -73,9 +72,8 @@ url: "http://psicologiasocial.uab.es/juan"
 
 . . .
 
-> ... difusión del afecto o de la conducta de un participante de la multitud a otro; una persona sirve como estímulo para las acciones imitativas de otra.
-
-`Milgram & Toch, 1969, p. 550`
+> ... difusión del afecto o de la conducta de un participante de la multitud a otro; una persona sirve como estímulo para las acciones imitativas de otra.\
+`Milgram & Toch, 1969, p. 550`{.autor}
 
 #Algunos representantes
 
@@ -115,15 +113,13 @@ url: "http://psicologiasocial.uab.es/juan"
 
 . . .
 
->La masa es un terreno donde el microbio del mal se desarrolla muy fácilmente, mientras que el microbio del bien muere casi siempre.
-
-`Scipio Sighele, 1891`
+>La masa es un terreno donde el microbio del mal se desarrolla muy fácilmente, mientras que el microbio del bien muere casi siempre.\
+`Scipio Sighele, 1891`{.autor}
 
 #Contra la civilización
 
-> Por su poder exclusivamente destructivo, actúan como aquellos microbios que activan la disolución de los cuerpos debilitados o de los cadáveres. Cuando el edificio de una civilización está carcomido, las masas provocan su derrumbamiento. Se pone entonces de manifiesto su papel. Durante un instante, la fuerza ciega del número se convierte en la única filosofía de la historia
-
-`Gustave Le Bon, 1895/1986, p. 22`
+> Por su poder exclusivamente destructivo, actúan como aquellos microbios que activan la disolución de los cuerpos debilitados o de los cadáveres. Cuando el edificio de una civilización está carcomido, las masas provocan su derrumbamiento. Se pone entonces de manifiesto su papel. Durante un instante, la fuerza ciega del número se convierte en la única filosofía de la historia.\
+`Gustave Le Bon, 1895/1986, p. 22`{.autor}
 
 #Mecanismos y resultados
 
@@ -137,23 +133,33 @@ url: "http://psicologiasocial.uab.es/juan"
 
 #Rajoy plasma {data-background="imagenes/RajoyPlasma.jpg" data-background-transition=fade data-state=fondo}
 
+>En un discurso afirmar significa una negativa a discutir, porque el poder de un hombre o de una idea que se discute pierde toda credibilidad. Esto significa también una petición hecha al auditorio, a la multitud, de que acepte la idea sin deliberar, de que la recoja tal como es sin pesar el pro y el contra, de contestar sí sin reflexionar.\
+`Moscovici, 1985, p. 185`{.autor}
 
 #Repetición
 
+>Aquello que se repite concluye, en efecto, por incrustarse en las regiones profundas del inconsciente en donde se elaboran los motivos de nuestros actos. Al cabo de algún tiempo, olvidando cuál es el autor de la afirmación repetida, acabamos por creer en ella.\
+`Le Bon, p. 94`{.autor}
+
+#
+
+Frente a: "Las multitudes son la plebe, el populacho"
+:   Cualquiera, independientemente de su capacidad intelectual, de sus características individuales, puede convertirse en miembro de la masa.
+
+Frente a: "La masa es criminal (única y exclusivamente)"
+:   La irracionalidad puede llevar tanto a conductas destructivas como altruistas.
 
 #Las mujeres {data-background="imagenes/Mujeres.png" data-background-transition=fade data-state=fondo}
 
 . . .
 
-> A la mujer se le atrofia la inteligencia como las alas a las mariposas de la isla de Kerguelen, ya que su misión en el mundo no es la de luchar en la vida, sino acunar la descendencia de quien tiene que luchar por ella.
-
-`Vallejo-Nájera, 1944, Psicología de los sexos, p. 44`
+> A la mujer se le atrofia la inteligencia como las alas a las mariposas de la isla de Kerguelen, ya que su misión en el mundo no es la de luchar en la vida, sino acunar la descendencia de quien tiene que luchar por ella.\
+`Vallejo-Nájera, 1944, Psicología de los sexos, p. 44`{.autor}
 
 #El "filósofo español"
 
->Cuando la masa actúa por sí misma, lo hace sólo de una manera, porque no tiene otra: lincha. (...) Ni mucho menos podrá extrañar que ahora, cuando las masas triunfan, triunfe la violencia y se haga de ella la única ratio, la única doctrina.
-
-`Ortega y Gasset, 1930, pág. 118`
+>Cuando la masa actúa por sí misma, lo hace sólo de una manera, porque no tiene otra: lincha. (...) Ni mucho menos podrá extrañar que ahora, cuando las masas triunfan, triunfe la violencia y se haga de ella la única ratio, la única doctrina.\
+`Ortega y Gasset, 1930, pág. 118`{.autor}
 
 #
 
@@ -161,11 +167,10 @@ url: "http://psicologiasocial.uab.es/juan"
 
 #Individualismo
 
->No hay psicología de los grupos que no sea esencialmente y por completo una psicología de los individuos (p. 4)
+>No hay psicología de los grupos que no sea esencialmente y por completo una psicología de los individuos.
 
->El individuo en la masa se comporta simplemente como lo haría solo, pero más (p. 295)
-
-`Floyd Allport, 1924`
+>El individuo en la masa se comporta simplemente como lo haría solo, pero más.\
+`Floyd Allport, 1924 (pp. 4 y 295)`{.autor}
 
 #
 
@@ -173,9 +178,8 @@ url: "http://psicologiasocial.uab.es/juan"
 
 #Privación relativa
 
->Cuando van creciendo a la par la satisfacción real de necesidades y la satisfacción esperada, no se produce violencia (aun cuando exista un ligero desnivel entre ambas que genera una insatisfacción tolerable), pero cuando la satisfacción real queda bloqueada y las expectativas continúan creciendo, el desnivel entre lo que se tiene realmente y lo que se esperaba tener puede hacerse muy grande, convirtiéndose en intolerable, produciéndose entonces la situación de curva J característica de las revoluciones.
-
-`Javaloy, 2003, p. 180`
+>Cuando van creciendo a la par la satisfacción real de necesidades y la satisfacción esperada, no se produce violencia (aun cuando exista un ligero desnivel entre ambas que genera una insatisfacción tolerable), pero cuando la satisfacción real queda bloqueada y las expectativas continúan creciendo, el desnivel entre lo que se tiene realmente y lo que se esperaba tener puede hacerse muy grande, convirtiéndose en intolerable, produciéndose entonces la situación de curva J característica de las revoluciones.\
+`Javaloy, 2003, p. 180`{.autor}
 
 #La Teoría de la "Curva en J"
 
@@ -197,6 +201,11 @@ url: "http://psicologiasocial.uab.es/juan"
 
 </div>
 
+#
+
+>Según Semelser (1963), la conducta colectiva ocurre cuando las personas se preparan para actuar en base a una creencia que se centra en cambiar algún aspecto de la sociedad, pero surge sólo cuando no hay otros medios de conseguir la meta deseada mediante las instituciones normales de la sociedad. Es una conducta que ocurre, por lo tanto, fuera de las instituciones, y es una conducta que está propositivamente orientada hacia el cambio.\
+`Milgram y Toch, 1969, p. 555`{.autor}
+
 #Determinantes
 
 * Conductividad estructural
@@ -206,9 +215,41 @@ url: "http://psicologiasocial.uab.es/juan"
 * Movilización activa
 * Control social
 
+#Disturbios en Fergurson
+
+<div id="column1" style="float:left; margin:0; width:50%;">
+
+![](imagenes/Ferguson-1.png)
+
+</div>
+
+<div id="column1" style="float:left; margin:0; width:50%;">
+
+![](imagenes/Ferguson-2.png)
+
+</div>
+
+<div id="column1" style="float:left; margin:0; width:50%;">
+
+![](imagenes/Ferguson-3.png)
+
+</div>
+
+<div id="column1" style="float:left; margin:0; width:50%;">
+
+![](imagenes/Ferguson-4.png)
+
+</div>
+
+`Disturbios en Ferguson, noviembre 2014`{.figcaption}
+
 #Un ejemplo: Universidad de Kent
 
-Vídeo
+<video width="400"  class="stretch" controls>
+<source src="multimedia/KentState.mp4">
+</video>
+
+######<https://www.youtube.com/watch?v=DURww8TsAlA>{.figcaption}
 
 Lewis, J. M. (1972). A Study of the Kent State Incident Using Smelser’s Theory of Collective Behavior. Sociological Inquiry, 42(2), 87–96.
 
@@ -227,14 +268,34 @@ Lewis, J. M. (1972). A Study of the Kent State Incident Using Smelser’s Theory
 * El significado de estas cosas es consecuencia de la interacción social
 * Los significados se manipulan y modifican mediante la interpretación que la persona realiza al enfrentarse con el mundo
 
+#Influencias
+
+<div id="column1" style="float:left; margin:0; width:50%;">
+
+![Robert E. Park\
+(1864-1944)](imagenes/Park.png)
+
+</div>
+
+<div id="column1" style="float:left; margin:0; width:50%;">
+
+![Herbert Blumer\
+(1900-1987)](imagenes/Blumer.jpg)
+
+</div>
+
+#### Reacción circular 
+####“Milling”
+####Excitación colectiva
+
 #Excitación colectiva
 
->Cuando entra en relación con otros miembros de la masa, un individuo pierde su habitual comprensión crítica y auto-control y queda afectado por la excitación colectiva que la domina. Responde de forma inmediata y directa a los comentarios y conductas de los otros en vez de interpretarlos, como haría en su conducta ordinaria.
-
-`Blumer, 1939, p. 180`
+>Cuando entra en relación con otros miembros de la masa, un individuo pierde su habitual comprensión crítica y auto-control y queda afectado por la excitación colectiva que la domina. Responde de forma inmediata y directa a los comentarios y conductas de los otros en vez de interpretarlos, como haría en su conducta ordinaria.\
+`Blumer, 1939, p. 180`{.autor}
 
 #Modelo de inquietud social de Blumer
 
+![Modelo de inquietud social de Blumer](imagenes/ModeloInquietudSocial.png)
 
 #El comportamiento colectivo...
 
@@ -250,9 +311,8 @@ Lewis, J. M. (1972). A Study of the Kent State Incident Using Smelser’s Theory
 
 #Norma emergente: Idea central
 
->...la conducta de las multitudes (…) está regulada por normas que no vienen de fuera, que no están institucionalizadas, sino que surgen precisamente al hilo del desarrollo de la propia dinámica del comportamiento de la multitud (...); emergen de la propia situación y son vinculantes para los individuos participantes (...) cuando la situación es inicialmente ambigua, surgen definiciones nuevas durante el discurso de la interacción social.
-
-`Ovejero, 1997, p. 218`
+>...la conducta de las multitudes (…) está regulada por normas que no vienen de fuera, que no están institucionalizadas, sino que surgen precisamente al hilo del desarrollo de la propia dinámica del comportamiento de la multitud (...); emergen de la propia situación y son vinculantes para los individuos participantes (...) cuando la situación es inicialmente ambigua, surgen definiciones nuevas durante el discurso de la interacción social.\
+`Ovejero, 1997, p. 218`{.autor}
 
 #Proceso
 
@@ -303,7 +363,7 @@ Lewis, J. M. (1972). A Study of the Kent State Incident Using Smelser’s Theory
 <video width="400"  class="stretch" controls>
 <source src="multimedia/St_Pauls_Uprising_Bristol_1980.mp4">
 </video>
-
+######<https://www.youtube.com/watch?v=Wdyo16VMhIQ>{.figcaption}
 </div>
 
 <div id="column2" style="float:left; margin:0; width:50%;">
@@ -349,9 +409,8 @@ Hipótesis 3
 
 #La propuesta de Steve Reicher
 
->Si se deja de lado el exogrupo, no puede comprenderse que la violencia surja de un proceso de conflicto intergrupal. En su lugar se atribuye a la masa misma.
-
-`Reicher, 1987, p.240`
+>Si se deja de lado el exogrupo, no puede comprenderse que la violencia surja de un proceso de conflicto intergrupal. En su lugar se atribuye a la masa misma.\
+`Reicher, 1987, p.240`{.autor}
 
 #Propuestas
 
@@ -360,7 +419,7 @@ Hipótesis 3
 
 #Modelo elaborado de identidad social
 
-###La identidad social de los miembros de la masa, y por lo tanto sus actuaciones, dependen de las dinámicas intergrupales.
+#####La identidad social de los miembros de la masa, y por lo tanto sus actuaciones, dependen de las dinámicas intergrupales.
 
 # La batalla de Westminster {data-background="imagenes/BattleOfWestminster.png" data-background-transition=fade data-state=fondo}
 
@@ -390,16 +449,18 @@ Hipótesis 3
 <source src="multimedia/PollTaxRiot1990.mp4">
 </video>
 
+###### <https://www.youtube.com/watch?v=R3nYGoppmoA>`{.figcaption}
 </div>
 
 #Domingo Sangriento {data-background="imagenes/BloodySunday-bac.jpg" data-background-transition=fade data-state=fondo}
 
-`Paul Greengrass (2002)`
+
 
 <div id="column4" style="float:left; margin:0; width:50%;">
 <video width="400"   controls>
 <source src="multimedia/BloodySunday.mp4">
 </video>
+###### <https://www.youtube.com/watch?v=vkOpgr1ElXg>
 </div>
 
 <div id="column4" style="float:left; margin:0; width:50%;">
