@@ -109,10 +109,7 @@ url: "http://psicologiasocial.uab.es/juan"
 #
 
 <video class="stretch" controls><source src="multimedia/MilgramExperiment-Brown.mp4"></video>
-
-```
-Derren Brown: The Heist, 2006
-```
+`Derren Brown: The Heist, 2006`{.figcaption}
 
 ###### <http://www.youtube.com/watch?v=iUFN1eX2s6Q>
 
@@ -156,37 +153,26 @@ Derren Brown: The Heist, 2006
 
 <video class="stretch" controls><source src="multimedia/LeyYOrden.mp4"></video>
 
-```
-Authority - Law & Order: Special Victims Unit (Temporada 9, episodio 17)
-```
+`Authority - Law & Order: Special Victims Unit (Temporada 9, episodio 17)`{.figcaption}
 
 ###### <https://en.wikipedia.org/wiki/Law_%26_Order:_Special_Victims_Unit>
 
 #Réplicas recientes
 
->My partial replication of Milgram’s procedure suggests that average Americans react to this laboratory situation today much the same way they did 45 years ago….the same situational factors that affected obedience in Milgram’s participants still operate today.
-
-```
-Burger, 2009, p. 8
-```
+>My partial replication of Milgram’s procedure suggests that average Americans react to this laboratory situation today much the same way they did 45 years ago….the same situational factors that affected obedience in Milgram’s participants still operate today.\
+`Burger, 2009, p. 8`{.autor}
 
 #
 
 <video class="stretch" controls><source src="multimedia/LeJeuDeLaMort.mp4"></video>
-
-```
-Le Jeu de la Mort, 2009
-```
+`Le Jeu de la Mort, 2009`{.figcaption}
 
 ###### <https://www.youtube.com/watch?v=Bzk3INSQFGU>
 
 #Réplicas recientes
 
->Lo que encontramos aquí en el estudio de televisión es que la obediencia sigue siendo una realidad, en un momento en que muchos autores consideran que nuestras sociedades están evolucionando hacia una mayor permisividad, hacia más poderes "negociados", e incluso hacia el final de la autoridad por completo (…) Nuestras observaciones, como las de Burger, justifican por lo menos un cierto escepticismo sobre  tesis como la del final de la autoridad.
-
-```
-Beauvois et al., 2012, p. 119
-```
+>Lo que encontramos aquí en el estudio de televisión es que la obediencia sigue siendo una realidad, en un momento en que muchos autores consideran que nuestras sociedades están evolucionando hacia una mayor permisividad, hacia más poderes "negociados", e incluso hacia el final de la autoridad por completo (…) Nuestras observaciones, como las de Burger, justifican por lo menos un cierto escepticismo sobre  tesis como la del final de la autoridad.\
+`Beauvois et al., 2012, p. 119`{.autor}
 
 #
 
@@ -194,11 +180,8 @@ Beauvois et al., 2012, p. 119
 
 #Explicación: El _Estado Agéntico_
 
->“[el estado agéntico es] la condición en que se encuentra una persona cuando se considera a sí misma como un agente que ejecuta los deseos de otra persona. Este término será empleado en oposición al de autonomía, es decir, cuando una persona se considera a sí misma como actuando por propia iniciativa."
-
-```
-Milgram, 1974, p. 127
-```
+>“[el estado agéntico es] la condición en que se encuentra una persona cuando se considera a sí misma como un agente que ejecuta los deseos de otra persona. Este término será empleado en oposición al de autonomía, es decir, cuando una persona se considera a sí misma como actuando por propia iniciativa."\
+`Milgram, 1974, p. 127`{.autor}
 
 #El proceso de la obediencia
 
@@ -239,11 +222,8 @@ Confianza en un experto
 
 #Críticas: Ética
 
->Por desgracia, el sujeto no siempre es tratado con el respeto que se merece. Se ha convertido en algo común en los estudios de laboratorio sociopsicológicos manipular, avergonzar e incomodar a los sujetos. A veces, el insulto a la sensibilidad de los sujetos se extiende al lector de la revista cuando se presentan los resultados. El estudio de Milgram (1963) es un ejemplo de ello.
-
-```
-Baumrind, 1964, p. 422
-```
+>Por desgracia, el sujeto no siempre es tratado con el respeto que se merece. Se ha convertido en algo común en los estudios de laboratorio sociopsicológicos manipular, avergonzar e incomodar a los sujetos. A veces, el insulto a la sensibilidad de los sujetos se extiende al lector de la revista cuando se presentan los resultados. El estudio de Milgram (1963) es un ejemplo de ello.\
+`Baumrind, 1964, p. 422`{.autor}
 
 <!--
 
@@ -278,11 +258,8 @@ Validez externa
 
 #
 
->I would say, on the basis of having observed a thousand people in the experiment and having my own intuition shaped and informed by these experiments, that if a system of death camps were set up in the United States of the sort we had seen in Nazi Germany, one would be able to find sufficient personnel for those camps in any medium-sized American town
-
-```
-Milgram, 1979
-```
+>I would say, on the basis of having observed a thousand people in the experiment and having my own intuition shaped and informed by these experiments, that if a system of death camps were set up in the United States of the sort we had seen in Nazi Germany, one would be able to find sufficient personnel for those camps in any medium-sized American town\
+`Milgram, 1979`{.autor}
 
 #
 
@@ -311,10 +288,7 @@ Milgram, 1979
 <div id="column1" style="float:left; margin:0; width:50%;">
 
 <video width="420"  controls><source src="multimedia/La_pendiente_resbaladiza_de_la_maldad.mp4"></video>
-
-```
-Redes 54: La pendiente resbaladiza de la maldad
-```
+`Redes 54: La pendiente resbaladiza de la maldad`{.figcaption}
 
 ###### <https://www.youtube.com/watch?v=ilzeRaO2TUw>
 
@@ -371,19 +345,13 @@ Redes 54: La pendiente resbaladiza de la maldad
 
 #
 
->Creo que antes que súbditos tenemos que ser hombres. No es deseable cultivar respeto por la ley más de por lo que es correcto. La única obligación a la que tengo derecho de asumir es a la de hacer siempre lo que creo correcto.
-
-```
-Henry Thoreau, 1849
-```
+>Creo que antes que súbditos tenemos que ser hombres. No es deseable cultivar respeto por la ley más de por lo que es correcto. La única obligación a la que tengo derecho de asumir es a la de hacer siempre lo que creo correcto.\
+`Henry Thoreau, 1849`{.autor}
 
 . . .
 
->Debemos temer más a la persona que obedece la ley que al que lo rompe
-
-```
-Dwight Macdonald, 1945
-```
+>Debemos temer más a la persona que obedece la ley que al que lo rompe.\
+`Dwight Macdonald, 1945`{.autor}
 
 #Legitimidad
 
@@ -391,7 +359,7 @@ Dwight Macdonald, 1945
 * Legitimidad de la autoridad
 * Legitimidad de las demandas
 
-`Passini & Morselli, 2009, 2010`
+`Passini & Morselli, 2009, 2010`{.figcaption}
 
 . . .
 

@@ -15,8 +15,8 @@
  * GLOBAL STYLES
  *********************************************/
 body {
-  background: #F0F1EB;
-  background-color: #F0F1EB; }
+  background: white;
+  background-color: white; }
 
 .reveal {
   font-family: 'Open Sans', sans-serif;
@@ -192,7 +192,8 @@ html.laback .reveal section img {
 
 .reveal dt {
   font-weight: bold; 
-  background-color: cornflowerblue;
+  color: #039;
+  background-color: #B9C9FE;
   padding-left: 10px;}
 
 .reveal dd {
@@ -200,7 +201,7 @@ html.laback .reveal section img {
   margin-right: 20px; }
 
 .reveal ul {
-  background-color: rgba(255,255,255, 0.7);
+  background-color: rgba(232, 237, 255, .4);
   padding: 1em;
   list-style: circle;
   list-style-image: url("../../../img/square-rounded-24.png");
@@ -208,11 +209,14 @@ html.laback .reveal section img {
   }
 
 .reveal li{
-	background-color: rgba(165,165,255,0.3);
+	/*background-color: rgba(165,165,255,0.3); */
+  background-color: #E8EDFF;
+  color: #669;
 	margin: .3em;
 	padding: 0 0.5em 0 0.5em;
 }
 
+/* Citas */
 .reveal q, .reveal blockquote {
   quotes: none; }
 
@@ -277,6 +281,8 @@ html.laback .reveal section img {
   font-style: italic;
 }
 
+/* fin citas */
+
 .reveal q {
   font-style: italic; }
 
@@ -307,25 +313,71 @@ html.laback .reveal section img {
   background: #3F3F3F;
   color: #DCDCDC; }
 
+.reveal .autor {
+  /* font-family: monospace; } */
+  font-size: 0.7em;
+  color: red;
+  border-top: solid;
+  padding-bottom: 5px;
+  border-color: gray;
+  border-width: 1px;}
 
+.reveal .figcaption{
+  color: #686868;
+  font-size: .7em;
+  display: inherit;
+  text-align: center;
+}
+/* TABLAS */
 
 .reveal table {
   margin: auto;
   border-collapse: collapse;
-  border-spacing: 0; }
+  border-spacing: 0; 
+}
 
+.reveal table thead tr th{
+  background-color: #B9C9FE;
+  color:#039;}
+
+.reveal table td {
+    vertical-align: middle;
+    font-size: .8em;
+
+}
 .reveal table th {
   font-weight: bold; }
 
 .reveal table th, .reveal table td {
   text-align: left;
   padding: 0.2em 0.5em 0.2em 0.5em;
-  border-bottom: 1px solid; }
+  }
 
+.reveal tr:nth-child(even) {
+    background: #E8EDFF;
+    color: #669;
+}
+
+.reveal tr:nth-child(odd) {
+    background: #E8EDFF;
+    color: #669;
+}
+
+.reveal tr {
+  border-bottom: solid 2px white;
+}
 /*
 .reveal table tr:last-child td {
   border-bottom: none; }
 */
+
+
+.reveal tr:hover{
+  background-color:  #d0dafd; 
+}
+
+/* Fin tablas */
+
 
 .reveal sup {
   vertical-align: super; }
@@ -420,7 +472,7 @@ html.laback .reveal section img {
 
 
 
-.fondo .reveal figcaption, .fondo .reveal code{
+.fondo .reveal figcaption{
   display: block; /*-webkit-inline-box; */
   background-color: black; 
   opacity: 0.7;
@@ -429,7 +481,7 @@ html.laback .reveal section img {
   padding: 10px;}
 
 .fondo {
- background-color: rgba(0, 0, 0, 0.6);}
+ background-color: rgba(255, 0, 0, 0.8);}
 
 .reveal  .mitit{
 font-size: 2em;

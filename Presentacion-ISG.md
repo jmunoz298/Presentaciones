@@ -9,23 +9,13 @@ url: "http://psicologiasocial.uab.es/juan"
 
 #Equipo docente
 
-<div id="column1" style="float:left; margin:0; width:50%;">
+| Teoría              |   | Prácticas                  |
+|---------------------|---|----------------------------|
+|Fran Elejabarrieta   |   | Fran Elejabarrieta         |
+|Juan Muñoz           |   | Juan Muñoz                 |
+|Francisco Tirado     |   | Jesús Rojas                |
+|Félix Vázquez        |   | Félix Vázquez              |
 
-Teoría
-:	Nombre 1
-:	Nombre 2
-:	Nombre 3
-
-</div>
-
-<div id="column1" style="float:left; margin:0; width:50%;">
-
-Prácticas
-:	Nombre 1
-:	Nombre 2
-:	Nombre 3
-
-</div>
 
 
 #Evaluación
@@ -40,11 +30,10 @@ Prácticas
 
 #Temario
 
-Influencia
-:	Influencia minoritaria
-:	Influencia mayoritaria
-:	Propaganda y persuasión
-
+>Influencia
+  : Influencia minoritaria
+  : Influencia mayoritaria
+  : Propaganda y persuasión
 Grupos
 :	Definición y tipos
 :	Estructura y procesos grupales

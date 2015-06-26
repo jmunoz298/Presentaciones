@@ -23,9 +23,8 @@ url: "http://psicologiasocial.uab.es/juan"
 ####Fenómenos que caen fuera de la estructura social u orden establecido
 
 #
->[definimos] la conducta colectiva como una acción voluntaria, dirigida a una meta, que se produce en una situación relativamente desorganizada, en la que las normas y valores predominantes de la sociedad dejan de actuar sobre la conducta individual. La conducta colectiva consiste en la reacción de un grupo a alguna situación.
-
-`Appelbaum y Chambliss, 1997, p. 422`
+> [definimos] la conducta colectiva como una acción voluntaria, dirigida a una meta, que se produce en una situación relativamente desorganizada, en la que las normas y valores predominantes de la sociedad dejan de actuar sobre la conducta individual. La conducta colectiva consiste en la reacción de un grupo a alguna situación.\
+`Appelbaum y Chambliss, 1997, p. 422`{.autor}
 
 #Son un fenómeno... {data-state=opacidad}
 - Colectivo
@@ -40,9 +39,8 @@ url: "http://psicologiasocial.uab.es/juan"
 ![Mapa conceptual](imagenes/Mapa.png)
 
 #Movimientos sociales
->Una colectividad que actúa con cierta continuidad para promover un cambio en la sociedad (o grupo) de la que forma parte.
-
-`Grauman, 1987`
+>Una colectividad que actúa con cierta continuidad para promover un cambio en la sociedad (o grupo) de la que forma parte.\
+`Grauman, 1987`{.autor}
 
 #
 
@@ -66,9 +64,8 @@ url: "http://psicologiasocial.uab.es/juan"
 
 #El rumor {data-background="imagenes/Rumor.jpg" data-background-transition=fade data-state=fondo}
 
-> Mensajero del error y del mal tanto como de la verdad, el rumor, la más rápida de todas las plagas, va desencadenando el terror y se fortifica difundiéndose.
-
-`Virgilio, La Eneida`
+> Mensajero del error y del mal tanto como de la verdad, el rumor, la más rápida de todas las plagas, va desencadenando el terror y se fortifica difundiéndose.\
+`Virgilio, La Eneida`{.autor}
 
 #El rumor {data-background="imagenes/rumor.jpg" data-background-transition=fade data-state=fondo}
 
