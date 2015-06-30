@@ -1,4 +1,5 @@
 @import url(../../lib/font/quicksand/quicksand.css);
+@import url(../../lib/font/open-sans/open-sans.css);
 
 @import url(http://fonts.googleapis.com/css?family=Quicksand);
 @import url(http://fonts.googleapis.com/css?family=Open+Sans);
@@ -41,7 +42,7 @@ body {
 /*********************************************
  * HEADERS
  *********************************************/
-.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+.reveal h1, .reveal h2, .reveal h3, .reveal h4  {
   margin: 0px 0 1em 0;
   padding: 5px 10px 5px 10px;
   color: #383D3D;
@@ -84,6 +85,10 @@ body {
 .reveal h4 {
   font-size: 1.2em;
   text-align: center;}
+
+.reveal h5, .reveal h6{
+  font-family: 'Open Sans', sans-serif;
+}
 
 .reveal .title{
   font-size: 2.5em;
@@ -222,7 +227,7 @@ html.laback .reveal section img {
 
 .reveal blockquote{
   display:block;
-  background-color: rgba(255,255,255, 0.6);
+  background-color: rgba(255,255,255, 0.8);
   padding: 15px 15px 15px 85px;
   margin: 0px 0 20px;
   position: relative;
@@ -313,7 +318,7 @@ html.laback .reveal section img {
   background: #3F3F3F;
   color: #DCDCDC; }
 
-.reveal .autor {
+.reveal .autor, .reveal blockquote .citation {
   /* font-family: monospace; } */
   font-size: 0.7em;
   color: red;
@@ -336,7 +341,7 @@ html.laback .reveal section img {
   border-spacing: 0; 
 }
 
-.reveal table thead tr th{
+.reveal table thead tr th, .reveal li{
   background-color: #B9C9FE;
   color:#039;}
 
@@ -483,14 +488,21 @@ html.laback .reveal section img {
 .fondo {
  background-color: rgba(255, 0, 0, 0.8);}
 
-.reveal  .mitit{
+.reveal  .mitit h1{
 font-size: 2em;
 text-align: center;
 border-bottom: 0;
-background-color: rgba(165,165,255,0.3);}
+color: black;
+background-color: rgba(165,165,255,0.3);
+}
+
 
 h1:empty {
 background: none;}
+
+h2:empty {
+  display: none;
+}
 
 .reveal table img{
   margin: 0px;
@@ -498,3 +510,6 @@ background: none;}
   -webkit-box-shadow: none;
   box-shadow: none; }
 
+.reveal .references p {
+  font-size: 0.6em;
+}

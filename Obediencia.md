@@ -6,9 +6,11 @@ author:
 tags: [nothing, nothingness]
 tema: "Obediencia a la autoridad"
 url: "http://psicologiasocial.uab.es/juan"
+bibliography: diapos.bib
+csl: apa.csl
 ...
 
-#Índice {data-background="imagenes-isg/abraham-sacrifice-caravaggio.png" data-background-transition=fade data-state=fondo}
+#Índice {data-background="imagenes-isg/abraham-sacrifice-caravaggio.jpg" data-background-transition=zoom data-state=fondo}
 
 . . .
 
@@ -19,11 +21,12 @@ url: "http://psicologiasocial.uab.es/juan"
 * La banalidad del mal
 * Desobediencia
 
-# 
+[@baron_forgotten_1996]
 
-##Introducción {.mitit}
 
-#Holocausto{data-background="imagenes-isg/abraham-sacrifice-caravaggio.png"   data-background-transition=fade data-state=fondo}
+#Introducción {.mitit .center}
+
+##Holocausto{data-background="imagenes-isg/abraham-sacrifice-caravaggio.jpg"   data-background-transition=zoom data-state=fondo}
 
 <div id="column1" style="float:left; margin:0; width:50%;">
 
@@ -37,23 +40,23 @@ url: "http://psicologiasocial.uab.es/juan"
 
 </div>
 
-#Otras matanzas{data-background="imagenes-isg/abraham-sacrifice-caravaggio.png"   data-background-transition=fade data-state=fondo}
+##Otras matanzas{data-background="imagenes-isg/abraham-sacrifice-caravaggio.jpg"   data-background-transition=zoom data-state=fondo}
 
 <div id="column1" style="float:left; margin:0; width:50%;">
 
-![May Lay (Vietnam), 1968](imagenes-isg/MayLay.png)
+![May Lay (Vietnam), 1968](imagenes-isg/MayLay.jpg)
 
 </div>
 
 <div id="column1" style="float:left; margin:0; width:50%;">
 
-![Ruanda, 1994](imagenes-isg/Ruanda.png)
+![Ruanda, 1994](imagenes-isg/Ruanda.jpg)
 
 </div>
 
 <div id="column1" style="float:left; margin:0; width:50%;">
 
-![Matanza de croatas. Srebrenica, 1995](imagenes-isg/Srebrenica.png)
+![Matanza de croatas. Srebrenica, 1995](imagenes-isg/Srebrenica.jpg)
 
 </div>
 
@@ -61,7 +64,7 @@ url: "http://psicologiasocial.uab.es/juan"
 
 </div>
 
-#Abu Ghraib{data-background="imagenes-isg/abraham-sacrifice-caravaggio.png"   data-background-transition=fade data-state=fondo}
+##Abu Ghraib{data-background="imagenes-isg/abraham-sacrifice-caravaggio.jpg"   data-background-transition=zoom data-state=fondo}
 
 <div id="column1" style="float:left; margin:0; width:50%;">
 
@@ -87,33 +90,32 @@ url: "http://psicologiasocial.uab.es/juan"
 
 </div>
 
-#
 
-##La investigación de Stanley Milgram {.mitit}
+#La investigación de Stanley Milgram {.mitit .center}
 
-#{data-background="imagenes-isg/Milgram-maquina.png"   data-background-transition=fade data-state=fondo}
+##{data-background="imagenes-isg/Milgram-maquina.jpg"   data-background-transition=zoom data-state=fondo}
 
 <div id="column1" style="float:left; margin:0; width:50%;">
 
-![Solicitud participantes](imagenes-isg/Milgram-anuncio.png)
+![Solicitud participantes](imagenes-isg/Milgram-anuncio.jpg)
 
 </div>
 
 <div id="column2" style="float:left; margin:0; width:50%;">
 
 ![Stanley Milgram\
- (1933-1984)](imagenes-isg/Milgram.png)
+ (1933-1984)](imagenes-isg/Milgram.jpg)
 
 </div>
 
-#
+##
 
 <video class="stretch" controls><source src="multimedia/MilgramExperiment-Brown.mp4"></video>
 `Derren Brown: The Heist, 2006`{.figcaption}
 
 ###### <http://www.youtube.com/watch?v=iUFN1eX2s6Q>
 
-# Reacciones del cómplice
+## Reacciones del cómplice
 
 | Nivel      | Reacción          |
 |------------:|-------------------|
@@ -127,29 +129,28 @@ url: "http://psicologiasocial.uab.es/juan"
 | **330**      | **Ausencia total de reacciones** |
 
 
-#Resultados (Experimento nº 1)
+##Resultados (Experimento nº 1)
 
 <div id="column1" style="float:left; margin:0; width:50%;">
 
-![Resultados (Experimento nº 1)](imagenes-isg/Milgram-experimento-1.png)
+![Resultados (Experimento nº 1)](imagenes-isg/Milgram-experimento-1.jpg)
 
 </div>
 
 <div id="column1" style="float:left; margin:0; width:50%;">
 
-![Resultados (Experimento nº 2)](imagenes-isg/Milgram-experimento-2.png)
+![Resultados (Experimento nº 2)](imagenes-isg/Milgram-experimento-2.jpg)
 
 </div>
 
-#Resultados: Niveles de obediencia
+##Resultados: Niveles de obediencia
 
-![Resultados: Niveles de obediencia por diseño](imagenes-isg/Milgram-NivelesObediencia.png)
+![Resultados: Niveles de obediencia por diseño](imagenes-isg/Milgram-NivelesObediencia.jpg)
 
-#
 
-##¿Obediencia en el siglo XXI? {.mitit}
+#¿Obediencia en el siglo XXI? {.mitit .center}
 
-#
+##
 
 <video class="stretch" controls><source src="multimedia/LeyYOrden.mp4"></video>
 
@@ -157,47 +158,45 @@ url: "http://psicologiasocial.uab.es/juan"
 
 ###### <https://en.wikipedia.org/wiki/Law_%26_Order:_Special_Victims_Unit>
 
-#Réplicas recientes
+##Réplicas recientes
 
 >My partial replication of Milgram’s procedure suggests that average Americans react to this laboratory situation today much the same way they did 45 years ago….the same situational factors that affected obedience in Milgram’s participants still operate today.\
-`Burger, 2009, p. 8`{.autor}
+@burger_replicating_2009 [p. 8]
 
-#
+##
 
 <video class="stretch" controls><source src="multimedia/LeJeuDeLaMort.mp4"></video>
 `Le Jeu de la Mort, 2009`{.figcaption}
 
 ###### <https://www.youtube.com/watch?v=Bzk3INSQFGU>
 
-#Réplicas recientes
+##Réplicas recientes
 
 >Lo que encontramos aquí en el estudio de televisión es que la obediencia sigue siendo una realidad, en un momento en que muchos autores consideran que nuestras sociedades están evolucionando hacia una mayor permisividad, hacia más poderes "negociados", e incluso hacia el final de la autoridad por completo (…) Nuestras observaciones, como las de Burger, justifican por lo menos un cierto escepticismo sobre  tesis como la del final de la autoridad.\
-`Beauvois et al., 2012, p. 119`{.autor}
+@beauvois_prescriptive_2012 [p. 119]
 
-#
+# La explicación de Milgram {.mitit .center}
 
-## La explicación de Milgram {.mitit}
-
-#Explicación: El _Estado Agéntico_
+##Explicación: El _Estado Agéntico_
 
 >“[el estado agéntico es] la condición en que se encuentra una persona cuando se considera a sí misma como un agente que ejecuta los deseos de otra persona. Este término será empleado en oposición al de autonomía, es decir, cuando una persona se considera a sí misma como actuando por propia iniciativa."\
-`Milgram, 1974, p. 127`{.autor}
+@milgram_obediencia_1980 [p. 127]
 
-#El proceso de la obediencia
+##El proceso de la obediencia
 
-![El proceso de la obediencia](imagenes-isg/ProcesoObediencia-1.png)
+![El proceso de la obediencia](imagenes-isg/ProcesoObediencia-1.jpg)
 
-#Legitimidad de la autoridad
+##Legitimidad de la autoridad
 
-![Hofling CK et al. (1966) An Experimental Study of Nurse-Physician Relationships. _Journal of Nervous and Mental Disease_. 143(171-180).](imagenes-isg/Astroten.png)
+![@hofling_experimental_1966](imagenes-isg/Astroten.jpg)
 
-#El proceso de la obediencia
+##El proceso de la obediencia
 
-![El proceso de la obediencia](imagenes-isg/ProcesoObediencia-2.png)
+![El proceso de la obediencia](imagenes-isg/ProcesoObediencia-2.jpg)
 
-#Consecuencias
+##Consecuencias
 
-![Consecuencias](imagenes-isg/Milgram-consecuencias.png)
+![Consecuencias](imagenes-isg/Milgram-consecuencias.jpg)
 
 O = Obediencia\
 D = Desobediencia\
@@ -206,24 +205,22 @@ s = tensión\
 r = resolución de la tensión
 
 
-#
-
-##Críticas {.mitit}
+#Críticas {.mitit .center}
 
 >* Teórica
 * Ética
 * Metodológica
 
-#Críticas: A la explicación
+##Críticas: A la explicación
 
 ####Obediencia a la autoridad legítima\
 vs.\
 Confianza en un experto
 
-#Críticas: Ética
+##Críticas: Ética
 
 >Por desgracia, el sujeto no siempre es tratado con el respeto que se merece. Se ha convertido en algo común en los estudios de laboratorio sociopsicológicos manipular, avergonzar e incomodar a los sujetos. A veces, el insulto a la sensibilidad de los sujetos se extiende al lector de la revista cuando se presentan los resultados. El estudio de Milgram (1963) es un ejemplo de ello.\
-`Baumrind, 1964, p. 422`{.autor}
+@baumrind_thoughts_1964 [p. 422]
 
 <!--
 
@@ -239,39 +236,37 @@ Kohlberg, 1974, p. 607
 
 -->
 
-#Críticas: Ética
+##Críticas: Ética
 
 * Protección de los participantes
 * Engaño - Consentimiento informado
 * Derecho a retirarse
 * Debriefing
 
-#Crítica metodológica: Validez
+##Crítica metodológica: Validez
 
 Validez interna
 
 :    Los resultados obtenidos son debidos única y exclusivamente a las manipulaciones experimentales realizadas
-
 Validez externa
 
 :    Posibilidad de que los resultados de la investigación sean generalizables más allá de la investigación en la que se han realizado (entorno, muestra...)
 
-#
+##
 
 >I would say, on the basis of having observed a thousand people in the experiment and having my own intuition shaped and informed by these experiments, that if a system of death camps were set up in the United States of the sort we had seen in Nazi Germany, one would be able to find sufficient personnel for those camps in any medium-sized American town\
-`Milgram, 1979`{.autor}
+[Milgram, 1979, citado por @blass_milgram_1999 [pp. 955-956]]
 
-#
 
-##La banalidad del mal {.mitit}
+#La banalidad del mal {.mitit .center}
 
-#{data-background="imagenes-isg/Batallon101.png"   data-background-transition=fade data-state=fondo}
+##{data-background="imagenes-isg/Batallon101.jpg"   data-background-transition=zoom data-state=fondo}
 
 . . .
 
 <div id="column1" style="float:left; margin:0; width:50%;">
 
-![Hanna Arendt (1906-1975)](imagenes-isg/HannaArendt.png)
+![Hanna Arendt (1906-1975)](imagenes-isg/HannaArendt.jpg)
 
 </div>
 
@@ -283,7 +278,7 @@ Validez externa
 
 </div>
 
-#La prisión de Stanford
+##La prisión de Stanford
 
 <div id="column1" style="float:left; margin:0; width:50%;">
 
@@ -301,29 +296,27 @@ Validez externa
 
 </div>
 
-#
+#Desobediencia {.mitit .center}
 
-##Desobediencia {.mitit}
-
-#{data-background="imagenes-isg/AdanyEva.png"   data-background-transition=fade data-state=fondo}
+##{data-background="imagenes-isg/AdanyEva.jpg"   data-background-transition=zoom data-state=fondo}
 
 . . .
 
 <div id="column1" style="float:left; margin:0; width:33%;">
 
-![Martin Luther King](imagenes-isg/MartinLuther.png)
+![Martin Luther King](imagenes-isg/MartinLuther.jpg)
 
 </div>
 
 <div id="column1" style="float:left; margin:0; width:33%;">
 
-![Mahatma Gandhi](imagenes-isg/Gandhi.png)
+![Mahatma Gandhi](imagenes-isg/Gandhi.jpg)
 
 </div>
 
 <div id="column1" style="float:left; margin:0; width:33%;">
 
-![Nelson Mandela](imagenes-isg/Mandela.png)
+![Nelson Mandela](imagenes-isg/Mandela.jpg)
 
 </div>
 
@@ -332,37 +325,39 @@ Validez externa
 <div id="column1" style="float:left; margin:0; width:50%;">
 
 ![Étienne de La Boétie\
-1530-1563](imagenes-isg/LaBoetie.png)
+1530-1563](imagenes-isg/LaBoetie.jpg)
 
 </div>
 
 <div id="column1" style="float:left; margin:0; width:33%;">
 
 ![Henry David Thoreau\
-1817-1862](imagenes-isg/Thoreau.png)
+1817-1862](imagenes-isg/Thoreau.jpg)
 
 </div>
 
-#
+##
 
 >Creo que antes que súbditos tenemos que ser hombres. No es deseable cultivar respeto por la ley más de por lo que es correcto. La única obligación a la que tengo derecho de asumir es a la de hacer siempre lo que creo correcto.\
-`Henry Thoreau, 1849`{.autor}
+@thoreau_civil_1849
 
 . . .
 
 >Debemos temer más a la persona que obedece la ley que al que lo rompe.\
 `Dwight Macdonald, 1945`{.autor}
 
-#Legitimidad
+##Legitimidad
 
 >* Legitimidad del sistema en que reside la autoridad
 * Legitimidad de la autoridad
 * Legitimidad de las demandas
 
-`Passini & Morselli, 2009, 2010`{.figcaption}
+@passini_authority_2009
 
 . . .
 
 ####OBEDIENCIA DESTRUCTIVA\
 vs.\
 DESOBEDIENCIA CONSTRUCTIVA
+
+## Referencias

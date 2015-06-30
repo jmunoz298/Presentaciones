@@ -6,9 +6,11 @@ author:
 tags: [nothing, nothingness]
 tema: "Uniformidad y Conformismo"
 url: "http://psicologiasocial.uab.es/juan"
+bibliography: diapos.bib
+csl: apa.csl
 ...
 
-#Índice
+##Índice
 
 >* Introducción
 * Normalización
@@ -24,18 +26,14 @@ url: "http://psicologiasocial.uab.es/juan"
 ![Gallinas inconformistas](imagenes/chickenprotest.jpg "Gallinas inconformistas")
 -->
 
-#
+#Introducción {.mitit .center}
 
-##Introducción {.mitit}
+##Influencia
+> Proceso a través del cual las personas o los grupos cambian los pensamientos, sentimientos, y conductas de otros.\
+@stangor_social_2004 [p. 75]
 
-#Influencia
-> Proceso a través del cual las personas o los grupos cambian los pensamientos, sentimientos, y conductas de otros.
 
-```
-Stangor, C. (2004). Social groups in action and interaction. New York: Psychology Press. (p. 75)
-```
-
-#Tipos de influencia
+##Tipos de influencia
 
 Normalización
 
@@ -51,62 +49,55 @@ Innovación
 
 . . .
 
-```
-Moscovici, Serge (1985). Social influence and conformity.
-```
+@moscovici_social_1985
 
-#
 
-##Normalización {.mitit}
+#Normalización {.mitit .center}
 
-#Normalización {data-background="imagenes-isg/cebras.jpg" data-background-transition=fade data-state=fondo}
+##Normalización {data-background="imagenes-isg/cebras.jpg" data-background-transition=zoom data-state=fondo}
 
 . . .
 
->Procés de creació de les normes que regulen la conducta, la percepció, el pensament o els desitjos de les persones en una situació concreta.
-
-```
-Feliu, Joel (2003). Influència, conformitat i obediència. (p. 260)
-```
+>Procés de creació de les normes que regulen la conducta, la percepció, el pensament o els desitjos de les persones en una situació concreta.\
+@ibanez_gracia_influencia_2003 [p. 260]
 
 ![Muzafer Sheriff\
-(1906-1988)](imagenes-isg/Sherif.png)
+(1906-1988)](imagenes-isg/Sherif.jpg)
 
 <!--
 
 #Normalización
 ![Muzafer Sheriff\
-(1906-1988)](imagenes-isg/Sherif.png)
+(1906-1988)](imagenes-isg/Sherif.jpg)
 -->
-#El _efecto autocinético_ {data-background="imagenes-isg/autokinetic.jpg" data-background-transition=fade data-state=fondo}
+
+##El _efecto autocinético_ {data-background="imagenes-isg/autokinetic.jpg" data-background-transition=zoom data-state=fondo}
 
 <div id="column1" style="float:left; margin:0; width:50%;">
 
-![Estimaciones individualmente](imagenes-isg/autocinetico-1.png)
+![Estimaciones individualmente](imagenes-isg/autocinetico-1.jpg)
 
 </div>
 
 <div id="column2" style="float:left; margin:0; width:50%;">
 
-![Estimaciones en grupo](imagenes-isg/autocinetico-2.png)
+![Estimaciones en grupo](imagenes-isg/autocinetico-2.jpg)
 
 </div>
 
 <div id="column3" style="float:left; margin:0; width:100%;">
 
-![Nuevas estimaciones individualmente](imagenes-isg/autocinetico-3.png)
+![Nuevas estimaciones individualmente](imagenes-isg/autocinetico-3.jpg)
 
 </div>
 
-#Normalización
+##Normalización
 
-![Desplazamiento hacia una posición intermedia](imagenes-isg/normalizacion-quecos.png)
+![Desplazamiento hacia una posición intermedia](imagenes-isg/normalizacion-quecos.jpg)
 
-#
+#Conformismo {.mitit .center}
 
-##Conformismo {.mitit}
-
-#Conformismo
+##Conformismo
 
 <div id="column1" style="float:left; margin:0; width:50%;">
 
@@ -132,41 +123,40 @@ Feliu, Joel (2003). Influència, conformitat i obediència. (p. 260)
 #Conformismo
 
 >>Movimiento por parte de la(s) persona(s) discrepante(s) hacia la norma del grupo como una función de la presión social explícita o implícita de los miembros del grupo.
-
-`Allen,V.L. (1965). Situational factors in conformity.`
+@Allen
 
 -->
 
-#El experimento de Asch {data-background="imagenes-isg/asch-conformity.png" data-background-transition=fade data-state=fondo}
+##El experimento de Asch {data-background="imagenes-isg/asch-conformity.jpg" data-background-transition=zoom data-state=fondo}
 
 . . .
 
-![Líneas modelo](imagenes-isg/asch-lineas-1.png)
+![Líneas modelo](imagenes-isg/asch-lineas-1.jpg)
 
 . . .
 
-![Respuestas](imagenes-isg/Asch-quecos-1.png)
+![Respuestas](imagenes-isg/Asch-quecos-1.jpg)
 
-#El experimento de Asch {data-background="imagenes-isg/asch-conformity.png" data-background-transition=fade data-state=fondo}
+##El experimento de Asch {data-background="imagenes-isg/asch-conformity.jpg" data-background-transition=zoom data-state=fondo}
 
-![Líneas modelo](imagenes-isg/asch-lineas-2.png)
+![Líneas modelo](imagenes-isg/asch-lineas-2.jpg)
 
 . . .
 
-![Respuestas](imagenes-isg/Asch-quecos-2.png)
+![Respuestas](imagenes-isg/Asch-quecos-2.jpg)
 
-#Resultados {data-background="imagenes-isg/asch-conformity.png" data-background-transition=fade data-state=fondo}
+##Resultados {data-background="imagenes-isg/asch-conformity.jpg" data-background-transition=zoom data-state=fondo}
 
 >- Respuestas incorrectas: 36.8%
 - Personas que nunca ceden: 24%
 - Personas que siempre ceden: 5%
 - Personas que ceden entre 8 y 12 veces: 27%
 
-#Conformismo
+##Conformismo
 
-![Desplazamiento en la dirección de la posición mayoritaria](imagenes-isg/conformismo-quecos.png)
+![Desplazamiento en la dirección de la posición mayoritaria](imagenes-isg/conformismo-quecos.jpg)
 
-#Conformismo: Factores
+##Conformismo: Factores
 
 * Tamaño de la mayoría
 * Contexto histórico y cultural
@@ -174,53 +164,49 @@ Feliu, Joel (2003). Influència, conformitat i obediència. (p. 260)
 * Anonimato
 * Relevancia de la tarea
 
-#Tamaño de la mayoría
+##Tamaño de la mayoría
 
-![](imagenes-isg/Asch-EfectoMayoria.png)
+![](imagenes-isg/Asch-EfectoMayoria.jpg)
 
-#Tamaño de la mayoría
+##Tamaño de la mayoría
 
 <video width="420"  class="stretch" controls><source src="multimedia/Stanley Milgram - Conformity and Independence.mp4"></video>
 
 ###### <https://www.youtube.com/watch?v=P0e6zG8IbE8>
 
-######Milgram, S., Bickman, L., & Berkowitz, L. (1969). Note on the drawing power of crowds of different size. _Journal of Personality and Social Psychology_, _13_(2), 79–82.
+######@milgram_note_1969
 
 
+##Tamaño de la mayoría
 
-#Tamaño de la mayoría
-
-![](imagenes-isg/Asch-EfectoMayoria-1.png)
+![](imagenes-isg/Asch-EfectoMayoria-1.jpg)
 
 . . .
 
-![](imagenes-isg/Asch-EfectoMayoria-2.png)
+![](imagenes-isg/Asch-EfectoMayoria-2.jpg)
 
-#Relevancia de la tarea
+##Relevancia de la tarea
 
+![@baron_forgotten_1996](imagenes-isg/Asch-RelevanciaTarea.jpg)
 
-![Baron, R. S., Vandello, J. A., & Brunsman, B. (1996)](imagenes-isg/Asch-RelevanciaTarea.png)
+##Relevancia de la tarea
 
-<!--Baron, R. S., Vandello, J. A., & Brunsman, B. (1996). The forgotten variable in conformity research: Impact of task importance on social influence. Journal of Personality and Social Psychology, 71(5), 915–927. -->
-
-#Relevancia de la tarea
-
-![Kundu, P., & Cummins, D. D. (2013).](imagenes-isg/Asch-Relevancia.png)
-
-#
-
-##Influencia informativa e influencia normativa {.mitit}
-
-######Deutsch, M., & Gerard, H.B. (1955). A study of normative and informational  social influences upon individual judgment. _Journal of Abnormal and Social  Psychology_, 51, 629–636.
+![@kundu_morality_2013](imagenes-isg/Asch-Relevancia.jpg)
 
 
-#Influencia informativa
+#Influencia informativa e influencia normativa {.mitit .center}
 
-![Proceso de la influencia informativa](imagenes-isg/InfluenciaInformativa.png)
+##
+######@proshansky_estudio_1973
+
+
+##Influencia informativa
+
+![Proceso de la influencia informativa](imagenes-isg/InfluenciaInformativa.jpg)
 
 
 
-#Teorías relacionadas
+##Teorías relacionadas
 
 <div id="column1" style="float:left; margin:0; width:33%;">
 
@@ -239,7 +225,7 @@ Feliu, Joel (2003). Influència, conformitat i obediència. (p. 260)
 
 <div id="column2.1" style="float:left; margin:0; width:50%;">
 
-![Bibb Latané](imagenes-isg/Latane.png)
+![Bibb Latané](imagenes-isg/Latane.jpg)
 
 </div>
 
@@ -250,20 +236,19 @@ Feliu, Joel (2003). Influència, conformitat i obediència. (p. 260)
 </div>
 
 
-#Influencia normativa
+##Influencia normativa
 
->[Deutsh y Gerard] Entienden por influencia normativa la que se observa cuando el individuo se conforma con las expectativas positivas del otro (individuo o grupo), a fin de ganar de él una serie de refuerzos y sentimientos positivos, de establecer una solidaridad con él, y en definitiva no verse marginado y ridiculizado por él.
+>[Deutsh y Gerard] Entienden por influencia normativa la que se observa cuando el individuo se conforma con las expectativas positivas del otro (individuo o grupo), a fin de ganar de él una serie de refuerzos y sentimientos positivos, de establecer una solidaridad con él, y en definitiva no verse marginado y ridiculizado por él.\
+@perez_influencia_1999 [p. 261]
 
-```
-Pérez, 1999, p. 261
-```
+##Influencia normativa
 
-#Influencia normativa
+![Proceso de la influencia normativa](imagenes-isg/InfluenciaNormativa.jpg)
 
-![Proceso de la influencia normativa](imagenes-isg/InfluenciaNormativa.png)
-
-#Normas en el "Bennington College" {data-background="imagenes-isg/Bennington.jpg" data-background-transition=fade data-state=fondo}
+##Normas en el "Bennington College" {data-background="imagenes-isg/Bennington.jpg" data-background-transition=zoom data-state=fondo}
 
 ![Theodore Newcomb\
-1903-1984](imagenes-isg/Newcomb.png)
+1903-1984](imagenes-isg/Newcomb.jpg)
 
+
+##Referencias
