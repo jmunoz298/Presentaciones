@@ -662,3 +662,7 @@ color:blue;}
   font-size: 1em;
   line-height: 1.5em;
 }
+
+/** Mostrar ribbon fork sólo en primera transparencia, si esta tiene data-state="show-github-ribbon" **/
+.ribbon { display: none; }
+.show-github-ribbon .ribbon { display: block; }

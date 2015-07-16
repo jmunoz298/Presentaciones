@@ -19,7 +19,7 @@
 <body>
   <div class="reveal">
     <div class="slides">
-<section data-state="no-toc-progress">
+<section data-state="no-toc-progress , show-github-ribbon">
     <h1 class="title .no-toc-progress">Acción Pública y Cambio Social</h1>
 <h2>Perspectivas de la acción colectiva</h2>
     <h4 class="author">Juan Muñoz</h4>
@@ -163,7 +163,7 @@
       Reveal.initialize({
         controls: true,
         rollingLinks: true,
-        previewLinks: true,
+        previewLinks: false,
         progress: true,
         history: true,
         center: false,
@@ -177,14 +177,17 @@
           { src: 'reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
           { src: 'reveal.js/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
           { src: 'reveal.js/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } },
-	  { src: 'reveal.js/plugin/toc-progress/toc-progress.js', async: true, callback: function() 
+	  { src: 'reveal.js/plugin/toc-progress/toc-progress.js', async: true, callback: function()
 		{ toc_progress.initialize(); toc_progress.create(); }},
+          { src: 'reveal.js/plugin/reveal-svg-fragment.js', condition: function() { return !!document.querySelector( '[data-svg-fragment]' ); } },
 //          { src: 'reveal.js/plugin/search/search.js', async: true, condition: function() { return !!document.body.classList; }, }
 //          { src: 'reveal.js/plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }
 ]});
 
     </script>
-
+    <div class="ribbon">
+    <a  href="https://github.com/jmunoz298/presentaciones"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/365986a132ccd6a44c23a9169022c0b5c890c387/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f7265645f6161303030302e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png"></a>
+    </div>
 <!--
 <div style="position: absolute; bottom: 0px; margin-left: 0px; width: 100%; background-color:#fff; padding: 20px;
     filter:alpha(opacity=5); opacity:0.5; border-color:#000000;"><center><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Llicència de Creative Commons" style="border-width:0" src="img/cc-by.png" /></a> Juan Muñoz  | Acción Pública y Cambio Social - <b>Perspectivas de la acción colectiva</b></center>
