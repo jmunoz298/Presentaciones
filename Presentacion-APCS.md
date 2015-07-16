@@ -7,16 +7,17 @@ tema: "2015-2016"
 url: "http://psicologiasocial.uab.es/juan"
 ...
 
-#Equip docent
+##Equipo docente
 
-*	Nombre 1 (Coordinador)
-*	Nombre 2
-*	Nombre 3
+| Teoría          |  | Prácticas  |
+|:----------------|:-|:-----------|
+| Juan Muñoz      |  | Joan Pujol |
+| Miquel Domènech |  |            |
 
-#Evaluación
+##Evaluación
 
 | Evidència | Definició                  |    % | Presentació | Setmana |
-|-----------|----------------------------|-----:|-------------|--------:|
+|:----------|:---------------------------|-----:|:------------|--------:|
 | EV1       | Informe cas pràctic        | 40.0 | Grupal      |      18 |
 | EV2.a     | Proba escrita 1            | 22.5 | Individual  |       9 |
 | EV2.b     | Proba escrita 2            | 22.5 | Individual  |      18 |
@@ -26,7 +27,7 @@ El/la estudiante que entregue evidencias de aprendizaje con un peso superior o i
 
 Para realizar el cálculo de la nota presencial hay que obtener una puntuación mínima de 2 sobre 10 en cada una de las evidencias de aprendizaje.
 
-#Temari
+##Temari
 
 * Psicología Social y perspectivas de la acción colectiva
 * El procomún como acción colectiva
@@ -34,18 +35,18 @@ Para realizar el cálculo de la nota presencial hay que obtener una puntuación 
 * Instituciones sociales, continuidad del orden social
 
 
-#Contacte
+##Contacte
 
-| ![](img/Direccion.png)| B5-034                              |
-|-----------------------|-------------------------------------|
-| ![](img/Clock.png)    | Dimarts 10:30-12:00                 |
-|                       | Dimarts: 18:00-19:00                |
-|                       | [Cita previa: http:cita.uab.cat](http://cita.uab.cat)  |
-| ![](img/Telefono.png) | 93 581 2874                         |
-| ![](img/Correo.png)   | juan.munoz@uab.cat                  |
-| ![](img/Web.png)      | <http://psicologiasocial.uab.es/juan> |
+| ![](img/Direccion.png) | B5-034                                                |
+|:-----------------------|:------------------------------------------------------|
+| ![](img/Clock.png)     | Dimarts 10:30-12:00                                   |
+|                        | Dimarts: 18:00-19:00                                  |
+|                        | [Cita previa: http:cita.uab.cat](http://cita.uab.cat) |
+| ![](img/Telefono.png)  | 93 581 2874                                           |
+| ![](img/Correo.png)    | juan.munoz@uab.cat                                    |
+| ![](img/Web.png)       | <http://psicologiasocial.uab.es/juan>                 |
 
-#Evidencia 3: Reseña
+##Evidencia 3: Reseña
 
 Foucault, M. (1975/2012). Vigilar y castigar. Editorial Biblioteca Nueva S.L.
 
@@ -53,11 +54,10 @@ Galcerán Huguet, M. (2009). Deseo y libertad: una investigación sobre los pres
 
 Lessig, L. (2005). Por una cultura libre. Madrid: Traficantes de Sueños. Retrieved from http://www.traficantes.net/libros/por-una-cultura-libre
 
-#Bloque 1: Bibliografía básica
+##Bloque 1: Bibliografía básica
 
 Javaloy, F. (2001). Comportamiento colectivo y movimientos sociales. Madrid: Prentice-Hall.
 
 Ovejero, A. (1997). El individuo en la masa. Psicología del comportamiento colectivo. Oviedo: Biblioteca Básica Nóbel.
 
 Reicher (1987). Conducta de masa como acción social. En J.C. Turner (Ed.). Redescubrir el grupo social (Pp. 235-273). Madrid. Morata.
-

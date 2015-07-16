@@ -215,17 +215,17 @@
 
 		// Holds information about the keyboard shortcuts
 		keyboardShortcuts = {
-			'N  ,  SPACE':			'Next slide',
-			'P':					'Previous slide',
-			'&#8592;  ,  H':		'Navigate left',
-			'&#8594;  ,  L':		'Navigate right',
-			'&#8593;  ,  K':		'Navigate up',
-			'&#8595;  ,  J':		'Navigate down',
-			'Home':					'First slide',
-			'End':					'Last slide',
-			'B  ,  .':				'Pause',
-			'F':					'Fullscreen',
-			'ESC, O':				'Slide overview'
+			'N  ,  SPACE':			'Siguiente diapositiva',
+			'P':					'Anterior diapositiva',
+			'&#8592;  ,  H':		'Navegar izquierda',
+			'&#8594;  ,  L':		'Navegar derecha',
+			'&#8593;  ,  K':		'Navegar arriba',
+			'&#8595;  ,  J':		'Navegar abajo',
+			'Home':					'Primera diapositiva',
+			'End':					'Última diapositiva',
+			'B  ,  .':				'Pausa',
+			'F':					'Pantalla completa',
+			'ESC, O':				'Vista global'
 		};
 
 	/**
@@ -1452,9 +1452,9 @@
 			dom.overlay.classList.add( 'overlay-help' );
 			dom.wrapper.appendChild( dom.overlay );
 
-			var html = '<p class="title">Keyboard Shortcuts</p><br/>';
+			var html = '<p class="title">Atajos del teclado</p><br/>';
 
-			html += '<table><th>KEY</th><th>ACTION</th>';
+			html += '<table><th>TECLA</th><th>ACCIÓN</th>';
 			for( var key in keyboardShortcuts ) {
 				html += '<tr><td>' + key + '</td><td>' + keyboardShortcuts[ key ] + '</td></tr>';
 			}

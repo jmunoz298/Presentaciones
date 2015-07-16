@@ -1,8 +1,16 @@
 @import url(../../lib/font/quicksand/quicksand.css);
-@import url(../../lib/font/open-sans/open-sans.css);
 
 @import url(http://fonts.googleapis.com/css?family=Quicksand);
 @import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+@font-face {
+  font-family: 'bullets';
+  src: url("../../lib/font/typicons/font/icon-font.eot");
+  src: url("../../lib/font/typicons/font/icon-font.eot#iefix") format('embedded-opentype'), url("../../lib/font/typicons/font/icon-font.woff") format('woff'), url("../../lib/font/typicons/font/icon-font.ttf") format('truetype'), url("../../lib/font/typicons/font/icon-font.svg#bullets") format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
 /**
  * A simple theme for reveal.js presentations, similar
  * to the default theme. The accent color is brown.
@@ -33,7 +41,7 @@ body {
 .reveal .slides > section, .reveal .slides > section > section {
   line-height: 1.3;
   font-weight: inherit;
-  /*text-align: left;*/}
+  text-align: center;}
 
 .reveal .slides {
   margin-top: 2px;
@@ -42,7 +50,7 @@ body {
 /*********************************************
  * HEADERS
  *********************************************/
-.reveal h1, .reveal h2, .reveal h3, .reveal h4  {
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
   margin: 0px 0 1em 0;
   padding: 5px 10px 5px 10px;
   color: #383D3D;
@@ -56,9 +64,8 @@ body {
   word-wrap: break-word; }
 
 
- .reveal h1 { 
+ .reveal h1 {
   font-size: 1.5em;
-  text-align: left;
   background: black;
   color: white;
   /*background: whitesmoke;
@@ -86,10 +93,6 @@ body {
   font-size: 1.2em;
   text-align: center;}
 
-.reveal h5, .reveal h6{
-  font-family: 'Open Sans', sans-serif;
-}
-
 .reveal .title{
   font-size: 2.5em;
   text-align: center;
@@ -102,7 +105,7 @@ body {
  * IMAGES
  *********************************************/
 /*** CAMBIO JUAN ***/
-.reveal img {
+.reveal img, .reveal object#svg1 {
   margin: 15px;
   border: .1em solid #fff;
   -webkit-box-shadow: 0px 0px 40px -2px rgba(0,0,0,0.75);
@@ -145,13 +148,15 @@ html.laback .reveal section img {
  *********************************************/
 .reveal p {
   margin: 20px 0;
-  line-height: 1.3; 
-  text-align: left;}
+  line-height: 1.3;
+  }
 
-.reveal figcaption, .reveal h6 {
+.reveal figcaption, .reveal h6,   .reveal code.figcaption {
   color: #686868;
   font-size: .7em;
 }
+
+.reveal h6, .reveal code.figcaption {text-align: center}
 
 /* Ensure certain elements are never larger than the slide itself */
 /*.reveal img, .reveal video, .reveal iframe{
@@ -170,12 +175,12 @@ html.laback .reveal section img {
 .reveal ol, .reveal dl, .reveal ul {
   display: inline-block;
   text-align: left;
-  margin: 0 0 0 1em; 
- line-height: 1.5em; 
+  margin: 0 0 0 1em;
+ line-height: 1.2em;
   }
 
 .reveal dl {
-  background-color: white; 
+  background-color: white;
 }
 
 
@@ -195,30 +200,13 @@ html.laback .reveal section img {
   display: block;
   margin-left: 40px; }
 
-.reveal dt {
-  font-weight: bold; 
-  color: #039;
-  background-color: #B9C9FE;
-  padding-left: 10px;}
-
-.reveal dd {
-  margin-left: 40px;
-  margin-right: 20px; }
-
-.reveal ul {
-  background-color: rgba(232, 237, 255, .4);
-  padding: 1em;
-  list-style: circle;
-  list-style-image: url("../../../img/square-rounded-24.png");
-  min-width: 60%;
-  }
 
 .reveal li{
-	/*background-color: rgba(165,165,255,0.3); */
-  background-color: #E8EDFF;
+	/*background-color: rgba(165,165,255,0.3);
+  background-color: #E8EDFF;*/
   color: #669;
 	margin: .3em;
-	padding: 0 0.5em 0 0.5em;
+	padding: 0 0.5em 0 0.5em; */
 }
 
 /* Citas */
@@ -231,19 +219,19 @@ html.laback .reveal section img {
   padding: 15px 15px 15px 85px;
   margin: 0px 0 20px;
   position: relative;
-  
+
   /*Font*/
   /*font-family: Georgia, serif; */
   font-size: 1em;
   line-height: 1.5;
   color: rgb(0,0,0);
   text-align: justify;
-  
+
   /*Borders - (Optional)*/
   /*border-left: 15px solid blue; /*#c76c0c; */
   /*border-right: 2px solid blue; /*#c76c0c; */
   /* border-radius: 15px; */
-  
+
   /*Box Shadow - (Optional)*/
   -moz-box-shadow: 2px 2px 15px #ccc;
   -webkit-box-shadow: 2px 2px 15px #ccc;
@@ -252,13 +240,13 @@ html.laback .reveal section img {
 
 .reveal blockquote::before{
   content: "\201C"; /*Unicode for Left Double Quote*/
-  
+
   /*Font*/
   font-family: Georgia, serif;
   font-size: 120px;
   font-weight: bold;
   color: red;
-  
+
   /*Positioning*/
   position: absolute;
   left: 10px;
@@ -294,7 +282,7 @@ html.laback .reveal section img {
 .reveal pre {
   display: block;
   position: relative;
-  /* width: 90%; 
+  /* width: 90%;
   font-family: monospace;
   box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.3);
   */
@@ -318,7 +306,7 @@ html.laback .reveal section img {
   background: #3F3F3F;
   color: #DCDCDC; }
 
-.reveal .autor, .reveal blockquote .citation {
+.reveal .autor, .reveal blockquote .citation{
   /* font-family: monospace; } */
   font-size: 0.7em;
   color: red;
@@ -327,21 +315,23 @@ html.laback .reveal section img {
   border-color: gray;
   border-width: 1px;}
 
-.reveal .figcaption{
-  color: #686868;
-  font-size: .7em;
-  display: inherit;
-  text-align: center;
+.reveal .references {
+  display:block;
 }
+.reveal .references p {
+  font-size: 0.6em;
+  text-align: left;
+}
+
 /* TABLAS */
 
 .reveal table {
   margin: auto;
   border-collapse: collapse;
-  border-spacing: 0; 
+  border-spacing: 0;
 }
 
-.reveal table thead tr th, .reveal li{
+.reveal table thead tr th{
   background-color: #B9C9FE;
   color:#039;}
 
@@ -378,7 +368,7 @@ html.laback .reveal section img {
 
 
 .reveal tr:hover{
-  background-color:  #d0dafd; 
+  background-color:  #d0dafd;
 }
 
 /* Fin tablas */
@@ -401,23 +391,99 @@ html.laback .reveal section img {
 
 /*********************************************
  * LINKS
- *********************************************/
-.reveal a {
-  color: #51483D;
-  text-decoration: none;
-  -webkit-transition: color 0.15s ease;
-  -moz-transition: color 0.15s ease;
-  transition: color 0.15s ease; }
+ *********************************************
 
-.reveal a:hover {
-  color: #8b7b69;
+ .reveal a {
+    cursor: pointer;
+    color: #dd4d42;
+    font-weight: bold;
+    text-decoration:none;
+}
+
+.reveal .roll-link {
+    display: inline-block;
+    overflow: hidden;
+    vertical-align: top;
+    -webkit-perspective: 600px;
+    -moz-perspective: 600px;
+    -ms-perspective: 600px;
+    perspective: 600px;
+    -webkit-perspective-origin: 50% 50%;
+    -moz-perspective-origin: 50% 50%;
+    -ms-perspective-origin: 50% 50%;
+    perspective-origin: 50% 50%;
+}
+
+.reveal .roll-link span {
+    display: block;
+    position: relative;
+    padding: 0 2px;
+    -webkit-transition: all 400ms ease;
+    -moz-transition: all 400ms ease;
+    -ms-transition: all 400ms ease;
+    transition: all 400ms ease;
+    -webkit-transform-origin: 50% 0%;
+    -moz-transform-origin: 50% 0%;
+    -ms-transform-origin: 50% 0%;
+    transform-origin: 50% 0%;
+    -webkit-transform-style: preserve-3d;
+    -moz-transform-style: preserve-3d;
+    -ms-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+}
+
+.reveal .roll-link:hover span {
+    background: #DD4D42;
+    -webkit-transform: translate3d( 0px, 0px, -30px ) rotateX( 90deg );
+    -moz-transform: translate3d( 0px, 0px, -30px ) rotateX( 90deg );
+    -ms-transform: translate3d( 0px, 0px, -30px ) rotateX( 90deg );
+    transform: translate3d( 0px, 0px, -30px ) rotateX( 90deg );
+}
+
+.reveal .roll-link span:after {
+    content: attr(data-title);
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    padding: 0 2px;
+    color: #fff;
+    background: #DD4D42;
+    -webkit-transform-origin: 50% 0%;
+    -moz-transform-origin: 50% 0%;
+    -ms-transform-origin: 50% 0%;
+    transform-origin: 50% 0%;
+    -webkit-transform: translate3d( 0px, 105%, 0px ) rotateX( -90deg );
+    -moz-transform: translate3d( 0px, 105%, 0px ) rotateX( -90deg );
+    -ms-transform: translate3d( 0px, 105%, 0px ) rotateX( -90deg );
+    transform: translate3d( 0px, 105%, 0px ) rotateX( -90deg );
+}/
+
+/*********************************************
+ * LINKS
+ *********************************************/
+.reveal a:not(.image) {
+  color: #3b759e;
+  text-decoration: none;
+  -webkit-transition: color .15s ease;
+  -moz-transition: color .15s ease;
+  -ms-transition: color .15s ease;
+  -o-transition: color .15s ease;
+  transition: color .15s ease;
+}
+
+.reveal a:not(.image):hover {
+  color: #74a7cb;
   text-shadow: none;
-  border: none; }
+  border: none;
+}
 
 .reveal .roll span:after {
   color: #fff;
-  background: #25211c; }
+  background: #264c66;
+}
 
+#toc-progress-footer {text-color: red;}
 
 /*********************************************
  * NAVIGATION CONTROLS
@@ -465,13 +531,13 @@ html.laback .reveal section img {
   color: #51483D; }
 
 .reveal footer .footer {
-  position: absolute; 
+  position: absolute;
   bottom: 0px;
   margin-left: 0px;
   width: 100%;
   background-color:#fff;
-    filter:alpha(opacity=5); 
-    opacity:0.5; 
+    filter:alpha(opacity=5);
+    opacity:0.5;
   border-color:red;}
 
 
@@ -479,30 +545,30 @@ html.laback .reveal section img {
 
 .fondo .reveal figcaption{
   display: block; /*-webkit-inline-box; */
-  background-color: black; 
-  opacity: 0.7;
+  background-color: black;
+  opacity: 0.8;
   color: white;
   font-weight: bold;
   padding: 10px;}
 
 .fondo {
- background-color: rgba(255, 0, 0, 0.8);}
+ background-color: rgba(0, 0, 0, 0.8);}
 
-.reveal  .mitit h1{
+.fondo ul{background-color:
+  white;
+  margin: 0;
+  padding:0;
+  opacity: 0.8;
+  }
+
+.reveal  .mitit{
 font-size: 2em;
 text-align: center;
 border-bottom: 0;
-color: black;
-background-color: rgba(165,165,255,0.3);
-}
-
+/**background-color: rgba(165,165,255,0.3);**/}
 
 h1:empty {
 background: none;}
-
-h2:empty {
-  display: none;
-}
 
 .reveal table img{
   margin: 0px;
@@ -510,6 +576,89 @@ h2:empty {
   -webkit-box-shadow: none;
   box-shadow: none; }
 
-.reveal .references p {
-  font-size: 0.6em;
+/**
+.reveal li:nth-of-type(2n+1){
+color:red;}
+
+.reveal ul:nth-of-type(2n){
+color:blue;}
+**/
+
+
+/** Listas de definiciones **/
+
+.reveal dd{
+  padding-bottom: 15px;
+  padding-left: 1.7em;
+}
+
+.reveal .slides section dd.fragment.visible.current-fragment{
+  background-color: lavender;
+  color: black;
+  border-radius: 0;}
+
+.reveal dd.fragment p {
+  margin: 0;
+  padding: 0;
+  font-size: 1em;
+  }
+
+
+/** Listas desordenadas **/
+
+.reveal li{
+   font-size:1.3em;
+   color: #337ab7}
+
+.reveal .slides section li.fragment.visible.current-fragment, .reveal .slides section dt {
+   background-color: #337AB7;
+   border-radius: 7px;
+   padding: 10px;
+   color: white;
+   }
+
+.reveal .slides section li.fragment.visible {
+  opacity: 1;
+  visibility: visible;
+  padding: 10px;}
+
+.reveal .slides section li.fragment {
+  opacity: 0.3;
+  padding: 10px;
+  visibility: visible;
+  -webkit-transition: all 0.2s ease;
+          transition: all 0.2s ease;
+}
+
+/** Listas con iconos-fuentes **/
+.reveal ul
+{
+	list-style-type: none;
+}
+
+.reveal ul li
+{
+	text-indent: -1.4em;
+	margin: 0.5em 2em;
+}
+
+.reveal ul li:before, .reveal dt:before
+{
+	font-family: bullets;
+	content: "\e809";
+	float: left;
+	width: 1.4em;
+	color: #8c8;
+}
+
+.reveal ul li:before { content: "\e809"; }
+.reveal dt:before { content: "\e805"; color: black;}
+.reveal ul li.fragment:before { content: "\e811"; }
+.reveal ul li.visible:before { content: "\e809"; }
+
+.reveal pre.left code{
+  background-color: white;
+  color: black;
+  font-size: 1em;
+  line-height: 1.5em;
 }

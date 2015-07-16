@@ -14,6 +14,7 @@ $endif$
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <link rel="stylesheet" href="$revealjs-url$/css/reveal.css"/>
+ <link rel="stylesheet" href="reveal.js/plugin/toc-progress/toc-progress.css">
   <!--  <style type="text/css">code{white-space: pre;}</style> -->
 $if(highlighting-css)$
     <style type="text/css">
@@ -45,8 +46,8 @@ $endfor$
   <div class="reveal">
     <div class="slides">
 $if(title)$
-<section>
-    <h1 class="title">$title$</h1>
+<section data-state="no-toc-progress">
+    <h1 class="title .no-toc-progress">$title$</h1>
 $if(subtitle)$
   <h1 class="subtitle">$subtitle$</h1>
 $endif$
@@ -106,6 +107,9 @@ $endfor$
           { src: '$revealjs-url$/lib/js/classList.js', condition: function() { return !document.body.classList; } },
           { src: '$revealjs-url$/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
           { src: '$revealjs-url$/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } },
+	  { src: 'reveal.js/plugin/toc-progress/toc-progress.js', async: true, callback: function()
+		{ toc_progress.initialize(); toc_progress.create(); }},
+          { src: 'reveal.js/plugin/reveal-svg-fragment.js', condition: function() { return !!document.querySelector( '[data-svg-fragment]' ); } },
 //          { src: '$revealjs-url$/plugin/search/search.js', async: true, condition: function() { return !!document.body.classList; }, }
 //          { src: '$revealjs-url$/plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }
 ]});

@@ -8,6 +8,7 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <link rel="stylesheet" href="reveal.js/css/reveal.css"/>
+ <link rel="stylesheet" href="reveal.js/plugin/toc-progress/toc-progress.css">
   <!--  <style type="text/css">code{white-space: pre;}</style> -->
     <link rel="stylesheet" href="reveal.js/css/theme/serif-mod.css" id="theme">
   <link rel="stylesheet" media="print" href="reveal.js/css/print/pdf.css" />
@@ -18,8 +19,8 @@
 <body>
   <div class="reveal">
     <div class="slides">
-<section>
-    <h1 class="title">Influencia Social y Grupos</h1>
+<section data-state="no-toc-progress">
+    <h1 class="title .no-toc-progress">Influencia Social y Grupos</h1>
 <h2>2015-2016</h2>
     <h4 class="author">Juan Muñoz</h4>
     <h4 class="author">Universitat Autònoma de Barcelona</h4>
@@ -28,7 +29,7 @@
 <div style="position: absolute; bottom: 0px; margin-left: 0px; width: 100%; <center><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Llicència de Creative Commons" style="border-width:0" src="img/cc-by.png" /></a></center>
 </div>
 </section>
-<section id="equipo-docente" class="slide level1">
+<section id="equipo-docente" class="slide level2">
 <h1>Equipo docente</h1>
 <table>
 <thead>
@@ -62,7 +63,7 @@
 </tbody>
 </table>
 </section>
-<section id="evaluación" class="slide level1">
+<section id="evaluación" class="slide level2">
 <h1>Evaluación</h1>
 <table>
 <thead>
@@ -113,7 +114,7 @@
 </tbody>
 </table>
 </section>
-<section id="temario" class="slide level1">
+<section id="temario" class="slide level2">
 <h1>Temario</h1>
 <dl>
 <dt>Influencia</dt>
@@ -132,7 +133,7 @@
 </dd>
 </dl>
 </section>
-<section id="contacte" class="slide level1">
+<section id="contacte" class="slide level2">
 <h1>Contacte</h1>
 <table>
 <thead>
@@ -169,7 +170,7 @@
 </tbody>
 </table>
 </section>
-<section id="para-el-próximo-día..." class="slide level1">
+<section id="para-el-próximo-día..." class="slide level2">
 <h1>Para el próximo día...</h1>
 <p>Asch, S. (1973). Los efectos de la presión de grupo sobre la modificación y deformación de los juicios. En H. Proshansky &amp; B. Seidenberg (Eds.), <em>Estudios básicos de psicología social.</em> (págs. 480-490). Madrid: Tecnos.</p>
 <div class="fragment">
@@ -177,6 +178,9 @@
 </div>
 <div class="fragment">
 <p>Sherif, M. (1973). La formación de las normas sociales: El paradigma experimental. En H. Proshansky &amp; B. Seidenberg (Eds.), <em>Estudios básicos de psicología social.</em> (págs. 365-377). Madrid: Tecnos.</p>
+<div class="references">
+
+</div>
 </div>
 </section>
     </div>
@@ -206,16 +210,21 @@
           { src: 'reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
           { src: 'reveal.js/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
           { src: 'reveal.js/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } },
+	  { src: 'reveal.js/plugin/toc-progress/toc-progress.js', async: true, callback: function()
+		{ toc_progress.initialize(); toc_progress.create(); }},
+          { src: 'reveal.js/plugin/reveal-svg-fragment.js', condition: function() { return !!document.querySelector( '[data-svg-fragment]' ); } },
 //          { src: 'reveal.js/plugin/search/search.js', async: true, condition: function() { return !!document.body.classList; }, }
 //          { src: 'reveal.js/plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }
 ]});
 
     </script>
 
+<!--
 <div style="position: absolute; bottom: 0px; margin-left: 0px; width: 100%; background-color:#fff; padding: 20px;
     filter:alpha(opacity=5); opacity:0.5; border-color:#000000;"><center><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Llicència de Creative Commons" style="border-width:0" src="img/cc-by.png" /></a> Juan Muñoz  | Influencia Social y Grupos - <b>2015-2016</b></center>
 
 </div>
+-->
 
   </body>
 </html>

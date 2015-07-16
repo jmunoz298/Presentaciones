@@ -49,7 +49,7 @@ Innovación
 
 . . .
 
-@moscovici_social_1985
+###### @moscovici_social_1985
 
 
 #Normalización {.mitit .center}
@@ -59,41 +59,37 @@ Innovación
 . . .
 
 >Procés de creació de les normes que regulen la conducta, la percepció, el pensament o els desitjos de les persones en una situació concreta.\
-@ibanez_gracia_influencia_2003 [p. 260]
+@feliu_influencia_2003 [p. 260]
 
 ![Muzafer Sheriff\
 (1906-1988)](imagenes-isg/Sherif.jpg)
 
-<!--
-
-#Normalización
-![Muzafer Sheriff\
-(1906-1988)](imagenes-isg/Sherif.jpg)
--->
 
 ##El _efecto autocinético_ {data-background="imagenes-isg/autokinetic.jpg" data-background-transition=zoom data-state=fondo}
 
 <div id="column1" style="float:left; margin:0; width:50%;">
 
-![Estimaciones individualmente](imagenes-isg/autocinetico-1.jpg)
+![Estimaciones individualmente](imagenes-isg/EfectoAutocinetico-1.svg)
 
 </div>
 
 <div id="column2" style="float:left; margin:0; width:50%;">
 
-![Estimaciones en grupo](imagenes-isg/autocinetico-2.jpg)
+![Estimaciones en grupo](imagenes-isg/EfectoAutocinetico-2.svg)
 
 </div>
 
 <div id="column3" style="float:left; margin:0; width:100%;">
 
-![Nuevas estimaciones individualmente](imagenes-isg/autocinetico-3.jpg)
+![Estimaciones individualmente](imagenes-isg/EfectoAutocinetico-3.svg)
 
 </div>
 
 ##Normalización
 
-![Desplazamiento hacia una posición intermedia](imagenes-isg/normalizacion-quecos.jpg)
+<object id="svg1"  data="imagenes-isg/Normalizacion.svg" type="image/svg+xml"></object>
+
+######Desplazamiento en dirección de una posición intermedia
 
 #Conformismo {.mitit .center}
 
@@ -105,7 +101,7 @@ Innovación
 	<source src="multimedia/classic-candid.mp4" type="video/mp4">
 	<source src="https://www.youtube.com/embed/nPobACr9oL4" type="video/mp4">"
 </video>
- 
+
 ###### <https://www.youtube.com/embed/nPobACr9oL4>
 
 </div>
@@ -129,21 +125,11 @@ Innovación
 
 ##El experimento de Asch {data-background="imagenes-isg/asch-conformity.jpg" data-background-transition=zoom data-state=fondo}
 
-. . .
-
-![Líneas modelo](imagenes-isg/asch-lineas-1.jpg)
-
-. . .
-
-![Respuestas](imagenes-isg/Asch-quecos-1.jpg)
+![](imagenes-isg/Asch-1.svg)
 
 ##El experimento de Asch {data-background="imagenes-isg/asch-conformity.jpg" data-background-transition=zoom data-state=fondo}
 
-![Líneas modelo](imagenes-isg/asch-lineas-2.jpg)
-
-. . .
-
-![Respuestas](imagenes-isg/Asch-quecos-2.jpg)
+![](imagenes-isg/Asch-2.svg)
 
 ##Resultados {data-background="imagenes-isg/asch-conformity.jpg" data-background-transition=zoom data-state=fondo}
 
@@ -154,7 +140,9 @@ Innovación
 
 ##Conformismo
 
-![Desplazamiento en la dirección de la posición mayoritaria](imagenes-isg/conformismo-quecos.jpg)
+<object id="svg1"  data="imagenes-isg/Conformismo.svg" type="image/svg+xml"></object>
+
+######Desplazamiento en la dirección de la posición mayoritaria
 
 ##Conformismo: Factores
 
@@ -179,12 +167,14 @@ Innovación
 
 ##Tamaño de la mayoría
 
-![](imagenes-isg/Asch-EfectoMayoria-1.jpg)
+<object id="svg1"  data="imagenes-isg/TamañoMayoria.svg" type="image/svg+xml"></object>
 
-. . .
-
-![](imagenes-isg/Asch-EfectoMayoria-2.jpg)
-
+<!--
+<div data-svg-fragment="imagenes-isg/TamañoMayoria.svg#[*|label=base]" class="svg">
+  <a class="fragment" title="[*|label=segundo]"></a>
+  <a class="fragment" title="[*|label=circulos]"></a>
+</div>
+-->
 ##Relevancia de la tarea
 
 ![@baron_forgotten_1996](imagenes-isg/Asch-RelevanciaTarea.jpg)
@@ -194,17 +184,28 @@ Innovación
 ![@kundu_morality_2013](imagenes-isg/Asch-Relevancia.jpg)
 
 
-#Influencia informativa e influencia normativa {.mitit .center}
+#Influencias informativa y normativa {.mitit .center}
 
+<!--
 ##
-######@proshansky_estudio_1973
 
+Deutsch, M., & Gerard, H. B. (1973). Estudio de las influencias sociales normativa e informativas sobre el criterio individual. In H. Proshansky & B. Seidenberg (Eds.), Estudios básicos de psicología social (pp. 490–502). Madrid: Tecnos.
+
+###### @deutsch_estudio_1973
+-->
 
 ##Influencia informativa
 
-![Proceso de la influencia informativa](imagenes-isg/InfluenciaInformativa.jpg)
+![](imagenes-isg/InfluenciaInformativa.jvg)
 
-
+<!--
+<div data-svg-fragment="imagenes-isg/influencia-informativa.svg#[*|label=capa1]" class="svg">
+  <a class="fragment" title="[*|label=capa2]"></a>
+  <a class="fragment" title="[*|label=capa3]"></a>
+  <a class="fragment" title="[*|label=capa4]"></a>
+  <a class="fragment" title="[*|label=capa5]"></a>
+</div>
+-->
 
 ##Teorías relacionadas
 
@@ -243,7 +244,15 @@ Innovación
 
 ##Influencia normativa
 
-![Proceso de la influencia normativa](imagenes-isg/InfluenciaNormativa.jpg)
+![](imagenes-isg/InfluenciaNormativa.jpg)
+
+<!--
+<div data-svg-fragment="imagenes-isg/influencia-normativa.svg#[*|label=capa1]" class="svg">
+  <a class="fragment" title="[*|label=capa2]"></a>
+  <a class="fragment" title="[*|label=capa3]"></a>
+  <a class="fragment" title="[*|label=capa4]"></a>
+</div>
+-->
 
 ##Normas en el "Bennington College" {data-background="imagenes-isg/Bennington.jpg" data-background-transition=zoom data-state=fondo}
 

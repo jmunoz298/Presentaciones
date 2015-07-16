@@ -1,0 +1,77 @@
+body {
+  font-family: sans-serif;
+  font-weight: 300;
+  margin: 0;
+  padding: 1em;
+  word-break: break-word;
+}
+
+a {
+  color: #4183C4;
+  font-weight: 300;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #3d85c6;
+  text-decoration: underline;
+}
+
+a.twitter-follow-button {
+  display: block;
+  height: 32px;
+}
+
+a#viewSource {
+  display: block;
+  margin: 1.3em 0 0 0;
+  border-top: 1px solid #999;
+  padding: 1em 0 0 0;
+}
+
+h1 {
+  border-bottom: 1px solid #ccc;
+  font-family: sans-serif;
+  font-weight: 500;
+  margin: 0 0 0.8em 0;
+  padding: 0 0 0.2em 0;
+}
+
+h2 {
+  color: #444;
+  border-bottom: 1px solid #ccc;
+    display:inline;    
+
+  font-size: 1.3em;
+  font-weight: 500;
+  line-height: 1em;
+  margin: 0 0 0.8em 0;
+}
+
+h3 {
+  border-top: 1px solid #eee;
+  color: #666;
+  font-size: 0.9em;
+  font-weight: 500;
+  margin: 20px 0 10px 0;
+  padding: 10px 0 0 0;
+  white-space: nowrap;
+}
+
+ol {
+  padding: 0 0 0 20px;
+}
+
+p {
+  color: #444;
+  font-weight: 300;
+  line-height: 1.6em;
+}
+
+ul {
+  padding: 0 0 0px 20px;
+}
+
+li {
+ padding: 0 0 10px 0;
+{

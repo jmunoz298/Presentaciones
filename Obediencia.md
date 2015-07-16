@@ -10,18 +10,16 @@ bibliography: diapos.bib
 csl: apa.csl
 ...
 
-#Índice {data-background="imagenes-isg/abraham-sacrifice-caravaggio.jpg" data-background-transition=zoom data-state=fondo}
+##Índice {data-background="imagenes-isg/abraham-sacrifice-caravaggio.jpg" data-background-transition=zoom data-state=fondo}
 
 . . .
 
->* Introducción <!-- '>' hace que La lista se muestra en un solo paso--> 
+>* Introducción <!-- '>' hace que La lista se muestra en un solo paso-->
 * La investigación de Stanley Milgram
 * ¿Obediencia en el S. XXI?
 * Críticas
 * La banalidad del mal
 * Desobediencia
-
-[@baron_forgotten_1996]
 
 
 #Introducción {.mitit .center}
@@ -91,7 +89,7 @@ csl: apa.csl
 </div>
 
 
-#La investigación de Stanley Milgram {.mitit .center}
+#Stanley Milgram {.mitit .center}
 
 ##{data-background="imagenes-isg/Milgram-maquina.jpg"   data-background-transition=zoom data-state=fondo}
 
@@ -117,16 +115,16 @@ csl: apa.csl
 
 ## Reacciones del cómplice
 
-| Nivel      | Reacción          |
-|------------:|-------------------|
-| 75       | Pequeño quejido     |
-| 90-120   | Verbaliza que están siendo dolorosas |
-| 135      | Gemidos dolorosos    |
-| **150**      | “Experimentador, ¡sáqueme de aquí!, ¡no quiero seguir ni un instante más en el experimento!” |
-| 270      | Grito muy doloroso   |
-| **300**      | Grita desesperadamente que no dará más respuestas |
-| 315      | Alarido violento e insistencia en que no quiere continuar. No responde, pero se queja “agónicamente” tras cada descarga |
-| **330**      | **Ausencia total de reacciones** |
+|   Nivel | Reacción                                                                                                                |
+|--------:|:------------------------------------------------------------------------------------------------------------------------|
+|      75 | Pequeño quejido                                                                                                         |
+|  90-120 | Verbaliza que están siendo dolorosas                                                                                    |
+|     135 | Gemidos dolorosos                                                                                                       |
+| **150** | “Experimentador, ¡sáqueme de aquí!, ¡no quiero seguir ni un instante más en el experimento!”                            |
+|     270 | Grito muy doloroso                                                                                                      |
+| **300** | Grita desesperadamente que no dará más respuestas                                                                       |
+|     315 | Alarido violento e insistencia en que no quiere continuar. No responde, pero se queja “agónicamente” tras cada descarga |
+| **330** | **Ausencia total de reacciones**                                                                                        |
 
 
 ##Resultados (Experimento nº 1)
@@ -158,19 +156,34 @@ csl: apa.csl
 
 ###### <https://en.wikipedia.org/wiki/Law_%26_Order:_Special_Victims_Unit>
 
-##Réplicas recientes
+##Réplicas recientes: Burger
 
->My partial replication of Milgram’s procedure suggests that average Americans react to this laboratory situation today much the same way they did 45 years ago….the same situational factors that affected obedience in Milgram’s participants still operate today.\
+| Condición           | Hombres | Mujeres |
+|:--------------------|--------:|--------:|
+| Base                |    66,7 |    72,7 |
+| Modelo no obediente |    54,5 |    68,4 |
+
+`Porcentaje de personas que continúan hasta 150v.`{.figcaption}
+
+. . .
+
+>Mi réplica parcial del procedimiento de Milgram sugiere que el Americano medio reacciona hoy en día a esta situación de laboratorio de forma muy parecida a la que lo hacía hace 45 años... los mismos factores situacionales que afectaban a la obediencia en los participantes de Milgram, todavía operan hoy en día.\
 @burger_replicating_2009 [p. 8]
 
 ##
 
 <video class="stretch" controls><source src="multimedia/LeJeuDeLaMort.mp4"></video>
+
 `Le Jeu de la Mort, 2009`{.figcaption}
 
 ###### <https://www.youtube.com/watch?v=Bzk3INSQFGU>
 
-##Réplicas recientes
+##Réplicas recientes: Beauvois
+
+![@beauvois_prescriptive_2012](imagenes-isg/beauvois-res-01.jpg)
+
+
+##Réplicas recientes: Beauvois
 
 >Lo que encontramos aquí en el estudio de televisión es que la obediencia sigue siendo una realidad, en un momento en que muchos autores consideran que nuestras sociedades están evolucionando hacia una mayor permisividad, hacia más poderes "negociados", e incluso hacia el final de la autoridad por completo (…) Nuestras observaciones, como las de Burger, justifican por lo menos un cierto escepticismo sobre  tesis como la del final de la autoridad.\
 @beauvois_prescriptive_2012 [p. 119]
@@ -198,12 +211,13 @@ csl: apa.csl
 
 ![Consecuencias](imagenes-isg/Milgram-consecuencias.jpg)
 
-O = Obediencia\
-D = Desobediencia\
-B = Factores mantenedores\
-s = tensión\
-r = resolución de la tensión
-
+```{.left}
+O = Obediencia
+ D = Desobediencia
+ B = Factores mantenedores
+ s = tensión
+ r = resolución de la tensión
+```
 
 #Críticas {.mitit .center}
 
@@ -344,7 +358,7 @@ Validez externa
 . . .
 
 >Debemos temer más a la persona que obedece la ley que al que lo rompe.\
-`Dwight Macdonald, 1945`{.autor}
+`Dwight Macdonald (1945)`{.autor}
 
 ##Legitimidad
 
@@ -352,11 +366,11 @@ Validez externa
 * Legitimidad de la autoridad
 * Legitimidad de las demandas
 
-@passini_authority_2009
+###### @passini_authority_2009
 
 . . .
 
-####OBEDIENCIA DESTRUCTIVA\
+OBEDIENCIA DESTRUCTIVA\
 vs.\
 DESOBEDIENCIA CONSTRUCTIVA
 
