@@ -4,7 +4,7 @@ author:
 - name: Juan Muñoz
   affiliation: Universitat Autònoma de Barcelona
 tema: "2015-2016"
-url: "http://psicologiasocial.uab.es/juan"
+url: "http:/juan.psicologiasocial.eu"
 ...
 
 ##Equipo docente

@@ -5,7 +5,7 @@ author:
   affiliation: Universitat Autònoma de Barcelona
 tags: [Dinámicas, Conflicto, Identidad]
 tema: "Conflicto"
-url: "http://psicologiasocial.uab.es/juan"
+url: "http:/juan.psicologiasocial.eu"
 bibliography: diapos.bib
 csl: apa.csl
 ...

@@ -4,7 +4,7 @@ author:
 - name: Juan Muñoz
   affiliation: Universitat Autònoma de Barcelona
 tema: "Los bienes comunes"
-url: "http://psicologiasocial.uab.es/juan"
+url: "http:/juan.psicologiasocial.eu"
 ...
 
 #Índice
@@ -70,9 +70,9 @@ La Tragedia de los Comunes es el agotamiento  de un recurso compartido por las p
 #Características de los recursos
 
 |              |    Excluible    |               No Excluible               |
-|--------------|:---------------:|:----------------------------------------:|
+|:-------------|:---------------:|:----------------------------------------:|
 | Rivalidad    | Bienes privados | Recursos comunes (Common-Pool Resources) |
-| No rivalidad |      Clubs      |              Bienes públicos             |
+| No rivalidad |      Clubs      |             Bienes públicos              |
 
 ![Elinor Ostrom](imagenes/Ostrom.jpg)
 
@@ -94,11 +94,11 @@ La Tragedia de los Comunes es el agotamiento  de un recurso compartido por las p
 
 :Producción de conocimiento
 
-| Paradigma con ánimo de lucro                                                                  | Paradigma de los comunes                                                                      |
-|---------------------------------------------------------------------------------------------- |-------------------------------------------------------------------------------------------    |
-| Ideología y valores corporativos integrados en la educación y la producción de conocimiento.  | Peer-to-peer, el trabajo en red y la colaboración permiten diversidad de puntos de vista.     |
-| Conocimiento considerado como bien escaso que se compra y se vende.                           | Conocimiento considerado como recurso abundante para el bien común de la sociedad.            |
-| Tecnologías “propietarias”                                                                    | Tecnologías libres                                                                            |
+| Paradigma con ánimo de lucro                                                                 | Paradigma de los comunes                                                                  |
+|:---------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------|
+| Ideología y valores corporativos integrados en la educación y la producción de conocimiento. | Peer-to-peer, el trabajo en red y la colaboración permiten diversidad de puntos de vista. |
+| Conocimiento considerado como bien escaso que se compra y se vende.                          | Conocimiento considerado como recurso abundante para el bien común de la sociedad.        |
+| Tecnologías “propietarias”                                                                   | Tecnologías libres                                                                        |
 
 `Silke Helfrich (2014). The Logic of the Commons`{.figcaption}
 

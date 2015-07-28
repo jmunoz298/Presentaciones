@@ -5,7 +5,7 @@ author:
   affiliation: Universitat Autònoma de Barcelona
 tags: [Dinámicas, Decisiones]
 tema: "Toma de decisiones"
-url: "http://psicologiasocial.uab.es/juan"
+url: "http:/juan.psicologiasocial.eu"
 bibliography: diapos.bib
 csl: apa.csl
 ...

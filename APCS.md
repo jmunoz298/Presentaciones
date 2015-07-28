@@ -5,7 +5,7 @@ author:
   affiliation: Universitat Autònoma de Barcelona
 tags: [Conductas colectivas]
 tema: "Perspectivas de la acción colectiva"
-url: "http://psicologiasocial.uab.es/juan"
+url: "http:/juan.psicologiasocial.eu"
 bibliography: diapos.bib
 csl: apa.csl
 ...

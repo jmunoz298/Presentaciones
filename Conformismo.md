@@ -5,7 +5,7 @@ author:
   affiliation: Universitat Autònoma de Barcelona
 tags: [nothing, nothingness]
 tema: "Uniformidad y Conformismo"
-url: "http://psicologiasocial.uab.es/juan"
+url: "http:/juan.psicologiasocial.eu"
 bibliography: diapos.bib
 csl: apa.csl
 ...
