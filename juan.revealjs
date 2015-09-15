@@ -28,7 +28,16 @@ $endfor$
 $else$
     <link rel="stylesheet" href="$revealjs-url$/css/theme/serif-mod.css" id="theme">
 $endif$
-  <link rel="stylesheet" media="print" href="$revealjs-url$/css/print/pdf.css" />
+
+<!-- If the query includes 'print-pdf', use the PDF print sheet -->
+<script>
+  var link = document.createElement( 'link' );
+  link.rel = 'stylesheet';
+  link.type = 'text/css';
+  link.href = window.location.search.match( /print-pdf/gi ) ? 'reveal.js/css/print/pdf.css' : 'reveal.jscss/print/paper.css';
+  document.getElementsByTagName( 'head' )[0].appendChild( link );
+</script>
+
   <!--[if lt IE 9]>
   <script src="$revealjs-url$/lib/js/html5shiv.js"></script>
   <![endif]-->

@@ -67,17 +67,23 @@ Innovación
 
 ##El _efecto autocinético_ {data-background="imagenes-isg/autokinetic.jpg" data-background-transition=zoom data-state=fondo}
 
+. . .
+
 <div id="column1" style="float:left; margin:0; width:50%;">
 
 ![Estimaciones individualmente](imagenes-isg/EfectoAutocinetico-1.svg)
 
 </div>
 
+. . .
+
 <div id="column2" style="float:left; margin:0; width:50%;">
 
 ![Estimaciones en grupo](imagenes-isg/EfectoAutocinetico-2.svg)
 
 </div>
+
+. . .
 
 <div id="column3" style="float:left; margin:0; width:100%;">
 
@@ -125,6 +131,8 @@ Innovación
 
 ##El experimento de Asch {data-background="imagenes-isg/asch-conformity.jpg" data-background-transition=zoom data-state=fondo}
 
+. . .
+
 ![](imagenes-isg/Asch-1.svg)
 
 ##El experimento de Asch {data-background="imagenes-isg/asch-conformity.jpg" data-background-transition=zoom data-state=fondo}
@@ -156,6 +164,7 @@ Innovación
 
 ![](imagenes-isg/Asch-EfectoMayoria.jpg)
 
+<!--
 ##Tamaño de la mayoría
 
 <video width="420"  class="stretch" controls><source src="multimedia/Stanley Milgram - Conformity and Independence.mp4"></video>
@@ -163,7 +172,7 @@ Innovación
 ###### <https://www.youtube.com/watch?v=P0e6zG8IbE8>
 
 ######@milgram_note_1969
-
+-->
 
 ##Tamaño de la mayoría
 
@@ -179,7 +188,18 @@ Innovación
 
 ![@baron_forgotten_1996](imagenes-isg/Asch-RelevanciaTarea.jpg)
 
+##
+
+![@baron_forgotten_1996](imagenes-isg/Baron-Vandello-Brunsman.jpg)
+
 ##Relevancia de la tarea
+
+> Los soldados enemigos se han apoderado de tu aldea. Tienen órdenes de matar a todos los civiles que quedan. Usted y algunos de sus conciudadanos han buscado refugio en el sótano de una gran casa. En el exterior se oyen las voces de los soldados que han llegado para registrarla en busca de objetos de valor.\
+Tu bebé empieza a llorar a gritos. Le cubres la boca para amortiguar el sonido. Si quitas la mano de su boca, su llanto llamará la atención de los soldados que matarán a todas las personas escondidas en la bodega (incluyendo a tu hijo). La única solución para salvaros es asfixiarlo hasta la muerte.\
+¿Es correcto matar a tu hijo para salvarte a ti mismo y al resto del pueblo?\
+@kundu_morality_2013
+
+##
 
 ![@kundu_morality_2013](imagenes-isg/Asch-Relevancia.jpg)
 
@@ -196,7 +216,7 @@ Deutsch, M., & Gerard, H. B. (1973). Estudio de las influencias sociales normati
 
 ##Influencia informativa
 
-![](imagenes-isg/InfluenciaInformativa.jvg)
+![](imagenes-isg/InfluenciaInformativa.jpg)
 
 <!--
 <div data-svg-fragment="imagenes-isg/influencia-informativa.svg#[*|label=capa1]" class="svg">
@@ -222,7 +242,7 @@ Deutsch, M., & Gerard, H. B. (1973). Estudio de las influencias sociales normati
 <div id="column2" style="float:left; margin:0; width:66%;">
 
 ####Ignorancia Pluralista\
-\
+
 
 <div id="column2.1" style="float:left; margin:0; width:50%;">
 
@@ -236,6 +256,11 @@ Deutsch, M., & Gerard, H. B. (1973). Estudio de las influencias sociales normati
 
 </div>
 
+##Ignorancia Pluralista
+
+<video class="stretch" controls><source src="multimedia/TheSmokeFilledRoom.mp4"></video>
+`The smoke filled room`{.figcaption}
+<https://www.youtube.com/watch?v=vLZrBTqWLv8>
 
 ##Influencia normativa
 
@@ -258,6 +283,11 @@ Deutsch, M., & Gerard, H. B. (1973). Estudio de las influencias sociales normati
 
 ![Theodore Newcomb\
 1903-1984](imagenes-isg/Newcomb.jpg)
+
+##Independencia
+
+> No es justificable asumir de antemano que una teoría de la influencia social deba ser una teoría de la sumisión a la presión social. No es necesario dudar de la gran potencia de las fuerzas sociales para darse cuenta de que la conformidad no es el único efecto que producen. La lucha por la independencia y la resistencia a la invasión son tan característicos de las personas como lo es la conformidad. En consecuencia, es una reducción exagerada destacar la sumisión, olvidándose de los nada despreciables poderes que muestran en ocasiones las personas para actuar de acuerdo con sus convicciones y elevarse por encima de la pasión del grupo.\
+@asch_studies_1956 [p. 3]
 
 
 ##Referencias

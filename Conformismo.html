@@ -11,7 +11,16 @@
  <link rel="stylesheet" href="reveal.js/plugin/toc-progress/toc-progress.css">
   <!--  <style type="text/css">code{white-space: pre;}</style> -->
     <link rel="stylesheet" href="reveal.js/css/theme/serif-mod.css" id="theme">
-  <link rel="stylesheet" media="print" href="reveal.js/css/print/pdf.css" />
+
+<!-- If the query includes 'print-pdf', use the PDF print sheet -->
+<script>
+  var link = document.createElement( 'link' );
+  link.rel = 'stylesheet';
+  link.type = 'text/css';
+  link.href = window.location.search.match( /print-pdf/gi ) ? 'reveal.js/css/print/pdf.css' : 'reveal.jscss/print/paper.css';
+  document.getElementsByTagName( 'head' )[0].appendChild( link );
+</script>
+
   <!--[if lt IE 9]>
   <script src="reveal.js/lib/js/html5shiv.js"></script>
   <![endif]-->
@@ -79,20 +88,26 @@
 </div>
 </section><section id="el-efecto-autocinético" class="slide level2" data-background="imagenes-isg/autokinetic.jpg" data-background-transition="zoom" data-state="fondo">
 <h1>El <em>efecto autocinético</em></h1>
+<div class="fragment">
 <div id="column1" style="float:left; margin:0; width:50%;">
 <figure>
 <img src="imagenes-isg/EfectoAutocinetico-1.svg" alt="Estimaciones individualmente" /><figcaption>Estimaciones individualmente</figcaption>
 </figure>
 </div>
+</div>
+<div class="fragment">
 <div id="column2" style="float:left; margin:0; width:50%;">
 <figure>
 <img src="imagenes-isg/EfectoAutocinetico-2.svg" alt="Estimaciones en grupo" /><figcaption>Estimaciones en grupo</figcaption>
 </figure>
 </div>
+</div>
+<div class="fragment">
 <div id="column3" style="float:left; margin:0; width:100%;">
 <figure>
 <img src="imagenes-isg/EfectoAutocinetico-3.svg" alt="Estimaciones individualmente" /><figcaption>Estimaciones individualmente</figcaption>
 </figure>
+</div>
 </div>
 </section><section id="normalización-2" class="slide level2">
 <h1>Normalización</h1>
@@ -127,9 +142,11 @@
 </div>
 </section><section id="el-experimento-de-asch" class="slide level2" data-background="imagenes-isg/asch-conformity.jpg" data-background-transition="zoom" data-state="fondo">
 <h1>El experimento de Asch</h1>
+<div class="fragment">
 <figure>
 <img src="imagenes-isg/Asch-1.svg" />
 </figure>
+</div>
 </section><section id="el-experimento-de-asch-1" class="slide level2" data-background="imagenes-isg/asch-conformity.jpg" data-background-transition="zoom" data-state="fondo">
 <h1>El experimento de Asch</h1>
 <figure>
@@ -162,15 +179,17 @@
 <figure>
 <img src="imagenes-isg/Asch-EfectoMayoria.jpg" />
 </figure>
-</section><section id="tamaño-de-la-mayoría-1" class="slide level2">
-<h1>Tamaño de la mayoría</h1>
-<video width="420"  class="stretch" controls>
-<source src="multimedia/Stanley Milgram - Conformity and Independence.mp4">
-</video>
+<!--
+##Tamaño de la mayoría
 
-<h6 id="httpswww.youtube.comwatchvp0e6zg8ibe8"><a href="https://www.youtube.com/watch?v=P0e6zG8IbE8">https://www.youtube.com/watch?v=P0e6zG8IbE8</a></h6>
-<h6 id="milgram_note_1969"><span class="citation" data-cites="milgram_note_1969">Milgram, Bickman, &amp; Berkowitz (1969)</span></h6>
-</section><section id="tamaño-de-la-mayoría-2" class="slide level2">
+<video width="420"  class="stretch" controls><source src="multimedia/Stanley Milgram - Conformity and Independence.mp4"></video>
+
+###### <https://www.youtube.com/watch?v=P0e6zG8IbE8>
+
+######@milgram_note_1969
+-->
+
+</section><section id="tamaño-de-la-mayoría-1" class="slide level2">
 <h1>Tamaño de la mayoría</h1>
 <object id="svg1"  data="imagenes-isg/TamañoMayoria.svg" type="image/svg+xml"></object>
 
@@ -185,8 +204,18 @@
 <figure>
 <img src="imagenes-isg/Asch-RelevanciaTarea.jpg" alt="Baron, Vandello, &amp; Brunsman (1996)" /><figcaption><span class="citation" data-cites="baron_forgotten_1996">Baron, Vandello, &amp; Brunsman (1996)</span></figcaption>
 </figure>
+</section><section id="section" class="slide level2">
+<h1></h1>
+<figure>
+<img src="imagenes-isg/Baron-Vandello-Brunsman.jpg" alt="Baron et al. (1996)" /><figcaption><span class="citation" data-cites="baron_forgotten_1996">Baron et al. (1996)</span></figcaption>
+</figure>
 </section><section id="relevancia-de-la-tarea-1" class="slide level2">
 <h1>Relevancia de la tarea</h1>
+<blockquote>
+<p>Los soldados enemigos se han apoderado de tu aldea. Tienen órdenes de matar a todos los civiles que quedan. Usted y algunos de sus conciudadanos han buscado refugio en el sótano de una gran casa. En el exterior se oyen las voces de los soldados que han llegado para registrarla en busca de objetos de valor.<br />Tu bebé empieza a llorar a gritos. Le cubres la boca para amortiguar el sonido. Si quitas la mano de su boca, su llanto llamará la atención de los soldados que matarán a todas las personas escondidas en la bodega (incluyendo a tu hijo). La única solución para salvaros es asfixiarlo hasta la muerte.<br />¿Es correcto matar a tu hijo para salvarte a ti mismo y al resto del pueblo?<br /><span class="citation" data-cites="kundu_morality_2013">Kundu &amp; Cummins (2013)</span></p>
+</blockquote>
+</section><section id="section-1" class="slide level2">
+<h1></h1>
 <figure>
 <img src="imagenes-isg/Asch-Relevancia.jpg" alt="Kundu &amp; Cummins (2013)" /><figcaption><span class="citation" data-cites="kundu_morality_2013">Kundu &amp; Cummins (2013)</span></figcaption>
 </figure>
@@ -194,7 +223,7 @@
 <section><section id="influencias-informativa-y-normativa" class="titleslide slide level1 mitit center"><h1>Influencias informativa y normativa</h1></section><section id="influencia-informativa" class="slide level2">
 <h1>Influencia informativa</h1>
 <figure>
-<embed src="imagenes-isg/InfluenciaInformativa.jvg" />
+<img src="imagenes-isg/InfluenciaInformativa.jpg" />
 </figure>
 <!--
 <div data-svg-fragment="imagenes-isg/influencia-informativa.svg#[*|label=capa1]" class="svg">
@@ -216,7 +245,7 @@
 <div class="fragment">
 <div id="column2" style="float:left; margin:0; width:66%;">
 
-<h4 id="ignorancia-pluralista">Ignorancia Pluralista<br /><br /></h4>
+<h4 id="ignorancia-pluralista">Ignorancia Pluralista<br /></h4>
 <div id="column2.1" style="float:left; margin:0; width:50%;">
 <figure>
 <img src="imagenes-isg/Latane.jpg" alt="Bibb Latané" /><figcaption>Bibb Latané</figcaption>
@@ -228,6 +257,12 @@
 </figure>
 </div>
 </div>
+</section><section id="ignorancia-pluralista-1" class="slide level2">
+<h1>Ignorancia Pluralista</h1>
+<video class="stretch" controls>
+<source src="multimedia/TheSmokeFilledRoom.mp4">
+</video>
+<p><code class="figcaption">The smoke filled room</code> <a href="https://www.youtube.com/watch?v=vLZrBTqWLv8">https://www.youtube.com/watch?v=vLZrBTqWLv8</a></p>
 </section><section id="influencia-normativa" class="slide level2">
 <h1>Influencia normativa</h1>
 <blockquote>
@@ -251,13 +286,18 @@
 <figure>
 <img src="imagenes-isg/Newcomb.jpg" alt="Theodore Newcomb 1903-1984" /><figcaption>Theodore Newcomb<br />1903-1984</figcaption>
 </figure>
+</section><section id="independencia" class="slide level2">
+<h1>Independencia</h1>
+<blockquote>
+<p>No es justificable asumir de antemano que una teoría de la influencia social deba ser una teoría de la sumisión a la presión social. No es necesario dudar de la gran potencia de las fuerzas sociales para darse cuenta de que la conformidad no es el único efecto que producen. La lucha por la independencia y la resistencia a la invasión son tan característicos de las personas como lo es la conformidad. En consecuencia, es una reducción exagerada destacar la sumisión, olvidándose de los nada despreciables poderes que muestran en ocasiones las personas para actuar de acuerdo con sus convicciones y elevarse por encima de la pasión del grupo.<br /><span class="citation" data-cites="asch_studies_1956">Asch (1956, p. 3)</span></p>
+</blockquote>
 </section><section id="referencias" class="slide level2">
 <h1>Referencias</h1>
 <div class="references">
+<p>Asch, S. E. (1956). Studies of independence and conformity: I. A minority of one against a unanimous majority. <em>Psychological Monographs: General and Applied</em>, <em>70</em>(9), 1–70. Retrieved from <a href="http://www.psycontent.com/index/H128830K244141T6.pdf">http://www.psycontent.com/index/H128830K244141T6.pdf</a></p>
 <p>Baron, R. S., Vandello, J. A., &amp; Brunsman, B. (1996). The forgotten variable in conformity research: Impact of task importance on social influence. <em>Journal of Personality and Social Psychology</em>, <em>71</em>(5), 915–927. http://doi.org/<a href="http://dx.doi.org/10.1037/0022-3514.71.5.915">10.1037/0022-3514.71.5.915</a></p>
 <p>Feliu, J. (2003). Influència, conformitat i obediència. Les paradoxes de l’individu social. In T. Ibańez Gracia (Ed.), <em>Introducció a la psicologia social</em> (1a. ed. en llengua catalana., pp. 251–366). Barcelona: UOC.</p>
 <p>Kundu, P., &amp; Cummins, D. D. (2013). Morality and conformity: The Asch paradigm applied to moral decisions. <em>Social Influence</em>, <em>8</em>(4), 268–279. http://doi.org/<a href="http://dx.doi.org/10.1080/15534510.2012.727767">10.1080/15534510.2012.727767</a></p>
-<p>Milgram, S., Bickman, L., &amp; Berkowitz, L. (1969). Note on the drawing power of crowds of different size. <em>Journal of Personality and Social Psychology</em>, <em>13</em>(2), 79–82. http://doi.org/<a href="http://dx.doi.org/10.1037/h0028070">10.1037/h0028070</a></p>
 <p>Moscovici, S. (1985). Social influence and conformity. In <em>Handbook of social psychology</em> (Vol. 2, pp. 347–412).</p>
 <p>P<span>é</span>rez, J. A. (1999). La influencia mayoritaria. In J. F. Morales (Ed.), <em>Psicología social</em> (pp. 251–265). Madrid: McGraw-Hill.</p>
 <p>Stangor, C. (2004). <em>Social groups in action and interaction</em>. New York: Psychology Press.</p>
