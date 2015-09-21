@@ -302,7 +302,8 @@ Validez externa
 
 <div id="column1" style="float:left; margin:0; width:50%;">
 
-![Hanna Arendt (1906-1975)](imagenes-isg/HannaArendt.jpg)\
+![Hanna Arendt (1906-1975)](imagenes-isg/HannaArendt.jpg)
+
 @arendt_eichmann_1963
 
 </div>
