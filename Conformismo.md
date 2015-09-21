@@ -105,10 +105,11 @@ Innovación
 
 <video width="420"  class="stretch" controls>
 	<source src="multimedia/classic-candid.mp4" type="video/mp4">
-	<source src="https://www.youtube.com/embed/nPobACr9oL4" type="video/mp4">"
+	<source src="https://vimeo.com/61349466" type="video/mp4">"
 </video>
+`Candid Camera: Elevator`{.figcaption}
 
-###### <https://www.youtube.com/embed/nPobACr9oL4>
+###### <https://vimeo.com/61349466>
 
 </div>
 
@@ -258,7 +259,10 @@ Deutsch, M., & Gerard, H. B. (1973). Estudio de las influencias sociales normati
 
 ##Ignorancia Pluralista
 
-<video class="stretch" controls><source src="multimedia/TheSmokeFilledRoom.mp4"></video>
+<video width="860" class="stretch" controls>
+  <source src="multimedia/TheSmokeFilledRoomStudy.mp4" type="video/mp4">
+</video>
+
 `The smoke filled room`{.figcaption}
 <https://www.youtube.com/watch?v=vLZrBTqWLv8>
 

@@ -10,6 +10,12 @@ bibliography: diapos.bib
 csl: apa.csl
 ...
 
+
+## Obediencia
+
+> (...) deberíamos saber que el instinto de sumisión, un ardiente deseo de obedecer y de ser dominado por un hombre fuerte, es por lo menos tan prominente en la psicología humana como el deseo de poder, y, políticamente, resulta quizá más relevante.\
+@arendt_sobre_1969 [p. 54]
+
 ##Índice {data-background="imagenes-isg/abraham-sacrifice-caravaggio.jpg" data-background-transition=zoom data-state=fondo}
 
 . . .
@@ -23,6 +29,7 @@ csl: apa.csl
 
 
 #Introducción {.mitit .center}
+
 
 ##Holocausto{data-background="imagenes-isg/abraham-sacrifice-caravaggio.jpg"   data-background-transition=zoom data-state=fondo}
 
@@ -88,6 +95,10 @@ csl: apa.csl
 
 </div>
 
+##Disposicional vs. situacional
+
+> No es tanto el tipo de persona que es un hombre como el tipo de situación en la que se encuentra lo que determina cómo va a actuar.\
+@blass_man_2004 [p. 101]
 
 #Stanley Milgram {.mitit .center}
 
@@ -109,6 +120,7 @@ csl: apa.csl
 ##
 
 <video class="stretch" controls><source src="multimedia/MilgramExperiment-Brown.mp4"></video>
+
 `Derren Brown: The Heist, 2006`{.figcaption}
 
 ###### <http://www.youtube.com/watch?v=iUFN1eX2s6Q>
@@ -120,9 +132,9 @@ csl: apa.csl
 |      75 | Pequeño quejido                                                                                                         |
 |  90-120 | Verbaliza que están siendo dolorosas                                                                                    |
 |     135 | Gemidos dolorosos                                                                                                       |
-| **150** | “Experimentador, ¡sáqueme de aquí!, ¡no quiero seguir ni un instante más en el experimento!”                            |
+| **150** | **“Experimentador, ¡sáqueme de aquí!, ¡no quiero seguir ni un instante más en el experimento!”**                        |
 |     270 | Grito muy doloroso                                                                                                      |
-| **300** | Grita desesperadamente que no dará más respuestas                                                                       |
+| **300** | **Grita desesperadamente que no dará más respuestas**                                                                   |
 |     315 | Alarido violento e insistencia en que no quiere continuar. No responde, pero se queja “agónicamente” tras cada descarga |
 | **330** | **Ausencia total de reacciones**                                                                                        |
 
@@ -170,30 +182,39 @@ csl: apa.csl
 >Mi réplica parcial del procedimiento de Milgram sugiere que el Americano medio reacciona hoy en día a esta situación de laboratorio de forma muy parecida a la que lo hacía hace 45 años... los mismos factores situacionales que afectaban a la obediencia en los participantes de Milgram, todavía operan hoy en día.\
 @burger_replicating_2009 [p. 8]
 
-##
+<!--
 
+##
 <video class="stretch" controls><source src="multimedia/LeJeuDeLaMort.mp4"></video>
 
 `Le Jeu de la Mort, 2009`{.figcaption}
 
 ###### <https://www.youtube.com/watch?v=Bzk3INSQFGU>
 
+
 ##Réplicas recientes: Beauvois
 
 ![@beauvois_prescriptive_2012](imagenes-isg/beauvois-res-01.jpg)
+-->
 
-
-##Réplicas recientes: Beauvois
+##Réplicas recientes: "Le jeu de la mort"
 
 >Lo que encontramos aquí en el estudio de televisión es que la obediencia sigue siendo una realidad, en un momento en que muchos autores consideran que nuestras sociedades están evolucionando hacia una mayor permisividad, hacia más poderes "negociados", e incluso hacia el final de la autoridad por completo (…) Nuestras observaciones, como las de Burger, justifican por lo menos un cierto escepticismo sobre  tesis como la del final de la autoridad.\
 @beauvois_prescriptive_2012 [p. 119]
+
+
+
+##Réplicas recientes
+
+![@haslam_shock_2015](imagenes-isg/Haslam-Reicher-Millard-2015.jpg)
+
 
 # La explicación de Milgram {.mitit .center}
 
 ##Explicación: El _Estado Agéntico_
 
 >“[el estado agéntico es] la condición en que se encuentra una persona cuando se considera a sí misma como un agente que ejecuta los deseos de otra persona. Este término será empleado en oposición al de autonomía, es decir, cuando una persona se considera a sí misma como actuando por propia iniciativa."\
-@milgram_obediencia_1980 [p. 127]
+@milgram_obediencia_1974 [p. 127]
 
 ##El proceso de la obediencia
 
@@ -221,11 +242,12 @@ O = Obediencia
 
 #Críticas {.mitit .center}
 
+##Tipos de críticas
 >* Teórica
 * Ética
 * Metodológica
 
-##Críticas: A la explicación
+##Críticas: Teórica
 
 ####Obediencia a la autoridad legítima\
 vs.\
@@ -257,7 +279,7 @@ Kohlberg, 1974, p. 607
 * Derecho a retirarse
 * Debriefing
 
-##Crítica metodológica: Validez
+##Críticas: Metodológica
 
 Validez interna
 
@@ -280,7 +302,8 @@ Validez externa
 
 <div id="column1" style="float:left; margin:0; width:50%;">
 
-![Hanna Arendt (1906-1975)](imagenes-isg/HannaArendt.jpg)
+![Hanna Arendt (1906-1975)](imagenes-isg/HannaArendt.jpg)\
+@arendt_eichmann_1963
 
 </div>
 

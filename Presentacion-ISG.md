@@ -12,9 +12,11 @@ url: "http:/juan.psicologiasocial.eu"
 | Teoría             |  | Prácticas          |
 |:-------------------|:-|:-------------------|
 | Fran Elejabarrieta |  | Fran Elejabarrieta |
-| Juan Muñoz         |  | Juan Muñoz         |
-| Francisco Tirado   |  | Jesús Rojas        |
-| Félix Vázquez      |  | Félix Vázquez      |
+| Juan Muñoz         |  | Eduardo Moreno     |
+| Francisco Tirado   |  | Juan Muñoz         |
+| Félix Vázquez      |  | Guillem Palà       |
+|                    |  | Jesús Rojas        |
+|                    |  | Félix Vázquez      |
 
 
 
@@ -22,11 +24,11 @@ url: "http:/juan.psicologiasocial.eu"
 
 | Evidència | Definició                  | %  | Presentació | Semana |
 |:----------|:---------------------------|:---|:------------|-------:|
-| EV1       | Continguts teòrics         | 40 | Individual  |     17 |
-| EV2.1     | Informe cas pràctic 1      | 10 | Individual  |      7 |
-| EV2.2     | Informe cas pràctic 2      | 10 | Individual  |     14 |
+| EV1       | Continguts teòrics         | 45 | Individual  |     17 |
+| EV2.1     | Informe cas pràctic 1      | 10 | Grupal      |      8 |
+| EV2.2     | Informe cas pràctic 2      | 10 | Grupal      |     12 |
 | EV3       | Participació “rol playing” | 20 | Individual  |     17 |
-| EV4       | Lectures obligatòries      | 20 | Individual  |     17 |
+| EV4       | Lectures obligatòries      | 15 | Individual  |     17 |
 
 ##Temario
 
@@ -41,24 +43,15 @@ Grupos
 
 ##Contacte
 
-| ![](img/Direccion.png) | B5-034                                                |
-|:-----------------------|:------------------------------------------------------|
-| ![](img/Clock.png)     | Dimarts 10:30-12:00                                   |
-|                        | Dimarts: 18:00-19:00                                  |
-|                        | [Cita previa: http:cita.uab.cat](http://cita.uab.cat) |
-| ![](img/Telefono.png)  | 93 581 2874                                           |
-| ![](img/Correo.png)    | juan.munoz@uab.cat                                    |
-| ![](img/Web.png)       | <http://psicologiasocial.uab.es/juan>                 |
+| ![](img/Direccion.png) | B5-034                                                  |
+|:-----------------------|:--------------------------------------------------------|
+| ![](img/Clock.png)     | Dilluns: 16:00-17:00                                    |
+|                        | Dimarts: 11:00-12:30                                    |
+|                        | [Cita previa: http://cita.uab.cat](http://cita.uab.cat) |
+| ![](img/Telefono.png)  | 93 581 2874                                             |
+| ![](img/Correo.png)    | juan.munoz@uab.cat                                      |
+| ![](img/Web.png)       | <http://juan.psicologiasocial.eu>                       |
 
 ##Para el próximo día...
 
-Asch, S. (1973). Los efectos de la presión de grupo sobre la modificación y deformación de los juicios. En H. Proshansky & B. Seidenberg (Eds.), _Estudios básicos de psicología social._ (págs. 480-490). Madrid: Tecnos.
-
-. . .
-
-
 Feliu, J. (2003). Influència, conformitat i obediència. Les paradoxes de l’individu social. In T. Ibáñez Gracia (Ed.), _Introducció a la psicologia social._ (1a. ed. en llengua catalana, pp. 251–366). Barcelona: UOC.
-
-. . .
-
-Sherif, M. (1973). La formación de las normas sociales: El paradigma experimental. En H. Proshansky & B. Seidenberg (Eds.), _Estudios básicos de psicología social._ (págs. 365-377). Madrid: Tecnos.
