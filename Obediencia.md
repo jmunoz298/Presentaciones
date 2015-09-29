@@ -10,6 +10,7 @@ bibliography: diapos.bib
 csl: apa.csl
 ...
 
+#Introducción {.mitit .center}
 
 ## Obediencia
 
@@ -26,9 +27,6 @@ csl: apa.csl
 * Críticas
 * La banalidad del mal
 * Desobediencia
-
-
-#Introducción {.mitit .center}
 
 
 ##Holocausto{data-background="imagenes-isg/abraham-sacrifice-caravaggio.jpg"   data-background-transition=zoom data-state=fondo}
@@ -97,8 +95,8 @@ csl: apa.csl
 
 ##Disposicional vs. situacional
 
-> No es tanto el tipo de persona que es un hombre como el tipo de situación en la que se encuentra lo que determina cómo va a actuar.\
-@blass_man_2004 [p. 101]
+> No pocas veces no es tanto el tipo de persona que es un hombre en concreto, cuanto más bien el tipo de situación en la que se encuentra, el que determina cómo va a actuar.\
+@milgram_obediencia_1974 [p. 194]
 
 #Stanley Milgram {.mitit .center}
 
@@ -138,6 +136,13 @@ csl: apa.csl
 |     315 | Alarido violento e insistencia en que no quiere continuar. No responde, pero se queja “agónicamente” tras cada descarga |
 | **330** | **Ausencia total de reacciones**                                                                                        |
 
+<!--
+##Predicciones de psiquiatras
+
+![](imagenes-isg/Milgram-predicciones.jpg)\
+@milgram_conditions_1965 [, p. 73]
+
+-->
 
 ##Resultados (Experimento nº 1)
 
@@ -240,61 +245,25 @@ O = Obediencia
  r = resolución de la tensión
 ```
 
-#Críticas {.mitit .center}
-
-##Tipos de críticas
->* Teórica
-* Ética
-* Metodológica
-
-##Críticas: Teórica
-
-####Obediencia a la autoridad legítima\
-vs.\
-Confianza en un experto
-
-##Críticas: Ética
-
->Por desgracia, el sujeto no siempre es tratado con el respeto que se merece. Se ha convertido en algo común en los estudios de laboratorio sociopsicológicos manipular, avergonzar e incomodar a los sujetos. A veces, el insulto a la sensibilidad de los sujetos se extiende al lector de la revista cuando se presentan los resultados. El estudio de Milgram (1963) es un ejemplo de ello.\
-@baumrind_thoughts_1964 [p. 422]
-
-<!--
-
-# Otras posibles citas de crítica a la ética
-
->Lo detesto, como detesto los experimentos de Zimbardo. Estos experimentos son tan viles, la intención con la que se han planificado es tan vil, que nada en ellos presenta ningún valor. . . Están en la línea de los experimentos con humanos de los nazis .. . . Habiendo sido una de las personas con las que experimentaron, no puedo ver ningún mérito en estos experimentos. Milgram y Zimbardo los realizaron para promover su propio progreso profesional.
-
-Bettelheim, 1978
-
->El mismo Milgram fue involuntariamente la víctima moral de la “autoridad de la ciencia”, al igual que lo era su temática. Siriviendo la autoridad de la ciencia bajo la bandera de la “objetividad”, él mismo, infligió dolor a otros en busca del mayor bienestar social. . . Milgram fracasó en tratar a sus participantes como personas (…) al igual que la mayoría de sus sujetos fracasaron en tratar a la víctima como una persona
-
-Kohlberg, 1974, p. 607
-
--->
-
-##Críticas: Ética
-
-* Protección de los participantes
-* Engaño - Consentimiento informado
-* Derecho a retirarse
-* Debriefing
-
-##Críticas: Metodológica
-
-Validez interna
-
-:    Los resultados obtenidos son debidos única y exclusivamente a las manipulaciones experimentales realizadas
-Validez externa
-
-:    Posibilidad de que los resultados de la investigación sean generalizables más allá de la investigación en la que se han realizado (entorno, muestra...)
-
-##
-
->I would say, on the basis of having observed a thousand people in the experiment and having my own intuition shaped and informed by these experiments, that if a system of death camps were set up in the United States of the sort we had seen in Nazi Germany, one would be able to find sufficient personnel for those camps in any medium-sized American town\
-[Milgram, 1979, citado por @blass_milgram_1999 [pp. 955-956]]
-
-
 #La banalidad del mal {.mitit .center}
+
+##La prisión de Stanford
+
+<div id="column1" style="float:left; margin:0; width:50%;">
+
+<video width="420"  controls><source src="multimedia/La_pendiente_resbaladiza_de_la_maldad.mp4"></video>
+`Redes 54: La pendiente resbaladiza de la maldad`{.figcaption}
+
+###### <https://www.youtube.com/watch?v=ilzeRaO2TUw>
+
+</div>
+
+<div id="column1" style="float:left; margin:0; width:50%;">
+
+![Philip Zimbardo\
+1933-](imagenes-isg/Zimbardo.jpg)
+
+</div>
 
 ##{data-background="imagenes-isg/Batallon101.jpg"   data-background-transition=zoom data-state=fondo}
 
@@ -316,23 +285,65 @@ Validez externa
 
 </div>
 
-##La prisión de Stanford
+##
 
-<div id="column1" style="float:left; margin:0; width:50%;">
+>Las malas acciones rara vez son el producto de gente malvada que actúan por motivos malvados, sino que son el producto de buenos burócratas simplemente haciendo su trabajo.\
+@zimbardo_obedience_1974
 
-<video width="420"  controls><source src="multimedia/La_pendiente_resbaladiza_de_la_maldad.mp4"></video>
-`Redes 54: La pendiente resbaladiza de la maldad`{.figcaption}
+#Críticas {.mitit .center}
 
-###### <https://www.youtube.com/watch?v=ilzeRaO2TUw>
+##Tipos de críticas
+>* Teórica
+* Ética
+* Metodológica
 
-</div>
+##Críticas: Teórica
 
-<div id="column1" style="float:left; margin:0; width:50%;">
+####Obediencia a la autoridad legítima\
+vs.\
+Confianza en un experto
 
-![Philip Zimbardo\
-1933-](imagenes-isg/Zimbardo.jpg)
 
-</div>
+##Críticas: Ética
+
+>* Protección de los participantes
+* Engaño - Consentimiento informado
+* Derecho a retirarse
+* Debriefing
+
+##Críticas: Ética
+
+>Por desgracia, el sujeto no siempre es tratado con el respeto que se merece. Se ha convertido en algo común en los estudios de laboratorio sociopsicológicos manipular, avergonzar e incomodar a los sujetos. A veces, el insulto a la sensibilidad de los sujetos se extiende al lector de la revista cuando se presentan los resultados. El estudio de Milgram (1963) es un ejemplo de ello.\
+@baumrind_thoughts_1964 [p. 422]
+
+<!--
+
+# Otras posibles citas de crítica a la ética
+
+>Lo detesto, como detesto los experimentos de Zimbardo. Estos experimentos son tan viles, la intención con la que se han planificado es tan vil, que nada en ellos presenta ningún valor. . . Están en la línea de los experimentos con humanos de los nazis .. . . Habiendo sido una de las personas con las que experimentaron, no puedo ver ningún mérito en estos experimentos. Milgram y Zimbardo los realizaron para promover su propio progreso profesional.
+
+Bettelheim, 1978
+
+>El mismo Milgram fue involuntariamente la víctima moral de la “autoridad de la ciencia”, al igual que lo era su temática. Siriviendo la autoridad de la ciencia bajo la bandera de la “objetividad”, él mismo, infligió dolor a otros en busca del mayor bienestar social. . . Milgram fracasó en tratar a sus participantes como personas (…) al igual que la mayoría de sus sujetos fracasaron en tratar a la víctima como una persona
+
+Kohlberg, 1974, p. 607
+
+-->
+
+##Críticas: Metodológica
+
+Validez interna
+
+:    Los resultados obtenidos son debidos única y exclusivamente a las manipulaciones experimentales realizadas
+Validez externa
+
+:    Posibilidad de que los resultados de la investigación sean generalizables más allá de la investigación en la que se han realizado (entorno, muestra...)
+
+##
+
+>Yo diría, sobre la base de haber observado un millar de personas en el experimento y de mi propia intuición formada e informada por estos experimentos, que si se instalara en los Estados Unidos un sistema de campos de exterminio, del tipo de los que hemos visto en la Alemania Nazi, seriamos capaces de encontrar suficiente personal para esos campos en cualquier ciudad Americana de tamaño medio.\
+[Milgram, 1979, citado por @blass_milgram_1999, pp. 955-956]
+
 
 #Desobediencia {.mitit .center}
 
