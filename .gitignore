@@ -1,4 +1,7 @@
 multimedia/
-presentaciones-reveal.sublime-workspace
-presentaciones-reveal.sublime-project
 genera.sh
+.gitignore
+*.pdf
+madoko*
+*.sty
+*.aux

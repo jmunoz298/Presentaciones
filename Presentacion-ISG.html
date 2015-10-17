@@ -11,7 +11,16 @@
  <link rel="stylesheet" href="reveal.js/plugin/toc-progress/toc-progress.css">
   <!--  <style type="text/css">code{white-space: pre;}</style> -->
     <link rel="stylesheet" href="reveal.js/css/theme/serif-mod.css" id="theme">
-  <link rel="stylesheet" media="print" href="reveal.js/css/print/pdf.css" />
+
+<!-- If the query includes 'print-pdf', use the PDF print sheet -->
+<script>
+  var link = document.createElement( 'link' );
+  link.rel = 'stylesheet';
+  link.type = 'text/css';
+  link.href = window.location.search.match( /print-pdf/gi ) ? 'reveal.js/css/print/pdf.css' : 'reveal.jscss/print/paper.css';
+  document.getElementsByTagName( 'head' )[0].appendChild( link );
+</script>
+
   <!--[if lt IE 9]>
   <script src="reveal.js/lib/js/html5shiv.js"></script>
   <![endif]-->
@@ -214,8 +223,10 @@
           { src: 'reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
           { src: 'reveal.js/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
           { src: 'reveal.js/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } },
-	  { src: 'reveal.js/plugin/toc-progress/toc-progress.js', async: true, callback: function()
-		{ toc_progress.initialize(); toc_progress.create(); }},
+
+// Muestra la tabla de contenido a pie de página
+//	  { src: 'reveal.js/plugin/toc-progress/toc-progress.js', async: true, callback: function()
+//		{ toc_progress.initialize(); toc_progress.create(); }},
           { src: 'reveal.js/plugin/reveal-svg-fragment.js', condition: function() { return !!document.querySelector( '[data-svg-fragment]' ); } },
 //          { src: 'reveal.js/plugin/search/search.js', async: true, condition: function() { return !!document.body.classList; }, }
 //          { src: 'reveal.js/plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }
