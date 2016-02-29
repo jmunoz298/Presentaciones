@@ -155,3 +155,9 @@ ul, ol, div, p {
 	position: relative;
 	z-index: 1;
 }
+
+/*Referencies for pdf */
+.reveal .references p {
+  font-size: 0.5em;
+  text-align: left;
+}
