@@ -100,23 +100,36 @@ $endfor$
       // Full list of configuration options available here:
       // https://github.com/hakimel/reveal.js#configuration
       Reveal.initialize({
+
+        //Opciones reveal
         controls: true,
         rollingLinks: true,
         previewLinks: false,
         progress: true,
         history: true,
         center: false,
-	zoomKey: 'shift',
+	      zoomKey: 'shift',
         theme: $if(theme)$'$theme$'$else$Reveal.getQueryHash().theme$endif$, // available themes are in /css/theme
         transition: $if(transition)$'$transition$'$else$Reveal.getQueryHash().transition || 'default'$endif$, // default/cube/page/concave/zoom/linear/fade/none
 
+        //Opciones plugin menu
+
+        menu: {
+          themes: false,
+          markers: true,
+          custom: [
+                      { title: 'About', icon: '<i class="fa fa-info">', content: '<p>This slidedeck is created with reveal.js</p><p>Ayuda sobre atajos de teclado: "?"</p>' }
+                  ]
+          },
 
         // Optional libraries used to extend on reveal.js
         dependencies: [
           { src: '$revealjs-url$/lib/js/classList.js', condition: function() { return !document.body.classList; } },
           { src: '$revealjs-url$/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
           { src: '$revealjs-url$/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } },
-
+          $if(lateral-menu)$
+            { src: 'reveal.js/plugin/reveal.js-menu-master/menu.js' },
+          $endif$
 // Muestra la tabla de contenido a pie de página
 //	  { src: 'reveal.js/plugin/toc-progress/toc-progress.js', async: true, callback: function()
 //		{ toc_progress.initialize(); toc_progress.create(); }},
