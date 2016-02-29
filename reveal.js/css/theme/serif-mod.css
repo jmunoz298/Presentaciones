@@ -25,7 +25,7 @@
  *********************************************/
 body {
   background: white;
-  background-color: white; } 
+  background-color: white; }
 .reveal {
   font-family: 'Open Sans', sans-serif;
   font-size: 32px;
@@ -318,7 +318,7 @@ html.laback .reveal section img {
   display:block;
 }
 .reveal .references p {
-  font-size: 0.5em;
+  font-size: 0.75em;
   text-align: left;
 }
 
@@ -553,7 +553,7 @@ html.laback .reveal section img {
 .fondo {
  background-color: rgba(0, 0, 0, 0.8);}
 
-.fondo ul{background-color:
+.slides .fondo ul{background-color:
   white;
   margin: 0;
   padding:0;
@@ -605,7 +605,7 @@ color:blue;}
 
 /** Listas desordenadas **/
 
-.reveal li{
+.reveal .slides li{
    font-size:1.3em;
    color: #337ab7}
 
@@ -630,18 +630,18 @@ color:blue;}
 }
 
 /** Listas con iconos-fuentes **/
-.reveal ul
+.reveal .slides ul
 {
 	list-style-type: none;
 }
 
-.reveal ul li
+.reveal .slides ul li
 {
 	text-indent: -1.4em;
 	margin: 0.5em 2em;
 }
 
-.reveal ul li:before, .reveal dt:before
+.reveal .slides ul li:before, .reveal .slides dt:before
 {
 	font-family: bullets;
 	content: "\e809";
@@ -650,10 +650,12 @@ color:blue;}
 	color: #8c8;
 }
 
-.reveal ul li:before { content: "\e809"; }
-.reveal dt:before { content: "\e805"; color: black;}
-.reveal ul li.fragment:before { content: "\e811"; }
-.reveal ul li.visible:before { content: "\e809"; }
+.reveal .slides ul li:before { content: "\e809"; }
+.reveal .slides dt:before { content: "\e805"; color: black;}
+.reveal .slides ul li.fragment:before { content: "\e811"; }
+.reveal .slides ul li.visible:before { content: "\e809"; }
+/** Fin Listas con iconos-fuentes **/
+
 
 .reveal pre.left code{
   background-color: white;
@@ -665,3 +667,19 @@ color:blue;}
 /** Mostrar ribbon fork sólo en primera transparencia, si esta tiene data-state="show-github-ribbon" **/
 .ribbon { display: none; }
 .show-github-ribbon .ribbon { display: block; }
+
+/** Poder hacer scroll vertical en algunas diapos **/
+.scrollable {
+    overflow-y: auto  !important;
+    overflow-x: hidden !important;
+    height: 700px;
+}
+
+/**Background image opacity **/
+.opacidad .reveal .backgrounds{
+filter:alpha(opacity=5);
+opacity:0.3;}
+
+.reveal table caption{
+  font-size: 0.8em;
+}
