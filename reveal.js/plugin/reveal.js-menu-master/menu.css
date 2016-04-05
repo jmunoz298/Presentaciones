@@ -22,7 +22,7 @@
 	border-bottom: solid 1px #555;
 }
 
-.reveal .slide-menu-item,
+.reveal .slide-menu-item, 
 .reveal .slide-menu-item-vertical {
 	display: block;
 	text-align: left;
@@ -48,7 +48,7 @@
 	color: #eee;
 }
 
-.reveal .slide-menu-item.no-title .slide-menu-item-title,
+.reveal .slide-menu-item.no-title .slide-menu-item-title, 
 .reveal .slide-menu-item-vertical.no-title .slide-menu-item-title {
 	font-style: italic;
 }
@@ -135,7 +135,7 @@
 
 .reveal .slide-menu-toolbar > li.active-toolbar-button {
  	color: white;
- 	text-shadow: 0 1px black;
+ 	text-shadow: 0 1px black;	
 }
 
 .slide-menu-toolbar > li:hover {
@@ -220,7 +220,7 @@
 	margin-right: 10px;
 }
 
-
+ 
 /*
  * Theme and Transitions buttons
  */

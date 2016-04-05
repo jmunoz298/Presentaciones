@@ -22,6 +22,8 @@ var RevealMenu = window.RevealMenu || (function(){
 			//
 			var side = options.side || 'left';	// 'left' or 'right'
 			var numbers = options.numbers || false;
+			var titleSelector = 'h1, h2, h3, h4, h5';
+			if (typeof options.titleSelector === 'string') titleSelector = options.titleSelector;
 			var hideMissingTitles = options.hideMissingTitles || false;
 			var markers = options.markers || false;
 			var custom = options.custom;
@@ -93,7 +95,7 @@ var RevealMenu = window.RevealMenu || (function(){
 					if (offsetFromBottom < 0) {
 						disableMouseSelection();
 						el.scrollIntoView(false);
-						reenableMouseSelection();
+						reenableMouseSelection();	
 					}
 				}
 			}
@@ -305,13 +307,13 @@ var RevealMenu = window.RevealMenu || (function(){
 			//
 			// Slide links
 			//
-			function item(type, section, i, h, v) {
+			function generateItem(type, section, i, h, v) {
 				var link = '/#/' + h;
 				if (typeof v === 'number' && !isNaN( v )) link += '/' + v;
 
 				var title = $(section).data('menu-title') ||
 					$('.menu-title', section).text() ||
-					$('h1', section).text();
+					$(titleSelector, section).text();
 				if (!title) {
 					if (hideMissingTitles) return '';
 					title = "Slide " + i;
@@ -355,7 +357,7 @@ var RevealMenu = window.RevealMenu || (function(){
 				var m = '';
 				if (markers) {
 					m = '<i class="fa fa-check-circle past"></i>' +
-								'<i class="fa fa-dot-circle-o active"></i>' +
+								'<i class="fa fa-dot-circle-o active"></i>' + 
 								'<i class="fa fa-circle-thin future"></i>';
 				}
 
@@ -423,14 +425,19 @@ var RevealMenu = window.RevealMenu || (function(){
 				var subsections = $('section', section);
 				if (subsections.length > 0) {
 					subsections.each(function(subsection, v) {
-						slideCount++;
 						var type = (v === 0 ? 'slide-menu-item' : 'slide-menu-item-vertical');
-						items.append(item(type, subsection, slideCount, h, v));
+						var item = generateItem(type, subsection, slideCount, h, v);
+						if (item) {
+							slideCount++;
+							items.append(item);
+						}
 					});
 				} else {
-					slideCount++;
-					var type = 'slide-menu-item';
-					items.append(item(type, section, slideCount, h));
+					var item = generateItem('slide-menu-item', section, slideCount, h);
+					if (item) {
+						slideCount++;
+						items.append(item);
+					}
 				}
 			});
 			$('.slide-menu-item, .slide-menu-item-vertical').click(clicked);

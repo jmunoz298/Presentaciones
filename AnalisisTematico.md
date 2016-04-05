@@ -8,6 +8,7 @@ tema: "Perspectivas discursivas en la Investigación Social"
 url: "http:/juan.psicologiasocial.eu"
 bibliography: diapos.bib
 csl: apa.csl
+lateral-menu: 'True'
 ...
 
 #Definiciones {.mitit .center}

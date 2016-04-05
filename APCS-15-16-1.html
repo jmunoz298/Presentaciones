@@ -30,7 +30,7 @@
     <div class="slides">
 <section data-state="no-toc-progress , show-github-ribbon">
     <h1 class="title .no-toc-progress">Acción Pública y Cambio Social</h1>
-<h2>Perspectivas de la acción colectiva</h2>
+<h2>Campos de estudio</h2>
     <h4 class="author">Juan Muñoz</h4>
     <h4 class="author">Universitat Autònoma de Barcelona</h4>
     <h4 class="date"></h4>
@@ -333,24 +333,36 @@ Resulta completamente ocioso discutir si una sociedad debe ser o no debe ser con
       // Full list of configuration options available here:
       // https://github.com/hakimel/reveal.js#configuration
       Reveal.initialize({
+
+        //Opciones reveal
         controls: true,
         rollingLinks: true,
         previewLinks: false,
         progress: true,
         history: true,
         center: false,
-	zoomKey: 'shift',
+	      zoomKey: 'shift',
         theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
         transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
 
+        //Opciones plugin menu
+
+        menu: {
+          themes: false,
+          markers: true,
+	  titleSelector: 'h1',
+          custom: [
+                      { title: 'About', icon: '<i class="fa fa-info">', content: '<p>This slidedeck is created with reveal.js</p><p>Ayuda sobre atajos de teclado: "?"</p>' }
+                  ]
+          },
 
         // Optional libraries used to extend on reveal.js
         dependencies: [
           { src: 'reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
           { src: 'reveal.js/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
           { src: 'reveal.js/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } },
-
-// Muestra la tabla de contenido a pie de página
+                      { src: 'reveal.js/plugin/reveal.js-menu-master/menu.js' },
+          // Muestra la tabla de contenido a pie de página
 //	  { src: 'reveal.js/plugin/toc-progress/toc-progress.js', async: true, callback: function()
 //		{ toc_progress.initialize(); toc_progress.create(); }},
           { src: 'reveal.js/plugin/reveal-svg-fragment.js', condition: function() { return !!document.querySelector( '[data-svg-fragment]' ); } },
@@ -364,7 +376,7 @@ Resulta completamente ocioso discutir si una sociedad debe ser o no debe ser con
     </div>
 <!--
 <div style="position: absolute; bottom: 0px; margin-left: 0px; width: 100%; background-color:#fff; padding: 20px;
-    filter:alpha(opacity=5); opacity:0.5; border-color:#000000;"><center><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Llicència de Creative Commons" style="border-width:0" src="img/cc-by.png" /></a> Juan Muñoz  | Acción Pública y Cambio Social - <b>Perspectivas de la acción colectiva</b></center>
+    filter:alpha(opacity=5); opacity:0.5; border-color:#000000;"><center><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Llicència de Creative Commons" style="border-width:0" src="img/cc-by.png" /></a> Juan Muñoz  | Acción Pública y Cambio Social - <b>Campos de estudio</b></center>
 
 </div>
 -->

@@ -11,7 +11,16 @@
  <link rel="stylesheet" href="reveal.js/plugin/toc-progress/toc-progress.css">
   <!--  <style type="text/css">code{white-space: pre;}</style> -->
     <link rel="stylesheet" href="reveal.js/css/theme/serif-mod.css" id="theme">
-  <link rel="stylesheet" media="print" href="reveal.js/css/print/pdf.css" />
+
+<!-- If the query includes 'print-pdf', use the PDF print sheet -->
+<script>
+  var link = document.createElement( 'link' );
+  link.rel = 'stylesheet';
+  link.type = 'text/css';
+  link.href = window.location.search.match( /print-pdf/gi ) ? 'reveal.js/css/print/pdf.css' : 'reveal.jscss/print/paper.css';
+  document.getElementsByTagName( 'head' )[0].appendChild( link );
+</script>
+
   <!--[if lt IE 9]>
   <script src="reveal.js/lib/js/html5shiv.js"></script>
   <![endif]-->
@@ -38,7 +47,8 @@
 </section><section id="section" class="slide level2">
 <h1></h1>
 <blockquote>
-<p>[definimos] la conducta colectiva como una acción voluntaria, dirigida a una meta, que se produce en una situación relativamente desorganizada, en la que las normas y valores predominantes de la sociedad dejan de actuar sobre la conducta individual. La conducta colectiva consiste en la reacción de un grupo a alguna situación.<br /><span class="citation" data-cites="appelbaum_sociology_1997">Appelbaum &amp; Chambliss (1997, p. 422)</span></p>
+<p>[definimos] la conducta colectiva como una acción voluntaria, dirigida a una meta, que se produce en una situación relativamente desorganizada, en la que las normas y valores predominantes de la sociedad dejan de actuar sobre la conducta individual. La conducta colectiva consiste en la reacción de un grupo a alguna situación.<br />
+<span class="citation" data-cites="appelbaum_sociology_1997">(<span class="citeproc-not-found" data-reference-id="appelbaum_sociology_1997"><strong>???</strong></span>)</span></p>
 </blockquote>
 </section><section id="son-un-fenómeno..." class="slide level2" data-state="opacidad">
 <h1>Son un fenómeno...</h1>
@@ -58,7 +68,8 @@
 </section><section id="movimientos-sociales" class="slide level2">
 <h1>Movimientos sociales</h1>
 <blockquote>
-<p>Una colectividad que actúa con cierta continuidad para promover un cambio en la sociedad o grupo de la que forma parte.<br /><span class="citation" data-cites="miller_introduction_2013">(Turner &amp; Killian, 1987 en Miller, 2013, p. 469)</span></p>
+<p>Una <strong>colectividad</strong> que actúa con cierta <strong>cotinuidad</strong> para <strong>promover un cambio</strong> en la sociedad o grupo de la que forma parte.<br />
+<span class="citation" data-cites="miller_introduction_2013">(Turner &amp; Killian, 1987 en <span class="citeproc-not-found" data-reference-id="miller_introduction_2013"><strong>???</strong></span>)</span></p>
 </blockquote>
 </section></section>
 <section><section id="el-difícil-camino-de-la-psicología-colectiva" class="titleslide slide level1 mitit center"><h1>El difícil camino de la Psicología colectiva</h1></section><section id="problemas-de-la-psicología-colectiva" class="slide level2">
@@ -80,7 +91,8 @@
 </section><section id="el-rumor" class="slide level2" data-background="imagenes/Rumor.jpg" data-background-transition="fade" data-state="fondo">
 <h1>El rumor</h1>
 <blockquote>
-<p>Mensajero del error y del mal tanto como de la verdad, el rumor, la más rápida de todas las plagas, va desencadenando el terror y se fortifica difundiéndose.<br /><code class="autor">Virgilio, La Eneida</code></p>
+<p>Mensajero del error y del mal tanto como de la verdad, el rumor, la más rápida de todas las plagas, va desencadenando el terror y se fortifica difundiéndose.<br />
+<code class="autor">Virgilio, La Eneida</code></p>
 </blockquote>
 </section><section id="el-rumor-1" class="slide level2" data-background="imagenes/rumor.jpg" data-background-transition="fade" data-state="fondo">
 <h1>El rumor</h1>
@@ -128,7 +140,6 @@
 <video class="stretch" controls>
 <source src="multimedia/HeyselStadium.mp4">
 </video>
-
 <pre><code>Heysel Stadium Disaster (1985)</code></pre>
 </section><section id="violencia-en-el-deporte-1" class="slide level2" data-background="imagenes/violencia-futbol.jpg" data-background-transition="fade" data-state="fondo">
 <h1>Violencia en el deporte</h1>
@@ -141,13 +152,11 @@
 <video class="stretch"  controls>
 <source src="multimedia/EgyptAfter.mp4">
 </video>
-
 <h4 id="deadly-violence-in-egypt-after-court-issues-death-sentences-for-football-hooligans">Deadly violence in Egypt after court issues death sentences for football hooligans</h4>
-</section><section id="referencias" class="slide level2">
+</section><section id="referencias" class="slide level2 unnumbered">
 <h1>Referencias</h1>
-<div class="references">
-<p>Appelbaum, R. P., &amp; Chambliss, W. J. (1997). <em>Sociology: A Brief Introduction</em>. New York: Longman Pub Group.</p>
-<p>Miller, D. L. (2013). <em>Introduction to Collective Behavior and Collective Action: Third Edition</em>. Long Grove, IL.: Waveland Press.</p>
+<div id="refs" class="references">
+
 </div>
 </section></section>
     </div>
@@ -177,8 +186,10 @@
           { src: 'reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
           { src: 'reveal.js/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
           { src: 'reveal.js/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } },
-	  { src: 'reveal.js/plugin/toc-progress/toc-progress.js', async: true, callback: function()
-		{ toc_progress.initialize(); toc_progress.create(); }},
+
+// Muestra la tabla de contenido a pie de página
+//	  { src: 'reveal.js/plugin/toc-progress/toc-progress.js', async: true, callback: function()
+//		{ toc_progress.initialize(); toc_progress.create(); }},
           { src: 'reveal.js/plugin/reveal-svg-fragment.js', condition: function() { return !!document.querySelector( '[data-svg-fragment]' ); } },
 //          { src: 'reveal.js/plugin/search/search.js', async: true, condition: function() { return !!document.body.classList; }, }
 //          { src: 'reveal.js/plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }

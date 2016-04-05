@@ -11,7 +11,16 @@
  <link rel="stylesheet" href="reveal.js/plugin/toc-progress/toc-progress.css">
   <!--  <style type="text/css">code{white-space: pre;}</style> -->
     <link rel="stylesheet" href="reveal.js/css/theme/serif-mod.css" id="theme">
-  <link rel="stylesheet" media="print" href="reveal.js/css/print/pdf.css" />
+
+<!-- If the query includes 'print-pdf', use the PDF print sheet -->
+<script>
+  var link = document.createElement( 'link' );
+  link.rel = 'stylesheet';
+  link.type = 'text/css';
+  link.href = window.location.search.match( /print-pdf/gi ) ? 'reveal.js/css/print/pdf.css' : 'reveal.jscss/print/paper.css';
+  document.getElementsByTagName( 'head' )[0].appendChild( link );
+</script>
+
   <!--[if lt IE 9]>
   <script src="reveal.js/lib/js/html5shiv.js"></script>
   <![endif]-->
@@ -29,28 +38,173 @@
 <div style="position: absolute; bottom: 0px; margin-left: 0px; width: 100%; <center><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Llicència de Creative Commons" style="border-width:0" src="img/cc-by.png" /></a></center>
 </div>
 </section>
-<section><section id="índice" class="titleslide slide level1"><h1>Índice</h1></section></section>
-<section><section id="section" class="titleslide slide level1"><h1></h1></section><section id="la-tragedia-de-los-comunes" class="slide level2 mitit">
-<h1>La tragedia de los comunes</h1>
+<section id="índice" class="slide level2">
+<h1>Índice</h1>
+<ul>
+<li class="fragment">La tragedia de los comunes</li>
+<li class="fragment">Los bienes comunes</li>
+<li class="fragment">Bienes comunes culturales</li>
+</ul>
+</section>
+<section><section id="la-tragedia-de-los-comunes" class="titleslide slide level1 mitit"><h1>La tragedia de los comunes</h1></section><section id="section" class="slide level2">
+<h1></h1>
+<blockquote>
+<p>Pero, ¿qué significa libertad? Cuando los hombres mutuamente acordaron instaurar leyes contra los robos, la humanidad se volvió más libre, no menos. Los individuos encerrados en la lógica de los recursos comunes son libres únicamente para traer la ruina universal; una vez que ven la necesidad de la coerción mutua, quedan libres para perseguir nuevas metas.<br />
+<code class="autor">Hardin, 1968</code></p>
+</blockquote>
+</section><section id="section-1" class="slide level2">
+<h1></h1>
+<p>La Tragedia de los Comunes es el agotamiento de un recurso compartido por las personas, actuando de forma independiente y racional de acuerdo con el propio interés, a pesar de su conocimiento de que agotar el recurso común es contrario al interés a largo plazo del grupo.</p>
+<figure>
+<img src="imagenes/TragedyOfTheCommons.png" alt="" />
+</figure>
+</section><section id="egoísmo" class="slide level2">
+<h1>Egoísmo</h1>
+<blockquote>
+<p>El sistema propuesto ofrece todavía otro inconveniente, que es el poco interés que se tiene por la propiedad común, porque cada uno piensa en sus intereses privados y se cuida poco de los públicos, sino es en cuanto le toca personalmente, pues en todos los demás descansa de buen grado en los cuidados que otros se toman por ellos, sucediendo lo que en una casa servida por muchos criados, que unos por otros resulta mal hecho el servicio.<br />
+<code class="autor">Aristóteles, La Política, libro 1, capítulo 1</code></p>
+</blockquote>
+</section><section id="egoísmo-1" class="slide level2">
+<h1>Egoísmo</h1>
+<blockquote>
+<p>Las personas dedican una mínima fracción de su tiempo para la consideración de cualquier objeto público, la mayor parte a la persecución de sus propios objetivos. Mientras tanto, fantasean que su negligencia no les causará ningún daño, que es asunto de otros el cuidar de esto o aquello para él; y así, siendo compartida esta misma idea por todos por separado, la causa común decae imperceptiblemente.<br />
+<code class="autor">Tucidides, Historia de las guerras del Peloponeso</code></p>
+</blockquote>
+</section><section id="dilemas-sociales" class="slide level2">
+<h1>Dilemas sociales</h1>
+<blockquote>
+<p>Definimos los dilemas sociales como situaciones en las que una forma no cooperativa de actuación es (en ocasiones) tentadora para cada individuo porque produce mejores resultados para ella misma (a menudo a corto plazo), y si todos siguen esta forma no cooperativa de actuación, todos obtendrán (a menudo a largo plazo) peores resultados que si hubieran cooperado.<br />
+<code class="autor">Lange, Balliet, Parks, &amp; Vugt, 2014, p. 8</code></p>
+</blockquote>
+</section><section id="el-dilema-del-prisionero" class="slide level2">
+<h1>El dilema del prisionero</h1>
+<figure>
+<img src="imagenes/DilemaPrisionero.jpg" alt="Dilema del prisionero" /><figcaption>Dilema del prisionero</figcaption>
+</figure>
+</section><section id="egoísmo-2" class="slide level2">
+<h1>¿Egoísmo?</h1>
+<div id="column1" style="float:left; margin:0; width:20%;">
+<figure>
+<img src="imagenes/Kropotkin.jpg" alt="Piotr Kropotkin 1902" /><figcaption>Piotr Kropotkin<br />
+1902</figcaption>
+</figure>
+</div>
+<div id="column1" style="float:left; margin:0; width:80%;">
+<blockquote>
+<p>Afirmamos que la sociabilidad es la ventaja más grande en la lucha por la existencia en todas las circunstancias naturales, sean cuales fueran. Las especies que voluntaria o involuntariamente reniegan de ella, están condenadas a la extinción, mientras que los animales que saben unirse del mejor modo, tienen mayores oportunidades para subsistir y para un desarrollo máximo (…) Los vertebrados superiores, y en especial el género humano, sirven como la mejor demostración de esta afirmación.<br />
+<code class="autor">Kropotkin, El apoyo mútuo</code></p>
+</blockquote>
+</div>
 </section></section>
-<section><section id="section-1" class="titleslide slide level1"><h1></h1></section></section>
-<section><section id="section-2" class="titleslide slide level1"><h1></h1></section></section>
-<section><section id="egoísmo" class="titleslide slide level1"><h1>Egoísmo</h1></section></section>
-<section><section id="egoísmo-1" class="titleslide slide level1"><h1>Egoísmo</h1></section></section>
-<section><section id="dilemas-sociales" class="titleslide slide level1"><h1>Dilemas sociales</h1></section></section>
-<section><section id="el-dilema-del-prisionero" class="titleslide slide level1"><h1>El dilema del prisionero</h1></section></section>
-<section><section id="egoísmo-2" class="titleslide slide level1"><h1>¿Egoísmo?</h1></section></section>
-<section><section id="section-3" class="titleslide slide level1"><h1></h1></section><section id="los-bienes-comunes" class="slide level2 mitit">
-<h1>Los bienes comunes</h1>
+<section><section id="los-bienes-comunes" class="titleslide slide level1 mitit"><h1>Los bienes comunes</h1></section><section id="características-de-los-recursos" class="slide level2">
+<h1>Características de los recursos</h1>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;"></th>
+<th style="text-align: center;">Excluible</th>
+<th style="text-align: center;">No Excluible</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Rivalidad</td>
+<td style="text-align: center;">Bienes privados</td>
+<td style="text-align: center;">Recursos comunes<br>(Common-Pool Resources)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">No rivalidad</td>
+<td style="text-align: center;">Clubs</td>
+<td style="text-align: center;">Bienes públicos</td>
+</tr>
+</tbody>
+</table>
+<figure>
+<img src="imagenes/Ostrom.jpg" alt="Elinor Ostrom" /><figcaption>Elinor Ostrom</figcaption>
+</figure>
 </section></section>
-<section><section id="características-de-los-recursos" class="titleslide slide level1"><h1>Características de los recursos</h1></section></section>
-<section><section id="section-4" class="titleslide slide level1"><h1></h1></section><section id="bienes-comunes-culturales" class="slide level2 mitit">
-<h1>Bienes comunes culturales</h1>
+<section><section id="bienes-comunes-culturales" class="titleslide slide level1 mitit"><h1>Bienes comunes culturales</h1></section><section id="section-2" class="slide level2">
+<h1></h1>
+<blockquote>
+<p>Si la naturaleza ha creado alguna cosa menos susceptible que todas las demás de ser objeto de propiedad exclusiva, ésa es la acción del poder del pensamiento que llamamos idea, la cual sólo puede poseer un individuo si la guarda para sí; pero en el momento en que se divulga, se fuerza a sí misma a estar en posesión de todos, y su receptor no puede desposeerse de ella. Además, su peculiar carácter es tal que nadie posee menos de ella porque otros la posean íntegramente. Aquél que recibe una idea de mí, recibe instrucción para sí sin reducir la mía, del mismo modo que aquél que enciende su cirio con el mío, recibe luz sin dejarme a oscuras. (...)</p>
+</blockquote>
+</section><section id="section-3" class="slide level2">
+<h1></h1>
+<blockquote>
+<p>El hecho de que las ideas puedan difundirse libremente de unos a otros por todo el globo, para moral y mutua instrucción de las personas y mejora de su condición, parece haber sido diseñado de forma peculiar y benevolente por la naturaleza, cuando las hizo como el fuego, susceptibles de expandirse por todo el espacio sin que disminuya su densidad en ningún punto, y como el aire que respiramos, en que nos movemos y tenemos nuestro ser físico, incapaces de ser confinadas o poseídas de forma exclusiva. Así pues, las invenciones no pueden, por naturaleza, estar sujetas a propiedad.<br />
+<code class="autor">Thomas Jefferson, 1813</code></p>
+</blockquote>
+</section><section id="section-4" class="slide level2">
+<h1></h1>
+<blockquote>
+<p>Cada descubrimiento, cada progreso, cada aumento de la riqueza de la humanidad, tiene su origen en el conjunto del trabajo manual y cerebral, pasado y presente. Entonces, ¿qué derecho asiste a nadie para apropiarse la menor partícula de ese inmenso todo y decir: «Esto es mío y no vuestro»?.<br />
+<code class="autor">Piotr Kropotkin (1892). La conquista del pan</code></p>
+</blockquote>
+</section><section id="diferentes-paradigmas" class="slide level2">
+<h1>Diferentes paradigmas</h1>
+<table>
+<caption>Producción de conocimiento</caption>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Paradigma con ánimo de lucro</th>
+<th style="text-align: left;">Paradigma de los comunes</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Ideología y valores corporativos integrados en la educación y la producción de conocimiento.</td>
+<td style="text-align: left;">Peer-to-peer, el trabajo en red y la colaboración permiten diversidad de puntos de vista.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Conocimiento considerado como bien escaso que se compra y se vende.</td>
+<td style="text-align: left;">Conocimiento considerado como recurso abundante para el bien común de la sociedad.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Tecnologías “propietarias”</td>
+<td style="text-align: left;">Tecnologías libres</td>
+</tr>
+</tbody>
+</table>
+<p><code class="figcaption">Silke Helfrich (2014). The Logic of the Commons</code></p>
+</section><section id="section-5" class="slide level2">
+<h1></h1>
+<figure>
+<img src="imagenes/Impresora.png" alt="Xerox 9700 Electronic Printing System" /><figcaption>Xerox 9700 Electronic Printing System</figcaption>
+</figure>
+</section><section id="section-6" class="slide level2">
+<h1></h1>
+<figure>
+<img src="imagenes/CuatroLibertades.jpg" alt="Cuatro libertades" /><figcaption>Cuatro libertades</figcaption>
+</figure>
+</section><section id="section-7" class="slide level2">
+<h1></h1>
+<figure>
+<img src="imagenes/Mickey.jpg" alt="Steamboat Willie, 18 de noviembre de 1928" /><figcaption>Steamboat Willie, 18 de noviembre de 1928</figcaption>
+</figure>
+</section><section id="section-8" class="slide level2">
+<h1></h1>
+<figure>
+<img src="imagenes/Disney.jpg" alt="" />
+</figure>
+</section><section id="section-9" class="slide level2">
+<h1></h1>
+<figure>
+<img src="imagenes/CEDRO-UAB.jpg" alt="CEDRO vs. UAB" /><figcaption>CEDRO vs. UAB</figcaption>
+</figure>
+</section><section id="section-10" class="slide level2">
+<h1></h1>
+<figure>
+<img src="imagenes/CreativeCommons.jpg" alt="Licencias" /><figcaption>Licencias</figcaption>
+</figure>
+</section><section id="section-11" class="slide level2">
+<h1></h1>
+<figure>
+<img src="img/GameOver.png" alt="" />
+</figure>
+<div id="refs" class="references">
+
+</div>
 </section></section>
-<section><section id="section-5" class="titleslide slide level1" data-background="imagenes/Compartir.jpg" data-background-transition="fade" data-state="fondo"><h1></h1></section></section>
-<section><section id="section-6" class="titleslide slide level1"><h1></h1></section></section>
-<section><section id="diferentes-paradigmas" class="titleslide slide level1"><h1>Diferentes paradigmas</h1></section></section>
-<section><section id="section-7" class="titleslide slide level1"><h1></h1></section></section>
     </div>
   </div>
 
@@ -62,24 +216,38 @@
       // Full list of configuration options available here:
       // https://github.com/hakimel/reveal.js#configuration
       Reveal.initialize({
+
+        //Opciones reveal
         controls: true,
         rollingLinks: true,
         previewLinks: false,
         progress: true,
         history: true,
         center: false,
-	zoomKey: 'shift',
+	      zoomKey: 'shift',
         theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
         transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
 
+        //Opciones plugin menu
+
+        menu: {
+          themes: false,
+          markers: true,
+	        titleSelector: 'h1',
+          custom: [
+                      { title: 'About', icon: '<i class="fa fa-info">', content: '<p>This slidedeck is created with reveal.js</p><p>Ayuda sobre atajos de teclado: "?"</p>' }
+                  ]
+          },
 
         // Optional libraries used to extend on reveal.js
         dependencies: [
           { src: 'reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
           { src: 'reveal.js/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
           { src: 'reveal.js/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } },
-	  { src: 'reveal.js/plugin/toc-progress/toc-progress.js', async: true, callback: function()
-		{ toc_progress.initialize(); toc_progress.create(); }},
+                      { src: 'reveal.js/plugin/reveal.js-menu-master/menu.js' },
+          // Muestra la tabla de contenido a pie de página
+//	  { src: 'reveal.js/plugin/toc-progress/toc-progress.js', async: true, callback: function()
+//		{ toc_progress.initialize(); toc_progress.create(); }},
           { src: 'reveal.js/plugin/reveal-svg-fragment.js', condition: function() { return !!document.querySelector( '[data-svg-fragment]' ); } },
 //          { src: 'reveal.js/plugin/search/search.js', async: true, condition: function() { return !!document.body.classList; }, }
 //          { src: 'reveal.js/plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }

@@ -36,7 +36,7 @@ csl: apa.csl
 ![Mapa conceptual](imagenes/Mapa.png)
 
 ##Movimientos sociales
->Una colectividad que actúa con cierta continuidad para promover un cambio en la sociedad o grupo de la que forma parte.\
+>Una **colectividad** que actúa con cierta **continuidad** para **promover un cambio** en la sociedad o grupo de la que forma parte.\
 [Turner & Killian, 1987 en @miller_introduction_2013, p. 469]
 
 #El difícil camino de la Psicología colectiva {.mitit .center}

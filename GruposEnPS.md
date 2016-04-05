@@ -207,20 +207,23 @@ Eigenvector
 ##Pensamiento grupal
 
 
+>La tendencia de un grupo de toma de decisiones a buscar el consenso y evitar el examen crítico de las alternativas.
+
+. . .
+
 <div id="column1" style="float:left; margin:0; width:40%;">
 
 ![](imagenes-grupos/BahiaCochinos-Life.jpg)
 
 </div>
 
+. . .
+
 <div id="column1" style="float:left; margin:0; width:60%;">
 
 ![Challenger](imagenes-grupos/Challenger.jpg)
 
 </div>
-
->La tendencia de un grupo de toma de decisiones a buscar el consenso y evitar el examen crítico de las alternativas.
-
 
 ##Proceso
 

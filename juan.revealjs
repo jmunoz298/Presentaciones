@@ -74,22 +74,21 @@ $endfor$
 </section>
 $endif$
 $if(toc)$
-
-<section id="$idprefix$TOC">
-<p>Índice</p>
-$toc$
-</section>
+   <section id="$idprefix$TOC">
+    <p>Índice</p>
+    $toc$
+   </section>
 $endif$
 $if(abstract)$
-<section>
-$abstract$
-</section>
+  <section>
+    $abstract$
+  </section>
 $endif$
 $body$
     </div>
   </div>
 $for(include-after)$
-$include-after$
+  $include-after$
 $endfor$
 
   <script src="$revealjs-url$/lib/js/head.min.js"></script>
@@ -117,6 +116,7 @@ $endfor$
         menu: {
           themes: false,
           markers: true,
+	        titleSelector: 'h1',
           custom: [
                       { title: 'About', icon: '<i class="fa fa-info">', content: '<p>This slidedeck is created with reveal.js</p><p>Ayuda sobre atajos de teclado: "?"</p>' }
                   ]

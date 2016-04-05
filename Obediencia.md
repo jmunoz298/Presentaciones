@@ -6,7 +6,6 @@ author:
 tags: [nothing, nothingness]
 tema: "Obediencia a la autoridad"
 url: "http:/juan.psicologiasocial.eu"
-bibliography: diapos.bib
 csl: apa.csl
 ...
 
@@ -409,4 +408,4 @@ OBEDIENCIA DESTRUCTIVA\
 vs.\
 DESOBEDIENCIA CONSTRUCTIVA
 
-## Referencias
+## Referencias {.scrollable}

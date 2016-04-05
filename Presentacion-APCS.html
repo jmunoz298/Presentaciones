@@ -11,7 +11,16 @@
  <link rel="stylesheet" href="reveal.js/plugin/toc-progress/toc-progress.css">
   <!--  <style type="text/css">code{white-space: pre;}</style> -->
     <link rel="stylesheet" href="reveal.js/css/theme/serif-mod.css" id="theme">
-  <link rel="stylesheet" media="print" href="reveal.js/css/print/pdf.css" />
+
+<!-- If the query includes 'print-pdf', use the PDF print sheet -->
+<script>
+  var link = document.createElement( 'link' );
+  link.rel = 'stylesheet';
+  link.type = 'text/css';
+  link.href = window.location.search.match( /print-pdf/gi ) ? 'reveal.js/css/print/pdf.css' : 'reveal.jscss/print/paper.css';
+  document.getElementsByTagName( 'head' )[0].appendChild( link );
+</script>
+
   <!--[if lt IE 9]>
   <script src="reveal.js/lib/js/html5shiv.js"></script>
   <![endif]-->
@@ -62,42 +71,42 @@
 <th style="text-align: left;">Definició</th>
 <th style="text-align: right;">%</th>
 <th style="text-align: left;">Presentació</th>
-<th style="text-align: right;">Setmana</th>
+<th style="text-align: right;">Data</th>
 </tr>
 </thead>
 <tbody>
+<tr class="odd">
+<td style="text-align: left;">EV2.a</td>
+<td style="text-align: left;">Proba escrita 1</td>
+<td style="text-align: right;">22.5</td>
+<td style="text-align: left;">Individual</td>
+<td style="text-align: right;">14 abril</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">EV2.b</td>
+<td style="text-align: left;">Proba escrita 2</td>
+<td style="text-align: right;">22.5</td>
+<td style="text-align: left;">Individual</td>
+<td style="text-align: right;">6 juny</td>
+</tr>
 <tr class="odd">
 <td style="text-align: left;">EV1</td>
 <td style="text-align: left;">Informe cas pràctic</td>
 <td style="text-align: right;">40.0</td>
 <td style="text-align: left;">Grupal</td>
-<td style="text-align: right;">18</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">EV2.a</td>
-<td style="text-align: left;">Proba escrita 1</td>
-<td style="text-align: right;">22.5</td>
-<td style="text-align: left;">Individual</td>
-<td style="text-align: right;">9</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">EV2.b</td>
-<td style="text-align: left;">Proba escrita 2</td>
-<td style="text-align: right;">22.5</td>
-<td style="text-align: left;">Individual</td>
-<td style="text-align: right;">18</td>
+<td style="text-align: right;">6 juny</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">EV3</td>
-<td style="text-align: left;">Participació “rol playing”</td>
+<td style="text-align: left;">Informe individual lectura obligatòria</td>
 <td style="text-align: right;">15.0</td>
 <td style="text-align: left;">Individual</td>
-<td style="text-align: right;">18</td>
+<td style="text-align: right;">6 juny</td>
 </tr>
 </tbody>
 </table>
 <p>El/la estudiante que entregue evidencias de aprendizaje con un peso superior o igual a 4 puntos (40%) no podrá constar como “no presentado”</p>
-<p>Para realizar el cálculo de la nota presencial hay que obtener una puntuación mínima de 2 sobre 10 en cada una de las evidencias de aprendizaje.</p>
+<p>Para realizar el cálculo de la nota presencial hay que obtener una <strong>puntuación mínima de 2 sobre 10</strong> en cada una de las evidencias de aprendizaje.</p>
 </section>
 <section id="temari" class="slide level2">
 <h1>Temari</h1>
@@ -108,56 +117,211 @@
 <li class="fragment">Instituciones sociales, continuidad del orden social</li>
 </ul>
 </section>
+<section id="programació-sesions" class="slide level2 scrollable">
+<h1>Programació sesions</h1>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Setmana</th>
+<th style="text-align: left;">Data</th>
+<th style="text-align: left;">Teoria</th>
+<th style="text-align: left;">Pràctiques</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">1</td>
+<td style="text-align: left;">11-febrer</td>
+<td style="text-align: left;">Juan</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">18-febrer</td>
+<td style="text-align: left;">Juan</td>
+<td style="text-align: left;">Joan</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">3</td>
+<td style="text-align: left;">25-febrer</td>
+<td style="text-align: left;">Juan</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">03-març</td>
+<td style="text-align: left;">Juan</td>
+<td style="text-align: left;">Joan</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">5</td>
+<td style="text-align: left;">10-març</td>
+<td style="text-align: left;">Juan</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">6</td>
+<td style="text-align: left;">17-març</td>
+<td style="text-align: left;">Juan</td>
+<td style="text-align: left;">Joan</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"></td>
+<td style="text-align: left;">24-març</td>
+<td style="text-align: left;">No lectiu</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">31-març</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Joan</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">8</td>
+<td style="text-align: left;">07-abril</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>9</strong></td>
+<td style="text-align: left;"><strong>11-abril</strong></td>
+<td style="text-align: left;"><strong>Avaluació</strong></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">10</td>
+<td style="text-align: left;">21-abril</td>
+<td style="text-align: left;">Miquel</td>
+<td style="text-align: left;">Joan</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">11</td>
+<td style="text-align: left;">28-abril</td>
+<td style="text-align: left;">Miquel</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">12</td>
+<td style="text-align: left;">05-maig</td>
+<td style="text-align: left;">Miquel</td>
+<td style="text-align: left;">Joan</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">13</td>
+<td style="text-align: left;">12-maig</td>
+<td style="text-align: left;">Miquel</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">19-maig</td>
+<td style="text-align: left;">Miquel</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">15</td>
+<td style="text-align: left;">26-maig</td>
+<td style="text-align: left;">Miquel</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">16</td>
+<td style="text-align: left;">02-juny</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>17</strong></td>
+<td style="text-align: left;"><strong>06-juny</strong></td>
+<td style="text-align: left;"><strong>Avaluació</strong></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">18</td>
+<td style="text-align: left;">16-juny</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">19</td>
+<td style="text-align: left;">23-juny</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>20</strong></td>
+<td style="text-align: left;"><strong>27-juny</strong></td>
+<td style="text-align: left;"><strong>Reavaluació</strong></td>
+<td style="text-align: left;"></td>
+</tr>
+</tbody>
+</table>
+</section>
 <section id="contacte" class="slide level2">
 <h1>Contacte</h1>
 <table>
 <thead>
 <tr class="header">
-<th style="text-align: left;"><img src="img/Direccion.png" /></th>
+<th style="text-align: left;"><img src="img/Direccion.png" alt="" /></th>
 <th style="text-align: left;">B5-034</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;"><img src="img/Clock.png" /></td>
-<td style="text-align: left;">Dimarts 10:30-12:00</td>
+<td style="text-align: left;"><img src="img/Clock.png" alt="" /></td>
+<td style="text-align: left;">Dijous 12:30-14:00</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"></td>
-<td style="text-align: left;">Dimarts: 18:00-19:00</td>
+<td style="text-align: left;"><a href="http://cita.uab.cat">Cita previa: http://cita.uab.cat</a></td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;"></td>
-<td style="text-align: left;"><a href="http://cita.uab.cat">Cita previa: http:cita.uab.cat</a></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><img src="img/Telefono.png" /></td>
+<td style="text-align: left;"><img src="img/Telefono.png" alt="" /></td>
 <td style="text-align: left;">93 581 2874</td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;"><img src="img/Correo.png" /></td>
+<tr class="even">
+<td style="text-align: left;"><img src="img/Correo.png" alt="" /></td>
 <td style="text-align: left;">juan.munoz@uab.cat</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;"><img src="img/Web.png" /></td>
-<td style="text-align: left;"><a href="http://psicologiasocial.uab.es/juan">http://psicologiasocial.uab.es/juan</a></td>
+<tr class="odd">
+<td style="text-align: left;"><img src="img/Web.png" alt="" /></td>
+<td style="text-align: left;"><a href="http://juan.psicologiasocial.eu" class="uri">http://juan.psicologiasocial.eu</a></td>
 </tr>
 </tbody>
 </table>
 </section>
+<section id="bibliografía-básica" class="slide level2 references">
+<h1>Bibliografía básica</h1>
+<p>Douglas, M. (1996). <em>¿Cómo piensan las instituciones?</em> Madrid: Alianza.</p>
+<p>Foucault, M. (2012). <em>Vigilar y castigar: nacimiento de la prisión</em>. Madrid: Biblioteca Nueva.</p>
+<p>Javaloy, F., Rodríguez, Á., &amp; Espelt, E. (2001). <em>Comportamiento colectivo y movimientos sociales: un enfoque psicosocial</em>. Madrid: Prentice Hall.</p>
+<p>Laraña Rodríguez-Cabello, E. (1999). <em>La construcción de los movimientos sociales</em>. Madrid: Alianza Editorial.</p>
+<p>Muñoz-Justicia, J., &amp; Vázquez, F. (2003). Procesos colectivos y acción social. In F. Vázquez (Ed.), <em>Psicología del comportamiento colectivo</em> (pp. 15–74). Barcelona: Ediuoc.</p>
+<figure>
+<img src="img/Books.png" alt="" />
+</figure>
+</section>
 <section id="evidencia-3-reseña" class="slide level2">
 <h1>Evidencia 3: Reseña</h1>
-<p>Foucault, M. (1975/2012). Vigilar y castigar. Editorial Biblioteca Nueva S.L.</p>
-<p>Galcerán Huguet, M. (2009). Deseo y libertad: una investigación sobre los presupuestos de la acción colectiva. Madrid: Traficantes de Sueños. Retrieved from http://www.traficantes.net/libros/deseo-y-libertad</p>
-<p>Lessig, L. (2005). Por una cultura libre. Madrid: Traficantes de Sueños. Retrieved from http://www.traficantes.net/libros/por-una-cultura-libre</p>
-</section>
-<section id="bloque-1-bibliografía-básica" class="slide level2">
-<h1>Bloque 1: Bibliografía básica</h1>
-<p>Javaloy, F. (2001). Comportamiento colectivo y movimientos sociales. Madrid: Prentice-Hall.</p>
-<p>Ovejero, A. (1997). El individuo en la masa. Psicología del comportamiento colectivo. Oviedo: Biblioteca Básica Nóbel.</p>
-<p>Reicher (1987). Conducta de masa como acción social. En J.C. Turner (Ed.). Redescubrir el grupo social (Pp. 235-273). Madrid. Morata.</p>
-<div class="references">
+<figure>
+<img src="img/Coming.png" alt="" />
+</figure>
+<div class="fragment">
+<p><a href="http://wuster.uab.cat/web_argumenta_obert/unit_10/tot_t10.html">UAB Argumenta</a></p>
+<p><a href="http://writingcenter.unc.edu/handouts/book-reviews">University of North Carolina Writing Center</a></p>
+<p>També pot ser útil llegir algun exemple de ressenya:</p>
+<p><a href="http://blogs.lse.ac.uk/lsereviewofbooks/">LSE Review of Books</a></p>
+<!--
+Foucault, M. (1975/2012). Vigilar y castigar. Editorial Biblioteca Nueva S.L.
 
+Galcerán Huguet, M. (2009). Deseo y libertad: una investigación sobre los presupuestos de la acción colectiva. Madrid: Traficantes de Sueños. Retrieved from http://www.traficantes.net/libros/deseo-y-libertad
+
+Lessig, L. (2005). Por una cultura libre. Madrid: Traficantes de Sueños. Retrieved from http://www.traficantes.net/libros/por-una-cultura-libre
+-->
+<div id="refs" class="references">
+
+</div>
 </div>
 </section>
     </div>
@@ -187,8 +351,10 @@
           { src: 'reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
           { src: 'reveal.js/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
           { src: 'reveal.js/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } },
-	  { src: 'reveal.js/plugin/toc-progress/toc-progress.js', async: true, callback: function()
-		{ toc_progress.initialize(); toc_progress.create(); }},
+
+// Muestra la tabla de contenido a pie de página
+//	  { src: 'reveal.js/plugin/toc-progress/toc-progress.js', async: true, callback: function()
+//		{ toc_progress.initialize(); toc_progress.create(); }},
           { src: 'reveal.js/plugin/reveal-svg-fragment.js', condition: function() { return !!document.querySelector( '[data-svg-fragment]' ); } },
 //          { src: 'reveal.js/plugin/search/search.js', async: true, condition: function() { return !!document.body.classList; }, }
 //          { src: 'reveal.js/plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }
