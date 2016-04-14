@@ -9,7 +9,7 @@ url: "http:/juan.psicologiasocial.eu"
 csl: apa.csl
 ...
 
-#Introducción {.mitit .center}
+#Introducción { .center}
 
 ## Obediencia
 
@@ -97,7 +97,7 @@ csl: apa.csl
 > No pocas veces no es tanto el tipo de persona que es un hombre en concreto, cuanto más bien el tipo de situación en la que se encuentra, el que determina cómo va a actuar.\
 @milgram_obediencia_1974 [p. 194]
 
-#Stanley Milgram {.mitit .center}
+#Stanley Milgram { .center}
 
 ##{data-background="imagenes-isg/Milgram-maquina.jpg"   data-background-transition=zoom data-state=fondo}
 
@@ -162,7 +162,7 @@ csl: apa.csl
 ![Resultados: Niveles de obediencia por diseño](imagenes-isg/Milgram-NivelesObediencia.jpg)
 
 
-#¿Obediencia en el siglo XXI? {.mitit .center}
+#¿Obediencia en el siglo XXI? { .center}
 
 ##
 
@@ -213,7 +213,7 @@ csl: apa.csl
 ![@haslam_shock_2015](imagenes-isg/Haslam-Reicher-Millard-2015.jpg)
 
 
-# La explicación de Milgram {.mitit .center}
+# La explicación de Milgram { .center}
 
 ##Explicación: El _Estado Agéntico_
 
@@ -244,7 +244,7 @@ O = Obediencia
  r = resolución de la tensión
 ```
 
-#La banalidad del mal {.mitit .center}
+#La banalidad del mal { .center}
 
 ##La prisión de Stanford
 
@@ -289,7 +289,7 @@ O = Obediencia
 >Las malas acciones rara vez son el producto de gente malvada que actúan por motivos malvados, sino que son el producto de buenos burócratas simplemente haciendo su trabajo.\
 @zimbardo_obedience_1974
 
-#Críticas {.mitit .center}
+#Críticas { .center}
 
 ##Tipos de críticas
 >* Teórica
@@ -344,7 +344,7 @@ Validez externa
 [Milgram, 1979, citado por @blass_milgram_1999, pp. 955-956]
 
 
-#Desobediencia {.mitit .center}
+#Desobediencia { .center}
 
 ##{data-background="imagenes-isg/AdanyEva.jpg"   data-background-transition=zoom data-state=fondo}
 
