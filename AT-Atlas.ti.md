@@ -524,9 +524,9 @@ Ejemplo
 | *término*$  | Limita la expresión de búsqueda precedente al final de la línea                |
 | \<*término* | Limita la expresión de búsqueda siguiente al inicio de una palabra             |
 | *término*\> | Limita la expresión de búsqueda precedente al inicio de una palabra            |
-|     \B      | Limita la expresión de búsqueda siguiente a NO incio de palabra                |
+|     \\B     | Limita la expresión de búsqueda siguiente a NO incio de palabra                |
 |      .      | Localiza cualquier carácter                                                    |
-|     \w      | Localiza cualquier carácter alfanumérico                                       |
+|     \\w     | Localiza cualquier carácter alfanumérico                                       |
 |      *      | Localiza cualquier cantidad (o su ausencia) de la expresión precedente         |
 |      +      | Localiza al menos una ocurrencia de la expresión precedente                    |
 

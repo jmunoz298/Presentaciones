@@ -26,7 +26,7 @@ csl: apa.csl
 ![Gallinas inconformistas](imagenes/chickenprotest.jpg "Gallinas inconformistas")
 -->
 
-#Introducción {.mitit .center}
+#Introducción { .center}
 
 ##Influencia
 > Proceso a través del cual las personas o los grupos cambian los pensamientos, sentimientos, y conductas de otros.\
@@ -52,7 +52,7 @@ Innovación
 ###### @moscovici_social_1985
 
 
-#Normalización {.mitit .center}
+#Normalización { .center}
 
 ##Normalización {data-background="imagenes-isg/cebras.jpg" data-background-transition=zoom data-state=fondo}
 
@@ -97,7 +97,7 @@ Innovación
 
 ######Desplazamiento en dirección de una posición intermedia
 
-#Conformismo {.mitit .center}
+#Conformismo { .center}
 
 ##Conformismo
 
@@ -205,7 +205,7 @@ Tu bebé empieza a llorar a gritos. Le cubres la boca para amortiguar el sonido.
 ![@kundu_morality_2013](imagenes-isg/Asch-Relevancia.jpg)
 
 
-#Influencias informativa y normativa {.mitit .center}
+#Influencias informativa y normativa { .center}
 
 <!--
 ##
@@ -294,4 +294,6 @@ Deutsch, M., & Gerard, H. B. (1973). Estudio de las influencias sociales normati
 @asch_studies_1956 [p. 3]
 
 
-##Referencias
+#Referencias {.center}
+
+## {.scrollable}
