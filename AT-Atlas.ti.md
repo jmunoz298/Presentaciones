@@ -467,6 +467,33 @@ Ejemplo
 
 #Herramientas de consulta {data-background="imagenes-cuali/Proceso-fondo.png" data-background-transition=zoom data-state=opacidad}
 
+##Buscar texto
+
+![](imagenes-cuali/Buscar-01.png)
+
+Conjunto de términos
+  : `Jorquera|Pérez-Bouza`
+
+Categoría
+  : `BNG:=Jorquera|Pérez-Bouza`
+
+Múltiples categorías
+  : `AUTONOMICO:= $AMAIUR|$BNG|$CC|$CiU`
+
+  ##GREP
+
+  |  Operador   | Función                                                                        |
+  |:-----------:|:-------------------------------------------------------------------------------|
+  | ^*término*  | Limita la expresión de búsqueda que sigue al marcador al principio de la línea |
+  | *término*$  | Limita la expresión de búsqueda precedente al final de la línea                |
+  | \<*término* | Limita la expresión de búsqueda siguiente al inicio de una palabra             |
+  | *término*\> | Limita la expresión de búsqueda precedente al inicio de una palabra            |
+  |     \\B     | Limita la expresión de búsqueda siguiente a NO incio de palabra                |
+  |      .      | Localiza cualquier carácter                                                    |
+  |     \\w     | Localiza cualquier carácter alfanumérico                                       |
+  |      *      | Localiza cualquier cantidad (o su ausencia) de la expresión precedente         |
+  |      +      | Localiza al menos una ocurrencia de la expresión precedente                    |
+
 ##Consultas
 
 <div id="column1" style="float:left; margin:0; width:65%;">
@@ -496,9 +523,15 @@ Ejemplo
 
 "Todas las citas codificadas como 'Evasión', realizadas por Rajoy o por Zapatero"
 
+![](imagenes-cuali/VennEvasion.jpg)
+
 . . .
 
 ![](imagenes-cuali/EscrituraQuery-1.jpg)
+
+##Operadores Booleanos
+
+![](imagenes-cuali/VennBooleanos.png)
 
 ##Operadores Semánticos
 
@@ -516,19 +549,21 @@ Ejemplo
 
 ![](imagenes-cuali/Proximidad.jpg)
 
-##GREP
+##Consultas: Alcance
 
-|  Operador   | Función                                                                        |
-|:-----------:|:-------------------------------------------------------------------------------|
-| ^*término*  | Limita la expresión de búsqueda que sigue al marcador al principio de la línea |
-| *término*$  | Limita la expresión de búsqueda precedente al final de la línea                |
-| \<*término* | Limita la expresión de búsqueda siguiente al inicio de una palabra             |
-| *término*\> | Limita la expresión de búsqueda precedente al inicio de una palabra            |
-|     \\B     | Limita la expresión de búsqueda siguiente a NO incio de palabra                |
-|      .      | Localiza cualquier carácter                                                    |
-|     \\w     | Localiza cualquier carácter alfanumérico                                       |
-|      *      | Localiza cualquier cantidad (o su ausencia) de la expresión precedente         |
-|      +      | Localiza al menos una ocurrencia de la expresión precedente                    |
+![](imagenes-cuali/ConsultasAlcance.png)
+
+##Concurrencias
+
+![](imagenes-cuali/TablaCoocurrencias.png)
+
+#Otras herramientas
+
+##Copiar/Restaurar UH
+
+##Unir UHs
+
+![](imagenes-cuali/UH-Fusionar-2.png)
 
 #Referencias {.center}
 
