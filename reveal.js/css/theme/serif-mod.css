@@ -302,8 +302,10 @@ html.laback .reveal section img {
   overflow: hid;
   max-height: 400px;
   /* word-wrap: normal; */
-  background: #3F3F3F;
-  color: #DCDCDC; }
+  background: #e5e3e3;
+  /*color: #DCDCDC; */
+  font-family: monospace;}
+
 
 .reveal .autor, .reveal blockquote .citation{
   /* font-family: monospace; } */
@@ -560,7 +562,7 @@ html.laback .reveal section img {
   opacity: 0.8;
   }
 
-.reveal  .mitit{
+.reveal .level1 h1{
 font-size: 2em;
 text-align: center;
 border-bottom: 0;
@@ -638,23 +640,44 @@ color:blue;}
 .reveal .slides ul li
 {
 	text-indent: -1.4em;
-	margin: 0.5em 2em;
+	/**margin: 0.5em 2em; **/
 }
 
-.reveal .slides ul li:before, .reveal .slides dt:before
+.reveal .slides ul li:before
 {
 	font-family: bullets;
-	content: "\e809";
+	content: "\e815";
 	float: left;
 	width: 1.4em;
 	color: #8c8;
 }
 
-.reveal .slides ul li:before { content: "\e809"; }
-.reveal .slides dt:before { content: "\e805"; color: black;}
+.reveal .slides dt:before
+{
+	font-family: bullets;
+	content: "\e805";
+	float: left;
+	width: 1.4em;
+	color: black;
+}
+
+.reveal .slides ul li:before { content: "\e815"; }
+.reveal .slides dt { content: "\e815"; color: black;}
 .reveal .slides ul li.fragment:before { content: "\e811"; }
 .reveal .slides ul li.visible:before { content: "\e809"; }
 /** Fin Listas con iconos-fuentes **/
+
+/**listas segundo nivel **/
+.reveal .slides ul ul li {font-size: 0.8em;}
+.reveal .slides ul ul li:before { content: "\e810"; }
+.reveal .slides ul ul li.fragment:before { content: "\e810"; }
+.reveal .slides ul ul li.visible:before { content: "\e810"; }
+
+.reveal .slides ul ul li
+{
+  padding: 5px;
+}
+/**Fin listas segundo nivel **/
 
 
 .reveal pre.left code{
@@ -682,4 +705,11 @@ opacity:0.3;}
 
 .reveal table caption{
   font-size: 0.8em;
+}
+
+section .peque {
+  font-size: 0.7em;
+  line-height: 1.7em;
+  background-color: white;
+  color: black;
 }

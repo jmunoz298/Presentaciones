@@ -229,6 +229,55 @@ F4:
 
 # Organización Datos {data-background="imagenes-cuali/Proceso-fondo.png" data-background-transition=zoom data-state=opacidad}
 
+##Agregar datos
+
+![](imagenes-cuali/EstrategiaAsignacion.png)
+
+. . .
+
+```
+Documentos > Nuevo
+  1. Agregar documentos a biblioteca
+  2. Asignar documentos externos
+```
+
+##Ejercicio: Agregar datos
+
+Desde la carpeta "ControlParlamentario"
+
+>* Agregar a biblioteca
+>* Asignar documentos externos
+
+##"Transportar" UH
+
+Si 1:
+
+Copiar y restaurar
+
+```
+Proyecto > Guardar paquete de copia
+```
+
+```
+Proyecto > Desempaquetar la copia
+```
+
+. . .
+
+O
+```
+Documentos > Administrador de fuente de datos
+   * Abrir Aaministrador de biblioteca
+       * Fuentes de datos > Exportar
+   * Exportar documentos seleccionados   
+```
+
+. . .
+
+Si 2:
+
+Copiar carpeta donde estén UH y documentos
+
 ##Familias
 ![Tipos de Familias](imagenes-cuali/Familias.png)
 
@@ -249,7 +298,7 @@ F4:
 * Senado **Y** IX legislatura
 * Senado **Y** X legislatura
 
-##Autocodificación
+##Codificación estructural
 
 . . .
 
@@ -257,11 +306,34 @@ F4:
 
 ##Ejercicio autocodificación
 
-Códigos → Codificar → Codificación automática
+```
+Códigos > Codificar > Codificación automática
+```
 
-* Autocodificar participantes
-* Autocodficar Presidente-Zapatero
-* Autocoficiar Presidente-Rajoy
+>* Autocodificar participantes
+>     * Autocodficar Presidente-Zapatero
+     * Autocoficiar Presidente-Rajoy
+>     * Otros políticos
+
+. . .
+
+¿Qué familias podemos crear?
+
+. . .
+
+>* Partidos políticos (Convergència, PP, PSOE)
+* Agrupar partidos políticos
+
+##Más codificación estructural
+
+>* Codificar:
+>     * Pregunta
+     * Respuesta
+     * Réplica
+     * Contrarréplica
+
+. . .
+¿Qué hacemos con todos los códigos "estructurales"?
 
 #Informes {data-background="imagenes-cuali/Proceso-fondo.png" data-background-transition=zoom data-state=opacidad}
 
@@ -480,7 +552,7 @@ Categoría
 Múltiples categorías
   : `AUTONOMICO:= $AMAIUR|$BNG|$CC|$CiU`
 
-  ##GREP
+##GREP
 
   |  Operador   | Función                                                                        |
   |:-----------:|:-------------------------------------------------------------------------------|

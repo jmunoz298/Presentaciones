@@ -430,7 +430,7 @@ html.laback .reveal section img {
 .fondo {
  background-color: rgba(0, 0, 0, 0.6);}
 
-.reveal  .mitit{
+.reveal  {
 font-size: 2em;
 text-align: center;
 border-bottom: 0;

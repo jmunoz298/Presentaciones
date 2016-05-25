@@ -95,7 +95,7 @@ var RevealMenu = window.RevealMenu || (function(){
 					if (offsetFromBottom < 0) {
 						disableMouseSelection();
 						el.scrollIntoView(false);
-						reenableMouseSelection();	
+						reenableMouseSelection();
 					}
 				}
 			}
@@ -357,7 +357,7 @@ var RevealMenu = window.RevealMenu || (function(){
 				var m = '';
 				if (markers) {
 					m = '<i class="fa fa-check-circle past"></i>' +
-								'<i class="fa fa-dot-circle-o active"></i>' + 
+								'<i class="fa fa-dot-circle-o active"></i>' +
 								'<i class="fa fa-circle-thin future"></i>';
 				}
 
