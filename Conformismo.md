@@ -12,19 +12,25 @@ csl: apa.csl
 
 ##Índice
 
+<div id="column1" style="float:left; margin:0; width:100%;">
 >* Introducción
-* Normalización
-* Conformismo
-* Influencia informativa e influencia normativa
+>* Normalización
+>     * Influencia informacional
+>* Conformismo
+>     * Influencia normativa
+* Debate  
+</div>
 
+ “The opposite of courage in our society is not cowardice, it is… **conformity**”
 
+[InsideInfo - Conformity](https://soundcloud.com/insideinfo/conformity)\
+`https://soundcloud.com/insideinfo/conformity`{.peque}
 
-<!--
-#Conformismo
-
-¿Ponerla como imagen de fondo?
-![Gallinas inconformistas](imagenes/chickenprotest.jpg "Gallinas inconformistas")
--->
+ <!--
+<audio controls>
+ <source src="multimedia/Insideinfo-Conformity.mp3" type="audio/mp3">
+</audio>
+ -->
 
 #Introducción { .center}
 
@@ -47,8 +53,6 @@ Innovación
 
 :   Creación de conflicto dentro del grupo por una minoría de sus miembros y resolución mediante el movimiento de la mayoría hacia la minoría
 
-. . .
-
 ###### @moscovici_social_1985
 
 
@@ -61,7 +65,7 @@ Innovación
 >Procés de creació de les normes que regulen la conducta, la percepció, el pensament o els desitjos de les persones en una situació concreta.\
 @feliu_influencia_2003 [p. 260]
 
-![Muzafer Sheriff\
+![Muzafer Sheriff (1936)\
 (1906-1988)](imagenes-isg/Sherif.jpg)
 
 
@@ -79,7 +83,7 @@ Innovación
 
 <div id="column2" style="float:left; margin:0; width:50%;">
 
-![Estimaciones en grupo](imagenes-isg/EfectoAutocinetico-2.svg)
+![Estimaciones en grupo](imagenes-isg/EfectoAutocinetico-2.png)
 
 </div>
 
@@ -97,30 +101,89 @@ Innovación
 
 ######Desplazamiento en dirección de una posición intermedia
 
-#Conformismo { .center}
+##Influencia informacional
 
-##Conformismo
+>Una influencia social informacional puede definirse como una influencia para aceptar la información obtenida de otros como evidencia sobre la realidad.\
+@deutsch_study_1955 [p. 629]
 
-<div id="column1" style="float:left; margin:0; width:50%;">
+##
+![](imagenes-isg/InfluenciaInformativa.jpg)
 
-<video width="420"  class="stretch" controls>
-	<source src="multimedia/classic-candid.mp4" type="video/mp4">
-	<source src="https://vimeo.com/61349466" type="video/mp4">"
-</video>
-`Candid Camera: Elevator`{.figcaption}
+<!--
+<div data-svg-fragment="imagenes-isg/influencia-informativa.svg#[*|label=capa1]" class="svg">
+  <a class="fragment" title="[*|label=capa2]"></a>
+  <a class="fragment" title="[*|label=capa3]"></a>
+  <a class="fragment" title="[*|label=capa4]"></a>
+  <a class="fragment" title="[*|label=capa5]"></a>
+</div>
+-->
 
-###### <https://vimeo.com/61349466>
+##Teorías relacionadas: Comparación social
+
+<div id="column1" style="float:left; margin:0; width:25%;">
+
+![Leon Festinger](imagenes-isg/Festinger.jpg)
 
 </div>
 
 . . .
 
-<div id="column1" style="float:left; margin:0; width:50%;">
+<div id="column2" style="float:left; margin:0; width:75%;">
 
-![Solomon Asch\
-(1907-1996)](imagenes-isg/Asch.jpg)
+![](imagenes-isg/A61MillionVote.jpg)\
+@bond_61-million-person_2012
 
 </div>
+
+##Teorías relacionadas: Ignorancia pluralista
+
+<div id="column2.1" style="float:left; margin:0; width:33%;">
+
+![Bibb Latané y John Darley](imagenes-isg/Latane-Darley.jpg)
+</div>
+
+. . .
+
+<div id="column2.2" style="float:left; margin:0; width:66%;">
+
+>en ocasiones, la mayoría de los miembros de un grupo no están de acuerdo con una norma, creencia o modo de actuar del grupo, en su interior o de forma privada, pero cada uno de los sujetos cree –incorrectamente–, que todos o la mayoría de los miembros del grupo sí que están de acuerdo con esa norma, creencia o modo de actuar.\
+`Katz y Allport, 1931`{.autor}
+
+</div>
+
+
+<!--
+##Ignorancia Pluralista
+
+<video width="860" class="stretch" controls>
+  <source src="multimedia/TheSmokeFilledRoomStudy.mp4" type="video/mp4">
+</video>
+
+`The smoke filled room`{.figcaption}
+<https://www.youtube.com/watch?v=vLZrBTqWLv8>
+-->
+
+#Conformismo { .center}
+
+
+##Conformismo
+
+<div id="column2" style="float:left; margin:0; width:66%;">
+<video width="400"  class="stretch" controls>
+<source src="multimedia/classic-candid.mp4">
+</video>
+`Candid Camera: Elevator`{.figcaption}
+
+###### <https://www.youtube.com/watch?v=BgRoiTWkBHU>
+</div>
+
+. . .
+
+<div id="column1" style="float:left; margin:0; width:33%;">
+![Solomon Asch
+(1907-1996)](imagenes-isg/Asch.jpg)
+</div>
+
 
 <!--
 #Conformismo
@@ -140,7 +203,7 @@ Innovación
 
 ![](imagenes-isg/Asch-2.svg)
 
-##Resultados {data-background="imagenes-isg/asch-conformity.jpg" data-background-transition=zoom data-state=fondo}
+##Resultados
 
 >- Respuestas incorrectas: 36.8%
 - Personas que nunca ceden: 24%
@@ -153,19 +216,14 @@ Innovación
 
 ######Desplazamiento en la dirección de la posición mayoritaria
 
-##Conformismo: Factores
-
-* Tamaño de la mayoría
-* Contexto histórico y cultural
-* Unanimidad
-* Anonimato
-* Relevancia de la tarea
+<!--
 
 ##Tamaño de la mayoría
 
+. . .
+
 ![](imagenes-isg/Asch-EfectoMayoria.jpg)
 
-<!--
 ##Tamaño de la mayoría
 
 <video width="420"  class="stretch" controls><source src="multimedia/Stanley Milgram - Conformity and Independence.mp4"></video>
@@ -174,6 +232,8 @@ Innovación
 
 ######@milgram_note_1969
 -->
+
+<!--
 
 ##Tamaño de la mayoría
 
@@ -185,86 +245,6 @@ Innovación
   <a class="fragment" title="[*|label=circulos]"></a>
 </div>
 -->
-##Relevancia de la tarea
-
-![@baron_forgotten_1996](imagenes-isg/Asch-RelevanciaTarea.jpg)
-
-##
-
-![@baron_forgotten_1996](imagenes-isg/Baron-Vandello-Brunsman.jpg)
-
-##Relevancia de la tarea
-
-> Los soldados enemigos se han apoderado de tu aldea. Tienen órdenes de matar a todos los civiles que quedan. Usted y algunos de sus conciudadanos han buscado refugio en el sótano de una gran casa. En el exterior se oyen las voces de los soldados que han llegado para registrarla en busca de objetos de valor.\
-Tu bebé empieza a llorar a gritos. Le cubres la boca para amortiguar el sonido. Si quitas la mano de su boca, su llanto llamará la atención de los soldados que matarán a todas las personas escondidas en la bodega (incluyendo a tu hijo). La única solución para salvaros es asfixiarlo hasta la muerte.\
-¿Es correcto matar a tu hijo para salvarte a ti mismo y al resto del pueblo?\
-@kundu_morality_2013
-
-##
-
-![@kundu_morality_2013](imagenes-isg/Asch-Relevancia.jpg)
-
-
-#Influencias informativa y normativa { .center}
-
-<!--
-##
-
-Deutsch, M., & Gerard, H. B. (1973). Estudio de las influencias sociales normativa e informativas sobre el criterio individual. In H. Proshansky & B. Seidenberg (Eds.), Estudios básicos de psicología social (pp. 490–502). Madrid: Tecnos.
-
-###### @deutsch_estudio_1973
--->
-
-##Influencia informativa
-
-![](imagenes-isg/InfluenciaInformativa.jpg)
-
-<!--
-<div data-svg-fragment="imagenes-isg/influencia-informativa.svg#[*|label=capa1]" class="svg">
-  <a class="fragment" title="[*|label=capa2]"></a>
-  <a class="fragment" title="[*|label=capa3]"></a>
-  <a class="fragment" title="[*|label=capa4]"></a>
-  <a class="fragment" title="[*|label=capa5]"></a>
-</div>
--->
-
-##Teorías relacionadas
-
-<div id="column1" style="float:left; margin:0; width:33%;">
-
-####Comparación Social
-
-![Leon Festinger](imagenes-isg/Festinger.jpg)
-
-</div>
-
-. . .
-
-<div id="column2" style="float:left; margin:0; width:66%;">
-
-####Ignorancia Pluralista\
-
-
-<div id="column2.1" style="float:left; margin:0; width:50%;">
-
-![Bibb Latané](imagenes-isg/Latane.jpg)
-
-</div>
-
-<div id="column2.2" style="float:left; margin:0; width:50%;">
-
-![John Darley](imagenes-isg/Darley.jpg)
-
-</div>
-
-##Ignorancia Pluralista
-
-<video width="860" class="stretch" controls>
-  <source src="multimedia/TheSmokeFilledRoomStudy.mp4" type="video/mp4">
-</video>
-
-`The smoke filled room`{.figcaption}
-<https://www.youtube.com/watch?v=vLZrBTqWLv8>
 
 ##Influencia normativa
 
@@ -283,10 +263,80 @@ Deutsch, M., & Gerard, H. B. (1973). Estudio de las influencias sociales normati
 </div>
 -->
 
+<!--
+
+##
+
+>Es una forma de influencia en la que se ejerce presión para hacer que alguien se conforme a las expectativas y preferencias de los demás. Las expectativas y preferencias de los otros funcionan como norma de grupo de referencia que expresa cómo deben comportarse o qué decisión deben tomar las personas.\
+@kaplan_normative_2010 [p. 606]
+
+-->
+
+##Conformismo: Factores
+
+* Contexto histórico y cultural
+* Unanimidad
+* Anonimato
+
 ##Normas en el "Bennington College" {data-background="imagenes-isg/Bennington.jpg" data-background-transition=zoom data-state=fondo}
 
 ![Theodore Newcomb\
 1903-1984](imagenes-isg/Newcomb.jpg)
+
+##"Miedo" a hablar
+
+<div id="column1" style="float:left; margin:0; width:20%;">
+Pensamiento grupal
+
+![Irving Janis](imagenes-isg/Janis.png)
+</div>
+
+<div id="column1" style="float:left; margin:0; width:60%;">
+
+![](imagenes-isg/SpiralOfSilence.jpg)
+
+</div>
+
+<div id="column1" style="float:left; margin:0; width:20%;">
+Espiral del silencio
+
+![Elisabeth Noelle-Neumann](imagenes-isg/Noelle-Neumann.jpg)
+</div>
+
+##Dificultad y relevancia de la tarea
+
+![@baron_forgotten_1996](imagenes-isg/Asch-RelevanciaTarea.jpg)
+
+##Baron et al. (1996)
+
+![Número medio de ensayos en los que hay conformismo](imagenes-isg/Baron-Vandello-Brunsman.jpg)
+
+<!--
+##Relevancia de la tarea
+
+> Los soldados enemigos se han apoderado de tu aldea. Tienen órdenes de matar a todos los civiles que quedan. Usted y algunos de sus conciudadanos han buscado refugio en el sótano de una gran casa. En el exterior se oyen las voces de los soldados que han llegado para registrarla en busca de objetos de valor.\
+Tu bebé empieza a llorar a gritos. Le cubres la boca para amortiguar el sonido. Si quitas la mano de su boca, su llanto llamará la atención de los soldados que matarán a todas las personas escondidas en la bodega (incluyendo a tu hijo). La única solución para salvaros es asfixiarlo hasta la muerte.\
+¿Es correcto matar a tu hijo para salvarte a ti mismo y al resto del pueblo?\
+@kundu_morality_2013
+
+##
+
+![@kundu_morality_2013](imagenes-isg/Kundu-dilematic.png)
+-->
+
+<!--
+##Influencia informacional referente
+
+>Referent informational influence theory is the social identity theory of social influence in groups. It considers normative influence and informational influence—separate concepts in the thinking of other social scientists—as part of a single influence process linked to group membership and social identity.\
+@smith_referent_2010 [p. 687]
+-->
+
+# Discusión {.center}
+
+##
+
+![](imagenes-isg/chickenprotest.jpg)
+
 
 ##Independencia
 
