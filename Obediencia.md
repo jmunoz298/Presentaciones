@@ -3,30 +3,38 @@ title:  'Influencia Social y Grupos'
 author:
 - name: Juan Muñoz
   affiliation: Universitat Autònoma de Barcelona
-tags: [nothing, nothingness]
+tags: [Obediencia, Milgram]
 tema: "Obediencia a la autoridad"
 url: "http:/juan.psicologiasocial.eu"
 csl: apa.csl
+lateral-menu: 'True'
 ...
+
+##Índice
+
+>* Introducción
+* Milgram (y similares)
+* La banalidad del mal
+* Críticas
+* Desobediencia
+
+[The obedience song](https://www.youtube.com/watch?v=KKMSg_8aMoo)\
+`https://www.youtube.com/watch?v=KKMSg_8aMoo`{.peque}
+
+<aside class="notes">
+       Oh hey, these are some notes. They'll be hidden in your presentation, but you can see them if you open the speaker notes window (hit 's' on your keyboard).
+</aside>
 
 #Introducción { .center}
 
-## Obediencia
+## Obediencia {data-background="imagenes-isg/abraham-sacrifice-caravaggio.jpg" data-background-transition=zoom data-state=fondo}
 
-> (...) deberíamos saber que el instinto de sumisión, un ardiente deseo de obedecer y de ser dominado por un hombre fuerte, es por lo menos tan prominente en la psicología humana como el deseo de poder, y, políticamente, resulta quizá más relevante.\
-@arendt_sobre_1969 [p. 54]
-
-##Índice {data-background="imagenes-isg/abraham-sacrifice-caravaggio.jpg" data-background-transition=zoom data-state=fondo}
+[](https://www.youtube.com/watch?v=KKMSg_8aMoo)
 
 . . .
 
->* Introducción <!-- '>' hace que La lista se muestra en un solo paso-->
-* La investigación de Stanley Milgram
-* ¿Obediencia en el S. XXI?
-* Críticas
-* La banalidad del mal
-* Desobediencia
-
+> (...) deberíamos saber que el instinto de sumisión, un ardiente deseo de obedecer y de ser dominado por un hombre fuerte, es por lo menos tan prominente en la psicología humana como el deseo de poder, y, políticamente, resulta quizá más relevante.\
+@arendt_sobre_1969 [p. 54]
 
 ##Holocausto{data-background="imagenes-isg/abraham-sacrifice-caravaggio.jpg"   data-background-transition=zoom data-state=fondo}
 
@@ -66,7 +74,7 @@ csl: apa.csl
 
 </div>
 
-##Abu Ghraib{data-background="imagenes-isg/abraham-sacrifice-caravaggio.jpg"   data-background-transition=zoom data-state=fondo}
+##Abu Ghraib (Irak, 2004) {data-background="imagenes-isg/abraham-sacrifice-caravaggio.jpg"   data-background-transition=zoom data-state=fondo}
 
 <div id="column1" style="float:left; margin:0; width:50%;">
 
@@ -99,7 +107,7 @@ csl: apa.csl
 
 #Stanley Milgram { .center}
 
-##{data-background="imagenes-isg/Milgram-maquina.jpg"   data-background-transition=zoom data-state=fondo}
+## El experimento {data-background="imagenes-isg/Milgram-maquina.jpg"   data-background-transition=zoom data-state=fondo}
 
 <div id="column1" style="float:left; margin:0; width:50%;">
 
@@ -114,13 +122,15 @@ csl: apa.csl
 
 </div>
 
-##
+## "Réplica" Derren Brown
 
 <video class="stretch" controls><source src="multimedia/MilgramExperiment-Brown.mp4"></video>
 
 `Derren Brown: The Heist, 2006`{.figcaption}
 
 ###### <http://www.youtube.com/watch?v=iUFN1eX2s6Q>
+
+<!--
 
 ## Reacciones del cómplice
 
@@ -135,6 +145,7 @@ csl: apa.csl
 |     315 | Alarido violento e insistencia en que no quiere continuar. No responde, pero se queja “agónicamente” tras cada descarga |
 | **330** | **Ausencia total de reacciones**                                                                                        |
 
+-->
 <!--
 ##Predicciones de psiquiatras
 
@@ -143,41 +154,30 @@ csl: apa.csl
 
 -->
 
-##Resultados (Experimento nº 1)
 
-<div id="column1" style="float:left; margin:0; width:50%;">
-
-![Resultados (Experimento nº 1)](imagenes-isg/Milgram-experimento-1.jpg)
-
-</div>
-
-<div id="column1" style="float:left; margin:0; width:50%;">
-
-![Resultados (Experimento nº 2)](imagenes-isg/Milgram-experimento-2.jpg)
-
-</div>
-
-##Resultados: Niveles de obediencia
+##Resultados: Niveles de obediencia {#resultados}
 
 ![Resultados: Niveles de obediencia por diseño](imagenes-isg/Milgram-NivelesObediencia.jpg)
 
 
 #¿Obediencia en el siglo XXI? { .center}
 
-##
+## El "inspector" Milgram
 
 <video class="stretch" controls><source src="multimedia/LeyYOrden.mp4"></video>
 
-`Authority - Law & Order: Special Victims Unit (Temporada 9, episodio 17)`{.figcaption}
+`Authority - Law & Order: Special Victims Unit (Temporada 9, episodio 17)` {.figcaption}
 
-###### <https://en.wikipedia.org/wiki/Law_%26_Order:_Special_Victims_Unit>
+#####[https://en.wikipedia.org/wiki/Authority_(Law_%26_Order:_Special_Victims_Unit)](https://en.wikipedia.org/wiki/Authority_(Law_%26_Order:_Special_Victims_Unit)) {.peque}
 
-##Réplicas recientes: Burger
+##Réplicas recientes: Jerry Burger
 
-| Condición           | Hombres | Mujeres |
-|:--------------------|--------:|--------:|
-| Base                |    66,7 |    72,7 |
-| Modelo no obediente |    54,5 |    68,4 |
+. . .
+
+| Condición                 | Hombres | Mujeres |
+|:--------------------------|--------:|--------:|
+| Nueva condición Base (5)  |    66,7 |    72,7 |
+| Modelo no obediente (~17) |    54,5 |    68,4 |
 
 `Porcentaje de personas que continúan hasta 150v.`{.figcaption}
 
@@ -195,42 +195,50 @@ csl: apa.csl
 
 ###### <https://www.youtube.com/watch?v=Bzk3INSQFGU>
 
+-->
 
 ##Réplicas recientes: Beauvois
 
-![@beauvois_prescriptive_2012](imagenes-isg/beauvois-res-01.jpg)
--->
+. . .
 
-##Réplicas recientes: "Le jeu de la mort"
+![@beauvois_prescriptive_2012](imagenes-isg/beauvois-res-01.jpg)
+
+##Beauvios: ¿El final de la autoridad?
 
 >Lo que encontramos aquí en el estudio de televisión es que la obediencia sigue siendo una realidad, en un momento en que muchos autores consideran que nuestras sociedades están evolucionando hacia una mayor permisividad, hacia más poderes "negociados", e incluso hacia el final de la autoridad por completo (…) Nuestras observaciones, como las de Burger, justifican por lo menos un cierto escepticismo sobre  tesis como la del final de la autoridad.\
 @beauvois_prescriptive_2012 [p. 119]
 
 
 
-##Réplicas recientes
+##Réplicas recientes: Immersive Digital Realism
 
 ![@haslam_shock_2015](imagenes-isg/Haslam-Reicher-Millard-2015.jpg)
 
 
 # La explicación de Milgram { .center}
 
-##Explicación: El _Estado Agéntico_
+##Explicación: El _Estado Agéntico_ {#explicacion}
 
 >“[el estado agéntico es] la condición en que se encuentra una persona cuando se considera a sí misma como un agente que ejecuta los deseos de otra persona. Este término será empleado en oposición al de autonomía, es decir, cuando una persona se considera a sí misma como actuando por propia iniciativa."\
 @milgram_obediencia_1974 [p. 127]
 
+<!--
+
 ##El proceso de la obediencia
 
-![El proceso de la obediencia](imagenes-isg/ProcesoObediencia-1.jpg)
+![](imagenes-isg/ProcesoObediencia-1.jpg)
+
 
 ##Legitimidad de la autoridad
 
 ![@hofling_experimental_1966](imagenes-isg/Astroten.jpg)
 
+-->
+
 ##El proceso de la obediencia
 
 ![El proceso de la obediencia](imagenes-isg/ProcesoObediencia-2.jpg)
+
 
 ##Consecuencias
 
@@ -238,79 +246,89 @@ csl: apa.csl
 
 ```{.left}
 O = Obediencia
- D = Desobediencia
- B = Factores mantenedores
- s = tensión
- r = resolución de la tensión
+D = Desobediencia
+B = Factores mantenedores
+s = tensión
+r = resolución de la tensión
 ```
 
 #La banalidad del mal { .center}
 
 ##La prisión de Stanford
 
-<div id="column1" style="float:left; margin:0; width:50%;">
 
-<video width="420"  controls><source src="multimedia/La_pendiente_resbaladiza_de_la_maldad.mp4"></video>
-`Redes 54: La pendiente resbaladiza de la maldad`{.figcaption}
-
-###### <https://www.youtube.com/watch?v=ilzeRaO2TUw>
-
-</div>
-
-<div id="column1" style="float:left; margin:0; width:50%;">
+<div id="column1" style="float:left; margin:0; width:33%;">
 
 ![Philip Zimbardo\
 1933-](imagenes-isg/Zimbardo.jpg)
 
 </div>
 
-##{data-background="imagenes-isg/Batallon101.jpg"   data-background-transition=zoom data-state=fondo}
+<div id="column2" style="float:left; margin:0; width:67%;">
 
-. . .
+>Las malas acciones rara vez son el producto de gente malvada que actúan por motivos malvados, sino que son el producto de buenos burócratas simplemente haciendo su trabajo\
+@zimbardo_obedience_1974 [p. 566]
 
-<div id="column1" style="float:left; margin:0; width:50%;">
 
-![Hanna Arendt (1906-1975)](imagenes-isg/HannaArendt.jpg)
 
-@arendt_eichmann_1963
-
+[https://www.youtube.com/watch?v=ilzeRaO2TUw](https://www.youtube.com/watch?v=ilzeRaO2TUw)
+`Redes 54: La pendiente resbaladiza de la maldad`{.figcaption}
 </div>
 
-. . .
 
-<div id="column2" style="float:left; margin:0; width:50%;">
+## Batallón 101 {data-background="imagenes-isg/Batallon101.jpg"   data-background-transition=zoom data-state=fondo}
+
+<div id="column2" style="float:left; margin-top:150px; width:50%;">
 
 ![Adolf Eichmann (1906-1962)](imagenes-isg/AdolfEichmann.jpg)
 
 </div>
 
-##
+. . .
 
->Las malas acciones rara vez son el producto de gente malvada que actúan por motivos malvados, sino que son el producto de buenos burócratas simplemente haciendo su trabajo.\
-@zimbardo_obedience_1974
+<div id="column1" style="float:left; margin-top:150px; width:50%;">
+
+![Hanna Arendt (1906-1975)](imagenes-isg/HannaArendt.jpg)
+
+##### @arendt_eichmann_1963 {.fondo}
+
+
+</div>
 
 #Críticas { .center}
 
 ##Tipos de críticas
->* Teórica
+>* Metodológica
 * Ética
-* Metodológica
+* Teórica
 
-##Críticas: Teórica
+##Metodológica
 
-####Obediencia a la autoridad legítima\
-vs.\
-Confianza en un experto
+Validez externa [>>](#generalizacion)
 
+:    Posibilidad de que los resultados de la investigación sean generalizables más allá de la investigación en la que se han realizado (entorno, muestra...)
 
-##Críticas: Ética
+Validez interna
 
->* Protección de los participantes
+:    Los resultados obtenidos son debidos única y exclusivamente a las manipulaciones experimentales realizadas
+
+. . .
+
+[>>>](#critica-etica)
+
+##Generalización {#generalizacion}
+
+>Yo diría, sobre la base de haber observado un millar de personas en el experimento y de mi propia intuición formada e informada por estos experimentos, que si se instalara en los Estados Unidos un sistema de campos de exterminio, del tipo de los que hemos visto en la Alemania Nazi, seriamos capaces de encontrar suficiente personal para esos campos en cualquier ciudad Americana de tamaño medio.\
+[Milgram, 1979, citado por @blass_milgram_1999, pp. 955-956]
+
+##Críticas: Ética {#critica-etica}
+
+>* Daño a los participantes [>>>](#mal-participantes)
 * Engaño - Consentimiento informado
 * Derecho a retirarse
 * Debriefing
 
-##Críticas: Ética
+## Daño a los participantes {#mal-participantes}
 
 >Por desgracia, el sujeto no siempre es tratado con el respeto que se merece. Se ha convertido en algo común en los estudios de laboratorio sociopsicológicos manipular, avergonzar e incomodar a los sujetos. A veces, el insulto a la sensibilidad de los sujetos se extiende al lector de la revista cuando se presentan los resultados. El estudio de Milgram (1963) es un ejemplo de ello.\
 @baumrind_thoughts_1964 [p. 422]
@@ -329,32 +347,36 @@ Kohlberg, 1974, p. 607
 
 -->
 
-##Críticas: Metodológica
+##Críticas: Teórica {#critica-teorica}
 
-Validez interna
+* Obediencia a la autoridad legítima\
+vs.\ Confianza en un experto.
+* Identificación con experimentador\
+vs. identificación con alumno.
 
-:    Los resultados obtenidos son debidos única y exclusivamente a las manipulaciones experimentales realizadas
-Validez externa
+##Inicio de la desobediencia
 
-:    Posibilidad de que los resultados de la investigación sean generalizables más allá de la investigación en la que se han realizado (entorno, muestra...)
+<div id="column1" style="float:left; margin:0; width:50%;">
 
-##
+![Resultados (Experimento nº 1)](imagenes-isg/Milgram-experimento-1.jpg)
 
->Yo diría, sobre la base de haber observado un millar de personas en el experimento y de mi propia intuición formada e informada por estos experimentos, que si se instalara en los Estados Unidos un sistema de campos de exterminio, del tipo de los que hemos visto en la Alemania Nazi, seriamos capaces de encontrar suficiente personal para esos campos en cualquier ciudad Americana de tamaño medio.\
-[Milgram, 1979, citado por @blass_milgram_1999, pp. 955-956]
+</div>
 
+<div id="column1" style="float:left; margin:0; width:50%;">
+
+![Resultados (Experimento nº 2)](imagenes-isg/Milgram-experimento-2.jpg)
+
+</div>
 
 #Desobediencia { .center}
 
-##{data-background="imagenes-isg/AdanyEva.jpg"   data-background-transition=zoom data-state=fondo}
+##Reactancia {data-background="imagenes-isg/AdanyEva.jpg"   data-background-transition=zoom data-state=fondo}
+
+
+##La banalidad del bien
 
 . . .
 
-<div id="column1" style="float:left; margin:0; width:33%;">
-
-![Martin Luther King](imagenes-isg/MartinLuther.jpg)
-
-</div>
 
 <div id="column1" style="float:left; margin:0; width:33%;">
 
@@ -364,11 +386,19 @@ Validez externa
 
 <div id="column1" style="float:left; margin:0; width:33%;">
 
+![Martin Luther King](imagenes-isg/MartinLuther.jpg)
+
+</div>
+
+<div id="column1" style="float:left; margin:0; width:33%;">
+
 ![Nelson Mandela](imagenes-isg/Mandela.jpg)
 
 </div>
 
-. . .
+
+##Desobediencia civil
+
 
 <div id="column1" style="float:left; margin:0; width:50%;">
 
@@ -384,17 +414,25 @@ Validez externa
 
 </div>
 
-##
+. . .
+
+<div id="column1" style="float:left; margin:0; width:100%;">
 
 >Creo que antes que súbditos tenemos que ser hombres. No es deseable cultivar respeto por la ley más de por lo que es correcto. La única obligación a la que tengo derecho de asumir es a la de hacer siempre lo que creo correcto.\
 @thoreau_civil_1849
 
+</div>
+
+<!--
 . . .
 
->Debemos temer más a la persona que obedece la ley que al que lo rompe.\
-`Dwight Macdonald (1945)`{.autor}
+
+-->
 
 ##Legitimidad
+
+
+<!--
 
 >* Legitimidad del sistema en que reside la autoridad
 * Legitimidad de la autoridad
@@ -402,10 +440,20 @@ Validez externa
 
 ###### @passini_authority_2009
 
+
+-->
+
 . . .
 
 OBEDIENCIA DESTRUCTIVA\
 vs.\
 DESOBEDIENCIA CONSTRUCTIVA
+
+. . .
+
+>Debemos temer más a la persona que obedece la ley que al que lo rompe.\
+`Dwight Macdonald (1945)`{.autor}
+
+# Referencias {.center}
 
 ## Referencias {.scrollable}

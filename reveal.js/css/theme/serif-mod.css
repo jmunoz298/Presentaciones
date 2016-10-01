@@ -553,7 +553,10 @@ html.laback .reveal section img {
   padding: 10px;}
 
 .fondo {
- background-color: rgba(0, 0, 0, 0.8);}
+  background-color: rgba(0, 0, 0, 0.8);
+  opacity: 0.8;
+  filter: alpha(opacity=80); /* For IE8 and earlier */
+}
 
 .slides .fondo ul{background-color:
   white;
