@@ -312,9 +312,6 @@ Validez interna
 
 :    Los resultados obtenidos son debidos única y exclusivamente a las manipulaciones experimentales realizadas
 
-. . .
-
-[>>>](#critica-etica)
 
 ##Generalización {#generalizacion}
 
