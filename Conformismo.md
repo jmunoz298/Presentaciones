@@ -8,6 +8,7 @@ tema: "Uniformidad y Conformismo"
 url: "http:/juan.psicologiasocial.eu"
 bibliography: diapos.bib
 csl: apa.csl
+lateral-menu: 'True'
 ...
 
 ##Índice
