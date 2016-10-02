@@ -11,7 +11,15 @@ csl: apa.csl
 lateral-menu: 'True'
 ...
 
-#Definiciones {.mitit .center}
+##Contenidos
+
+* Qué es
+* Gestión de datos
+* Memoing
+* Codificación
+
+
+#Definiciones {.center data-background="imagenes-cuali/Definicion.jpg" data-background-transition=zoom data-state=fondo}
 
 ##La investigación cualitativa
 
@@ -36,15 +44,20 @@ lateral-menu: 'True'
 >El análisis temático es un método para identificar, analizar y reportar patrones (temas) dentro de los datos. Como mínimo organiza y describe en detalle el conjunto de datos. Sin embargo, con frecuencia, va más allá e interpreta diversos aspectos del tema de investigación.\
 @braun_using_2006 [p. 79]
 
-##Cuantitativo vs. cualitativo
+##Contenido - Temático
 
 ![](imagenes-cuali/ContenidoTematico.jpg)
+
+##Manifiesto vs. latente {#manifiesto-latente}
+
+![](imagenes-cuali/SemioticaElPais.jpg)
+
 
 ##Fases del análisis
 ![](imagenes-cuali/Fases.jpg)
 
 
-#Gestión de datos {.mitit .center}
+#Gestión de datos {.center data-background="imagenes-cuali/Data-management.jpg" data-background-transition=zoom data-state=fondo}
 
 
 ##Transcripción
@@ -52,13 +65,20 @@ lateral-menu: 'True'
 . . .
 
 >(…) La producción y el uso de transcripciones son 'actividades de investigación' y no deben ser enfocadas como simplemente 'detalles técnicos' que preceden el análisis.\
-@mclellan_qualitative_2003 [p. 64]
+@mclellan_beyond_2003 [p. 64]
 
+<!--
 . . .
 
 >“(…) el examen de la grabación como una práctica perturba el tratamiento aproblemático de la cinta como "datos" inmutables. De repente, la cinta es tan "insegura" y "poco fiable" como todos los demás objetos, más obviamente artesanales.\
 @ashmore_innocence_2000 [para. 31]
 
+-->
+
+##Transcripción
+
+>Cualquier persona que transcriba o trabaje con transcripciones debería ser consciente de que una transcripción nunca podrá representar una situación de entrevista en su totalidad. En la comunicación intervienen demasiados elementos y es imposible transcribirlos todos. Incluso una transcripción fonética ignora aspectos no verbales como el olor, configuración de espacio y tiempo, aspectos visuales, expresiones faciales y gestos.\
+@dresing_manual_2015 [p. 22]
 
 ##Transcribir: herramientas
 
@@ -74,26 +94,33 @@ lateral-menu: 'True'
 
 </div>
 
-**Software**
+##Transcribir: Software
 
-Soundscriber:
-[http://www-personal.umich.edu/~ebreck/sscriber.html](http://www-personal.umich.edu/~ebreck/sscriber.html)
+![Soundscriber: http://www-personal.umich.edu/~ebreck/sscriber.html](imagenes-cuali/Soundscriber.png)
 
-F4:
-[http://www.audiotranskription.de/english](http://www.audiotranskription.de/english)
+![F4: http://www.audiotranskription.de/english](imagenes-cuali/F4.png)
+
+`http://juan.psicologiasocial.eu/texto-adudio-f4/` {.figcaption}
 
 <!--
 ##Ejercicio: transcripción de audio
 -->
 
 ##Convenciones
->en una conversación lo más significativo es lo que no se dice entre lo que se está diciendo, como por ejemplo las pausas y silencios, las entonaciones y los gestos, porque ahí radican los dobles significados, los ánimos y el objetivo mismo de la comunicación.\
-@fernandezchristlieb_espiritu_2004 [p. 46]
+>En una conversación lo más significativo es lo que no se dice entre lo que se está diciendo, como por ejemplo las pausas y silencios, las entonaciones y los gestos, porque ahí radican los dobles significados, los ánimos y el objetivo mismo de la comunicación.\
+@fernandez_christlieb_espiritu_2004 [p. 46]
+
+. . .
+
+![](img/sand-clock.png)
+
 
 ##Convenciones "jeffersonianas"
 ![](imagenes-cuali/Transcripcion.jpg)
 
-@jefferson_glossary_2004 [p. 15]
+@lerner_glossary_2004 [p. 15]
+
+Ver también: @bassi_follari_codigo_2015
 
 <!--
 ##Ejercicio: transcripción con convenciones
@@ -101,17 +128,32 @@ F4:
 
 ##Gestión de los datos
 >La inadecuada documentación y monitorización de las actividades relacionadas con los datos pueden amenazar su integridad. Además, las prácticas inadecuadas de seguimiento pueden dificultar el análisis y aumentar la probabilidad de un pandemónium de investigación.\
-@mclellan_qualitative_2003 [p. 69]
+@mclellan_beyond_2003 [p. 69]
 
-[UK · Data Archive: Create & Manage Data](http://www.data-archive.ac.uk/create-manage)
+Ver: [UK · Data Archive: Create & Manage Data](http://www.data-archive.ac.uk/create-manage)\
+`http://www.data-archive.ac.uk/create-manage` {.figcaption}
 
-<!--
 ##Gestión de los datos
 >Una buena gestión de los datos es la base para una buena investigación. Si los datos están debidamente organizados, preservados y bien documentados, y su exactitud, vigencia e integridad es controlada en todo momento, el resultado es de datos de alta calidad, investigación eficiente, resultados basados en pruebas sólidas y ahorro de tiempo y recursos. (...) La gestión de datos debe planificarse desde el inicio de la investigación. Si se convierte en parte de la práctica de investigación estándar, entonces no implicará necesariamente mucho tiempo ni costos adicionales.\
-@ukdataarchive_managing_2009 [p. 2]
--->
+@uk_data_archive_managing_2009 [p. 2]
 
-##Ejercicio: documentación datos
+##Plan de Gestión de Datos
+
+[](http://www.fsd.uta.fi/aineistonhallinta/en/documents/data-management-plan-models.html#model-data-management-plan-for-research-collecting-qualitative-interviews-detailed)
+
+`http://www.fsd.uta.fi/aineistonhallinta/en/documents/data-management-plan-models.html#model-data-management-plan-for-research-collecting-qualitative-interviews-detailed` {.figcaption}
+
+##Control de versiones
+
+![https://www.ukdataservice.ac.uk/manage-data/format/versioning](imagenes-cuali/VersionControlTable.jpg)
+
+##Ejercicio: Gestión de datos
+
+<div id="column2" style="float:left; margin:0; width:30%;">
+![](img/GroupWork.jpg)
+</div>
+
+<div id="column2" style="float:left; margin:0; width:70%;">
 
 La donació de sang a Catalunya
 
@@ -120,6 +162,8 @@ Procediment de la recerca
 * Formato documentos
 * Etiquetado archivos
 * Sistema de control
+
+</div>
 
 ##Lo primero...
 
@@ -142,7 +186,7 @@ Procediment de la recerca
 
 <!-- ![](imagenes-cuali/reader-9.png) -->
 
-#Memoing {.mitit .center}
+#Memoing {.center data-background="imagenes-cuali/Memoing.jpg" data-background-transition=zoom data-state=fondo}
 
 ##Memoing
 >Mediante el uso de memorandos, el investigador es capaz de sumergirse en los datos, explorar los significados que estos datos tienen, mantener la continuidad y mantener el impulso en la realización de la investigación. Como crónica de un viaje de investigación, los memorandos permanecen como un registro, indeleble pero flexible, para retención personal o para difundir a otros.\
@@ -154,8 +198,7 @@ Procediment de la recerca
 @lewins_using_2007 [p. 59]
 -->
 
-<!-- Sólo poner si consigo que aparezca toda la lista
-##Memoing = Reflexionar sobre...
+##Memoing = Reflexionar sobre... {.peque}
 
 * Relación con participantes y/o fenómeno
 * Preguntas de investigación
@@ -165,10 +208,11 @@ Procediment de la recerca
 * Teoría emergente
 * Problemas de cualquier tipo de nuestra investigación
 * Problemas o dilemas éticos
-* Informe final
--->
+* Informe final\
+\
+@saldana_coding_2009 [pp. 34-40]
 
-#Codificación {.mitit .center}
+#Codificación {.center data-background="imagenes-cuali/Coding.jpg" data-background-transition=zoom data-state=fondo}
 
 <!--
 ##Análisis temático
@@ -201,6 +245,19 @@ Procediment de la recerca
 ##
 ![Adaptado de Saldaña, 2009, p. 12](imagenes-cuali/DatoATeoria.jpg)
 
+## Ejemplo: códigos-categorías-temas
+
+![](imagenes-cuali/Graneheim-Lundaman-Figura1.png)
+@graneheim_qualitative_2004 [p. 108]
+
+
+<!--
+##
+
+![](imagenes-cuali/Graneheim-Lundaman-Figura2.png)
+
+-->
+
 ##Codificación de primer nivel
 
 . . .
@@ -213,11 +270,20 @@ Procediment de la recerca
 `J.L.Borges (1952). El idioma analítico de John Wilkins.` {.figcaption}
 
 ##Ejercicio: Codificación
-Por grupos, categorizar el aula
+
+<div id="column2" style="float:left; margin:0; width:30%;">
+![](img/GroupWork.jpg)
+</div>
+
+<div id="column2" style="float:left; margin:0; width:70%;">
+
+Codificar el aula
 
 * Identificar y etiquetar elementos
 * Agrupar elementos por categorías
 * Comparar con otros grupos
+
+</div>
 
 ##Comentarios de códigos
 | Código              | MARGPROB                                                                                                                                                                                                                                                        |
@@ -227,6 +293,11 @@ Por grupos, categorizar el aula
 | Cuándo se usa       | Cuando las personas señalan alguna dificultad que denote un problema social instrumental, como falta de alimento, abrigo, techo, salud, servicios sanitarios. Debe tener carácter grave o impedir el desarrollo adecuado de su vida familiar, social o laboral. |
 | Cuándo no se usa    | No se aplica a problemas propios de una conducta condicionada por cultura marginal, como violencia doméstica, alcoholismo, abandono de hogar, delincuencia, prostitución                                                                                        |
 | Ejemplo             | “Como aquí no hay agua ni alcantarillado, la suciedad que hay aquí en las calles es terrible, ahí se puede ver... ¿se fija?, los niños se enferman a cada rato.”                                                                                                |
+
+@macqueen_codebook_1998
+
+##Comparación constante
+![](imagenes-cuali/ComparacionConstante.jpg)
 
 ##Categorizar
 >Categorizar es tratar objetos diferentes como si fueran equivalentes, agrupar en clases los objetos, los acontecimientos y las personas que nos rodean, y responder hacia ellos en función de su clase de pertenencia más que de su unicidad.\
@@ -248,10 +319,6 @@ Por grupos, categorizar el aula
 > Un tema capta algo importante sobre los datos en relación con la pregunta de investigación, y representa un cierto nivel de pauta de respuesta o significado en el conjunto de los datos.\
 @braun_using_2006 [p. 82]
 
-
-##Comparación constante
-![](imagenes-cuali/ComparacionConstante.jpg)
-
 ##Agrupar y relacionar: Redes temáticas
 >Aplicar redes temáticas es simplemente una forma de organizar un análisis temático de datos cualitativos. Los análisis temáticos intentan descubrir los temas más destacados en un texto a diferentes niveles, y las redes temáticas tienen como objetivo facilitar la estructuración y representación de esos temas.\
 @attride-stirling_thematic_2001 [p. 387]
@@ -259,4 +326,6 @@ Por grupos, categorizar el aula
 ##Redes temáticas
 ![Attride-Stirling, 2001. p. 388](imagenes-cuali/RedesTematicas.jpg)
 
-##Referencias
+#Referencias
+
+## {.scrollable}
