@@ -324,6 +324,13 @@ Códigos > Codificar > Codificación automática
 >* Partidos políticos (Convergència, PP, PSOE)
 * Agrupar partidos políticos
 
+##
+
+|           |    NACIONALES     |           AUTONÓMICOS           |
+|:----------|:-----------------:|:-------------------------------:|
+| IZQUIERDA | IU<br>PCE<br>PSOE | Amaiur<br>BNG<br>ERC<br>ICV PSC |
+| DERECHA   |     PP<br>UPD     |        CC<br>CiU<br>PNV         |
+
 ##Más codificación estructural
 
 >* Codificar:
