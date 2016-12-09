@@ -668,6 +668,7 @@ color:blue;}
 .reveal .slides dt { content: "\e815"; color: black;}
 .reveal .slides ul li.fragment:before { content: "\e811"; }
 .reveal .slides ul li.visible:before { content: "\e809"; }
+.reveal .slides ul li {padding-top: 15px;}
 /** Fin Listas con iconos-fuentes **/
 
 /**listas segundo nivel **/
@@ -675,7 +676,7 @@ color:blue;}
 .reveal .slides ul ul li:before { content: "\e810"; }
 .reveal .slides ul ul li.fragment:before { content: "\e810"; }
 .reveal .slides ul ul li.visible:before { content: "\e810"; }
-
+.reveal .slides ul ul li {line-height: 0.8em;}
 .reveal .slides ul ul li
 {
   padding: 5px;
@@ -715,4 +716,35 @@ section .peque {
   line-height: 1.7em;
   background-color: white;
   color: black;
+}
+
+/**Listas con letra menor **/
+.reveal .slides .listapeque li{
+   font-size:0.8em;
+  /** padding: 7px; **/
+}
+
+.reveal .slides section .listapeque li.fragment.visible.current-fragment {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  line-height: 1.1em;
+}
+
+.reveal .slides .listapeque ul li {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  line-height: 1.1em;
+}
+
+
+.reveal .slides section .listapeque li.fragment.visible {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  line-height: 1.1em;
+}
+
+.reveal .slides section .listapeque li.fragment {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  line-height: 1.1em;
 }
