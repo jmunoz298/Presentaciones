@@ -1,7 +1,15 @@
 multimedia/
 genera.sh
 .gitignore
-*.pdf
 madoko*
 *.sty
 *.aux
+*~
+Decisiones.*
+cp1/*.*
+cp2/*.*
+Presentacion-*.*
+imagenes-grupos/Redes-eficacia.jpg
+imagenes-grupos/Redes-liderazgo.jpg
+liderazgo.md
+liderazgo.html
