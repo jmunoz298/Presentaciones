@@ -247,9 +247,9 @@ Procediment de la recerca
 
 ## Ejemplo: códigos-categorías-temas
 
-![](imagenes-cuali/Graneheim-Lundaman-Figura1.png)
-@graneheim_qualitative_2004 [p. 108]
-
+![](imagenes-cuali/Graneheim-Lundaman-Figura1-es.png)
+@graneheim_qualitative_2004 [p. 108]\
+`Narrativas sobre hipoglucemia`{.figcaption}
 
 <!--
 ##
