@@ -11,7 +11,7 @@ csl: apa.csl
 lateral-menu: 'True'
 ...
 
-#Introducción {.mitit .center}
+#Introducción {.center}
 
 ##CAQDAS
 
@@ -26,6 +26,14 @@ lateral-menu: 'True'
 [Text Analysis Info – QDA Software](http://www.textanalysis.info/)
 
 [UK Data Archive](http://www.data-archive.ac.uk/)
+
+<!--
+
+##Los elogios
+
+>In my graduate student days, there were no tape recorders for making an interviewer’s life easier; these arrived after World War II, passing first through the wide recorder stage. These were ponderous machines, only gradually slimming down to today’s light models. Many years later, following our dreams of computers that would ease our lives as qualitative social researchers, software was devised for us.
+
+-->
 
 ##Una crítica
 
@@ -64,7 +72,7 @@ Friese,  1998
 ##Fases del análisis
 ![](imagenes-cuali/Proceso.png)
 
-#Preparación de de datos {.mitit .center}
+#Preparación de de datos { .center}
 
 ##
 
@@ -128,6 +136,21 @@ Friese,  1998
 
 ![](imagenes-cuali/Reduccion-l.jpg)
 
+##Codificación
+
+>La indexación (o codificación) es la actividad en la que el investigador aplica significado a los datos en bruto mediante la asignación de palabras clave o frases. Estas palabras clave actúan como indicadores de temas en los datos. La indexación es una actividad por la que los datos se descomponen, conceptualizan y posteriormente son reformulados.\
+@bloor_keywords_2006 [p.201]
+
+##Codificación
+
+<!--
+
+>Coding proceeds by means of the tentative development and labelling of concepts in the text that the researcher considers to be of potential relevance to the problem being studied.\
+Pidgeon & Henwood, 1996, p. 92
+
+-->
+
+
 ##Otra crítica
 
 >The ease with which CAQDAS permits multiple codiﬁcation can rapidly entice the user into exploring and creating masses of nodes (code themes) and being further tempted to codify each segment into many nodes. Researchers need to exhibit both restraint and ingenuity when coding within a CAQDAS context, as the time constraints do not permit the luxury of exploring all possible avenues of thought that the user discerns.\
@@ -136,7 +159,7 @@ Friese,  1998
 
 ##Estrategias de codificación
 
-![](imagenes-cuali/EstrategiaCodificacion.png)
+![](imagenes-cuali/EstrategiaCodificacion.jpg)
 
 ##Comentarios de códigos
 
@@ -162,10 +185,168 @@ Ejemplo
 
 @macqueen_codebook_1998
 
+##Literatura definicional
+
+| Origen           | El gato ha bebido la leche                                                                                                                                                                                                                                                                                                               |
+|:-----------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Transformación 1 | El mamífero carnívoro digitígrado doméstico<br>ha tragado un líquido blanco, de sabor dulce producido<br>por las hembras de los mamíferos.                                                                                                                                                                                               |
+| Transformación 2 | Quien tiene tetas, come carne, camina sobre<br>la extremidad de sus dedos y pertenece a la casa<br>ha hecho descender por el gaznate al estómago<br>un estado de la materia sin forma propia,<br>del color de la leche, de impresión<br>agradable al órgano del gusto y procurado por<br>los animales de sexo femenino que tienen tetas. |
+
+##El gato
+
+<div id="column1" style="float:left; margin:0;">
+![](imagenes-cuali/Gato-1.jpg)
+</div>
+
+. . .
+
+<div id="column1" style="float:left; margin:0;">
+![](imagenes-cuali/Gato-2.jpg)
+</div>
+
+. . .
+
+<div id="column1" style="float:left; margin:0;">
+![](imagenes-cuali/Gato-3.jpg)
+</div>
+
+##Codificación deductiva
+
+>* Q Y/N
+* Q Why
+* Q Disjunctive
+* A Direct
+* A Indirect
+* A Intermediate
+* Ev Full
+* Ev Substantial
+* Ev Medium
+* Ev Subtle
+
+##Codificación estructural
+
+>* ~~Autocodificación participantes~~
+* Codificación intervenciones: Preguntas, respuesta, réplica, contrarréplica
+
 ##Comparación constante
 ![](imagenes-cuali/ComparacionConstante.jpg)
 
+##Estrategias trabajo en equipo
 
-##Referencias
+![](imagenes-cuali/TrabajoEquipo.jpg)
+
+##Familias de códigos
+
+. . .
+
+* Crear familias de códigos de participantes por pertenencia a partido político (Convergència, PP, PSOE)
+* Crear familias de partidos políticos
+* Crear familias "Question type"
+
+
+#Relaciones {data-background="imagenes-cuali/Proceso-fondo.png" data-background-transition=zoom data-state=opacidad}
+
+
+##
+![Adaptado de Saldaña, 2009, p. 12](imagenes-cuali/DatoATeoria.jpg)
+
+##Temas
+> Un tema capta algo importante sobre los datos en relación con la pregunta de investigación, y representa un cierto nivel de pauta de respuesta o significado en el conjunto de los datos.\
+@braun_using_2006 [p. 82]
+
+##Tipos de Relaciones
+
+|         | CITAS     | CÓDIGOS      | MEMOS    |
+|:--------|:----------|:-------------|:---------|
+| CITAS   | Hyperlink | Codificación | Relación |
+| CÓDIGOS |           | Relación     | Relación |
+| MEMOS   |           |              | Relación |
+
+![](imagenes-cuali/Relaciones.png)
+
+##Jerarquías de códigos
+
+![](imagenes-cuali/JerarquiasCodigos.png)
+
+##Ejercicio: Relaciones "Question type"
+
+![](imagenes-cuali/Evasion.png)
+
+# Vistas de red
+
+>Aplicar redes temáticas es simplemente una forma de organizar un análisis temático de datos cualitativos. Los análisis temáticos intentan descubrir los temas más destacados en un texto a diferentes niveles, y las redes temáticas tienen como objetivo facilitar la estructuración y representación de esos temas.\
+@attride-stirling_thematic_2001 [p. 387]
+
+##Redes temáticas
+![Attride-Stirling, 2001. p. 388](imagenes-cuali/RedesTematicas.jpg)
+
+##Editar Relaciones
+
+![](imagenes-cuali/EditorRelaciones.png)
+
+##Herramientas de Consulta {data-background="imagenes-cuali/Proceso-fondo.png" data-background-transition=zoom data-state=opacidad}
+
+<div id="column1" style="float:left; margin:0; width:65%;">
+![Herramienta de consulta](imagenes-cuali/HerramientaConsulta.png)
+</div>
+
+<div id="column1" style="float:left; margin:0; width:35%;">
+
+``` {.peque .left}
+1.- Códigos-Familias de Códigos
+2.- Condiciones (Operandos)
+3/4.- Expresiones formuladas
+5.- Resultados
+6.- Distancia máxima
+7.- Selección de doumentos
+8.- Crear super-código
+9.- Borrar / Imprimir
+10.- Edición expresiones
+```
+</div>
+
+##Operadores Booleanos
+
+![](imagenes-cuali/OperadoresBooleanos.jpg)
+
+##Construcción de una consulta
+
+"Todas las citas codificadas como 'Evasión', realizadas por Rajoy o por Zapatero"
+
+. . .
+
+![](imagenes-cuali/EscrituraQuery-1.jpg)
+
+##Operadores Semánticos
+
+![](imagenes-cuali/OperadoresSemanticos.jpg)
+
+##
+
+![](imagenes-cuali/EscrituraQuery-2.jpg)
+
+##Operadores de Proximidad
+
+![](imagenes-cuali/OperadoresProximidad-1.jpg)
+
+##
+
+![](imagenes-cuali/Proximidad.jpg)
+
+##GREP
+
+|  Operador   | Función                                                                        |
+|:-----------:|:-------------------------------------------------------------------------------|
+| ^*término*  | Limita la expresión de búsqueda que sigue al marcador al principio de la línea |
+| *término*$  | Limita la expresión de búsqueda precedente al final de la línea                |
+| \<*término* | Limita la expresión de búsqueda siguiente al inicio de una palabra             |
+| *término*\> | Limita la expresión de búsqueda precedente al inicio de una palabra            |
+|     \\B     | Limita la expresión de búsqueda siguiente a NO incio de palabra                |
+|      .      | Localiza cualquier carácter                                                    |
+|     \\w     | Localiza cualquier carácter alfanumérico                                       |
+|      *      | Localiza cualquier cantidad (o su ausencia) de la expresión precedente         |
+|      +      | Localiza al menos una ocurrencia de la expresión precedente                    |
+
+#Referencias
 
 ## {.scrollable}
