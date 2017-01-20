@@ -84,6 +84,10 @@ lateral-menu: 'True'
 
 `El temps de les cireres`{.autor}
 
+##Primavera de los pueblos
+
+![](imagenes/Europe_1848_map_en-lt.png)
+
 ##Preguntas {data-state=opacidad}
 
 * ¿Quiénes eran los participantes en las acciones de masas?
@@ -144,11 +148,12 @@ lateral-menu: 'True'
 
 ##Irracionales y malvadas
 
->...una docena de hombres inteligentes, sensatos y buenos, son capaces de emitir juicios y veredictos perfectamente estúpidos y carentes de toda lógica.
+
+>(...) doce hombres de buen sentido y de inteligencia pueden dar un veredicto estúpido y absurdo. Una reunión de individuos puede, por tanto, dar un resultado opuesto al que habría dado cada uno de ellos (p. 17)
 
 . . .
 
->La masa es un terreno donde el microbio del mal se desarrolla muy fácilmente, mientras que el microbio del bien muere casi siempre.\
+> La muchedumbre es un terreno en el que se desarrolla muy fácilmente el microbio del mal, y en donde el microbio del bien casi siempre muere, por no encontrar las adecuadas condiciones de vida (p. 64) \
 @sighele_foule_1892
 
 ##Contra la civilización
@@ -182,6 +187,8 @@ lateral-menu: 'True'
 >Cuando la masa actúa por sí misma, lo hace sólo de una manera, porque no tiene otra: lincha. (...) Ni mucho menos podrá extrañar que ahora, cuando las masas triunfan, triunfe la violencia y se haga de ella la única ratio, la única doctrina.\
 @ortegaygasset_rebelion_2003 [, p. 118]
 
+#Convergencia {  data-background="imagenes/Convergence.jpg" data-background-transition=zoom data-state=opacidad}
+
 ##  {data-background="imagenes/ClaudeNeal.jpg" data-background-transition=zoom data-state=opacidad}
 
 . . .
@@ -193,15 +200,20 @@ lateral-menu: 'True'
 ##
 ![Linchamientos](imagenes/Linchamientos.jpg)
 
+## ¿Por qué?
 
-#Convergencia {  data-background="imagenes/Convergence.jpg" data-background-transition=zoom data-state=opacidad}
+Milgram i Toch (1969), estudian episodios de linchamientos en pequeñas ciudades de EEUU. La respuesta al porqué no participan en ellos toda la población es que quienes lo hacen son personas propensas a la violencia.
 
 ##Individualismo
+
 
 >No hay psicología de los grupos que no sea esencialmente y por completo una psicología de los individuos.
 
 >El individuo en la masa se comporta simplemente como lo haría solo, pero más.\
 @allport_social_1924 [, pp. 4 y 295]
+
+
+# Críticas
 
 ##
 >In reality crowd psychology owed less to psychology than to conservative politics. Le Bon's images of the mob (like Taine's before them) inverted Marxist images of a heroic working class. Crowd psychology denied to working people the dignity, autonomy and revolutionary creativity that Marx and other thinkers of the Left conferred on them. Hypnotic explanations stigmatized crowds; they turned motives into impulses and politics into pathology.\
