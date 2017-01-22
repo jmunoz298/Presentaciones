@@ -17,7 +17,7 @@ lateral-menu: 'True'
 
 >Programas para el análisis cualitativo de datos ASISTIDO por ordenador
 
-##Unos enlaces
+**Unos enlaces**
 
 [CAQDAS Networking Project](http://www.surrey.ac.uk/sociology/research/researchcentres/caqdas/)
 
@@ -47,11 +47,11 @@ Friese,  1998
 
 ##¿Qué permite?
 
-<div style="float:left; margin:0; width:20%;">
-![](imagenes-cuali/Pantalla.png)
+<div style="float:left; margin:0; width:35%;">
+![](imagenes-cuali/atlas-que-permite.png){.noshadow}
 </div>
 
-<div style="float:left; margin:0; width:80%;">
+<div style="float:left; margin:0; width:65%;">
 >* Organización e integración
 * Datos multimedia
 * Búsqueda y recuperación
@@ -69,12 +69,15 @@ Friese,  1998
 
 ![Análisis "cotidiano"](imagenes-cuali/AnalisisCotidiano.png)
 
+##
+![Adaptado de Saldaña, 2009, p. 12](imagenes-cuali/DatoATeoria.jpg)
+
 ##Fases del análisis
 ![](imagenes-cuali/Proceso.png)
 
 #Preparación de de datos { .center}
 
-##
+## Fases preparación datos
 
 * Transcripción (literal de los datos)
 * Convenciones ("jeffersonianas")
@@ -84,26 +87,34 @@ Friese,  1998
 
 . . .
 
-![para después...](imagenes-cuali/reader-4.png)
+![para después...](imagenes-cuali/reader-4.png){.noshadow}
 
 . . .
 
-![](imagenes-cuali/reader-12.png)
-![](imagenes-cuali/reader-8.png)
-![](imagenes-cuali/reader-1.png)
-![](imagenes-cuali/reader-2.png)
-![](imagenes-cuali/reader-3.png)
-![](imagenes-cuali/reader-5.png)
-![](imagenes-cuali/reader-11.png)
-![](imagenes-cuali/reader-6.png)
-![](imagenes-cuali/reader-7.png)
-![](imagenes-cuali/reader-10.png)
+![](imagenes-cuali/reader-12.png){.noshadow}
+![](imagenes-cuali/reader-8.png){.noshadow}
+![](imagenes-cuali/reader-1.png){.noshadow}
+![](imagenes-cuali/reader-2.png){.noshadow}
+![](imagenes-cuali/reader-3.png){.noshadow}
+![](imagenes-cuali/reader-5.png){.noshadow}
+![](imagenes-cuali/reader-11.png){.noshadow}
+![](imagenes-cuali/reader-6.png){.noshadow}
+![](imagenes-cuali/reader-7.png){.noshadow}
+![](imagenes-cuali/reader-10.png){.noshadow}
 
 <!-- ![](imagenes-cuali/reader-9.png) -->
 
 #Unidad Hermenéutica {data-background="imagenes-cuali/Proceso-fondo.png" data-background-transition=zoom data-state=opacidad}
 
-##
+##Estrategias trabajo en equipo
+
+![](imagenes-cuali/atlas-trabajo-equipo.png){.noshadow}
+
+##Unir UHs
+
+![](imagenes-cuali/UH-Fusionar-2.png)
+
+## Pantalla principal
 ![](imagenes-cuali/PantallaPrincipal-00.png)
 
 #Memoing {data-background="imagenes-cuali/Proceso-fondo.png" data-background-transition=zoom data-state=opacidad}
@@ -112,18 +123,174 @@ Friese,  1998
 >Mediante el uso de memorandos, el investigador es capaz de sumergirse en los datos, explorar los significados que estos datos tienen, mantener la continuidad y mantener el impulso en la realización de la investigación. Como crónica de un viaje de investigación, los memorandos permanecen como un registro, indeleble pero flexible, para retención personal o para difundir a otros.\
 @birks_memoing_2008 [p. 69]
 
+##Memoing
+>Vemos la toma de notas como crucial para todos los tipos y enfoques de análisis. Otras funciones, como la codificación, la búsqueda de texto, la codificación automática y la modelización pueden ser utilizadas por enfoques concretos, pero la anotación de los datos, documentos y material de apoyo es indivisible del análisis general.\
+@lewins_using_2007 [p. 59]
+
+##Memoing = Reflexionar sobre... {.peque}
+
+* Relación con participantes y/o fenómeno
+* Preguntas de investigación
+* Elección de códigos y sus definiciones
+* Categorías, temas y conceptos emergentes
+* Posibles conexiones entre elementos
+* Teoría emergente
+* Problemas de cualquier tipo de nuestra investigación
+* Problemas o dilemas éticos
+* Informe final
+
+@saldana_coding_2009 [pp. 34-40]
+
+##
+
+Ejercicio memos: insertar PDF
+
+![](img/working-03.png){.noshadow}
+
+
+Descargar y descomprimir:
+
+https://dl.dropboxusercontent.com/u/9159540/Curso-Atlas.zip
+
+>* Crear memo: Reglamento
+>     * Insertar PDF desde carpeta "Documentos"
+* Crear memo: Participantes
+>      * Insertar PDF desde carpeta "Documentos"
+* Guardar UH
+
 # Organización Datos {data-background="imagenes-cuali/Proceso-fondo.png" data-background-transition=zoom data-state=opacidad}
+
+##Agregar datos
+
+![](imagenes-cuali/EstrategiaAsignacion.png)
+
+. . .
+
+```
+Documentos > Nuevo
+  1. Agregar documentos a biblioteca
+  2. Asignar documentos externos
+```
+
+##
+
+![Ejercicio: Agregar datos](img/working-03.png){.noshadow}
+
+Desde la carpeta "ControlParlamentario"
+
+>* Agregar a biblioteca
+>* Asignar documentos externos
+
+##"Transportar" UH
+
+Si 1:
+
+Copiar y restaurar
+
+```
+Proyecto > Guardar paquete de copia
+```
+
+```
+Proyecto > Desempaquetar la copia
+```
+
+. . .
+
+O
+```
+Documentos > Administrador de fuente de datos
+   * Abrir Aaministrador de biblioteca
+       * Fuentes de datos > Exportar
+   * Exportar documentos seleccionados   
+```
+
+. . .
+
+Si 2:
+
+Copiar carpeta donde estén UH y documentos
 
 ##Familias
 ![Tipos de Familias](imagenes-cuali/Familias.png)
 
-##Autocodificación
+##Ejercicio: Crear familias de documentos
+
+
+![](img/working-03.png){.noshadow}
+
+<!--
+|         |                       CONGRESO                        |   SENADO   |
+|:--------|:-----------------------------------------------------:|:----------:|
+| IX LEG. | 2001-02-16 <br>2011-02-03<br>2011-03-09<br>2011-03-16 | 2011-02-08 |
+| X LEG.  |               2012-02-08 <br>2012-02-15               | 2012-03-06 |
+
+: Estructura familias de documentos
+
+##Ejercicio: Superfamilias
+
+![](img/working-03.png){.noshadow}
+
+>* Congreso **Y** IX legislatura
+* Congreso **Y** X legislatura
+* Senado **Y** IX legislatura
+* Senado **Y** X legislatura
+
+-->
+
+##Codificación estructural
 
 . . .
 
 ![](imagenes-cuali/Autocodificacion.png)
 
+##Ejercicio autocodificación
+
+![](img/working-03.png){.noshadow}
+
+```
+Códigos > Codificar > Codificación automática
+```
+
+>* Autocodificar participantes
+>     * Autocodficar Presidente-Zapatero
+     * Autocoficiar Presidente-Rajoy
+>     * Otros políticos
+
+. . .
+
+¿Qué familias podemos crear?
+
+. . .
+
+>* Partidos políticos (Convergència, PP, PSOE)
+* Agrupar partidos políticos
+
+##
+
+|           |    NACIONALES     |           AUTONÓMICOS           |
+|:----------|:-----------------:|:-------------------------------:|
+| IZQUIERDA | IU<br>PCE<br>PSOE | Amaiur<br>BNG<br>ERC<br>ICV PSC |
+| DERECHA   |     PP<br>UPD     |        CC<br>CiU<br>PNV         |
+
+##Más codificación estructural
+
+>* Codificar:
+>     * Pregunta
+     * Respuesta
+     * Réplica
+     * Contrarréplica
+
+. . .
+¿Qué hacemos con todos los códigos "estructurales"?
+
 #Informes {data-background="imagenes-cuali/Proceso-fondo.png" data-background-transition=zoom data-state=opacidad}
+
+##Ejercicio: Informes
+
+![](img/working-03.png){.noshadow}
+
+>* Explorar diferentes tipos de informes: Documentos, Códigos, Memos...
 
 #Segmentar y codificar {data-background="imagenes-cuali/Proceso-fondo.png" data-background-transition=zoom data-state=opacidad}
 
@@ -134,16 +301,16 @@ Friese,  1998
 
 . . .
 
-![](imagenes-cuali/Reduccion-l.jpg)
+![](imagenes-cuali/Reduccion-l.jpg){.noshadow}
 
 ##Codificación
 
 >La indexación (o codificación) es la actividad en la que el investigador aplica significado a los datos en bruto mediante la asignación de palabras clave o frases. Estas palabras clave actúan como indicadores de temas en los datos. La indexación es una actividad por la que los datos se descomponen, conceptualizan y posteriormente son reformulados.\
 @bloor_keywords_2006 [p.201]
 
+<!--
 ##Codificación
 
-<!--
 
 >Coding proceeds by means of the tentative development and labelling of concepts in the text that the researcher considers to be of potential relevance to the problem being studied.\
 Pidgeon & Henwood, 1996, p. 92
@@ -160,6 +327,31 @@ Pidgeon & Henwood, 1996, p. 92
 ##Estrategias de codificación
 
 ![](imagenes-cuali/EstrategiaCodificacion.jpg)
+
+##Literatura definicional
+
+| Origen           | El gato ha bebido la leche                                                                                                                                                                                                                                                                                                               |
+|:-----------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Transformación 1 | El mamífero carnívoro digitígrado doméstico<br>ha tragado un líquido blanco, de sabor dulce producido<br>por las hembras de los mamíferos.                                                                                                                                                                                               |
+| Transformación 2 | Quien tiene tetas, come carne, camina sobre<br>la extremidad de sus dedos y pertenece a la casa<br>ha hecho descender por el gaznate al estómago<br>un estado de la materia sin forma propia,<br>del color de la leche, de impresión<br>agradable al órgano del gusto y procurado por<br>los animales de sexo femenino que tienen tetas. |
+
+##El gato
+
+<div id="column1" style="float:left; margin:0;">
+![](imagenes-cuali/Gato-1.jpg){.border}
+</div>
+
+. . .
+
+<div id="column1" style="float:left; margin:0;">
+![](imagenes-cuali/Gato-2.jpg){.border}
+</div>
+
+. . .
+
+<div id="column1" style="float:left; margin:0;">
+![](imagenes-cuali/Gato-3.jpg){.border}
+</div>
 
 ##Comentarios de códigos
 
@@ -185,30 +377,22 @@ Ejemplo
 
 @macqueen_codebook_1998
 
-##Literatura definicional
+##Ejercicio: Codificación
+Por grupos, categorizar el aula
 
-| Origen           | El gato ha bebido la leche                                                                                                                                                                                                                                                                                                               |
-|:-----------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Transformación 1 | El mamífero carnívoro digitígrado doméstico<br>ha tragado un líquido blanco, de sabor dulce producido<br>por las hembras de los mamíferos.                                                                                                                                                                                               |
-| Transformación 2 | Quien tiene tetas, come carne, camina sobre<br>la extremidad de sus dedos y pertenece a la casa<br>ha hecho descender por el gaznate al estómago<br>un estado de la materia sin forma propia,<br>del color de la leche, de impresión<br>agradable al órgano del gusto y procurado por<br>los animales de sexo femenino que tienen tetas. |
+![](img/working-03.png){.noshadow}
 
-##El gato
+>* Identificar y etiquetar elementos
+* Agrupar elementos por categorías
+* Comparar con otros grupos
 
-<div id="column1" style="float:left; margin:0;">
-![](imagenes-cuali/Gato-1.jpg)
-</div>
 
-. . .
+<!--
+##Categorización
+>Los animales se clasifican en a) pertenecientes al emperador, b) embalsamados, c) amaestrados, d) lechones, e) sirenas, f) fabulosos, g) perros sueltos, h) incluidos en esta clasificación, i) que se agitan como locos, j) innumerables, k) dibujados con un pincel finísimo de pelo de camello, l) etcétera, m) que acaban de romper el jarrón, n) que de lejos parecen moscas.
 
-<div id="column1" style="float:left; margin:0;">
-![](imagenes-cuali/Gato-2.jpg)
-</div>
-
-. . .
-
-<div id="column1" style="float:left; margin:0;">
-![](imagenes-cuali/Gato-3.jpg)
-</div>
+`J.L.Borges (1952). El idioma analítico de John Wilkins.` {.figcaption}
+-->
 
 ##Codificación deductiva
 
@@ -223,17 +407,25 @@ Ejemplo
 * Ev Medium
 * Ev Subtle
 
+##Ejercicio
+
+![](img/working-03.png){.noshadow}
+
+* Crear citas libres
+* Crear códigos libres
+
 ##Codificación estructural
 
->* ~~Autocodificación participantes~~
+>* Autocodificación participantes
 * Codificación intervenciones: Preguntas, respuesta, réplica, contrarréplica
+
+<!--
+##Comparación constante
+![](imagenes-cuali/ComparacionConstante.png){.noshadow}
+-->
 
 ##Comparación constante
 ![](imagenes-cuali/ComparacionConstante.jpg)
-
-##Estrategias trabajo en equipo
-
-![](imagenes-cuali/TrabajoEquipo.jpg)
 
 ##Familias de códigos
 
@@ -262,7 +454,7 @@ Ejemplo
 | CÓDIGOS |           | Relación     | Relación |
 | MEMOS   |           |              | Relación |
 
-![](imagenes-cuali/Relaciones.png)
+![](imagenes-cuali/Relaciones.png){.noshadow}
 
 ##Jerarquías de códigos
 
@@ -270,7 +462,7 @@ Ejemplo
 
 ##Ejercicio: Relaciones "Question type"
 
-![](imagenes-cuali/Evasion.png)
+![](imagenes-cuali/Evasion.png){.noshadow}
 
 # Vistas de red
 
