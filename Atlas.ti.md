@@ -3,15 +3,14 @@ title:  'Análisis con Atlas.ti'
 author:
 - name: Juan Muñoz
   affiliation: Universitat Autònoma de Barcelona
-tags: [nothing, nothingness]
-tema: "Perspectivas discursivas en la Investigación Social"
+tags: [CAQDAS, Qualitative Research, Atlas.ti]
 url: "http:/juan.psicologiasocial.eu"
 bibliography: diapos.bib
 csl: apa.csl
 lateral-menu: 'True'
 ...
 
-#Introducción {.center}
+#Introducción{.center data-background="imagenes-cuali/introduction-2.jpg" data-background-transition=zoom data-state=opacidad}
 
 ##CAQDAS
 
@@ -41,9 +40,10 @@ lateral-menu: 'True'
 @roberts_ict_2002
 
 ##Una advertencia
->Always remember that a computer is just a machine, it won’t do the thinking for you, and it might even hinder you in progressing with your analysis. Don’t forget to turn the computer off once in a while. Take your data, search outputs, coding schemes, etc., to a quite place, and then read through them and think about them. Go far a walk and rest your mind. You probably will get the best ideas then.\
 
-Friese,  1998
+>Recuerda siempre que un ordenador es sólo una máquina, no pensará por ti, y puede incluso dificultarte el progreso con tu análisis. No olvides apagarlo de vez en cuando. Llevate tus datos, salidas de búsqueda, esquemas de codificación, etc, a un lugar tranquilo, y luego lee a través de ellos y piensa en ellos. Da un largo paseo y descansa tu mente. Probablemente obtendrás entonces las mejores ideas.
+
+###Friese,  1998{.autor}
 
 ##¿Qué permite?
 
@@ -60,8 +60,12 @@ Friese,  1998
 * Trabajo en equipo
 </div>
 
+##La investigación cualitativa{data-background="imagenes-cuali/AnalisisCotidiano-b.png" data-background-transition=zoom}
 
-##Análisis temático
+>Un enfoque cualitativo es uno en el que hay necesidad de interpretar los datos a través de la identificación y, posiblemente, la codificación de temas, conceptos, procesos, contextos, etc., con el fin de construir explicaciones o teorías o para probar o ampliar una teoría.\
+@lewins_using_2007
+
+##Análisis temático{data-background="imagenes-cuali/AnalisisCotidiano-b.png" data-background-transition=zoom}
 >El análisis temático es un método para identificar, analizar y reportar patrones (temas) dentro de los datos. Como mínimo organiza y describe en detalle el conjunto de datos. Sin embargo, con frecuencia, va más allá e interpreta diversos aspectos del tema de investigación.\
 @braun_using_2006 [p. 79]
 
@@ -73,9 +77,9 @@ Friese,  1998
 ![Adaptado de Saldaña, 2009, p. 12](imagenes-cuali/DatoATeoria.jpg)
 
 ##Fases del análisis
-![](imagenes-cuali/Proceso.png)
+![](imagenes-cuali/proceso.jpg)
 
-#Preparación de de datos { .center}
+#Preparación de datos {.center data-background="imagenes-cuali/preparacion-1.jpg" data-background-transition=zoom data-state=opacidad}
 
 ## Fases preparación datos
 
@@ -91,20 +95,9 @@ Friese,  1998
 
 . . .
 
-![](imagenes-cuali/reader-12.png){.noshadow}
-![](imagenes-cuali/reader-8.png){.noshadow}
-![](imagenes-cuali/reader-1.png){.noshadow}
-![](imagenes-cuali/reader-2.png){.noshadow}
-![](imagenes-cuali/reader-3.png){.noshadow}
-![](imagenes-cuali/reader-5.png){.noshadow}
-![](imagenes-cuali/reader-11.png){.noshadow}
-![](imagenes-cuali/reader-6.png){.noshadow}
-![](imagenes-cuali/reader-7.png){.noshadow}
-![](imagenes-cuali/reader-10.png){.noshadow}
+![para después...](imagenes-cuali/readers.jpg){.noshadow}
 
-<!-- ![](imagenes-cuali/reader-9.png) -->
-
-#Unidad Hermenéutica {data-background="imagenes-cuali/Proceso-fondo.png" data-background-transition=zoom data-state=opacidad}
+#Unidad Hermenéutica {.center data-background="imagenes-cuali/atlas.jpg" data-background-transition=zoom data-state=opacidad}
 
 ##Estrategias trabajo en equipo
 
@@ -117,7 +110,7 @@ Friese,  1998
 ## Pantalla principal
 ![](imagenes-cuali/PantallaPrincipal-00.png)
 
-#Memoing {data-background="imagenes-cuali/Proceso-fondo.png" data-background-transition=zoom data-state=opacidad}
+#Memoing {.center data-background="imagenes-cuali/Memoing-01.jpg" data-background-transition=zoom data-state=opacidad}
 
 ##Memoing
 >Mediante el uso de memorandos, el investigador es capaz de sumergirse en los datos, explorar los significados que estos datos tienen, mantener la continuidad y mantener el impulso en la realización de la investigación. Como crónica de un viaje de investigación, los memorandos permanecen como un registro, indeleble pero flexible, para retención personal o para difundir a otros.\
@@ -139,15 +132,19 @@ Friese,  1998
 * Problemas o dilemas éticos
 * Informe final
 
+. . .
+
 @saldana_coding_2009 [pp. 34-40]
 
-##
-
-Ejercicio memos: insertar PDF
+##Ejercicio: memos
 
 ![](img/working-03.png){.noshadow}
 
 
+>* Crear memo: Objetivos
+* Crear memo: Muestra/participantes
+
+<!--
 Descargar y descomprimir:
 
 https://dl.dropboxusercontent.com/u/9159540/Curso-Atlas.zip
@@ -157,8 +154,9 @@ https://dl.dropboxusercontent.com/u/9159540/Curso-Atlas.zip
 * Crear memo: Participantes
 >      * Insertar PDF desde carpeta "Documentos"
 * Guardar UH
+-->
 
-# Organización Datos {data-background="imagenes-cuali/Proceso-fondo.png" data-background-transition=zoom data-state=opacidad}
+# Organización Datos {.center data-state=opacidad data-background="imagenes-cuali/hanging-files.jpg" data-background-transition=zoom }
 
 ##Agregar datos
 
@@ -172,18 +170,20 @@ Documentos > Nuevo
   2. Asignar documentos externos
 ```
 
-##
+##Ejercicio: Agregar datos
 
-![Ejercicio: Agregar datos](img/working-03.png){.noshadow}
+![](img/working-03.png){.noshadow}
 
+<!--
 Desde la carpeta "ControlParlamentario"
 
 >* Agregar a biblioteca
 >* Asignar documentos externos
+-->
 
 ##"Transportar" UH
 
-Si 1:
+Si 1 (documentos en biblioteca):
 
 Copiar y restaurar
 
@@ -207,7 +207,7 @@ Documentos > Administrador de fuente de datos
 
 . . .
 
-Si 2:
+Si 2 (documentos externos):
 
 Copiar carpeta donde estén UH y documentos
 
@@ -218,6 +218,7 @@ Copiar carpeta donde estén UH y documentos
 
 
 ![](img/working-03.png){.noshadow}
+
 
 <!--
 |         |                       CONGRESO                        |   SENADO   |
@@ -253,6 +254,8 @@ Códigos > Codificar > Codificación automática
 ```
 
 >* Autocodificar participantes
+
+<!--
 >     * Autocodficar Presidente-Zapatero
      * Autocoficiar Presidente-Rajoy
 >     * Otros políticos
@@ -273,6 +276,8 @@ Códigos > Codificar > Codificación automática
 | IZQUIERDA | IU<br>PCE<br>PSOE | Amaiur<br>BNG<br>ERC<br>ICV PSC |
 | DERECHA   |     PP<br>UPD     |        CC<br>CiU<br>PNV         |
 
+-->
+
 ##Más codificación estructural
 
 >* Codificar:
@@ -284,7 +289,7 @@ Códigos > Codificar > Codificación automática
 . . .
 ¿Qué hacemos con todos los códigos "estructurales"?
 
-#Informes {data-background="imagenes-cuali/Proceso-fondo.png" data-background-transition=zoom data-state=opacidad}
+#Informes {.center data-background="imagenes-cuali/reports.jpg" data-background-transition=zoom data-state=opacidad}
 
 ##Ejercicio: Informes
 
@@ -292,7 +297,7 @@ Códigos > Codificar > Codificación automática
 
 >* Explorar diferentes tipos de informes: Documentos, Códigos, Memos...
 
-#Segmentar y codificar {data-background="imagenes-cuali/Proceso-fondo.png" data-background-transition=zoom data-state=opacidad}
+#Segmentar y codificar {.center data-background="imagenes-cuali/Coding.jpg" data-background-transition=zoom data-state=opacidad}
 
 
 ##Reducción
@@ -378,7 +383,7 @@ Ejemplo
 @macqueen_codebook_1998
 
 ##Ejercicio: Codificación
-Por grupos, categorizar el aula
+Por grupos, codificar el aula
 
 ![](img/working-03.png){.noshadow}
 
@@ -396,6 +401,7 @@ Por grupos, categorizar el aula
 
 ##Codificación deductiva
 
+<!--
 >* Q Y/N
 * Q Why
 * Q Disjunctive
@@ -406,6 +412,7 @@ Por grupos, categorizar el aula
 * Ev Substantial
 * Ev Medium
 * Ev Subtle
+-->
 
 ##Ejercicio
 
@@ -413,19 +420,10 @@ Por grupos, categorizar el aula
 
 * Crear citas libres
 * Crear códigos libres
-
-##Codificación estructural
-
->* Autocodificación participantes
-* Codificación intervenciones: Preguntas, respuesta, réplica, contrarréplica
-
-<!--
-##Comparación constante
-![](imagenes-cuali/ComparacionConstante.png){.noshadow}
--->
+* Utilizar otras opciones de codificación
 
 ##Comparación constante
-![](imagenes-cuali/ComparacionConstante.jpg)
+![](imagenes-cuali/comparacion-constante.png){.noshadow}
 
 ##Familias de códigos
 
@@ -436,7 +434,7 @@ Por grupos, categorizar el aula
 * Crear familias "Question type"
 
 
-#Relaciones {data-background="imagenes-cuali/Proceso-fondo.png" data-background-transition=zoom data-state=opacidad}
+#Relaciones {.center data-background="imagenes-cuali/network.jpg" data-background-transition=zoom data-state=opacidad}
 
 
 ##
@@ -464,7 +462,7 @@ Por grupos, categorizar el aula
 
 ![](imagenes-cuali/Evasion.png){.noshadow}
 
-# Vistas de red
+# Vistas de red{.center data-background="imagenes-cuali/neurons.jpg" data-background-transition=zoom data-state=opacidad}
 
 >Aplicar redes temáticas es simplemente una forma de organizar un análisis temático de datos cualitativos. Los análisis temáticos intentan descubrir los temas más destacados en un texto a diferentes niveles, y las redes temáticas tienen como objetivo facilitar la estructuración y representación de esos temas.\
 @attride-stirling_thematic_2001 [p. 387]
@@ -476,7 +474,7 @@ Por grupos, categorizar el aula
 
 ![](imagenes-cuali/EditorRelaciones.png)
 
-##Herramientas de Consulta {data-background="imagenes-cuali/Proceso-fondo.png" data-background-transition=zoom data-state=opacidad}
+##Herramientas de Consulta {data-background="imagenes-cuali/proceso.jpg" data-background-transition=zoom data-state=opacidad}
 
 <div id="column1" style="float:left; margin:0; width:65%;">
 ![Herramienta de consulta](imagenes-cuali/HerramientaConsulta.png)
@@ -539,6 +537,6 @@ Por grupos, categorizar el aula
 |      *      | Localiza cualquier cantidad (o su ausencia) de la expresión precedente         |
 |      +      | Localiza al menos una ocurrencia de la expresión precedente                    |
 
-#Referencias
+#Referencias{.center data-background="imagenes-cuali/books.jpg" data-background-transition=zoom data-state=opacidad}
 
 ## {.scrollable}
