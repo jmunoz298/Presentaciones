@@ -60,12 +60,12 @@ lateral-menu: 'True'
 * Trabajo en equipo
 </div>
 
-##La investigación cualitativa{data-background="imagenes-cuali/AnalisisCotidiano-b.png" data-background-transition=zoom}
+##La investigación cualitativa{data-background="imagenes-cuali/AnalisisCotidiano.png" data-background-transition=zoom data-state=opacidad}
 
 >Un enfoque cualitativo es uno en el que hay necesidad de interpretar los datos a través de la identificación y, posiblemente, la codificación de temas, conceptos, procesos, contextos, etc., con el fin de construir explicaciones o teorías o para probar o ampliar una teoría.\
 @lewins_using_2007
 
-##Análisis temático{data-background="imagenes-cuali/AnalisisCotidiano-b.png" data-background-transition=zoom}
+##Análisis temático{data-background="imagenes-cuali/AnalisisCotidiano.png" data-background-transition=zoom data-state=opacidad}
 >El análisis temático es un método para identificar, analizar y reportar patrones (temas) dentro de los datos. Como mínimo organiza y describe en detalle el conjunto de datos. Sin embargo, con frecuencia, va más allá e interpreta diversos aspectos del tema de investigación.\
 @braun_using_2006 [p. 79]
 
@@ -95,9 +95,9 @@ lateral-menu: 'True'
 
 . . .
 
-![para después...](imagenes-cuali/readers.jpg){.noshadow}
+![](imagenes-cuali/readers.jpg){.noshadow}
 
-#Unidad Hermenéutica {.center data-background="imagenes-cuali/atlas.jpg" data-background-transition=zoom data-state=opacidad}
+#Unidad Hermenéutica {.center data-background="imagenes-cuali/escriba.jpg" data-background-transition=zoom data-state=opacidad}
 
 ##Estrategias trabajo en equipo
 
@@ -200,7 +200,7 @@ Proyecto > Desempaquetar la copia
 O
 ```
 Documentos > Administrador de fuente de datos
-   * Abrir Aaministrador de biblioteca
+   * Abrir Administrador de biblioteca
        * Fuentes de datos > Exportar
    * Exportar documentos seleccionados   
 ```
@@ -301,12 +301,12 @@ Códigos > Codificar > Codificación automática
 
 
 ##Reducción
->[En la investigación cualitativa] el reto es dar sentido a una cantidad masiva de datos, reducir el volumen de información, identificar pautas significativas, y construir un marco para comunicar la esencia de lo que revelan los datos.\
+>[...] el reto es dar sentido a una cantidad masiva de datos, reducir el volumen de información, identificar pautas significativas, y construir un marco para comunicar la esencia de lo que revelan los datos.\
 @patton_qualitative_1990 [pp. 371-372]
 
 . . .
 
-![](imagenes-cuali/Reduccion-l.jpg){.noshadow}
+![](imagenes-cuali/Reduccion.png){.noshadow}
 
 ##Codificación
 
@@ -444,6 +444,13 @@ Por grupos, codificar el aula
 > Un tema capta algo importante sobre los datos en relación con la pregunta de investigación, y representa un cierto nivel de pauta de respuesta o significado en el conjunto de los datos.\
 @braun_using_2006 [p. 82]
 
+
+## Ejemplo: códigos-categorías-temas
+
+![](imagenes-cuali/Graneheim-Lundaman-Figura1-es.png)
+@graneheim_qualitative_2004 [p. 108]\
+`Narrativas sobre hipoglucemia`{.figcaption}
+
 ##Tipos de Relaciones
 
 |         | CITAS     | CÓDIGOS      | MEMOS    |
@@ -474,7 +481,9 @@ Por grupos, codificar el aula
 
 ![](imagenes-cuali/EditorRelaciones.png)
 
-##Herramientas de Consulta {data-background="imagenes-cuali/proceso.jpg" data-background-transition=zoom data-state=opacidad}
+#Herramientas de consulta{.center data-background="imagenes-cuali/query.jpg" data-background-transition=zoom data-state=opacidad}
+
+##Query tool
 
 <div id="column1" style="float:left; margin:0; width:65%;">
 ![Herramienta de consulta](imagenes-cuali/HerramientaConsulta.png)
