@@ -18,7 +18,7 @@ lateral-menu: 'True'
 
 ####Fenómenos que caen fuera de la estructura social u orden establecido
 
-##
+##Definición
 > [definimos] la conducta colectiva como una acción voluntaria, dirigida a una meta, que se produce en una situación relativamente desorganizada, en la que las normas y valores predominantes de la sociedad dejan de actuar sobre la conducta individual. La conducta colectiva consiste en la reacción de un grupo a alguna situación.\
 @appelbaum_sociology_1997 [, p. 422]
 
