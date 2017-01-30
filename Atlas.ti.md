@@ -160,7 +160,7 @@ https://dl.dropboxusercontent.com/u/9159540/Curso-Atlas.zip
 
 ##Agregar datos
 
-![](imagenes-cuali/EstrategiaAsignacion.png)
+![](imagenes-cuali/EstrategiaAsignacion.png){.noshadow}
 
 . . .
 
@@ -174,16 +174,21 @@ Documentos > Nuevo
 
 ![](img/working-03.png){.noshadow}
 
-<!--
 Desde la carpeta "ControlParlamentario"
 
 >* Agregar a biblioteca
+>     * Ir a `Documentos > Administrador de fuentes de datos > Abrir administrador de biblioteca`
 >* Asignar documentos externos
--->
+
 
 ##"Transportar" UH
 
-Si 1 (documentos en biblioteca):
+<div id="column1" style="float:left; margin:0; width:35%;">
+![](imagenes-cuali/EstrategiaAsignacion-1.png){.noshadow}
+
+</div>
+
+<div id="column1" style="float:left; margin:0; width:65%;">
 
 Copiar y restaurar
 
@@ -195,8 +200,6 @@ Proyecto > Guardar paquete de copia
 Proyecto > Desempaquetar la copia
 ```
 
-. . .
-
 O
 ```
 Documentos > Administrador de fuente de datos
@@ -205,9 +208,16 @@ Documentos > Administrador de fuente de datos
    * Exportar documentos seleccionados   
 ```
 
+</div>
+
 . . .
 
-Si 2 (documentos externos):
+<hr />
+
+<div id="column1" style="float:left; margin:0; width:35%;">
+![](imagenes-cuali/EstrategiaAsignacion-2.png){.noshadow}
+
+</div>
 
 Copiar carpeta donde estén UH y documentos
 
@@ -220,7 +230,7 @@ Copiar carpeta donde estén UH y documentos
 ![](img/working-03.png){.noshadow}
 
 
-<!--
+
 |         |                       CONGRESO                        |   SENADO   |
 |:--------|:-----------------------------------------------------:|:----------:|
 | IX LEG. | 2001-02-16 <br>2011-02-03<br>2011-03-09<br>2011-03-16 | 2011-02-08 |
@@ -237,7 +247,6 @@ Copiar carpeta donde estén UH y documentos
 * Senado **Y** IX legislatura
 * Senado **Y** X legislatura
 
--->
 
 ##Codificación estructural
 
@@ -290,6 +299,19 @@ Códigos > Codificar > Codificación automática
 ¿Qué hacemos con todos los códigos "estructurales"?
 
 #Informes {.center data-background="imagenes-cuali/reports.jpg" data-background-transition=zoom data-state=opacidad}
+
+##Menús informes
+
+`Componentes con opciones de impresión`{.figcaption}
+
+![](imagenes-cuali/imprimir.png)
+
+. . .
+
+`Destino del informe`{.figcaption}
+
+![](imagenes-cuali/informes-opciones.png)
+
 
 ##Ejercicio: Informes
 
@@ -399,9 +421,9 @@ Por grupos, codificar el aula
 `J.L.Borges (1952). El idioma analítico de John Wilkins.` {.figcaption}
 -->
 
+<!--
 ##Codificación deductiva
 
-<!--
 >* Q Y/N
 * Q Why
 * Q Disjunctive
@@ -436,6 +458,19 @@ Por grupos, codificar el aula
 
 #Relaciones {.center data-background="imagenes-cuali/network.jpg" data-background-transition=zoom data-state=opacidad}
 
+##Tipos de Relaciones
+
+|         | CITAS     | CÓDIGOS      | MEMOS    |
+|:--------|:----------|:-------------|:---------|
+| CITAS   | Hyperlink | Codificación | Relación |
+| CÓDIGOS |           | Relación     | Relación |
+| MEMOS   |           |              | Relación |
+
+![](imagenes-cuali/Relaciones.png){.noshadow}
+
+##Jerarquías de códigos
+
+![](imagenes-cuali/JerarquiasCodigos.png)
 
 ##
 ![Adaptado de Saldaña, 2009, p. 12](imagenes-cuali/DatoATeoria.jpg)
@@ -451,19 +486,6 @@ Por grupos, codificar el aula
 @graneheim_qualitative_2004 [p. 108]\
 `Narrativas sobre hipoglucemia`{.figcaption}
 
-##Tipos de Relaciones
-
-|         | CITAS     | CÓDIGOS      | MEMOS    |
-|:--------|:----------|:-------------|:---------|
-| CITAS   | Hyperlink | Codificación | Relación |
-| CÓDIGOS |           | Relación     | Relación |
-| MEMOS   |           |              | Relación |
-
-![](imagenes-cuali/Relaciones.png){.noshadow}
-
-##Jerarquías de códigos
-
-![](imagenes-cuali/JerarquiasCodigos.png)
 
 ##Ejercicio: Relaciones "Question type"
 

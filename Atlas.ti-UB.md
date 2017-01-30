@@ -143,30 +143,18 @@ lateral-menu: 'True'
 >* Crear memo: Objetivos
 * Crear memo: Muestra/participantes
 
-<!--
-Descargar y descomprimir:
-
-https://dl.dropboxusercontent.com/u/9159540/Curso-Atlas.zip
-
->* Crear memo: Reglamento
->     * Insertar PDF desde carpeta "Documentos"
-* Crear memo: Participantes
->      * Insertar PDF desde carpeta "Documentos"
-* Guardar UH
--->
 
 # Organización Datos {.center data-state=opacidad data-background="imagenes-cuali/hanging-files.jpg" data-background-transition=zoom }
 
 ##Agregar datos
 
-![](imagenes-cuali/EstrategiaAsignacion.png)
+![](imagenes-cuali/EstrategiaAsignacion.png){.noshadow}
 
 . . .
 
 ```
-Documentos > Nuevo
-  1. Agregar documentos a biblioteca
-  2. Asignar documentos externos
+1. Documentos > Nuevo > Agregar documentos (a biblioteca)
+2. Documentos > Nuevo > Asignar documentos externos
 ```
 
 ##Ejercicio: Agregar datos
@@ -182,7 +170,12 @@ Desde la carpeta "PROHABIT"
 
 ##"Transportar" UH
 
-Si 1 (documentos en biblioteca):
+<div id="column1" style="float:left; margin:0; width:35%;">
+![](imagenes-cuali/EstrategiaAsignacion-1.png){.noshadow}
+
+</div>
+
+<div id="column1" style="float:left; margin:0; width:65%;">
 
 Copiar y restaurar
 
@@ -194,8 +187,6 @@ Proyecto > Guardar paquete de copia
 Proyecto > Desempaquetar la copia
 ```
 
-. . .
-
 O
 ```
 Documentos > Administrador de fuente de datos
@@ -204,11 +195,19 @@ Documentos > Administrador de fuente de datos
    * Exportar documentos seleccionados   
 ```
 
+</div>
+
 . . .
 
-Si 2 (documentos externos):
+<hr />
+
+<div id="column1" style="float:left; margin:0; width:35%;">
+![](imagenes-cuali/EstrategiaAsignacion-2.png){.noshadow}
+
+</div>
 
 Copiar carpeta donde estén UH y documentos
+
 
 ##Familias
 ![Tipos de Familias](imagenes-cuali/Familias.png)
@@ -226,17 +225,6 @@ Copiar carpeta donde estén UH y documentos
 | Vallcarca     |           |               |                |
 
 : Estructura familias de documentos
-
-<!--
-##Ejercicio: Superfamilias
-
-![](img/working-03.png){.noshadow}
-
->* Congreso **Y** IX legislatura
-* Congreso **Y** X legislatura
-* Senado **Y** IX legislatura
-* Senado **Y** X legislatura
--->
 
 ##Codificación estructural
 
@@ -261,6 +249,19 @@ Códigos > Codificar > Codificación automática
 
 
 #Informes {.center data-background="imagenes-cuali/reports.jpg" data-background-transition=zoom data-state=opacidad}
+
+##Menús informes
+
+`Componentes con opciones de impresión`{.figcaption}
+
+![](imagenes-cuali/imprimir.png)
+
+. . .
+
+`Destino del informe`{.figcaption}
+
+![](imagenes-cuali/informes-opciones.png)
+
 
 ##Ejercicio: Informes
 
@@ -320,7 +321,7 @@ Ver:
 
 @macqueen_codebook_1998
 
-##Ejercicio: Codificación
+##Ejercicio: Segmentación / Codificación
 
 ![](img/working-03.png){.noshadow}
 
@@ -333,6 +334,20 @@ Ver:
 
 
 #Relaciones {.center data-background="imagenes-cuali/network.jpg" data-background-transition=zoom data-state=opacidad}
+
+##Tipos de Relaciones
+
+|         | CITAS     | CÓDIGOS      | MEMOS    |
+|:--------|:----------|:-------------|:---------|
+| CITAS   | Hyperlink | Codificación | Relación |
+| CÓDIGOS |           | Relación     | Relación |
+| MEMOS   |           |              | Relación |
+
+![](imagenes-cuali/Relaciones.png){.noshadow}
+
+##Jerarquías de códigos
+
+![](imagenes-cuali/JerarquiasCodigos.png)
 
 
 ##
@@ -348,20 +363,6 @@ Ver:
 @graneheim_qualitative_2004 [p. 108]\
 `Narrativas sobre hipoglucemia`{.figcaption}
 
-
-##Tipos de Relaciones
-
-|         | CITAS     | CÓDIGOS      | MEMOS    |
-|:--------|:----------|:-------------|:---------|
-| CITAS   | Hyperlink | Codificación | Relación |
-| CÓDIGOS |           | Relación     | Relación |
-| MEMOS   |           |              | Relación |
-
-![](imagenes-cuali/Relaciones.png){.noshadow}
-
-##Jerarquías de códigos
-
-![](imagenes-cuali/JerarquiasCodigos.png)
 
 
 # Vistas de red{.center data-background="imagenes-cuali/neurons.jpg" data-background-transition=zoom data-state=opacidad}
