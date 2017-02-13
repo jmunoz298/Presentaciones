@@ -12,9 +12,9 @@ lateral-menu: 'True'
 ...
 
 
-#Elementos de definición { .center}
+#Elementos de definición {.center data-background="imagenes/concept.png" data-background-transition=zoom data-state=opacidad}
 
-##Concepto paraguas
+##Concepto paraguas {data-background="imagenes/umbrella.jpg" data-background-transition=zoom data-state=opacidad}
 
 ####Fenómenos que caen fuera de la estructura social u orden establecido
 
@@ -105,7 +105,7 @@ lateral-menu: 'True'
 [Citado por @moscovici_era_1985]
 
 
-#Las teorías: Contagio  { .center}
+#Las teorías: Contagio  {data-background="imagenes/virus.jpg" data-background-transition=zoom data-state=opacidad}
 
 ##Teorías del contagio {data-background="imagenes/zombis.jpg" data-background-transition=fade data-state=fondo}
 
@@ -187,7 +187,7 @@ lateral-menu: 'True'
 >Cuando la masa actúa por sí misma, lo hace sólo de una manera, porque no tiene otra: lincha. (...) Ni mucho menos podrá extrañar que ahora, cuando las masas triunfan, triunfe la violencia y se haga de ella la única ratio, la única doctrina.\
 @ortegaygasset_rebelion_2003 [, p. 118]
 
-#Convergencia {  data-background="imagenes/Convergence.jpg" data-background-transition=zoom data-state=opacidad}
+#Convergencia {  data-background="imagenes/crowd.jpg" data-background-transition=zoom data-state=opacidad}
 
 ##  {data-background="imagenes/ClaudeNeal.jpg" data-background-transition=zoom data-state=opacidad}
 
