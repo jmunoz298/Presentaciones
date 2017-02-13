@@ -3,25 +3,41 @@ title:  'Acció Pública i Canvi Social'
 author:
 - name: Juan Muñoz
   affiliation: Universitat Autònoma de Barcelona
-tema: "2015-2016"
+tema: "2016-2017"
 url: "http:/juan.psicologiasocial.eu"
 ...
 
 ##Equipo docente
 
-| Teoría          |  | Prácticas  |
-|:----------------|:-|:-----------|
-| Juan Muñoz      |  | Joan Pujol |
-| Miquel Domènech |  |            |
+<div style="float:left; margin:0; width:33%;">
+![Juan Muñoz](imagenes/joan.png)
+</div>
+
+
+<div style="float:left; margin:0; width:33%;">
+![Miquel Domènech](imagenes/miquel.png)
+</div>
+
+<div style="float:left; margin:0; width:33%;">
+![Joan Pujol](imagenes/joan.png)
+</div>
+
+
+##Equipo docente
+
+|               |            |                 |
+|:--------------|:-----------|:----------------|
+| **Teoría**    | Juan Muñoz | Miquel Domènech |
+| **Prácticas** | Joan Pujol |                 |
 
 ##Evaluación
 
-| Evidència | Definició                              |    % | Presentació |     Data |
-|:----------|:---------------------------------------|-----:|:------------|---------:|
-| EV2.a     | Proba escrita 1                        | 22.5 | Individual  | 14 abril |
-| EV2.b     | Proba escrita 2                        | 22.5 | Individual  |   6 juny |
-| EV1       | Informe cas pràctic                    | 40.0 | Grupal      |   6 juny |
-| EV3       | Informe individual lectura obligatòria | 15.0 | Individual  |   6 juny |
+| Evidència | Definició                              |    % | Presentació |    Data |
+|:----------|:---------------------------------------|-----:|:------------|--------:|
+| EV2.a     | Proba escrita 1                        | 22.5 | Individual  | 5 abril |
+| EV2.b     | Proba escrita 2                        | 22.5 | Individual  |  8 juny |
+| EV1       | Informe cas pràctic                    | 40.0 | Grupal      |  8 juny |
+| EV3       | Informe individual lectura obligatòria | 15.0 | Individual  |  8 juny |
 
 El/la estudiante que entregue evidencias de aprendizaje con un peso superior o igual a 4 puntos (40%) no podrá constar como “no presentado”
 
@@ -38,33 +54,32 @@ Para realizar el cálculo de la nota presencial hay que obtener una **puntuació
 
 | Setmana | Data         | Teoria          | Pràctiques |
 |:--------|:-------------|:----------------|:-----------|
-| 1       | 11-febrer    | Juan            |            |
-| 2       | 18-febrer    | Juan            | Joan       |
-| 3       | 25-febrer    | Juan            |            |
-| 4       | 03-març      | Juan            | Joan       |
-| 5       | 10-març      | Juan            |            |
-| 6       | 17-març      | Juan            | Joan       |
-|         | 24-març      | No lectiu       |            |
-| 7       | 31-març      |                 | Joan       |
-| 8       | 07-abril     |                 |            |
-| **9**   | **11-abril** | **Avaluació**   |            |
-| 10      | 21-abril     | Miquel          | Joan       |
-| 11      | 28-abril     | Miquel          |            |
-| 12      | 05-maig      | Miquel          | Joan       |
-| 13      | 12-maig      | Miquel          |            |
-| 14      | 19-maig      | Miquel          |            |
-| 15      | 26-maig      | Miquel          |            |
-| 16      | 02-juny      |                 |            |
-| **17**  | **06-juny**  | **Avaluació**   |            |
+| 2       | 16-febrer    | Juan            |            |
+| 3       | 23-febrer    | Juan            | Joan       |
+| 4       | 02-març      | Juan            |            |
+| 5       | 09-març      | Juan            | Joan       |
+| 6       | 16-març      | Juan            |            |
+| 7       | 23-març      | Juan            | Joan       |
+|         | 30-març      |                 |            |
+| **9**   | **05-abril** | **Avaluació**   |            |
+| 10      | 20-abril     |                 |            |
+| 11      | 27-abril     | Miquel          | Joan       |
+| 12      | 04-maig      | Miquel          |            |
+| 13      | 11-maig      | Miquel          | Joan       |
+| 14      | 18-maig      | Miquel          |            |
+| 15      | 25-maig      | Miquel          | Joan       |
+| 16      | 01-juny      | Miquel          |            |
+| **17**  | **08-juny**  | **Avaluació**   |            |
 | 18      | 16-juny      |                 |            |
 | 19      | 23-juny      |                 |            |
 | **20**  | **27-juny**  | **Reavaluació** |            |
 
 ##Contacte
 
-| ![](img/Direccion.png) | B5-034                                                  |
+|                        |                                                         |
 |:-----------------------|:--------------------------------------------------------|
-| ![](img/Clock.png)     | Dijous 12:30-14:00                                      |
+| ![](img/Direccion.png) | B5-034                                                  |
+| ![](img/Clock.png)     | Dijous 10:30-12:30                                      |
 |                        | [Cita previa: http://cita.uab.cat](http://cita.uab.cat) |
 | ![](img/Telefono.png)  | 93 581 2874                                             |
 | ![](img/Correo.png)    | juan.munoz@uab.cat                                      |
@@ -84,12 +99,26 @@ Muñoz-Justicia, J., & Vázquez, F. (2003). Procesos colectivos y acción social
 
 ![](img/Books.png)
 
-##Evidencia 3: Reseña
+##Evidencia 3: Reseña{.references}
 
+Clarke, L., & Chess, C. (2008). Elites and Panic: More to Fear than Fear Itself. _Social Forces_, _87_(2), 993-1014. [http://www.jstor.org/stable/20430900][lectura-rumor]
 
-![](img/Coming.png)
+Foucault, M. (2009). Alternatives to the Prison: Dissemination or Decline of Social Control? _Theory, Culture & Society_, _26_ (6), 12-24. [https://doi.org/10.1177/0263276409353775][lectura-foucault]
 
+Stone, A. L. (2016). The Impact of Anti-Gay Politics on the LGBTQ Movement. _Sociology Compass_, _10_(6), 459-467. [https://doi.org/10.1111/soc4.12373][lectura-lgbtq]
+
+[lectura-rumor]: http://www.jstor.org/stable/20430900 "http://www.jstor.org/stable/20430900"
+
+[lectura-foucault]: https://doi.org/10.1177/0263276409353775 "https://doi.org/10.1177/0263276409353775"
+
+[lectura-lgbtq]: https://doi.org/10.1111/soc4.12373 "https://doi.org/10.1111/soc4.12373"
+
+<!--
+![](img/Coming.png){.noshadow}
+-->
 . . .
+
+<hr>
 
 [UAB Argumenta](http://wuster.uab.cat/web_argumenta_obert/unit_10/tot_t10.html)
 
