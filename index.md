@@ -18,6 +18,9 @@ Análisis temático
 
 -   Conformismo (Septiembre 2016) ([HTML](AnalisisTematico.html) | [PDF](AnalisisTematico.pdf))
 
+Grupos en Psicología Social
+---------------------------
+- Grupos en Psicología Social (Octubre 2016) ([HTML](GruposEnPS.html) | [PDF](GruposEnPS.pdf)
 
 Cómo verlas
 ===========
