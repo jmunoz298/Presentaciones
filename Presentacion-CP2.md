@@ -28,11 +28,20 @@ index: false
 <video width="420"  class="stretch" controls><source src="cp2/CervezaGuinness.mp4"></video>
 </div>
 
+##Perfumes
+
+<video class="stretch" controls><source src="cp2/1Million-PacoRabanne.mp4"></video>
+`1Million-PacoRabanne` {.figcaption}
+
 ##Axe: Excite
 
-<video width="420"  class="stretch" controls><source src="cp2/02-Axe-Excite.mp4"></video>
+<video width="420"  class="stretch" controls><source src="cp2/03-Axe-Excite.mp4"></video>
 
 `Premio a la efectividad creativa 2012 (Cannes)`{.figcaption}
+
+##El sistema sexo-género
+
+<video class="stretch" controls><source src="cp2/AlwaysLikeAGirl.mp4"></video>
 
 ##
 
@@ -106,6 +115,10 @@ index: false
 * Elaborar **mensaje**
 
 ##
+
+![Modelo de comunicación de Lasswell](cp2/ComunicacionLasswell.jpg)
+
+##
 <div id="column1" style="float:left; margin:0; ">
 ![](cp2/Eslogan-Adidas.jpg)
 ![](cp2/Eslogan-Nespresso.jpg)
@@ -135,6 +148,10 @@ index: false
 ![](cp2/Eslogan-KitKat.png)
 -->
 
+##
+
+![](cp2/Eslogans-Elecciones-26J-2016.jpg)
+
 ##¿Ridículo?
 
 <video width="420"  class="stretch" controls><source src="cp2/RolesIntercambiados.mp4"></video>
@@ -154,7 +171,7 @@ index: false
 
 ##El informe
 
-* **Fecha de entrega: 23 de noviembre**
+* **Fecha de entrega: 21 de noviembre**
 * Parte grupal: 70% calificación
 * Parte individual: 30% calificación
 * Total: 10% asignatura

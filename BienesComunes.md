@@ -5,7 +5,7 @@ author:
   affiliation: Universitat Autònoma de Barcelona
 tema: "Los bienes comunes"
 url: "http:/juan.psicologiasocial.eu"
-bibliography: Diapos.bib
+bibliography: diapos.bib
 csl: apa.csl
 lateral-menu: 'True'
 ...
@@ -16,7 +16,7 @@ lateral-menu: 'True'
 * Los bienes comunes
 * Bienes comunes culturales
 
-#La tragedia de los comunes {.mitit}
+#La tragedia de los comunes {}
 
 ##
 
@@ -64,7 +64,7 @@ La Tragedia de los Comunes es el agotamiento  de un recurso compartido por las p
 
 </div>
 
-#Los bienes comunes {.mitit}
+#Los bienes comunes {}
 
 ##Características de los recursos
 
@@ -75,7 +75,7 @@ La Tragedia de los Comunes es el agotamiento  de un recurso compartido por las p
 
 ![Elinor Ostrom](imagenes/Ostrom.jpg)
 
-#Bienes comunes culturales {.mitit}
+#Bienes comunes culturales {}
 
 ##
 
@@ -126,7 +126,3 @@ La Tragedia de los Comunes es el agotamiento  de un recurso compartido por las p
 ##
 
 ![Licencias](imagenes/CreativeCommons.jpg)
-
-##
-
-![](img/GameOver.png)

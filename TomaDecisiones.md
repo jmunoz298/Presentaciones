@@ -52,7 +52,7 @@ Doise y Moscovici, 1984
 
 ##Polarización
 
-#Pensamiento grupal {.mitit .center}
+#Pensamiento grupal { .center}
 
 ##Pensamiento grupal
 Presis norteamericanos

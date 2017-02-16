@@ -11,7 +11,16 @@
  <link rel="stylesheet" href="reveal.js/plugin/toc-progress/toc-progress.css">
   <!--  <style type="text/css">code{white-space: pre;}</style> -->
     <link rel="stylesheet" href="reveal.js/css/theme/serif-mod.css" id="theme">
-  <link rel="stylesheet" media="print" href="reveal.js/css/print/pdf.css" />
+
+<!-- If the query includes 'print-pdf', use the PDF print sheet -->
+<script>
+  var link = document.createElement( 'link' );
+  link.rel = 'stylesheet';
+  link.type = 'text/css';
+  link.href = window.location.search.match( /print-pdf/gi ) ? 'reveal.js/css/print/pdf.css' : 'reveal.jscss/print/paper.css';
+  document.getElementsByTagName( 'head' )[0].appendChild( link );
+</script>
+
   <!--[if lt IE 9]>
   <script src="reveal.js/lib/js/html5shiv.js"></script>
   <![endif]-->
@@ -29,52 +38,76 @@
 <div style="position: absolute; bottom: 0px; margin-left: 0px; width: 100%; <center><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Llicència de Creative Commons" style="border-width:0" src="img/cc-by.png" /></a></center>
 </div>
 </section>
-<section id="índice" class="slide level2">
-<h1>Índice</h1>
-<ul>
-<li></li>
-</ul>
-</section>
 <section id="qué-es-un-conflicto" class="slide level2">
 <h1>¿Qué es un conflicto?</h1>
 <blockquote>
-<p>Divergencia percibida de intereses o creencias que hace que las aspiraciones corrientes de las partes no puedan lograrse simultáneamente.., 1996</p>
+<p>Divergencia percibida de intereses o creencias que hace que las aspiraciones corrientes de las partes no puedan lograrse simultáneamente..<br />
+<code class="autor">Suares, 1996</code></p>
 </blockquote>
 </section>
 <section id="teoría-realista-del-conflicto" class="slide level2">
 <h1>Teoría realista del conflicto</h1>
 <ul>
 <li class="fragment">El conflicto se basa en una situación objetiva.</li>
-<li class="fragment">El conflicto aparece cuando dos grupos tienen intereses y metas mutuamente incompatibles, lo que supone que cuando un grupo alcanza su meta, el otro no puede alcanzarla.</li>
+<li class="fragment">El conflicto aparece cuando dos grupos tienen intereses y metas mutuamente incompatibles: cuando un grupo alcanza su meta, el otro no puede alcanzarla.</li>
 </ul>
 <figure>
-<img src="imagenes-isg/Sherif.jpg" alt="Muzafer Sheriff (1906-1988)" /><figcaption>Muzafer Sheriff<br />(1906-1988)</figcaption>
+<img src="imagenes-isg/Sherif.jpg" alt="Muzafer Sheriff (1906-1988)" /><figcaption>Muzafer Sheriff<br />
+(1906-1988)</figcaption>
 </figure>
 </section>
 <section id="robbers-cave" class="slide level2">
 <h1>Robber's Cave</h1>
-</section>
-<section id="metas-supraordendadas" class="slide level2">
-<h1>Metas supraordendadas</h1>
-</section>
-<section id="tyerman-y-spencer-1983" class="slide level2">
-<h1>Tyerman y Spencer (1983)</h1>
+<div id="column1" style="float:left; margin:0; width:50%;">
+<figure>
+<img src="imagenes-isg/RobbersCave-1.jpg" alt="Competición" /><figcaption>Competición</figcaption>
+</figure>
+</div>
+<div id="column1" style="float:left; margin:0; width:50%;">
+<figure>
+<img src="imagenes-isg/RobbersCave-2.jpg" alt="Interdependencia" /><figcaption>Interdependencia</figcaption>
+</figure>
+</div>
+<!--
+##Tyerman y Spencer (1983)
+-->
 </section>
 <section id="teoría-de-la-identidad-social" class="slide level2">
 <h1>Teoría de la identidad Social</h1>
 <blockquote>
-<p>...la identidad social de un individuo va ligada al conocimiento de su pertenencia a ciertos grupos sociales y al significado emocional y valorativo resultante de esta pertenencia..<br />Tajfel, 1972</p>
+<p>...la identidad social de un individuo va ligada al conocimiento de su pertenencia a ciertos grupos sociales y al significado emocional y valorativo resultante de esta pertenencia..<br />
+<code class="autor">Tajfel, 1972</code></p>
 </blockquote>
 </section>
-<section id="teoría-de-la-identidad-social-1" class="slide level2">
-<h1>Teoría de la identidad Social</h1>
-<p>El conflicto aparece cuando se categoriza a las partes como representantes de diferentes grupos o identidades sociales.</p>
+<section id="section" class="slide level2">
+<h1></h1>
+<blockquote>
+<p>El proceso de comparación social transforma las simples discriminaciones perceptivas o cognitivas en actitudes y acciones diferenciales que favorecen al propio grupo sobre los otros grupos. Motiva el aumento competitivo de criterios de diferenciación entre los grupos y otras estrategias aparte de la discriminación directa para conseguir la distintividad positiva&quot;<br />
+<code class="autor">Turner, 1981, p. 82</code></p>
+</blockquote>
+</section>
+<section id="section-1" class="slide level2">
+<h1></h1>
+<h4 id="el-conflicto-aparece-cuando-se-categoriza-a-las-partes-como-representantes-de-diferentes-grupos-o-identidades-sociales.">El conflicto aparece cuando se categoriza a las partes como representantes de diferentes grupos o identidades sociales.</h4>
 </section>
 <section id="klee-kandisnly" class="slide level2">
 <h1>Klee Kandisnly</h1>
+<div id="column1" style="float:left; margin:0; width:50%;">
+<figure>
+<img src="imagenes-isg/Klee.png" />
+</figure>
+</div>
+<div id="column1" style="float:left; margin:0; width:50%;">
+<figure>
+<img src="imagenes-isg/Kandinsky.png" />
+</figure>
+</div>
 </section>
 <section id="grupo-mínimo" class="slide level2">
 <h1>Grupo mínimo</h1>
+<figure>
+<img src="imagenes-isg/MatrizGrupoMinimo.png" />
+</figure>
 </section>
 <section id="efectos-de-la-categorización" class="slide level2">
 <h1>Efectos de la categorización</h1>
@@ -93,9 +126,15 @@
 <ul>
 <li class="fragment">Decategorización</li>
 <li class="fragment">Recategorización</li>
-<li class="fragment">Diferenciación mútua</li>
+<li class="fragment">Diferenciación intergrupal mútua</li>
 </ul>
-<div class="references">
+</section>
+<section id="strangers" class="slide level2">
+<h1>Strangers</h1>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RZLmxxz8VAU" frameborder="0" allowfullscreen>
+</iframe>
+<p><code class="figcaption">Strangers: http://www.youtube.com/watch?v=RZLmxxz8VAU</code></p>
+<div id="refs" class="references">
 
 </div>
 </section>
@@ -110,24 +149,38 @@
       // Full list of configuration options available here:
       // https://github.com/hakimel/reveal.js#configuration
       Reveal.initialize({
+
+        //Opciones reveal
         controls: true,
         rollingLinks: true,
         previewLinks: false,
         progress: true,
         history: true,
         center: false,
-	zoomKey: 'shift',
+	      zoomKey: 'shift',
         theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
         transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
 
+        //Opciones plugin menu
+
+        menu: {
+          themes: false,
+          markers: true,
+	        titleSelector: 'h1',
+          custom: [
+                      { title: 'About', icon: '<i class="fa fa-info">', content: '<p>Presentaciones con reveal.js</p></p>Algunos consejos<ul><li>Se ven mejor a pantalla completa (normalmente F11)</li><li>Para navegar por las diapositivas, lo mejor es que utilices la barra espaciadora, aunque también puedes utilizar los controles de abajo a la derecha.</li><li>Durante las presentaciones, encontrarás más ayuda si aprietas la tecla "?".</f1></ul><h1>Reconocimientos</h1><p>Para realizar estas presentaciones he utilizado varios programas de software libre</p><ul><li><a href="http://lab.hakim.se/reveal-js/#/" target="_blank">Reveal.js</a>: Es el programa base de las presentaciones.</li><li><a href="http://pandoc.org/" target="_blank">Pandoc</a>: El programa que genera el archivo html (con formato Reveal.js) a partir de un archivo markdown.</li><li><a href="https://atom.io/" target="_blank">Atom</a>: El editor de texto.</li><li><a href="https://github.com/denehyg/reveal.js-menu" target="_blank">Reveal.js-menu: Menú lateral.</a></li><li>GitHub: Donde está alojada la página</li><li>Inkscape: Parte de los gráficos (animados) en formato SVG.</li></ul> ' }
+                  ]
+          },
 
         // Optional libraries used to extend on reveal.js
         dependencies: [
           { src: 'reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
           { src: 'reveal.js/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
           { src: 'reveal.js/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } },
-	  { src: 'reveal.js/plugin/toc-progress/toc-progress.js', async: true, callback: function()
-		{ toc_progress.initialize(); toc_progress.create(); }},
+                      { src: 'reveal.js/plugin/reveal.js-menu-master/menu.js' },
+          // Muestra la tabla de contenido a pie de página
+//	  { src: 'reveal.js/plugin/toc-progress/toc-progress.js', async: true, callback: function()
+//		{ toc_progress.initialize(); toc_progress.create(); }},
           { src: 'reveal.js/plugin/reveal-svg-fragment.js', condition: function() { return !!document.querySelector( '[data-svg-fragment]' ); } },
 //          { src: 'reveal.js/plugin/search/search.js', async: true, condition: function() { return !!document.body.classList; }, }
 //          { src: 'reveal.js/plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }

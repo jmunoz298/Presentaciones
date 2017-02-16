@@ -4,104 +4,14 @@ author:
 - name: Juan Muñoz
   affiliation: Universitat Autònoma de Barcelona
 tags: [Conductas colectivas]
-tema: "Campos de estudio"
+tema: "Teorías"
 url: "http:/juan.psicologiasocial.eu"
 bibliography: diapos.bib
 csl: apa.csl
 lateral-menu: 'True'
 ...
 
-
-#Elementos de definición { .center}
-
-##Concepto paraguas
-
-####Fenómenos que caen fuera de la estructura social u orden establecido
-
-##
-> [definimos] la conducta colectiva como una acción voluntaria, dirigida a una meta, que se produce en una situación relativamente desorganizada, en la que las normas y valores predominantes de la sociedad dejan de actuar sobre la conducta individual. La conducta colectiva consiste en la reacción de un grupo a alguna situación.\
-@appelbaum_sociology_1997 [, p. 422]
-
-##Son un fenómeno... {data-state=opacidad}
-- Colectivo
-- Unitario
-- Sin organización
-- Transitorio
-- Indiferenciado
-- Anómico
-
-<!--
-##Mapa conceptual {data-state=img-completa}
-
-![Mapa conceptual](imagenes/Mapa.png)
-
--->
-
-##Movimientos sociales
->Una **colectividad** que actúa con cierta **continuidad** para **promover un cambio** en la sociedad o grupo de la que forma parte.\
-[Turner & Killian, 1987 en @miller_introduction_2013, p. 469]
-
-
-
-#Los inicios { .center}
-
-## {data-background="imagenes/ComunaBarricadas.jpg" data-background-transition=fade data-state=fondo}
-
-. . .
-
-<div id="column1" style="float:left; margin:0; width:50%;">
-
-![Revolución febrero 1848](imagenes/Revolucion1848.jpg)
-
-</div>
-
-<div id="column1" style="float:left; margin:0; width:50%;">
-
-![Barricadas rue Saint-Maur 25 junio de 1848](imagenes/Barricadas-1848.jpg)
-
-</div>
-
-## La comuna {data-background="imagenes/ComunaBarricadas.jpg" data-background-transition=fade data-state=fondo}
-
-<div id="column2" style="float:left; margin:0; width:50%;">
-
-![](imagenes/Comuna.jpg "18 de marzo?")
-
-</div>
-<div id="column1" style="float:left; margin:0; width:50%;">
-
-![](imagenes/DecretoComuna.jpg "La Comuna de París")
-
-</div>
-
-
-<div>
-
-<audio width="100"  class="stretch"  controls data-autoplay>
-<source src="multimedia/ElTempsDeLesCireres.mp3">
-</audio>
-</div>
-
-`El temps de les cireres`{.autor}
-
-##Preguntas {data-state=opacidad}
-
-* ¿Quiénes eran los participantes en las acciones de masas?
-* ¿Cómo se explicaba que ciudadanos habitualmente respetuosos de las leyes se involucren en actos perturbadores del orden social?
-* ¿Cómo se podían prevenir las explosiones violentas de las masas cuando se dan las condiciones para que éstas actúen colectivamente?
-
-##Respuestas: Los fenómenos de masas...
-
-* Son amenazas para el orden social
-* Son manifestaciones patológicas de la naturaleza humana
-* Son irracionales
-
-##
-> Los senadores son todos hombres de bien, el Senado romano es una mala bestia.\
-[Citado por @moscovici_era_1985]
-
-
-#Las teorías: Contagio  { .center}
+#Las teorías: Contagio  {data-background="imagenes/virus.jpg" data-background-transition=zoom data-state=opacidad}
 
 ##Teorías del contagio {data-background="imagenes/zombis.jpg" data-background-transition=fade data-state=fondo}
 
@@ -144,17 +54,18 @@ lateral-menu: 'True'
 
 ##Irracionales y malvadas
 
->...una docena de hombres inteligentes, sensatos y buenos, son capaces de emitir juicios y veredictos perfectamente estúpidos y carentes de toda lógica.
+
+>(...) doce hombres de buen sentido y de inteligencia pueden dar un veredicto estúpido y absurdo. Una reunión de individuos puede, por tanto, dar un resultado opuesto al que habría dado cada uno de ellos (p. 17)
 
 . . .
 
->La masa es un terreno donde el microbio del mal se desarrolla muy fácilmente, mientras que el microbio del bien muere casi siempre.\
+> La muchedumbre es un terreno en el que se desarrolla muy fácilmente el microbio del mal, y en donde el microbio del bien casi siempre muere, por no encontrar las adecuadas condiciones de vida (p. 64) \
 @sighele_foule_1892
 
 ##Contra la civilización
 
 > Por su poder exclusivamente destructivo, actúan como aquellos microbios que activan la disolución de los cuerpos debilitados o de los cadáveres. Cuando el edificio de una civilización está carcomido, las masas provocan su derrumbamiento. Se pone entonces de manifiesto su papel. Durante un instante, la fuerza ciega del número se convierte en la única filosofía de la historia.\
-@lebon_psychologie_1895 [, p. 22]
+@le_bon_psychologie_1895 [, p. 22]
 
 ##Mecanismos y resultados
 
@@ -173,14 +84,16 @@ lateral-menu: 'True'
 >Resulta completamente ocioso discutir si una sociedad debe ser o no debe ser constituida con la intervención de una aristocracia. La cuestión está resuelta desde el primer día de la historia humana; una sociedad sin aristocracia, sin minoría egregia, no es una sociedad.\
 
 > ¿Cuál es, pues, la condición suma? El reconocimiento de que la misión de las masas no es otra que seguir a los mejores, en vez de pretender suplantarlos. Y esto en todo orden y porción de la vida.\
-@ortegaygasset_espana_2007
+@ortega_y_gasset_espaninvertebrada:_2007
 
 ## {data-background="imagenes/Ortega-ElSol-1929-10-24.jpg" data-background-transition=zoom data-state=opacidad}
 
 . . .
 
 >Cuando la masa actúa por sí misma, lo hace sólo de una manera, porque no tiene otra: lincha. (...) Ni mucho menos podrá extrañar que ahora, cuando las masas triunfan, triunfe la violencia y se haga de ella la única ratio, la única doctrina.\
-@ortegaygasset_rebelion_2003 [, p. 118]
+@ortega_y_gasset_rebelion_1930 [, p. 118]
+
+#Convergencia {  data-background="imagenes/crowd.jpg" data-background-transition=zoom data-state=opacidad}
 
 ##  {data-background="imagenes/ClaudeNeal.jpg" data-background-transition=zoom data-state=opacidad}
 
@@ -193,15 +106,20 @@ lateral-menu: 'True'
 ##
 ![Linchamientos](imagenes/Linchamientos.jpg)
 
+## ¿Por qué?
 
-#Convergencia {  data-background="imagenes/Convergence.jpg" data-background-transition=zoom data-state=opacidad}
+Milgram i Toch (1969), estudian episodios de linchamientos en pequeñas ciudades de EEUU. La respuesta al porqué no participan en ellos toda la población es que quienes lo hacen son personas propensas a la violencia.
 
 ##Individualismo
+
 
 >No hay psicología de los grupos que no sea esencialmente y por completo una psicología de los individuos.
 
 >El individuo en la masa se comporta simplemente como lo haría solo, pero más.\
 @allport_social_1924 [, pp. 4 y 295]
+
+
+# Críticas
 
 ##
 >In reality crowd psychology owed less to psychology than to conservative politics. Le Bon's images of the mob (like Taine's before them) inverted Marxist images of a heroic working class. Crowd psychology denied to working people the dignity, autonomy and revolutionary creativity that Marx and other thinkers of the Left conferred on them. Hypnotic explanations stigmatized crowds; they turned motives into impulses and politics into pathology.\
