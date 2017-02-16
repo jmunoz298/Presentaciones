@@ -10,7 +10,7 @@ Influencia social y grupos
 Acción Pública y cambio social
 ------------------------------
 
--   Primera parte ([HTML](APCS-15-16-1.html) | [PDF](APCS-15-16-1.pdf))
+-   Primera parte ([HTML](APCS-1.html) | [PDF](APCS-1.pdf))
 -   Segunda parte ([HTML](APCS-15-16-2.html) | [PDF](APCS-15-16-2.pdf))
 
 Análisis temático
