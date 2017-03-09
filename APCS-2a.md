@@ -187,6 +187,53 @@ Milgram i Toch (1969), estudian episodios de linchamientos en pequeñas ciudades
 
 `Disturbios en Ferguson, noviembre 2014`{.figcaption}
 
+#Teorías de la Crisis {.mitit}
+
+##Privación relativa
+
+>Cuando van creciendo a la par la satisfacción real de necesidades y la satisfacción esperada, no se produce violencia (aun cuando exista un ligero desnivel entre ambas que genera una insatisfacción tolerable), pero cuando la satisfacción real queda bloqueada y las expectativas continúan creciendo, el desnivel entre lo que se tiene realmente y lo que se esperaba tener puede hacerse muy grande, convirtiéndose en intolerable, produciéndose entonces la situación de curva J característica de las revoluciones.
+
+`Javaloy, 2003, p. 180`
+
+##La Teoría de la "Curva en J"
+
+![Teoría de la Curva en J](imagenes/JCurveDavies.png)
+
+##Teoría del Valor Añadido
+
+<div id="column4" style="float:left; margin:0; width:50%;">
+
+![Neil J. Smelser\
+1930-](imagenes/Smelser.jpg)
+
+</div>
+
+<!--
+<div id="column4" style="float:left; margin:0; width:50%;">
+
+![Teoría de la Acción Colectiva\
+1962](imagenes/SmelserPortada.jpg)
+
+</div>
+-->
+
+##Determinantes
+
+* Conductividad estructural
+* Tensión estructural
+* Creencia generalizada
+* Suceso precipitador
+* Movilización activa
+* Control social
+
+##Un ejemplo: Universidad de Kent
+
+<video width="800"  class="stretch" controls>
+<source src="multimedia/KentState.mp4">
+</video>
+
+Lewis, J. M. (1972). A Study of the Kent State Incident Using Smelser’s Theory of Collective Behavior. Sociological Inquiry, 42(2), 87–96.
+
 #Referencias {.center}
 
 ## {.scrollable}
