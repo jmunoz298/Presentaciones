@@ -4,208 +4,235 @@ author:
 - name: Juan Muñoz
   affiliation: Universitat Autònoma de Barcelona
 tags: [Conductas colectivas]
-tema: "Normas e identidades"
+tema: "Teorías: Irracionalistas"
 url: "http:/juan.psicologiasocial.eu"
 bibliography: diapos.bib
 csl: apa.csl
 lateral-menu: 'True'
 ...
 
-#Normas e Identidades { .center}
+#Las teorías: Contagio  {data-background="imagenes/virus.jpg" data-background-transition=zoom data-state=opacidad}
 
-##Norma emergente: Principios
-
-* Una apuesta por la diferenciación interna de las multitudes, que invalida las teorías del contagio y de la convergencia
-* La conducta de masa no es asocial ni irracional, está regulada por normas que emergen en la propia situación
-* La multitud es un espacio de interacción social en el que se desarrollan normas sociales
-
-
-##Norma emergente: Idea central
-
->...la conducta de las multitudes (…) está regulada por normas que no vienen de fuera, que no están institucionalizadas, sino que surgen precisamente al hilo del desarrollo de la propia dinámica del comportamiento de la multitud (...); emergen de la propia situación y son vinculantes para los individuos participantes (...) cuando la situación es inicialmente ambigua, surgen definiciones nuevas durante el discurso de la interacción social.\
-@ovejerobernal_individuo_1997 [, p. 218]
-
-<!--
-##Proceso
-
-* La actuación de las persona depende de la percepción sobre las normas que rigen la situación
-* En una situación ambigua, las normas son creadas en el transcurso de la interacción
-* La homogeneidad no obedece al contagio, sino a conformidad normativa
-* Las normas derivan de la conducta de personas prominentes (líderes)
-* La conducta colectiva no es especialmente irracional
--->
-
-##El proceso {data-state=fondo}
-
-![](imagenes/dibujo.svg "El proceso")
-
-#Identidad Social { .center}
-
-##Teoría de la Identidad Social
-
-<div id="column4" style="float:left; margin:0; width:50%;">
-
-![Stephen Reicher](imagenes/Reicher.jpg)
-
-</div>
-
-<div id="column4" style="float:left; margin:0; width:50%;">
-
-![](imagenes/Turner-Portada.jpg)
-
-</div>
-
-##Los disturbios de St. Pauls {data-background="imagenes/SaintPauls-back.jpg" data-background-transition=fade data-state=fondo}
-
-<div id="column1" style="float:left; margin:0; width:50%;">
-
-![](imagenes/SaintPauls-01.jpg)
-
-</div>
-
-<div id="column2" style="float:left; margin:0; width:50%;">
-
-![](imagenes/SaintPauls-05.jpg)
-
-</div>
-
-<div id="column1" style="float:left; margin:0; width:50%;">
-
-<video width="400"  class="stretch" controls data-autoplay>
-<source src="multimedia/St_Pauls_Uprising_Bristol_1980.mp4">
-</video>
-######<https://www.youtube.com/watch?v=Wdyo16VMhIQ>{.figcaption}
-</div>
-
-<div id="column2" style="float:left; margin:0; width:50%;">
-
-![](imagenes/SaintPauls-06.jpg)
-
-</div>
-
-##Críticas a la teoría de la norma emergente
-
-* Su explicación de cómo emergen las normas es inadecuada para explicar las situaciones en las que la masa actúa y cambia rápidamente.
-* Énfasis que ponen en el papel de los individuos prominentes en la emergencia de la norma.
-
-##Bases
-
-<div id="column1" style="float:left; margin:0; width:50%;">
-Teoría de la Identidad, categorización y comparación social
-
-![Henri Tajfel\
-1919-1982](imagenes/Tajfel.jpg)
-
-</div>
-
-<div id="column1" style="float:left; margin:0; width:50%;">
-
-Teoría de la autocategorización
-
-![John C. Turner\
-1947-2011](imagenes/TurnerJ.jpg)
-
-</div>
-
-##Teoría de la autocategorización del yo
-
-Hipótesis 1
-:	Tiende a darse una relación inversa entre la saliencia de los niveles personal y social de categorización del yo
-
-Hipótesis 2
-:	Cuando nos vemos como miembros intercambiables de una categoría social, nos despersonalizamos
-
-Hipótesis 3
-:	La despersonalización de la percepción del yo es el proceso básico que subyace a los fenómenos de grupo
-
-##La propuesta de Steve Reicher
-
->Si se deja de lado el exogrupo, no puede comprenderse que la violencia surja de un proceso de conflicto intergrupal. En su lugar se atribuye a la masa misma.\
-@reicher_conducta_1987 [, p. 240]
-
-##Propuestas
-
-* Los miembros de la masa actúan en términos de una identidad social común.
-* El contenido de la conducta de la masa estará limitado por la naturaleza de la categoría a la que pertenecen.
-
-##Modelo elaborado de identidad social
-
-#####La identidad social de los miembros de la masa, y por lo tanto sus actuaciones, dependen de las dinámicas intergrupales.
-
-
-
-##
-
-|    |          |                                                                                                   |
-|:--:|:---------|:--------------------------------------------------------------------------------------------------|
-| T1 | Multitud | Contexto comparativo: Impuesto injusto                                                            |
-| T1 | Multitud | Conducta prototípica: Actividad legítima de protesta                                              |
-| T1 | Policía  | Contexto comparativo: La multitud supone una amenaza                                              |
-| T1 | Policía  | Conducta: Utilización de la fuerza                                                                |
-| T2 | Multitud | Cambio en el contexto comparativo: De "impuesto injusto",<br> a actuación ilegítima de la policía |
-| T2 | Multitud | Cambios en identidad y poder: El conflicto hacia<br> la policía es legítimo                       |
-| T2 | Multitud | Cambios en las normas: Conflicto con la policía                                                   |
-| T3 | Policía  | Contexto comparativo: Incremento de la amenaza<br> de la multitud                                 |
-
-:Cambios en las relaciones intergrupales y\
- consecuencias para la conducta prototípica.
-
-###### T1, T2 y T3 = Fases temporales de la relación intergrupal
-
-###### Adaptado de @stott_crowds_2000
-
-##La visión de la policía
-
-![Diagrama de relación entre variables. @drury_role_2003](imagenes/Drury-Role-PathDiagram.png)
-
-## La batalla de Westminster {data-background="imagenes/BattleOfWestminster.jpg" data-background-transition=fade data-state=fondo}
+##Teorías del contagio {data-background="imagenes/zombis.jpg" data-background-transition=fade data-state=fondo}
 
 . . .
 
+> ... difusión del afecto o de la conducta de un participante de la multitud a otro; una persona sirve como estímulo para las acciones imitativas de otra.\
+@milgram_collective_1969 [, p. 550]
+
+##Algunos representantes
+
+<div id="column1" style="float:left; margin:0; width:25%;">
+
+![Sighele](imagenes/Sighele-Portada.gif "Sighele")
+
+</div>
+
+. . .
+
+<div id="column2" style="float:left; margin:0; width:25%;">
+
+![Le Bon](imagenes/LeBon-Portada.jpg "")
+
+</div>
+
+<div id="column3" style="float:left; margin:0; width:25%;">
+
+![Tarde](imagenes/Tarde-Portada.jpg "")
+
+</div>
+
+<div id="column4" style="float:left; margin:0; width:25%;">
+
+![Freud](imagenes/Freud-Portada.jpg "")
+
+</div>
+
+. . .
+
+![Ortega](imagenes/Ortega-Portada.jpg "")
+
+##Irracionales y malvadas
+
+
+>(...) doce hombres de buen sentido y de inteligencia pueden dar un veredicto estúpido y absurdo. Una reunión de individuos puede, por tanto, dar un resultado opuesto al que habría dado cada uno de ellos (p. 17)
+
+. . .
+
+> La muchedumbre es un terreno en el que se desarrolla muy fácilmente el microbio del mal, y en donde el microbio del bien casi siempre muere, por no encontrar las adecuadas condiciones de vida (p. 64) \
+@sighele_foule_1892
+
+##Sighele: Leyes
+
+* Ley de la unidad o uniformidad
+* Ley del número
+* Ley de la predisposición al mal
+* Ley del guía o instigador
+* Ley de la composición de la multitud
+* Ley de la no deducibilidad del carácter de la multitud a partir de sus miembros
+
+##Contra la civilización
+
+> Por su poder exclusivamente destructivo, actúan como aquellos microbios que activan la disolución de los cuerpos debilitados o de los cadáveres. Cuando el edificio de una civilización está carcomido, las masas provocan su derrumbamiento. Se pone entonces de manifiesto su papel. Durante un instante, la fuerza ciega del número se convierte en la única filosofía de la historia.\
+@le_bon_psychologie_1895 [, p. 22]
+
+##Alma colectiva
+
+>En determinadas circunstancias, y tan sólo en ellas, una aglomeración de seres humanos posee características nuevas y muy diferentes de las de cada uno de los individuos que la componen. La personalidad consciente se esfuma, los sentimientos y las ideas de todas las unidades se orientan en una misma dirección. Se forma un alma colectiva, indudablemente transitoria, pero que presenta características muy definidas. La colectividad se convierte entonces en aquello que, a falta de otra expresión mejor, designaré como masa organizada o, si se prefiere, masa psicológica. Forma un solo ser y está sometida a la ley de la unidad mental de las masas.\
+@le_bon_psychologie_1895 [, p. 27]
+
+##Mecanismos y resultados
+
+
+| Mecanismo      | Fenomenología                               | Conducta                           |
+|:---------------|:--------------------------------------------|:-----------------------------------|
+| Anonimato      | Invencibilidad, irresponsabilidad           |                                    |
+| Contagio       | Cambios de conducta rápidos e impredecibles | Violenta, antisocial, incivilizada |
+| Sugestibilidad | Afloran los instintos primitivos, salvajes  |                                    |
+
+
+##El "filósofo español" {data-background="imagenes/Ortega-ElSol-1922-2-4.jpg" data-background-transition=zoom data-state=opacidad}
+
+. . .
+
+>Resulta completamente ocioso discutir si una sociedad debe ser o no debe ser constituida con la intervención de una aristocracia. La cuestión está resuelta desde el primer día de la historia humana; una sociedad sin aristocracia, sin minoría egregia, no es una sociedad.\
+
+> ¿Cuál es, pues, la condición suma? El reconocimiento de que la misión de las masas no es otra que seguir a los mejores, en vez de pretender suplantarlos. Y esto en todo orden y porción de la vida.\
+@ortega_y_gasset_espaninvertebrada:_2007
+
+## {data-background="imagenes/Ortega-ElSol-1929-10-24.jpg" data-background-transition=zoom data-state=opacidad}
+
+. . .
+
+>Cuando la masa actúa por sí misma, lo hace sólo de una manera, porque no tiene otra: lincha. (...) Ni mucho menos podrá extrañar que ahora, cuando las masas triunfan, triunfe la violencia y se haga de ella la única ratio, la única doctrina.\
+@ortega_y_gasset_rebelion_1930 [, p. 118]
+
+#Convergencia {  data-background="imagenes/crowd.jpg" data-background-transition=zoom data-state=opacidad}
+
+##Individualismo
+
+
+>No hay psicología de los grupos que no sea esencialmente y por completo una psicología de los individuos.
+
+. . .
+
+>El individuo en la masa se comporta simplemente como lo haría solo, pero más.\
+@allport_social_1924 [, pp. 4 y 295]
+
+
+##  {data-background="imagenes/ClaudeNeal.jpg" data-background-transition=zoom data-state=opacidad}
+
+. . .
+
+<video width="800"  class="stretch" controls>
+<source src="multimedia/StrangeFruit-BillieHoliday-sub.mp4">
+</video>
+
+##
+![Linchamientos](imagenes/Linchamientos.jpg)
+
+## ¿Por qué?
+
+Milgram i Toch (1969), estudian episodios de linchamientos en pequeñas ciudades de EEUU. La respuesta al porqué no participan en ellos toda la población es que quienes lo hacen son personas propensas a la violencia.
+
+
+# Críticas
+
+##
+
+>En realidad, la psicología de las masas debía menos a la psicología que a la política conservadora. Las imágenes de Le Bon de la masa (...) invirtieron las imágenes marxistas de una heroica clase obrera. La psicología de las multitudes negaba a los trabajadores la dignidad, la autonomía y la creatividad revolucionaria que Marx y otros pensadores de la izquierda les conferían. Las explicaciones hipnóticas estigmatizaban a las multitudes; convirtieron los motivos en impulsos y la política en patología.\
+@leach_mental_1992 [p. 13]
+
+<!--
+>In reality crowd psychology owed less to psychology than to conservative politics. Le Bon's images of the mob (like Taine's before them) inverted Marxist images of a heroic working class. Crowd psychology denied to working people the dignity, autonomy and revolutionary creativity that Marx and other thinkers of the Left conferred on them. Hypnotic explanations stigmatized crowds; they turned motives into impulses and politics into pathology.\
+@leach_mental_1992 [p. 13]
+-->
+
+##
+
+>Al reducir la explicación del conflicto colectivo a la patología inherente a una sola de las partes involucradas -la multitud- no sólo se elimina todo significado de la acción de la multitud, sino que también elimina toda responsabilidad del orden social y justifica una represión creciente como la única posibilidad de tratar a las multitudes. En otras palabras, el conflicto se produce cuando las multitudes se reúnen porque está en la naturaleza misma de las multitudes ser conflictivas. No hay nada más que decir. Preguntas como si las condiciones sociales causan las protestas o si la acción de la policía precipita la violencia ni siquiera surgen. Estudiarlas sería simplemente una pérdida de tiempo.\
+@stott_crowd_1998 [p. 511]
+
+<!--
+>By reducing the explanation of collective conflict to the inherent pathology of just one of the parties involved -the crowd- one not only removes all meaning from crowd action, but one also removes all responsibility from the social order and justifies increased repression as the only possible way of treating crowds. In other words, conflict occurs where crowds gather because it is in the very nature of crowds to be conflictual. There is nothing more to be said. Such questions as whether social conditions cause crowd protest or whether police action precipitated violence do not even arise. To study them would simply be a waste of time.\
+@stott_crowd_1998 [p. 511]
+-->
+
+
+##Disturbios en Fergurson
+
 <div id="column1" style="float:left; margin:0; width:50%;">
 
-![](imagenes/poll_tax_1990-1.jpg)
+![](imagenes/Ferguson-1.jpg)
 
 </div>
 
-<div id="column2" style="float:left; margin:0; width:50%;">
+<div id="column1" style="float:left; margin:0; width:50%;">
 
-![](imagenes/poll_tax_1990-2.jpg)
+![](imagenes/Ferguson-2.jpg)
+
+</div>
+
+<div id="column1" style="float:left; margin:0; width:50%;">
+
+![](imagenes/Ferguson-3.jpg)
 
 </div>
 
-<div id="column3" style="float:left; margin:0; width:50%;">
+<div id="column1" style="float:left; margin:0; width:50%;">
 
-![](imagenes/poll_tax_1990-3.jpg )
+![](imagenes/Ferguson-4.jpg)
 
 </div>
+
+`Disturbios en Ferguson, noviembre 2014`{.figcaption}
+
+#Teorías de la Crisis {data-background="imagenes/crisis.jpg" data-background-transition=zoom data-state=opacidad}
+
+##Privación relativa
+
+>Cuando van creciendo a la par la satisfacción real de necesidades y la satisfacción esperada, no se produce violencia (aun cuando exista un ligero desnivel entre ambas que genera una insatisfacción tolerable), pero cuando la satisfacción real queda bloqueada y las expectativas continúan creciendo, el desnivel entre lo que se tiene realmente y lo que se esperaba tener puede hacerse muy grande, convirtiéndose en intolerable, produciéndose entonces la situación de curva J característica de las revoluciones.
+
+`Javaloy, 2003, p. 180`
+
+##La Teoría de la "Curva en J"
+
+![Teoría de la Curva en J](imagenes/JCurveDavies.png)
+
+##Teoría del Valor Añadido
 
 <div id="column4" style="float:left; margin:0; width:50%;">
 
-<video width="400"  class="stretch" controls data-autoplay>
-<source src="multimedia/PollTaxRiot1990.mp4">
+![Neil J. Smelser\
+1930-](imagenes/Smelser.jpg)
+
+</div>
+
+<!--
+<div id="column4" style="float:left; margin:0; width:50%;">
+
+![Teoría de la Acción Colectiva\
+1962](imagenes/SmelserPortada.jpg)
+
+</div>
+-->
+
+##Determinantes
+
+* Conductividad estructural
+* Tensión estructural
+* Creencia generalizada
+* Suceso precipitador
+* Movilización activa
+* Control social
+
+##Un ejemplo: Universidad de Kent
+
+<video width="800"  class="stretch" controls>
+<source src="multimedia/KentState.mp4">
 </video>
 
-###### <https://www.youtube.com/watch?v=R3nYGoppmoA>`{.figcaption}
-</div>
-
-##Domingo Sangriento {data-background="imagenes/BloodySunday-bac.jpg" data-background-transition=fade data-state=fondo}
-
-
-
-<div id="column4" style="float:left; margin:0; width:50%;">
-<video width="400"   controls>
-<source src="multimedia/BloodySunday.mp4">
-</video>
-###### <https://www.youtube.com/watch?v=vkOpgr1ElXg>
-</div>
-
-<div id="column4" style="float:left; margin:0; width:50%;">
-
-![Domingo Sangriento\
-Paul Greengrass (2002)](imagenes/BloodySunday.jpg  "Domingo Sangriento")
-
-</div>
+Lewis, J. M. (1972). A Study of the Kent State Incident Using Smelser’s Theory of Collective Behavior. Sociological Inquiry, 42(2), 87–96.
 
 #Referencias {.center}
 
