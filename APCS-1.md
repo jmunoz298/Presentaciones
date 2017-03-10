@@ -137,16 +137,25 @@ Multitudes activas
 
 ##
 > Los senadores son todos hombres de bien, el Senado romano es una mala bestia.\
-[Citado por @moscovici_era_1985]
+[Citado por @moscovici_era_1985, p. 26]
+
+. . .
+
+Es decir,
+
+> considerado aisladamente, cada uno de nosotros es en definitiva razonable; juntos, en una multitud, con ocasión de una reunión política e incluso en el seno de un grupo de amigos, estamos todos dispuestos a cometer las mayores locuras.\
+[@moscovici_era_1985, p. 26]
 
 ## Las teorías irracionalistas
 
 * Teorías del contagio
 * Teorías de la convergencia
 
+<!--
 ##Y para el próximo día...{.references}
 
 Delgado, M. (2015). La redención de las multitudes: rescate y restauración del sujeto en los movimientos sociales de última generación. _Intersticios. Revista sociológica de pensamiento crítico_, _9_(2), 101-129. http://www.intersticios.es/article/view/15446
+-->
 
 #Referencias {.center}
 
