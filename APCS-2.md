@@ -60,7 +60,7 @@ lateral-menu: 'True'
 . . .
 
 > La muchedumbre es un terreno en el que se desarrolla muy fácilmente el microbio del mal, y en donde el microbio del bien casi siempre muere, por no encontrar las adecuadas condiciones de vida (p. 64) \
-@sighele_foule_1892
+@sighele_foule_1892 [pp. 17 y 64]
 
 ##Sighele: Leyes
 
@@ -191,9 +191,9 @@ Milgram i Toch (1969), estudian episodios de linchamientos en pequeñas ciudades
 
 ##Privación relativa
 
->Cuando van creciendo a la par la satisfacción real de necesidades y la satisfacción esperada, no se produce violencia (aun cuando exista un ligero desnivel entre ambas que genera una insatisfacción tolerable), pero cuando la satisfacción real queda bloqueada y las expectativas continúan creciendo, el desnivel entre lo que se tiene realmente y lo que se esperaba tener puede hacerse muy grande, convirtiéndose en intolerable, produciéndose entonces la situación de curva J característica de las revoluciones.
+>Cuando van creciendo a la par la satisfacción real de necesidades y la satisfacción esperada, no se produce violencia (aun cuando exista un ligero desnivel entre ambas que genera una insatisfacción tolerable), pero cuando la satisfacción real queda bloqueada y las expectativas continúan creciendo, el desnivel entre lo que se tiene realmente y lo que se esperaba tener puede hacerse muy grande, convirtiéndose en intolerable, produciéndose entonces la situación de curva J característica de las revoluciones.\
+@javaloy_comportamiento_2003 [, p. 180]
 
-`Javaloy, 2003, p. 180`
 
 ##La Teoría de la "Curva en J"
 

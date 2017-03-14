@@ -116,6 +116,13 @@ body {
   box-shadow: none;
 }
 
+.reveal .nopadding{
+  box-shadow: none;
+  padding: 0px;
+  border: 0px;
+  margin: 0px;
+}
+
 .reveal .border{
   border: .05em solid black;
   box-shadow: none;
@@ -757,4 +764,7 @@ section .peque {
   padding-top: 5px;
   padding-bottom: 5px;
   line-height: 1.1em;
+}
+.reveal .fondoblanco{
+  background-color: white;
 }

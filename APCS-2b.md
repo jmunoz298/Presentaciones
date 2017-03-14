@@ -11,33 +11,89 @@ csl: apa.csl
 lateral-menu: 'True'
 ...
 
-#Normas e Identidades { .center}
+# ¿Quién es irracional? {data-background="imagenes/BloodySunday-bac.jpg" data-background-transition=fade data-state=fondo}
+
+## Domingo Sangriento {data-background="imagenes/BloodySunday-bac.jpg" data-background-transition=fade data-state=fondo}
+
+<div id="column4" style="float:left; margin:0; width:70%;">
+  <video width="600"   controls>
+    <source src="multimedia/SundayBloodySunday.mp4">
+  </video>
+
+`https://www.youtube.com/watch?v=vkOpgr1ElXg`{.fondoblanco}
+
+</div>
+<div id="column4" style="float:left; margin:0; width:30%;">
+  ![Domingo Sangriento\
+  Paul Greengrass (2002)](imagenes/BloodySunday.jpg  "Domingo Sangriento")
+</div>
+
+#Teoría de la Norma Emergente { .center}
+
+<!--
+## Influencias: Interaccionismo simbólico
+
+* El ser humano orienta sus actos hacia las cosas en función de lo que significan para él.
+* El significado de estas cosas es consecuencia de la interacción social.
+* Los significados se manipulan y modifican mediante la interpretación que la persona realiza al enfrentarse con el mundo.
+-->
+
+<!--
+## Influencias: Park y Blumer
+
+
+-->
 
 ##Norma emergente: Principios
 
+![Ralph H. Turner y Lewis M. Killian
+1957](imagenes/PortadaTurnerKillian.jpg)
+
+<!--
 * Una apuesta por la diferenciación interna de las multitudes, que invalida las teorías del contagio y de la convergencia
-* La conducta de masa no es asocial ni irracional, está regulada por normas que emergen en la propia situación
-* La multitud es un espacio de interacción social en el que se desarrollan normas sociales
+-->
+
+. . .
+
+* La conducta de masa no es asocial ni irracional, está regulada por normas que emergen en la propia situación.
+* La multitud es un espacio de interacción social en el que se desarrollan normas sociales.
 
 
 ##Norma emergente: Idea central
 
 >...la conducta de las multitudes (…) está regulada por normas que no vienen de fuera, que no están institucionalizadas, sino que surgen precisamente al hilo del desarrollo de la propia dinámica del comportamiento de la multitud (...); emergen de la propia situación y son vinculantes para los individuos participantes (...) cuando la situación es inicialmente ambigua, surgen definiciones nuevas durante el discurso de la interacción social.\
-@ovejerobernal_individuo_1997 [, p. 218]
+@ovejero_bernal_individuo_1997 [, p. 218]
+
+<!--
+
+## Influencias: Interaccionismo Simbólico
+
+* El ser humano orienta sus actos hacia las cosas en función de lo que significan para él.
+* El significado de estas cosas es consecuencia de la interacción social.
+* Los significados se manipulan y modifican mediante la interpretación que la persona realiza al enfrentarse con el mundo.
+-->
+
 
 <!--
 ##Proceso
 
-* La actuación de las persona depende de la percepción sobre las normas que rigen la situación
-* En una situación ambigua, las normas son creadas en el transcurso de la interacción
-* La homogeneidad no obedece al contagio, sino a conformidad normativa
-* Las normas derivan de la conducta de personas prominentes (líderes)
-* La conducta colectiva no es especialmente irracional
+* La actuación de las persona depende de la percepción sobre las normas que rigen la situación.
+* En una situación ambigua, las normas son creadas en el transcurso de la interacción.
+* La homogeneidad no obedece al contagio, sino a conformidad normativa.
+* Las normas derivan de la conducta de personas prominentes (líderes).
+* La conducta colectiva no es especialmente irracional.
 -->
 
-##El proceso {data-state=fondo}
+<!--
+## Excitación colectiva
 
-![](imagenes/dibujo.svg "El proceso")
+>Cuando entra en relación con otros miembros de la masa, un individuo pierde su habitual comprensión crítica y auto-control y queda afectado por la excitación colectiva que la domina. Responde de forma inmediata y directa a los comentarios y conductas de los otros en vez de interpretarlos, como haría en su conducta ordinaria.\
+Blumer, 1939, p. 180
+-->
+
+## El proceso
+
+![](imagenes/NormaEmergente-proceso.png){.noshadow}
 
 #Identidad Social { .center}
 
@@ -70,17 +126,14 @@ lateral-menu: 'True'
 </div>
 
 <div id="column1" style="float:left; margin:0; width:50%;">
-
-<video width="400"  class="stretch" controls data-autoplay>
-<source src="multimedia/St_Pauls_Uprising_Bristol_1980.mp4">
-</video>
-######<https://www.youtube.com/watch?v=Wdyo16VMhIQ>{.figcaption}
+  <video width="400"  class="stretch" controls data-autoplay>
+    <source src="multimedia/St_Pauls_Uprising_Bristol_1980.mp4">
+  </video>
+<!-- `https://www.youtube.com/watch?v=Wdyo16VMhIQ`{.figcaption} -->
 </div>
 
 <div id="column2" style="float:left; margin:0; width:50%;">
-
-![](imagenes/SaintPauls-06.jpg)
-
+  ![](imagenes/SaintPauls-06.jpg)
 </div>
 
 ##Críticas a la teoría de la norma emergente
@@ -88,6 +141,7 @@ lateral-menu: 'True'
 * Su explicación de cómo emergen las normas es inadecuada para explicar las situaciones en las que la masa actúa y cambia rápidamente.
 * Énfasis que ponen en el papel de los individuos prominentes en la emergencia de la norma.
 
+<!--
 ##Bases
 
 <div id="column1" style="float:left; margin:0; width:50%;">
@@ -106,6 +160,7 @@ Teoría de la autocategorización
 1947-2011](imagenes/TurnerJ.jpg)
 
 </div>
+-->
 
 ##Teoría de la autocategorización del yo
 
@@ -118,22 +173,37 @@ Hipótesis 2
 Hipótesis 3
 :	La despersonalización de la percepción del yo es el proceso básico que subyace a los fenómenos de grupo
 
+## Despersonalización
+
+>La despersonalización se refiere a los procesos de autoestereotipación por los que las personas se perciben a sí mismas más como casos intercambiables de una categoría social que como personalidades únicas definidas por sus diferencias individuales respecto a los demás.\
+@turner_rediscovering_1987 [, p. 50]
+
+## Construcción de identidad
+>El proceso de construcción de la identidad puede resumirse del siguiente modo: se da una identificación inmediata con una categoría supraordenada que define un campo de posibles identidades; los miembros de la masa tienen que construir entonces una identidad situacional específica que determine las normas de conducta adecuadas, y los medios a través de los cuales lo hacen son el aspecto inductivo de la categorización del yo.\
+@reicher_conducta_1987 [, p. 250]
+
 ##La propuesta de Steve Reicher
 
 >Si se deja de lado el exogrupo, no puede comprenderse que la violencia surja de un proceso de conflicto intergrupal. En su lugar se atribuye a la masa misma.\
 @reicher_conducta_1987 [, p. 240]
 
-##Propuestas
+## Propuestas
 
 * Los miembros de la masa actúan en términos de una identidad social común.
 * El contenido de la conducta de la masa estará limitado por la naturaleza de la categoría a la que pertenecen.
 
-##Modelo elaborado de identidad social
+## Diferencias con Norma Emergente
 
-#####La identidad social de los miembros de la masa, y por lo tanto sus actuaciones, dependen de las dinámicas intergrupales.
+* Las normas se obtienen observando cómo actúan otros, pero esos otros tienen que ser miembros de la categoría.
+* No se trata de un proceso de creación, sino de inferencia, lo que permite explicar que las normas “surjan” rápidamente.
+* De una multitud no puede surgir cualquier tipo de norma, sólo aquellas que están delimitadas por el contenido categorial.
+
+## Modelo elaborado de identidad social
+
+La identidad social de los miembros de la masa, y por lo tanto sus actuaciones, dependen de las dinámicas intergrupales.
 
 
-
+<!--
 ##
 
 |    |          |                                                                                                   |
@@ -154,11 +224,13 @@ Hipótesis 3
 
 ###### Adaptado de @stott_crowds_2000
 
+-->
+
 ##La visión de la policía
 
 ![Diagrama de relación entre variables. @drury_role_2003](imagenes/Drury-Role-PathDiagram.png)
 
-## La batalla de Westminster {data-background="imagenes/BattleOfWestminster.jpg" data-background-transition=fade data-state=fondo}
+## La batalla de Westminster {data-background="imagenes/BattleOfWestminster.jpg" data-background-transition=fade data-state=opacidad}
 
 . . .
 
@@ -182,30 +254,13 @@ Hipótesis 3
 
 <div id="column4" style="float:left; margin:0; width:50%;">
 
-<video width="400"  class="stretch" controls data-autoplay>
+<video width="400"  class="stretch" controls>
 <source src="multimedia/PollTaxRiot1990.mp4">
 </video>
 
 ###### <https://www.youtube.com/watch?v=R3nYGoppmoA>`{.figcaption}
 </div>
 
-##Domingo Sangriento {data-background="imagenes/BloodySunday-bac.jpg" data-background-transition=fade data-state=fondo}
-
-
-
-<div id="column4" style="float:left; margin:0; width:50%;">
-<video width="400"   controls>
-<source src="multimedia/BloodySunday.mp4">
-</video>
-###### <https://www.youtube.com/watch?v=vkOpgr1ElXg>
-</div>
-
-<div id="column4" style="float:left; margin:0; width:50%;">
-
-![Domingo Sangriento\
-Paul Greengrass (2002)](imagenes/BloodySunday.jpg  "Domingo Sangriento")
-
-</div>
 
 #Referencias {.center}
 
