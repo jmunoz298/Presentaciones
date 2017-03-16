@@ -28,7 +28,13 @@ lateral-menu: 'True'
   Paul Greengrass (2002)](imagenes/BloodySunday.jpg  "Domingo Sangriento")
 </div>
 
-#Teoría de la Norma Emergente { .center}
+<div style="clear:both"; width: 100%>
+
+</div>
+
+#### Ver: @o_dochartaigh_bloody_2010{.fondoblanco}
+
+# Teoría de la Norma Emergente {data-background="imagenes/group-talking.jpg" data-background-transition=fade data-state=fondo}
 
 <!--
 ## Influencias: Interaccionismo simbólico
@@ -41,13 +47,59 @@ lateral-menu: 'True'
 <!--
 ## Influencias: Park y Blumer
 
+<div id="column1" style="float:left; margin:0; width:30%;">
+![Robert E. Park (1864-1944)](imagenes/Park.png)
+</div>
+
+<div id="column1" style="float:left; margin:0; width:35%;">
+Reacción circular
+
+“Milling”
+
+Excitación colectiva
+</div>
+
+<div id="column1" style="float:left; margin:0; width:35%;">
+![Herbert Blumer (1900-1987)](imagenes/Blumer.jpg)
+</div>
+-->
+
+<!--
+## Excitación colectiva
+
+>Cuando entra en relación con otros miembros de la masa, un individuo pierde su habitual comprensión crítica y auto-control y queda afectado por la excitación colectiva que la domina. Responde de forma inmediata y directa a los comentarios y conductas de los otros en vez de interpretarlos, como haría en su conducta ordinaria.\
+Blumer, 1939, p. 180
 
 -->
 
-##Norma emergente: Principios
+<!--
+## Modelo de "inquietud social" de Blumer
 
-![Ralph H. Turner y Lewis M. Killian
-1957](imagenes/PortadaTurnerKillian.jpg)
+Colapso del orden social normativo
+Inquietud social
+Milling: Comportamiento errático y sin objetivo preciso
+
+-->
+
+<!--
+## El comportamiento colectivo...
+
+* No es una patología, sino un componente funcional de la sociedad: favorece el cambio
+* Es una situación no-estructurada (no normativizada)
+
+-->
+
+<!--
+## Cambio
+
+> Para que un individuo pueda efectuar nuevos ajustes y establecer nuevos hábitos, es inevitable que los viejos hábitos sean liquidados, y para que la sociedad pueda reformar el orden social existente, un cierto grado de desorganización es inevitable. El desasosiego social puede ser, por lo tanto, un síntoma saludable. Es sólo cuando el proceso de desorganización tiene lugar rápidamente y cobra una dimensión tal que la estructura social existente se deteriora, y cuando la sociedad se muestra incapaz por esta razón de reajustarse a sí misma, que la inquietud social se convierte en un síntoma patológico. \
+Park y Burges, 1921, p. 865
+
+-->
+
+## Norma emergente: Principios
+
+![Ralph H. Turner y Lewis M. Killian 1957](imagenes/PortadaTurnerKillian.jpg)
 
 <!--
 * Una apuesta por la diferenciación interna de las multitudes, que invalida las teorías del contagio y de la convergencia
@@ -59,20 +111,12 @@ lateral-menu: 'True'
 * La multitud es un espacio de interacción social en el que se desarrollan normas sociales.
 
 
+<!--
 ##Norma emergente: Idea central
 
 >...la conducta de las multitudes (…) está regulada por normas que no vienen de fuera, que no están institucionalizadas, sino que surgen precisamente al hilo del desarrollo de la propia dinámica del comportamiento de la multitud (...); emergen de la propia situación y son vinculantes para los individuos participantes (...) cuando la situación es inicialmente ambigua, surgen definiciones nuevas durante el discurso de la interacción social.\
 @ovejero_bernal_individuo_1997 [, p. 218]
-
-<!--
-
-## Influencias: Interaccionismo Simbólico
-
-* El ser humano orienta sus actos hacia las cosas en función de lo que significan para él.
-* El significado de estas cosas es consecuencia de la interacción social.
-* Los significados se manipulan y modifican mediante la interpretación que la persona realiza al enfrentarse con el mundo.
 -->
-
 
 <!--
 ##Proceso
@@ -84,18 +128,11 @@ lateral-menu: 'True'
 * La conducta colectiva no es especialmente irracional.
 -->
 
-<!--
-## Excitación colectiva
-
->Cuando entra en relación con otros miembros de la masa, un individuo pierde su habitual comprensión crítica y auto-control y queda afectado por la excitación colectiva que la domina. Responde de forma inmediata y directa a los comentarios y conductas de los otros en vez de interpretarlos, como haría en su conducta ordinaria.\
-Blumer, 1939, p. 180
--->
-
 ## El proceso
 
 ![](imagenes/NormaEmergente-proceso.png){.noshadow}
 
-#Identidad Social { .center}
+# Identidad Social {data-background="imagenes/group.jpg" data-background-transition=fade data-state=fondo}
 
 ##Teoría de la Identidad Social
 
@@ -110,6 +147,17 @@ Blumer, 1939, p. 180
 ![](imagenes/Turner-Portada.jpg)
 
 </div>
+
+##La propuesta de Steve Reicher
+
+>Si se deja de lado el exogrupo, no puede comprenderse que la violencia surja de un proceso de conflicto intergrupal. En su lugar se atribuye a la masa misma.\
+@reicher_conducta_1987 [, p. 240]
+
+. . .
+
+* Los miembros de la masa actúan en términos de una identidad social común.
+* El contenido de la conducta de la masa estará limitado por la naturaleza de la categoría a la que pertenecen.
+
 
 ##Los disturbios de St. Pauls {data-background="imagenes/SaintPauls-back.jpg" data-background-transition=fade data-state=fondo}
 
@@ -135,6 +183,13 @@ Blumer, 1939, p. 180
 <div id="column2" style="float:left; margin:0; width:50%;">
   ![](imagenes/SaintPauls-06.jpg)
 </div>
+
+## Despersonalización
+
+>La despersonalización se refiere a los procesos de autoestereotipación por los que las personas se perciben a sí mismas más como casos intercambiables de una categoría social que como personalidades únicas definidas por sus diferencias individuales respecto a los demás.\
+@turner_rediscovering_1987 [, p. 50]
+
+
 
 ##Críticas a la teoría de la norma emergente
 
@@ -173,24 +228,12 @@ Hipótesis 2
 Hipótesis 3
 :	La despersonalización de la percepción del yo es el proceso básico que subyace a los fenómenos de grupo
 
-## Despersonalización
-
->La despersonalización se refiere a los procesos de autoestereotipación por los que las personas se perciben a sí mismas más como casos intercambiables de una categoría social que como personalidades únicas definidas por sus diferencias individuales respecto a los demás.\
-@turner_rediscovering_1987 [, p. 50]
-
+<!--
 ## Construcción de identidad
 >El proceso de construcción de la identidad puede resumirse del siguiente modo: se da una identificación inmediata con una categoría supraordenada que define un campo de posibles identidades; los miembros de la masa tienen que construir entonces una identidad situacional específica que determine las normas de conducta adecuadas, y los medios a través de los cuales lo hacen son el aspecto inductivo de la categorización del yo.\
 @reicher_conducta_1987 [, p. 250]
+-->
 
-##La propuesta de Steve Reicher
-
->Si se deja de lado el exogrupo, no puede comprenderse que la violencia surja de un proceso de conflicto intergrupal. En su lugar se atribuye a la masa misma.\
-@reicher_conducta_1987 [, p. 240]
-
-## Propuestas
-
-* Los miembros de la masa actúan en términos de una identidad social común.
-* El contenido de la conducta de la masa estará limitado por la naturaleza de la categoría a la que pertenecen.
 
 ## Diferencias con Norma Emergente
 
@@ -198,9 +241,50 @@ Hipótesis 3
 * No se trata de un proceso de creación, sino de inferencia, lo que permite explicar que las normas “surjan” rápidamente.
 * De una multitud no puede surgir cualquier tipo de norma, sólo aquellas que están delimitadas por el contenido categorial.
 
-## Modelo elaborado de identidad social
+# Modelo elaborado de identidad social
 
+## Reformulación
 La identidad social de los miembros de la masa, y por lo tanto sus actuaciones, dependen de las dinámicas intergrupales.
+
+. . .
+
+<br><hr><br>
+
+
+Cuando una multitud hetereogénea es tratada de forma homogénea como una totalidad, se produce un cambio, una reconceptualización de los miembros redefiniéndose como una categoría común.
+
+## La batalla de Westminster {data-background="imagenes/BattleOfWestminster.jpg" data-background-transition=fade data-state=opacidad}
+
+. . .
+
+<div id="column1" style="float:left; margin:0; width:50%;">
+
+![](imagenes/westminster-1998-1.jpg)
+
+</div>
+
+<div id="column2" style="float:left; margin:0; width:50%;">
+
+![](imagenes/westminster-1998-3.jpg)
+
+</div>
+
+
+
+<video width="350"  class="stretch" controls>
+<source src="multimedia/Westminster-Student-Demonstration-1988.mp4">
+</video>
+
+`https://www.youtube.com/watch?v=S1hOoM_93Bo`{.figcaption}
+
+
+## ¿Responsabilidad?
+>las teorías de la multitud que explican la acción colectiva y la conducta colectiva en términos de patología de la masa, sirven para eliminar cualquier responsabilidad posible del Estado y sus fuerzas. Igualmente, en los relatos de nuestros entrevistados no hay lugar para abordar el papel de la policía en la producción de conflicto. La naturaleza de la multitud y sus dinámicas internas son en sí mismas explicaciones suficientes. En ningún momento en las entrevistas, ninguno de los oficiales sugieren que deben mirarse a sí mismos para una explicación de la violencia.\
+@stott_crowd_1998 [, p. 519]
+
+## La visión de la policía
+
+![Diagrama de relación entre variables. @drury_role_2003](imagenes/Drury-Role-PathDiagram.png)
 
 
 <!--
@@ -226,13 +310,7 @@ La identidad social de los miembros de la masa, y por lo tanto sus actuaciones, 
 
 -->
 
-##La visión de la policía
-
-![Diagrama de relación entre variables. @drury_role_2003](imagenes/Drury-Role-PathDiagram.png)
-
-## La batalla de Westminster {data-background="imagenes/BattleOfWestminster.jpg" data-background-transition=fade data-state=opacidad}
-
-. . .
+## Poll Tax Riots
 
 <div id="column1" style="float:left; margin:0; width:50%;">
 
@@ -260,6 +338,7 @@ La identidad social de los miembros de la masa, y por lo tanto sus actuaciones, 
 
 ###### <https://www.youtube.com/watch?v=R3nYGoppmoA>`{.figcaption}
 </div>
+
 
 
 #Referencias {.center}
