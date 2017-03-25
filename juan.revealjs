@@ -65,7 +65,8 @@ $if(tema)$
 $endif$
 $for(author)$
     <h4 class="author">$author.name$</h4>
-    <h4 class="author">$author.affiliation$</h4>
+    <h6 class="author">$author.affiliation$</h6>
+    <h6 class="author">$author.email$</h6>
 $endfor$
     <h4 class="date">$date$</h4>
     <h4 class="date">$url$</h4>

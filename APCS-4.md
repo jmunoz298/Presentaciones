@@ -13,19 +13,14 @@ lateral-menu: 'True'
 
 # Campos de estudio { .center}
 
-## El rumor
+## El rumor{data-background="imagenes/rumor.jpg" data-background-transition=fade data-state=opacidad}
 
 >Mensajero del error y del mal tanto como de la verdad, el rumor, la más rápida de todas las plagas, va desencadenando el terror y se fortifica difundiéndose.\
-
-###Virgilio, La Eneida {.autor}
+`Virgilio, La Eneida`{.autor}
 
 ##
 
 ![](imagenes/rumor-whatsap.jpg)
-
-##
-
-![](imagenes/rumor-cancer.png)
 
 ##
 
@@ -39,22 +34,22 @@ lateral-menu: 'True'
 
 ![](imagenes/rumor-red.png)
 
-## Pánico
+## Pánico {data-background="imagenes/panic.png" data-background-transition=fade data-state=opacidad}
+
+. . .
 
 ![](imagenes/Titanic.jpg)
+
+
+##¿Qué es el pánico?
+
+>Miedo colectivo intenso, experimentado simultáneamente por todos los miembros de una población, caracterizado por la regresión de las conciencias a un nivel arcaico, impulsivo y gregario, y que se traduce en reacciones primitivas de huida, de agitación desordenada, de violencia o de suicidio colectivo.”\
+[Crocq et al., 1987. Citado por @dupuy_panico_1991, pág. 25]
 
 ## La Guerra de los Mundos
 
 ![](imagenes/war-of-worlds.jpg)
 
-## Violencia fútbol
+#Referencias {.center}
 
-!["Tragedia de Heysel" - 29 de mayo de 1985](imagenes/heysel.jpg)
-
-## Violencia fútbol
-![](imagenes/violencia-futbol.jpg)
-
-## Violencia fútbol
-
-¿Vídeos?
-¿Hillsbourgh?
+## {.scrollable .peque}

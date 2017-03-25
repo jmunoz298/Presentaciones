@@ -119,6 +119,9 @@ La Tragedia de los Comunes es el agotamiento  de un recurso compartido por las p
 
 ![](imagenes/Disney.jpg)
 
+## Compartir
+![](imagenes/Compartir.jpg)
+
 ##
 
 ![CEDRO vs. UAB](imagenes/CEDRO-UAB.jpg)

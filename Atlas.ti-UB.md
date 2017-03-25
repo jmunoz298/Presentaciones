@@ -3,6 +3,7 @@ title:  'Análisis con Atlas.ti'
 author:
 - name: Juan Muñoz
   affiliation: Universitat Autònoma de Barcelona
+  email: juan.munoz@uab.cat
 tags: [CAQDAS, Qualitative Research, Atlas.ti]
 url: "http:/juan.psicologiasocial.eu"
 bibliography: diapos.bib
@@ -15,6 +16,8 @@ lateral-menu: 'True'
 ##CAQDAS
 
 >Programas para el análisis cualitativo de datos ASISTIDO por ordenador
+
+. . .
 
 **Unos enlaces**
 
@@ -41,9 +44,8 @@ lateral-menu: 'True'
 
 ##Una advertencia
 
->Recuerda siempre que un ordenador es sólo una máquina, no pensará por ti, y puede incluso dificultarte el progreso con tu análisis. No olvides apagarlo de vez en cuando. Llevate tus datos, salidas de búsqueda, esquemas de codificación, etc, a un lugar tranquilo, y luego lee a través de ellos y piensa en ellos. Da un largo paseo y descansa tu mente. Probablemente obtendrás entonces las mejores ideas.
-
-###Friese,  1998{.autor}
+>Recuerda siempre que un ordenador es sólo una máquina, no pensará por ti, y puede incluso dificultarte el progreso con tu análisis. No olvides apagarlo de vez en cuando. Llevate tus datos, salidas de búsqueda, esquemas de codificación, etc, a un lugar tranquilo, y luego lee a través de ellos y piensa en ellos. Da un largo paseo y descansa tu mente. Probablemente obtendrás entonces las mejores ideas.\
+`Friese,  1998`{.autor}
 
 ##¿Qué permite?
 
@@ -77,7 +79,7 @@ lateral-menu: 'True'
 ![Adaptado de Saldaña, 2009, p. 12](imagenes-cuali/DatoATeoria.jpg)
 
 ##Fases del análisis
-![](imagenes-cuali/proceso.jpg)
+![](imagenes-cuali/proceso.jpg){.noshadow}
 
 #Preparación de datos {.center data-background="imagenes-cuali/preparacion-1.jpg" data-background-transition=zoom data-state=opacidad}
 
@@ -99,16 +101,51 @@ lateral-menu: 'True'
 
 #Unidad Hermenéutica {.center data-background="imagenes-cuali/escriba.jpg" data-background-transition=zoom data-state=opacidad}
 
-##Estrategias trabajo en equipo
+##Pantalla inicial
 
-![](imagenes-cuali/atlas-trabajo-equipo.png){.noshadow}
-
-##Unir UHs
-
-![](imagenes-cuali/UH-Fusionar-2.png)
+![](imagenes/atlas-8/PantallaInicial-ayuda.png)
 
 ## Pantalla principal
-![](imagenes-cuali/PantallaPrincipal-00.png)
+![](imagenes/atlas-8/PantallaPrincipal.png)
+
+<!--
+![](imagenes/atlas-8/PantallaPrincipal-ConProyecto.png)
+ -->
+
+##Añadir documentos
+
+![](imagenes/atlas-8/MenuAddDocuments.png)
+
+. . .
+
+
+![](img/working-03.png){.noshadow}
+
+Desde la carpeta "ControlParlamentario"
+
+`File > Add Documents > Add File(s) > *.rtf`{.fondonegro}
+
+
+## Pantalla principal con documentos
+
+![](imagenes/atlas-8/PantallaPrincipal-ConDocumento.png)
+
+## Gestor de documentos
+
+![](imagenes/atlas-8/DocumentManager-00.png)
+
+## Comentarios de documentos
+
+![](imagenes/atlas-8/DocumentManager-01.png)
+
+## Ejercicio: Comentarios de documentos
+
+![](img/working-03.png){.noshadow}
+
+* Abrir el gestor de documentos
+* Crear comentarios de documentos
+    + Desde el gestor
+    + Con el editor de comentarios
 
 #Memoing {.center data-background="imagenes-cuali/Memoing-01.jpg" data-background-transition=zoom data-state=opacidad}
 
@@ -136,6 +173,23 @@ lateral-menu: 'True'
 
 @saldana_coding_2009 [pp. 34-40]
 
+## Crear Memos
+
+<div style="position:relative; width:789px; height:512px; margin:0 auto;">
+  <img class="fragment fade-out" data-fragment-index="0"  src="imagenes/atlas-8/MemoManager-00.png" style="position:absolute;top:0;left:0;" />
+  <img class="fragment fade-in" data-fragment-index="0" src="imagenes/atlas-8/MemoCreate.png" style="position:absolute;top:0;left:0;" />
+</div>
+
+<!--
+## Gestor de memos {data-transition="fade-in none-out"}
+
+![](imagenes/atlas-8/MemoManager-00.png)
+
+## Crear memos {data-transition="none-in fade-out"}
+
+![](imagenes/atlas-8/MemoCreate.png)
+ -->
+
 ##Ejercicio: memos
 
 ![](img/working-03.png){.noshadow}
@@ -143,71 +197,158 @@ lateral-menu: 'True'
 >* Crear memo: Objetivos
 * Crear memo: Muestra/participantes
 
+## Guardar UH
 
-# Organización Datos {.center data-state=opacidad data-background="imagenes-cuali/hanging-files.jpg" data-background-transition=zoom }
+![](imagenes/atlas-8/MenuFile-SaveAs.png)
 
-##Agregar datos
 
-![](imagenes-cuali/EstrategiaAsignacion.png){.noshadow}
+#Segmentar y codificar {.center data-background="imagenes-cuali/Coding.jpg" data-background-transition=zoom data-state=opacidad}
+
+
+##Reducción
+>[...] el reto es dar sentido a una cantidad masiva de datos, reducir el volumen de información, identificar pautas significativas, y construir un marco para comunicar la esencia de lo que revelan los datos.\
+@patton_qualitative_1990 [pp. 371-372]
 
 . . .
 
-```
-1. Documentos > Nuevo > Agregar documentos (a biblioteca)
-2. Documentos > Nuevo > Asignar documentos externos
-```
+![](imagenes-cuali/Reduccion.png){.noshadow}
 
-##Ejercicio: Agregar datos
+##Codificación
+
+>La indexación (o codificación) es la actividad en la que el investigador aplica significado a los datos en bruto mediante la asignación de palabras clave o frases. Estas palabras clave actúan como indicadores de temas en los datos. La indexación es una actividad por la que los datos se descomponen, conceptualizan y posteriormente son reformulados.\
+@bloor_keywords_2006 [p.201]
+
+##Estrategias de codificación
+
+![](imagenes/atlas-8/EstrategiaCodificacion.png)
+
+## Codificación Top-Down: Citas libres
+
+![](imagenes/atlas-8/FreeQuotation-00.png){.border}
+
+. . .
+
+![](imagenes/atlas-8/FreeQuotation-01.png){.border}
+
+<!--
+##
+![](imagenes/atlas-8/FreeQuotation-02.png)
+ -->
+
+## Explorar Citas
+
+![](imagenes/atlas-8/QuotationManager-00.png)
+
+## Codificación Bottom-Up: Códigos libres
+
+![](imagenes/atlas-8/NewEntities.png)
+
+. . .
+
+![](imagenes/atlas-8/CreateCodes.png)
+
+## Codificación "mixta"
+
+![](imagenes/atlas-8/FreeQuotation-00a.png)
+
+##Ejercicio: Segmentación / Codificación
 
 ![](img/working-03.png){.noshadow}
 
-Desde la carpeta "PROHABIT"
+>* Crear citas libres
+* Crear códigos libres
+* Utilizar otras opciones de codificación
 
->* Agregar a biblioteca
->     * `Documentos > Administrador de fuentes de datos > Abrir administrador de biblioteca`
->* Asignar documentos externos
+##Gestor de códigos
 
+![](imagenes/atlas-8/CodeManager-02.png)
 
-##"Transportar" UH
+##Comentarios de códigos
 
-<div id="column1" style="float:left; margin:0; width:35%;">
-![](imagenes-cuali/EstrategiaAsignacion-1.png){.noshadow}
+![](img/working-03.png){.noshadow}
 
-</div>
+>* Crear comentarios de códigos
 
-<div id="column1" style="float:left; margin:0; width:65%;">
+Ver:
 
-Copiar y restaurar
+@macqueen_codebook_1998
 
-```
-Proyecto > Guardar paquete de copia
-```
+<!--
+##Literatura definicional
 
-```
-Proyecto > Desempaquetar la copia
-```
+| Origen           | El gato ha bebido la leche                                                                                                                                                                                                                                                                                                               |
+|:-----------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Transformación 1 | El mamífero carnívoro digitígrado doméstico<br>ha tragado un líquido blanco, de sabor dulce producido<br>por las hembras de los mamíferos.                                                                                                                                                                                               |
+| Transformación 2 | Quien tiene tetas, come carne, camina sobre<br>la extremidad de sus dedos y pertenece a la casa<br>ha hecho descender por el gaznate al estómago<br>un estado de la materia sin forma propia,<br>del color de la leche, de impresión<br>agradable al órgano del gusto y procurado por<br>los animales de sexo femenino que tienen tetas. |
+ -->
 
-O
-```
-Documentos > Administrador de fuente de datos
-   * Abrir Administrador de biblioteca
-       * Fuentes de datos > Exportar
-   * Exportar documentos seleccionados   
-```
+## Literatura definicional
 
+<div id="column1" style="float:left; margin:0;">
+![](imagenes-cuali/Gato-1.jpg){.border}
 </div>
 
 . . .
 
-<hr />
-
-<div id="column1" style="float:left; margin:0; width:35%;">
-![](imagenes-cuali/EstrategiaAsignacion-2.png){.noshadow}
-
+<div id="column1" style="float:left; margin:0;">
+![](imagenes-cuali/Gato-2.jpg){.border}
 </div>
 
-Copiar carpeta donde estén UH y documentos
+. . .
 
+<div id="column1" style="float:left; margin:0;">
+![](imagenes-cuali/Gato-3.jpg){.border}
+</div>
+
+## Agrupar códigos
+
+![](imagenes/atlas-8/Codes-CodeGroups.png)
+
+. . .
+
+![](imagenes/atlas-8/CodeGroupManager-00.png)
+
+## Grupos de códigos
+![](imagenes/atlas-8/CodeGroupManager-01.png)
+
+
+##
+
+![](imagenes/atlas-8/Code-SmartGroup-00.png)
+
+##
+![](imagenes/atlas-8/Code-SmartGroup-01.png)
+
+##
+![](imagenes/atlas-8/Code-SmartGroup-02.png)
+
+##
+![](imagenes/atlas-8/Code-SmartGroup-03.png)
+
+
+##Comparación constante
+![](imagenes-cuali/comparacion-constante.png){.noshadow}
+
+## Visualización: Informes
+
+![](imagenes/atlas-8/CodeManager-Menu-Report.png)
+
+. . .
+
+![](imagenes/atlas-8/CodesReport.png)
+
+# "Transportar" UH{.center data-background="imagenes/luggage.png"}
+
+##1: Crear paquete de copia
+
+![](imagenes/atlas-8/MenuFile-Export.png)
+
+##2: Abrir paquete de copia
+
+![](imagenes/atlas-8/MenuFile-New.png)
+
+
+# Organización Datos {.center data-state=opacidad data-background="imagenes-cuali/hanging-files.jpg" data-background-transition=zoom }
 
 ##Familias
 ![Tipos de Familias](imagenes-cuali/Familias.png)
@@ -230,7 +371,9 @@ Copiar carpeta donde estén UH y documentos
 
 . . .
 
-![](imagenes-cuali/Autocodificacion.png)
+![](imagenes/atlas-8/Autocoding-00.png)
+
+![](imagenes/atlas-8/Autocoding-01.png)
 
 ##Ejercicio autocodificación
 
@@ -268,69 +411,6 @@ Códigos > Codificar > Codificación automática
 ![](img/working-03.png){.noshadow}
 
 >* Explorar diferentes tipos de informes: Documentos, Códigos, Memos...
-
-#Segmentar y codificar {.center data-background="imagenes-cuali/Coding.jpg" data-background-transition=zoom data-state=opacidad}
-
-
-##Reducción
->[...] el reto es dar sentido a una cantidad masiva de datos, reducir el volumen de información, identificar pautas significativas, y construir un marco para comunicar la esencia de lo que revelan los datos.\
-@patton_qualitative_1990 [pp. 371-372]
-
-. . .
-
-![](imagenes-cuali/Reduccion.png){.noshadow}
-
-##Codificación
-
->La indexación (o codificación) es la actividad en la que el investigador aplica significado a los datos en bruto mediante la asignación de palabras clave o frases. Estas palabras clave actúan como indicadores de temas en los datos. La indexación es una actividad por la que los datos se descomponen, conceptualizan y posteriormente son reformulados.\
-@bloor_keywords_2006 [p.201]
-
-##Estrategias de codificación
-
-![](imagenes-cuali/EstrategiaCodificacion.jpg)
-
-##Literatura definicional
-
-| Origen           | El gato ha bebido la leche                                                                                                                                                                                                                                                                                                               |
-|:-----------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Transformación 1 | El mamífero carnívoro digitígrado doméstico<br>ha tragado un líquido blanco, de sabor dulce producido<br>por las hembras de los mamíferos.                                                                                                                                                                                               |
-| Transformación 2 | Quien tiene tetas, come carne, camina sobre<br>la extremidad de sus dedos y pertenece a la casa<br>ha hecho descender por el gaznate al estómago<br>un estado de la materia sin forma propia,<br>del color de la leche, de impresión<br>agradable al órgano del gusto y procurado por<br>los animales de sexo femenino que tienen tetas. |
-
-##El gato
-
-<div id="column1" style="float:left; margin:0;">
-![](imagenes-cuali/Gato-1.jpg){.border}
-</div>
-
-. . .
-
-<div id="column1" style="float:left; margin:0;">
-![](imagenes-cuali/Gato-2.jpg){.border}
-</div>
-
-. . .
-
-<div id="column1" style="float:left; margin:0;">
-![](imagenes-cuali/Gato-3.jpg){.border}
-</div>
-
-
-##Comentarios de códigos
-
-Ver:
-
-@macqueen_codebook_1998
-
-##Ejercicio: Segmentación / Codificación
-
-![](img/working-03.png){.noshadow}
-
-* Crear citas libres
-* Crear códigos libres
-* Utilizar otras opciones de codificación
-
-##Comparación constante
-![](imagenes-cuali/comparacion-constante.png){.noshadow}
 
 
 #Relaciones {.center data-background="imagenes-cuali/network.jpg" data-background-transition=zoom data-state=opacidad}
@@ -444,4 +524,14 @@ Ver:
 
 #Referencias{.center data-background="imagenes-cuali/books.jpg" data-background-transition=zoom data-state=opacidad}
 
-## {.scrollable}
+## {.scrollable .peque}
+
+<!--
+##Estrategias trabajo en equipo
+
+![](imagenes-cuali/atlas-trabajo-equipo.png){.noshadow}
+
+##Unir UHs
+
+![](imagenes-cuali/UH-Fusionar-2.png)
+ -->

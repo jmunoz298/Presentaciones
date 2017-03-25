@@ -559,8 +559,6 @@ html.laback .reveal section img {
   border-color:red;}
 
 
-
-
 .fondo .reveal figcaption{
   display: block; /*-webkit-inline-box; */
   background-color: black;
@@ -767,4 +765,10 @@ section .peque {
 }
 .reveal .fondoblanco{
   background-color: white;
+}
+
+.reveal .fondonegro{
+  background-color: black;
+  color: white;
+  padding: 15px;
 }

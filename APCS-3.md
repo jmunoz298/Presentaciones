@@ -13,6 +13,12 @@ lateral-menu: 'True'
 
 # ¿Quién es irracional? {data-background="imagenes/BloodySunday-bac.jpg" data-background-transition=fade data-state=fondo}
 
+<!-- ##
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/1glfzAoHYiI">
+</iframe> -->
+
 ## Domingo Sangriento {data-background="imagenes/BloodySunday-bac.jpg" data-background-transition=fade data-state=fondo}
 
 <div id="column4" style="float:left; margin:0; width:70%;">
@@ -23,14 +29,13 @@ lateral-menu: 'True'
 `https://www.youtube.com/watch?v=vkOpgr1ElXg`{.fondoblanco}
 
 </div>
+
 <div id="column4" style="float:left; margin:0; width:30%;">
   ![Domingo Sangriento\
   Paul Greengrass (2002)](imagenes/BloodySunday.jpg  "Domingo Sangriento")
 </div>
 
-<div style="clear:both"; width: 100%>
-
-</div>
+<div style="clear:both"></div>
 
 #### Ver: @o_dochartaigh_bloody_2010{.fondoblanco}
 
