@@ -3,6 +3,7 @@ title:  'Análisis con Atlas.ti'
 author:
 - name: Juan Muñoz
   affiliation: Universitat Autònoma de Barcelona
+  email: juan.munoz@uab.cat
 tags: [Atlas.ti, Análisis temático]
 tema: "http://manualatlas.psicologiasocial.eu/"
 url: "http:/juan.psicologiasocial.eu"
@@ -69,23 +70,22 @@ lateral-menu: 'True'
 
 ## Pero...
 
-<iframe width="900" height="500" data-src="http://research.baidu.com/introducing-swiftscribe-breakthrough-ai-powered-transcription-software/"></iframe>
+<iframe width="800" height="600" data-src="http://research.baidu.com/introducing-swiftscribe-breakthrough-ai-powered-transcription-software/"></iframe>
 
-`http://research.baidu.com/introducing-swiftscribe-breakthrough-ai-powered-transcription-software/`{.figcaption}
+##Convenciones "jeffersonianas"
+![](imagenes-cuali/Transcripcion.jpg)
+
+@lerner_glossary_2004 [p. 15]
+
 
 #Unidad Hermenéutica {.center data-background="imagenes-cuali/escriba.jpg" data-background-transition=zoom data-state=opacidad}
 
 ## Descargar
 
-> * Descargar / descomprimir
+Descargar / descomprimir
 
 https://www.dropbox.com/s/5hw8f921lwlj5s6/CursoAtlasCP.zip
 
-. . .
-
-> * Abrir UH
-
-CursoAtlasCP/ControlParlamentario/ControlParlamentario-00.hpr7
 
 ##Agregar datos
 
@@ -137,8 +137,6 @@ Documentos > Administrador de fuente de datos
 
 Copiar carpeta donde estén UH y documentos
 
-##Administrar usuarios
-
 #Memoing {.center data-background="imagenes-cuali/Memoing-01.jpg" data-background-transition=zoom data-state=opacidad}
 
 ##Memoing = Reflexionar sobre... {.peque}
@@ -181,7 +179,7 @@ Copiar carpeta donde estén UH y documentos
 
 |         |                       CONGRESO                        |   SENADO   |
 |:--------|:-----------------------------------------------------:|:----------:|
-| IX LEG. | 2001-02-16 <br>2011-02-23<br>2011-03-09<br>2011-03-16 | 2011-02-08 |
+| IX LEG. | 2001-02-16 <br>2011-02-03<br>2011-03-09<br>2011-03-16 | 2011-02-08 |
 | X LEG.  |               2012-02-08 <br>2012-02-15               | 2012-03-06 |
 
 : Estructura familias de documentos
@@ -193,59 +191,11 @@ Copiar carpeta donde estén UH y documentos
 * Senado **Y** IX legislatura
 * Senado **Y** X legislatura
 
-
-#Informes {.center data-background="imagenes-cuali/reports.jpg" data-background-transition=zoom data-state=opacidad}
-
-##Menús informes
-
- `Componentes con opciones de impresión`{.figcaption}
-
- ![](imagenes-cuali/imprimir.png)
-
- . . .
-
- `Destino del informe`{.figcaption}
-
- ![](imagenes-cuali/informes-opciones.png)
-
-##Ejercicio: Informes
-
-![](img/working-03.png){.noshadow}
-
->* Explorar diferentes tipos de informes: Documentos, Memos, imprimir con margen, frecuencia palabras...
-
-#Codificación estructural{.center}
-
-
-## Autocodificación
-
-![](imagenes-cuali/Autocodificacion.png)
-
-##Ejercicio autocodificación
-
-![](img/working-03.png){.noshadow}
-
-```
-Códigos > Codificar > Codificación automática
-```
-
->* Autocodificar participantes
->     * Autocodficar Presidente-Zapatero
-     * Autocodificar Presidente-Rajoy
->     * Otros políticos
+##Codificación estructural
 
 . . .
 
-* ¿Qué familias podemos crear?
-* ¿Otras posibilidades de autocodificación?
-
-## Superfamilias
-
-|           |    NACIONALES     |           AUTONÓMICOS           |
-|:----------|:-----------------:|:-------------------------------:|
-| IZQUIERDA | IU<br>PCE<br>PSOE | Amaiur<br>BNG<br>ERC<br>ICV PSC |
-| DERECHA   |     PP<br>UPD     |        CC<br>CiU<br>PNV         |
-
+![](imagenes-cuali/Autocodificacion.png)
 
 ##Buscar texto
 
@@ -274,6 +224,55 @@ Múltiples categorías
   |      *      | Localiza cualquier cantidad (o su ausencia) de la expresión precedente         |
   |      +      | Localiza al menos una ocurrencia de la expresión precedente                    |
 
+
+##Ejercicio autocodificación
+
+
+![](img/working-03.png){.noshadow}
+
+```
+Códigos > Codificar > Codificación automática
+```
+
+>* Autocodificar participantes
+>     * Autocodficar Presidente-Zapatero
+     * Autocoficiar Presidente-Rajoy
+>     * Otros políticos
+
+. . .
+
+* ¿Qué familias podemos crear?
+* ¿Otras posibilidades de autocodificación?
+
+## Superfamilias
+
+|           |    NACIONALES     |           AUTONÓMICOS           |
+|:----------|:-----------------:|:-------------------------------:|
+| IZQUIERDA | IU<br>PCE<br>PSOE | Amaiur<br>BNG<br>ERC<br>ICV PSC |
+| DERECHA   |     PP<br>UPD     |        CC<br>CiU<br>PNV         |
+
+
+
+#Informes {.center data-background="imagenes-cuali/reports.jpg" data-background-transition=zoom data-state=opacidad}
+
+##Menús informes
+
+ `Componentes con opciones de impresión`{.figcaption}
+
+ ![](imagenes-cuali/imprimir.png)
+
+ . . .
+
+ `Destino del informe`{.figcaption}
+
+ ![](imagenes-cuali/informes-opciones.png)
+
+##Ejercicio: Informes
+
+![](img/working-03.png){.noshadow}
+
+>* Explorar diferentes tipos de informes: Documentos, Códigos, Memos...
+
 #Segmentar y codificar {.center data-background="imagenes-cuali/Coding.jpg" data-background-transition=zoom data-state=opacidad}
 
 ##Estrategias trabajo en equipo
@@ -286,43 +285,13 @@ Múltiples categorías
 ![](imagenes-cuali/EstrategiaCodificacion.jpg)
 
 
-##Pero primero...
-
-. . .
-
-![para después...](imagenes-cuali/reader-4.png){.noshadow}
-
-. . .
-
-![](imagenes-cuali/readers.jpg){.noshadow}
-
-
-##Convenciones "jeffersonianas"
-![](imagenes-cuali/Transcripcion.jpg)
-
-@lerner_glossary_2004 [p. 15]
-
-##Vincular texto con audio/vídeo
-
-> * Abrir UH
-
-ControlParlamentario-04.hpr7
-
-##Ejercicio: trabajar con vídeo
-
-![](img/working-03.png){.noshadow}
-
-Relacionar texto - vídeo
-
-
 ##Ejercicio: Codificación
 
 ![](img/working-03.png){.noshadow}
 
 Por equipos:
-
->* Crear códigos (temas en el texto)
-* Codificar
+* definir códigos
+* codificar
 
 ##Comparación constante
 ![](imagenes-cuali/comparacion-constante.png){.noshadow}
@@ -331,9 +300,11 @@ Por equipos:
 
 ##Familias de códigos
 
-![](img/working-03.png){.noshadow}
+. . .
 
->* Crear familias (categorías) de códigos (temas)
+* Crear familias de códigos de participantes por pertenencia a partido político (Convergència, PP, PSOE)
+* Crear familias de partidos políticos
+
 
 #Relaciones {.center data-background="imagenes-cuali/network.jpg" data-background-transition=zoom data-state=opacidad}
 
@@ -356,11 +327,8 @@ Por equipos:
 
 ##Relaciones entre códigos
 
-![](imagenes-cuali/Evasion.png)
+![](imagenes-cuali/RedQuestyonType.png)
 
-##Relaciones entre códigos
-
-![](imagenes-cuali/donacion.png)
 
 # Vistas de red{.center data-background="imagenes-cuali/neurons.jpg" data-background-transition=zoom data-state=opacidad}
 
@@ -417,20 +385,13 @@ Por equipos:
 
 ![](imagenes-cuali/VennBooleanos.png)
 
-Abrir: **CursoAtlasCP/EjemploConsultas/Ejemplo_Query_Booleanos.hpr7**
-
 ##Operadores Semánticos
 
 ![](imagenes-cuali/OperadoresSemanticos.jpg)
 
-
 ##
 
 ![](imagenes-cuali/EscrituraQuery-2.jpg)
-
-. . .
-
-Abrir: **CursoAtlasCP/EjemploConsultas/Ejemplo_Query_Semanticos.hpr7**
 
 ##Operadores de Proximidad
 
@@ -439,10 +400,6 @@ Abrir: **CursoAtlasCP/EjemploConsultas/Ejemplo_Query_Semanticos.hpr7**
 ##
 
 ![](imagenes-cuali/Proximidad.jpg)
-
-. . .
-
-Abrir: **CursoAtlasCP/EjemploConsultas/Ejemplo_Query_Proximidad.hpr7**
 
 ##Consultas: Alcance
 

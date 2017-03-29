@@ -34,7 +34,7 @@ lateral-menu: 'True'
 ##Los elogios
 
 >In my graduate student days, there were no tape recorders for making an interviewer’s life easier; these arrived after World War II, passing first through the wide recorder stage. These were ponderous machines, only gradually slimming down to today’s light models. Many years later, following our dreams of computers that would ease our lives as qualitative social researchers, software was devised for us.
-
+`Strauss,  1997, p.1`{.autor}
 -->
 
 ##Una crítica
@@ -65,7 +65,7 @@ lateral-menu: 'True'
 ##La investigación cualitativa{data-background="imagenes-cuali/AnalisisCotidiano.png" data-background-transition=zoom data-state=opacidad}
 
 >Un enfoque cualitativo es uno en el que hay necesidad de interpretar los datos a través de la identificación y, posiblemente, la codificación de temas, conceptos, procesos, contextos, etc., con el fin de construir explicaciones o teorías o para probar o ampliar una teoría.\
-@lewins_using_2007
+@lewins_using_2007 [, p. 7]
 
 ##Análisis temático{data-background="imagenes-cuali/AnalisisCotidiano.png" data-background-transition=zoom data-state=opacidad}
 >El análisis temático es un método para identificar, analizar y reportar patrones (temas) dentro de los datos. Como mínimo organiza y describe en detalle el conjunto de datos. Sin embargo, con frecuencia, va más allá e interpreta diversos aspectos del tema de investigación.\
@@ -103,14 +103,31 @@ lateral-menu: 'True'
 
 ##Pantalla inicial
 
-![](imagenes/atlas-8/PantallaInicial-ayuda.png)
+<div style="position:relative; margin:0 auto;">
+  <img class="fragment fade-out" data-fragment-index="0"  src="imagenes/atlas-8/PantallaInicial.png" style="position:absolute;top:0;left:0;" />
+  <img class="fragment fade-in" data-fragment-index="0" src="imagenes/atlas-8/PantallaInicial-b.png" style="position:absolute;top:0;left:0;" />
+</div>
+
+<!--![](imagenes/atlas-8/PantallaInicial.png) -->
 
 ## Pantalla principal
+
+<!--
+<div style="position:relative; margin:0 auto;">
+  <img class="fragment fade-out" data-fragment-index="0"  src="imagenes/atlas-8/PantallaPrincipal-01.png" style="position:absolute;top:0;left:0;" />
+  <img class="fragment fade-in" data-fragment-index="0" src="imagenes/atlas-8/PantallaPrincipal-02a.png" style="position:absolute;top:0;left:0;" />
+  <img class="fragment fade-in" data-fragment-index="1" src="imagenes/atlas-8/PantallaPrincipal-02b.png" style="position:absolute;top:0;left:0;" />
+  <img class="fragment fade-in" data-fragment-index="2" src="imagenes/atlas-8/PantallaPrincipal-03.png" style="position:absolute;top:0;left:0;" />
+  </div>
+  -->
+
 ![](imagenes/atlas-8/PantallaPrincipal.png)
 
 <!--
 ![](imagenes/atlas-8/PantallaPrincipal-ConProyecto.png)
  -->
+
+-->
 
 ##Añadir documentos
 
@@ -222,7 +239,27 @@ Desde la carpeta "ControlParlamentario"
 
 ![](imagenes/atlas-8/EstrategiaCodificacion.png)
 
-## Codificación Top-Down: Citas libres
+
+## Codificación Top-Down: Códigos libres
+
+![](imagenes/atlas-8/NewEntities.png)
+
+. . .
+
+![](imagenes/atlas-8/CreateCodes.png)
+
+##Comentarios de códigos
+
+![](img/working-03.png){.noshadow}
+
+>* Crear comentarios de códigos
+
+Ver:
+
+@macqueen_codebook_1998
+
+
+## Codificación Bottom-Up: Citas libres
 
 ![](imagenes/atlas-8/FreeQuotation-00.png){.border}
 
@@ -238,14 +275,6 @@ Desde la carpeta "ControlParlamentario"
 ## Explorar Citas
 
 ![](imagenes/atlas-8/QuotationManager-00.png)
-
-## Codificación Bottom-Up: Códigos libres
-
-![](imagenes/atlas-8/NewEntities.png)
-
-. . .
-
-![](imagenes/atlas-8/CreateCodes.png)
 
 ## Codificación "mixta"
 
@@ -263,15 +292,18 @@ Desde la carpeta "ControlParlamentario"
 
 ![](imagenes/atlas-8/CodeManager-02.png)
 
-##Comentarios de códigos
 
-![](img/working-03.png){.noshadow}
+##Comparación constante
+![](imagenes-cuali/comparacion-constante.png){.noshadow}
 
->* Crear comentarios de códigos
+## Visualización: Informes
 
-Ver:
+![](imagenes/atlas-8/CodeManager-Menu-Report.png)
 
-@macqueen_codebook_1998
+. . .
+
+![](imagenes/atlas-8/CodesReport.png)
+
 
 <!--
 ##Literatura definicional
@@ -302,40 +334,31 @@ Ver:
 
 ## Agrupar códigos
 
-![](imagenes/atlas-8/Codes-CodeGroups.png)
+![](imagenes/atlas-8/Codes-CodeGroups-00.png)
 
-. . .
+![](imagenes/atlas-8/CodeManager-Menu-OpenGroupManager.png)
 
+## Gestor de grupos de códigos
 ![](imagenes/atlas-8/CodeGroupManager-00.png)
 
 ## Grupos de códigos
 ![](imagenes/atlas-8/CodeGroupManager-01.png)
 
 
-##
+## "Smart groups"
 
-![](imagenes/atlas-8/Code-SmartGroup-00.png)
+![](imagenes/atlas-8/CodeGroupManager-Menu.png)
 
-##
-![](imagenes/atlas-8/Code-SmartGroup-01.png)
+## Editat "smart" groups
 
-##
 ![](imagenes/atlas-8/Code-SmartGroup-02.png)
 
-##
-![](imagenes/atlas-8/Code-SmartGroup-03.png)
+## Ejercicio: agrupar códigos
 
+![](img/working-03.png){.noshadow}
 
-##Comparación constante
-![](imagenes-cuali/comparacion-constante.png){.noshadow}
-
-## Visualización: Informes
-
-![](imagenes/atlas-8/CodeManager-Menu-Report.png)
-
-. . .
-
-![](imagenes/atlas-8/CodesReport.png)
+>* Crear grupos de códigos
+* Crear "smart" group
 
 # "Transportar" UH{.center data-background="imagenes/luggage.png"}
 
@@ -347,6 +370,12 @@ Ver:
 
 ![](imagenes/atlas-8/MenuFile-New.png)
 
+## Ejercicio: Crear/abrir copia
+
+![](img/working-03.png){.noshadow}
+
+>* Crear una copia de la UH
+* Importat la copia (de un/a compañero/a)
 
 # Organización Datos {.center data-state=opacidad data-background="imagenes-cuali/hanging-files.jpg" data-background-transition=zoom }
 
@@ -417,13 +446,15 @@ Códigos > Codificar > Codificación automática
 
 ##Tipos de Relaciones
 
+<!--
 |         | CITAS     | CÓDIGOS      | MEMOS    |
 |:--------|:----------|:-------------|:---------|
 | CITAS   | Hyperlink | Codificación | Relación |
 | CÓDIGOS |           | Relación     | Relación |
 | MEMOS   |           |              | Relación |
+ -->
 
-![](imagenes-cuali/Relaciones.png){.noshadow}
+![](imagenes/atlas-8/TiposRelaciones.png)
 
 ##Jerarquías de códigos
 
