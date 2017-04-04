@@ -10,13 +10,13 @@ Influencia social y grupos
 Acción Pública y cambio social
 ------------------------------
 
--   Primera parte ([HTML](APCS-15-16-1.html) | [PDF](APCS-15-16-1.pdf))
--   Segunda parte ([HTML](APCS-15-16-2.html) | [PDF](APCS-15-16-2.pdf))
+-   Primera parte ([HTML](APCS-1.html) | [PDF](APCS-1.pdf))
+-   Segunda parte ([HTML](APCS-2.html) | [PDF](APCS-2.pdf))
 
 Análisis temático
 -----------------
 
--   Conformismo (Septiembre 2016) ([HTML](AnalisisTematico.html) | [PDF](AnalisisTematico.pdf))
+-   Análisis temático (Septiembre 2016) ([HTML](AnalisisTematico.html) | [PDF](AnalisisTematico.pdf))
 
 Grupos en Psicología Social
 ---------------------------

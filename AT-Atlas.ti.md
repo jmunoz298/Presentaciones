@@ -10,13 +10,15 @@ csl: apa.csl
 lateral-menu: 'True'
 ...
 
-#Introducción {.center}
+#Introducción {.center data-background="imagenes-cuali/introduction-2.jpg" data-background-transition=zoom data-state=opacidad}
 
 ##CAQDAS
 
 >Programas para el análisis cualitativo de datos ASISTIDO por ordenador
 
-##Unos enlaces
+. . .
+
+**Unos enlaces**
 
 [CAQDAS Networking Project](http://www.surrey.ac.uk/sociology/research/researchcentres/caqdas/)
 
@@ -36,21 +38,32 @@ lateral-menu: 'True'
 
 ##Una crítica
 
->(…) qualitative data are derived from language and allow for the detailed exploration of feelings, drives, emotions ant the subjective understanding a respondent had of a certain social situation at a particular time. They are indexical and context bound. The data are fuzzy, with slippery boundaries between meanings, and not ideally suited to categorization and classification using digitally based software. Employing a digital tool of this type on qualitative data has the potential to distort any understanding arrived at.\
+
+>(...) los datos cualitativos se derivan del lenguaje y permiten la exploración detallada de sentimientos, impulsos, emociones y la comprensión subjetiva que un encuestado tiene de cierta situación social en un momento determinado. Son indexicales y vinculados al contexto. Los datos son difusos, con límites resbaladizos entre significados, y no son adecuados para categorización y clasificación utilizando software. Utilizar en datos cualitativos una herramienta digital de este tipo  puede distorsionar cualquier comprensión.\
 @roberts_ict_2002
 
-##Una advertencia
->Always remember that a computer is just a machine, it won’t do the thinking for you, and it might even hinder you in progressing with your analysis. Don’t forget to turn the computer off once in a while. Take your data, search outputs, coding schemes, etc., to a quite place, and then read through them and think about them. Go far a walk and rest your mind. You probably will get the best ideas then.\
 
-Friese,  1998
+<!--
+>(…) qualitative data are derived from language and allow for the detailed exploration of feelings, drives, emotions ant the subjective understanding a respondent had of a certain social situation at a particular time. They are indexical and context bound. The data are fuzzy, with slippery boundaries between meanings, and not ideally suited to categorization and classification using digitally based software. Employing a digital tool of this type on qualitative data has the potential to distort any understanding arrived at.\
+@roberts_ict_2002
+ -->
+
+##Una advertencia
+>Recuerde siempre que un ordenador es sólo una máquina, no pensará por usted, y puede incluso dificultarle progresar con su análisis. No olvide apagar el ordenador de vez en cuando. Lleve sus datos, resultados de búsquedas, esquemas de codificación, etc, a un lugar tranquilo, y luego léalos y piense en ellos. Dé un largo paseo y despeje su mente. Será entonces cuando probablemente obtenga las mejores ideas.\
+`Friese,  1998`{.autor}
+
+<!--
+>Always remember that a computer is just a machine, it won’t do the thinking for you, and it might even hinder you in progressing with your analysis. Don’t forget to turn the computer off once in a while. Take your data, search outputs, coding schemes, etc., to a quite place, and then read through them and think about them. Go far a walk and rest your mind. You probably will get the best ideas then.\
+`Friese,  1998`{.autor}
+ -->
 
 ##¿Qué permite?
 
-<div style="float:left; margin:0; width:20%;">
-![](imagenes-cuali/Pantalla.png)
+<div style="float:left; margin:0; width:35%;">
+![](imagenes-cuali/atlas-que-permite.png){.noshadow}
 </div>
 
-<div style="float:left; margin:0; width:80%;">
+<div style="float:left; margin:0; width:65%;">
 >* Organización e integración
 * Datos multimedia
 * Búsqueda y recuperación
@@ -59,41 +72,58 @@ Friese,  1998
 * Trabajo en equipo
 </div>
 
-##La investigación cualitativa
+#Definiciones {.center data-background="imagenes-cuali/Definicion.jpg" data-background-transition=zoom data-state=fondo}
+
+##La investigación cualitativa{data-background="imagenes-cuali/AnalisisCotidiano.png" data-background-transition=zoom data-state=opacidad}
 
 >Un enfoque cualitativo es uno en el que hay necesidad de interpretar los datos a través de la identificación y, posiblemente, la codificación de temas, conceptos, procesos, contextos, etc., con el fin de construir explicaciones o teorías o para probar o ampliar una teoría.\
 @lewins_using_2007
 
-##Análisis de contenido
+<!--
+##Análisis de contenido{data-background="imagenes-cuali/AnalisisCotidiano.png" data-background-transition=zoom data-state=opacidad}
 >Una técnica de investigación para la descripción objetiva, sistemática y cuantitativa del contenido manifiesto de las comunicaciones con el fin de interpretarlas.\
 @berelson_content_1952 [p. 18]
-
-##Análisis cualitativo de contenido
->(…) un enfoque de análisis empírico, metodológicamente controlado, de textos en su contexto de comunicación, siguiendo reglas de análisis de contenido y modelos paso a paso, sin una cuantificación precipitada.\
-@mayring_qualitative_2000 [para. 5]
+ -->
 
 <!--
-##Análisis cualitativo de contenido
+##Análisis cualitativo de contenido{data-background="imagenes-cuali/AnalisisCotidiano.png" data-background-transition=zoom data-state=opacidad}
+>(…) un enfoque de análisis empírico, metodológicamente controlado, de textos en su contexto de comunicación, siguiendo reglas de análisis de contenido y modelos paso a paso, sin una cuantificación precipitada.\
+@mayring_qualitative_2000 [para. 5]
+ -->
+
+<!--
+##Análisis cualitativo de contenido{data-background="imagenes-cuali/AnalisisCotidiano.png" data-background-transition=zoom data-state=opacidad}
 >El análisis de contenido moderno, ya no se dirige únicamente al contenido del material verbal. Pueden ser objeto de estudio tanto los aspectos formales como el significado latente. La idea básica de un análisis de contenido cualitativo, pues, consiste en mantener el carácter sistemático del análisis de contenido durante las distintas etapas del análisis cualitativo, sin realizar cuantificaciones apresuradas.\
 @mayring_qualitative_2004 [p. 266]
 -->
 
-##Análisis temático
+##Análisis temático{data-background="imagenes-cuali/AnalisisCotidiano.png" data-background-transition=zoom data-state=opacidad}
 >El análisis temático es un método para identificar, analizar y reportar patrones (temas) dentro de los datos. Como mínimo organiza y describe en detalle el conjunto de datos. Sin embargo, con frecuencia, va más allá e interpreta diversos aspectos del tema de investigación.\
 @braun_using_2006 [p. 79]
 
+<!--
 ##Cuantitativo vs. cualitativo
 
 ![](imagenes-cuali/ContenidoTematico.jpg)
+ -->
 
 ##¿Cómo?
 
 ![Análisis "cotidiano"](imagenes-cuali/AnalisisCotidiano.png)
 
-##Fases del análisis
-![](imagenes-cuali/Proceso.png)
+##
+![Adaptado de Saldaña, 2009, p. 12](imagenes-cuali/DatoATeoria.jpg)
 
-#Gestión de datos { .center}
+##Fases del análisis
+![](imagenes-cuali/proceso.jpg){.noshadow}
+
+#Preparación de datos {.center data-background="imagenes-cuali/preparacion-1.jpg" data-background-transition=zoom data-state=opacidad}
+
+## Fases preparación datos
+
+* Transcripción (literal de los datos)
+* Convenciones ("jeffersonianas")
+* Gestión (archivado, formato, control)
 
 
 ##Transcripción
@@ -101,13 +131,14 @@ Friese,  1998
 . . .
 
 >(…) La producción y el uso de transcripciones son 'actividades de investigación' y no deben ser enfocadas como simplemente 'detalles técnicos' que preceden el análisis.\
-@mclellan_qualitative_2003 [p. 64]
+@mclellan_beyond_2003 [p. 64]
 
+<!--
 . . .
 
 >“(…) el examen de la grabación como una práctica perturba el tratamiento aproblemático de la cinta como "datos" inmutables. De repente, la cinta es tan "insegura" y "poco fiable" como todos los demás objetos, más obviamente artesanales.\
 @ashmore_innocence_2000 [para. 31]
-
+ -->
 
 ##Transcribir: herramientas
 
@@ -131,14 +162,28 @@ Soundscriber:
 F4:
 [http://www.audiotranskription.de/english](http://www.audiotranskription.de/english)
 
+<!--
+##Transcribir: Software
+
+![Soundscriber: http://www-personal.umich.edu/~ebreck/sscriber.html](imagenes-cuali/Soundscriber.png)
+
+![F4: http://www.audiotranskription.de/english](imagenes-cuali/F4.png)
+
+`http://juan.psicologiasocial.eu/texto-adudio-f4/` {.figcaption}
+ -->
+
+## Pero...
+
+<iframe width="800" height="600" data-src="http://research.baidu.com/introducing-swiftscribe-breakthrough-ai-powered-transcription-software/"></iframe>
+
 ##Convenciones
 >En una conversación lo más significativo es lo que no se dice entre lo que se está diciendo, como por ejemplo las pausas y silencios, las entonaciones y los gestos, porque ahí radican los dobles significados, los ánimos y el objetivo mismo de la comunicación.\
-@fernandezchristlieb_espiritu_2004 [p. 46]
+@fernandez_christlieb_espiritu_2004 [p. 46]
 
 ##Convenciones "jeffersonianas"
 ![](imagenes-cuali/Transcripcion.jpg)
 
-@jefferson_glossary_2004 [p. 15]
+@lerner_glossary_2004 [p. 15]
 
 <!--
 ##Ejercicio: transcripción con convenciones
@@ -146,15 +191,24 @@ F4:
 
 ##Gestión de los datos
 >La inadecuada documentación y monitorización de las actividades relacionadas con los datos pueden amenazar su integridad. Además, las prácticas inadecuadas de seguimiento pueden dificultar el análisis y aumentar la probabilidad de un pandemónium de investigación.\
-@mclellan_qualitative_2003 [p. 69]
+@mclellan_beyond_2003 [p. 69]
 
-[UK · Data Archive: Create & Manage Data](http://www.data-archive.ac.uk/create-manage)
+Ver: [UK · Data Archive: Create & Manage Data](http://www.data-archive.ac.uk/create-manage)\
+`http://www.data-archive.ac.uk/create-manage` {.figcaption}
 
 ##Gestión de los datos
 >Una buena gestión de los datos es la base para una buena investigación. Si los datos están debidamente organizados, preservados y bien documentados, y su exactitud, vigencia e integridad es controlada en todo momento, el resultado es de datos de alta calidad, investigación eficiente, resultados basados en pruebas sólidas y ahorro de tiempo y recursos. (...) La gestión de datos debe planificarse desde el inicio de la investigación. Si se convierte en parte de la práctica de investigación estándar, entonces no implicará necesariamente mucho tiempo ni costos adicionales.\
-@ukdataarchive_managing_2009 [p. 2]
+@uk_data_archive_managing_2009 [p. 2]
 
-##Ejercicio: documentación datos
+
+##Control de versiones
+
+![https://www.ukdataservice.ac.uk/manage-data/format/versioning](imagenes-cuali/VersionControlTable.jpg)
+
+
+##Ejercicio: gestión de datos
+
+![](img/working-03.png){.noshadow}
 
 * Formato documentos
 * Etiquetado archivos
@@ -164,29 +218,22 @@ F4:
 
 . . .
 
-![para después...](imagenes-cuali/reader-4.png)
+![para después...](imagenes-cuali/reader-4.png){.noshadow}
 
 . . .
 
-![](imagenes-cuali/reader-12.png)
-![](imagenes-cuali/reader-8.png)
-![](imagenes-cuali/reader-1.png)
-![](imagenes-cuali/reader-2.png)
-![](imagenes-cuali/reader-3.png)
-![](imagenes-cuali/reader-5.png)
-![](imagenes-cuali/reader-11.png)
-![](imagenes-cuali/reader-6.png)
-![](imagenes-cuali/reader-7.png)
-![](imagenes-cuali/reader-10.png)
+![](imagenes-cuali/readers.jpg){.noshadow}
 
-<!-- ![](imagenes-cuali/reader-9.png) -->
+#Unidad Hermenéutica {.center data-background="imagenes-cuali/escriba.jpg" data-background-transition=zoom data-state=opacidad}
 
-#Unidad Hermenéutica {data-background="imagenes-cuali/Proceso-fondo.png" data-background-transition=zoom data-state=opacidad}
+##Estrategias trabajo en equipo
+
+![](imagenes-cuali/atlas-trabajo-equipo.png){.noshadow}
 
 ##
 ![](imagenes-cuali/PantallaPrincipal-00.png)
 
-#Memoing {data-background="imagenes-cuali/Proceso-fondo.png" data-background-transition=zoom data-state=opacidad}
+#Memoing {.center data-background="imagenes-cuali/Memoing-01.jpg" data-background-transition=zoom data-state=opacidad}
 
 ##Memoing
 >Mediante el uso de memorandos, el investigador es capaz de sumergirse en los datos, explorar los significados que estos datos tienen, mantener la continuidad y mantener el impulso en la realización de la investigación. Como crónica de un viaje de investigación, los memorandos permanecen como un registro, indeleble pero flexible, para retención personal o para difundir a otros.\
@@ -209,9 +256,14 @@ F4:
 * Problemas o dilemas éticos
 * Informe final
 
+. . .
+
 @saldana_coding_2009 [pp. 34-40]
 
 ##Ejercicio memos-anotaciones
+
+
+![](img/working-03.png){.noshadow}
 
 >* Crear una memo
 >     * Etiquetarla como "Proceso"
@@ -219,29 +271,39 @@ F4:
 >     * Guardar
 * Crear una memo "Objetivos"
 
+## Descargar
+
+Descargar / descomprimir
+
+https://www.dropbox.com/s/5hw8f921lwlj5s6/CursoAtlasCP.zip
+
 
 ##Ejercicio memos: insertar PDF
+
+![](img/working-03.png){.noshadow}
+
 >* Crear memo: Reglamento
 >     * Insertar PDF desde carpeta "Documentos"
 * Crear memo: Participantes
 >      * Insertar PDF desde carpeta "Documentos"
 * Guardar UH
 
-# Organización Datos {data-background="imagenes-cuali/Proceso-fondo.png" data-background-transition=zoom data-state=opacidad}
+# Organización Datos {.center data-state=opacidad data-background="imagenes-cuali/hanging-files.jpg" data-background-transition=zoom }
 
 ##Agregar datos
 
-![](imagenes-cuali/EstrategiaAsignacion.png)
+![](imagenes-cuali/EstrategiaAsignacion.png){.noshadow}
 
 . . .
 
 ```
-Documentos > Nuevo
-  1. Agregar documentos a biblioteca
-  2. Asignar documentos externos
+1. Documentos > Nuevo > Agregar documentos (a biblioteca)
+2. Documentos > Nuevo > Asignar documentos externos
 ```
 
 ##Ejercicio: Agregar datos
+
+![](img/working-03.png){.noshadow}
 
 Desde la carpeta "ControlParlamentario"
 
@@ -250,7 +312,12 @@ Desde la carpeta "ControlParlamentario"
 
 ##"Transportar" UH
 
-Si 1:
+<div id="column1" style="float:left; margin:0; width:35%;">
+![](imagenes-cuali/EstrategiaAsignacion-1.png){.noshadow}
+
+</div>
+
+<div id="column1" style="float:left; margin:0; width:65%;">
 
 Copiar y restaurar
 
@@ -262,26 +329,33 @@ Proyecto > Guardar paquete de copia
 Proyecto > Desempaquetar la copia
 ```
 
-. . .
-
 O
 ```
 Documentos > Administrador de fuente de datos
-   * Abrir Aaministrador de biblioteca
+   * Abrir Administrador de biblioteca
        * Fuentes de datos > Exportar
    * Exportar documentos seleccionados   
 ```
 
+</div>
+
 . . .
 
-Si 2:
+<hr />
+
+<div id="column1" style="float:left; margin:0; width:35%;">
+![](imagenes-cuali/EstrategiaAsignacion-2.png){.noshadow}
+
+</div>
 
 Copiar carpeta donde estén UH y documentos
 
 ##Familias
 ![Tipos de Familias](imagenes-cuali/Familias.png)
 
-##Ejercicio: Crear familias de documentos
+##Ejercicio: Familias de documentos
+
+![](img/working-03.png){.noshadow}
 
 
 |         |                       CONGRESO                        |   SENADO   |
@@ -306,6 +380,8 @@ Copiar carpeta donde estén UH y documentos
 
 ##Ejercicio autocodificación
 
+![](img/working-03.png){.noshadow}
+
 ```
 Códigos > Codificar > Codificación automática
 ```
@@ -317,20 +393,17 @@ Códigos > Codificar > Codificación automática
 
 . . .
 
-¿Qué familias podemos crear?
+* ¿Qué familias podemos crear?
+* ¿Otras posibilidades de autocodificación?
 
-. . .
-
->* Partidos políticos (Convergència, PP, PSOE)
-* Agrupar partidos políticos
-
-##
+## Superfamilias
 
 |           |    NACIONALES     |           AUTONÓMICOS           |
 |:----------|:-----------------:|:-------------------------------:|
 | IZQUIERDA | IU<br>PCE<br>PSOE | Amaiur<br>BNG<br>ERC<br>ICV PSC |
 | DERECHA   |     PP<br>UPD     |        CC<br>CiU<br>PNV         |
 
+<!--
 ##Más codificación estructural
 
 >* Codificar:
@@ -342,22 +415,38 @@ Códigos > Codificar > Codificación automática
 . . .
 ¿Qué hacemos con todos los códigos "estructurales"?
 
-#Informes {data-background="imagenes-cuali/Proceso-fondo.png" data-background-transition=zoom data-state=opacidad}
+-->
+
+#Informes {.center data-background="imagenes-cuali/reports.jpg" data-background-transition=zoom data-state=opacidad}
+
+##Menús informes
+
+ `Componentes con opciones de impresión`{.figcaption}
+
+ ![](imagenes-cuali/imprimir.png)
+
+ . . .
+
+ `Destino del informe`{.figcaption}
+
+ ![](imagenes-cuali/informes-opciones.png)
 
 ##Ejercicio: Informes
 
+![](img/working-03.png){.noshadow}
+
 >* Explorar diferentes tipos de informes: Documentos, Códigos, Memos...
 
-#Segmentar y codificar {data-background="imagenes-cuali/Proceso-fondo.png" data-background-transition=zoom data-state=opacidad}
-
+#Segmentar y codificar {.center data-background="imagenes-cuali/Coding.jpg" data-background-transition=zoom data-state=opacidad}
 
 ##Reducción
->[En la investigación cualitativa] el reto es dar sentido a una cantidad masiva de datos, reducir el volumen de información, identificar pautas significativas, y construir un marco para comunicar la esencia de lo que revelan los datos.\
+>[...] el reto es dar sentido a una cantidad masiva de datos, reducir el volumen de información, identificar pautas significativas, y construir un marco para comunicar la esencia de lo que revelan los datos.\
 @patton_qualitative_1990 [pp. 371-372]
 
-##Reducción: Citas y códigos
+. . .
 
-![](imagenes-cuali/ReduccionInformacion.png)
+![](imagenes-cuali/Reduccion.png){.noshadow}
+
 
 ##Codificación
 
@@ -372,6 +461,11 @@ Pidgeon & Henwood, 1996, p. 92
 
 -->
 
+##Estrategias de codificación
+
+![](imagenes-cuali/EstrategiaCodificacion.jpg)
+
+
 ##Literatura definicional
 
 | Origen           | El gato ha bebido la leche                                                                                                                                                                                                                                                                                                               |
@@ -382,25 +476,27 @@ Pidgeon & Henwood, 1996, p. 92
 ##El gato
 
 <div id="column1" style="float:left; margin:0;">
-![](imagenes-cuali/Gato-1.jpg)
+![](imagenes-cuali/Gato-1.jpg){.border}
 </div>
 
 . . .
 
 <div id="column1" style="float:left; margin:0;">
-![](imagenes-cuali/Gato-2.jpg)
+![](imagenes-cuali/Gato-2.jpg){.border}
 </div>
 
 . . .
 
 <div id="column1" style="float:left; margin:0;">
-![](imagenes-cuali/Gato-3.jpg)
+![](imagenes-cuali/Gato-3.jpg){.border}
 </div>
 
+<!--
 ##Otra crítica
 
 >The ease with which CAQDAS permits multiple codiﬁcation can rapidly entice the user into exploring and creating masses of nodes (code themes) and being further tempted to codify each segment into many nodes. Researchers need to exhibit both restraint and ingenuity when coding within a CAQDAS context, as the time constraints do not permit the luxury of exploring all possible avenues of thought that the user discerns.\
 @blismas_computer-aided_2003
+ -->
 
 ##Ejercicio: Codificación
 Por grupos, categorizar el aula
@@ -408,6 +504,24 @@ Por grupos, categorizar el aula
 * Identificar y etiquetar elementos
 * Agrupar elementos por categorías
 * Comparar con otros grupos
+
+##Comentarios de códigos
+
+Ver:
+
+@macqueen_codebook_1998
+
+##Ejercicio: Segmentación / Codificación
+
+![](img/working-03.png){.noshadow}
+
+* Crear citas libres
+* Crear códigos libres
+* Utilizar otras opciones de codificación
+
+##Comparación constante
+![](imagenes-cuali/comparacion-constante.png){.noshadow}
+
 
 
 <!--
@@ -417,8 +531,7 @@ Por grupos, categorizar el aula
 `J.L.Borges (1952). El idioma analítico de John Wilkins.` {.figcaption}
 -->
 
-
-
+<!--
 ##Comentarios de códigos
 
 Código
@@ -442,6 +555,7 @@ Ejemplo
 :  “Como aquí no hay agua ni alcantarillado, la suciedad que hay aquí en las calles es terrible, ahí se puede ver... ¿se fija?, los niños se enferman a cada rato.”
 
 @macqueen_codebook_1998
+-->
 
 <!--
 
@@ -459,11 +573,7 @@ Ejemplo
 
 -->
 
-##Estrategias de codificación
-
-![](imagenes-cuali/EstrategiaCodificacion.jpg)
-
-
+<!--
 ##Codificación deductiva
 
 >* Q Y/N
@@ -478,19 +588,13 @@ Ejemplo
 * Ev Subtle
 
 @rasiah_framework_2010
+ -->
 
 ##Ejercicio
 
 * Crear códigos libres
 * Crear citas libres
 * Codificar: Pregunta, Respuesta, Réplica, Contrarréplica
-
-##Comparación constante
-![](imagenes-cuali/ComparacionConstante.jpg)
-
-##Estrategias trabajo en equipo
-
-![](imagenes-cuali/TrabajoEquipo.jpg)
 
 ##Familias de códigos
 
@@ -500,7 +604,7 @@ Ejemplo
 * Crear familias de partidos políticos
 
 
-#Relaciones {data-background="imagenes-cuali/Proceso-fondo.png" data-background-transition=zoom data-state=opacidad}
+#Relaciones {.center data-background="imagenes-cuali/network.jpg" data-background-transition=zoom data-state=opacidad}
 
 
 ##
@@ -509,6 +613,7 @@ Ejemplo
 ##Temas
 > Un tema capta algo importante sobre los datos en relación con la pregunta de investigación, y representa un cierto nivel de pauta de respuesta o significado en el conjunto de los datos.\
 @braun_using_2006 [p. 82]
+
 
 ##Tipos de Relaciones
 
@@ -532,10 +637,16 @@ Ejemplo
 
 ![](imagenes-cuali/RedQuestyonType.png)
 
-# Vistas de red {data-background="imagenes-cuali/Proceso-fondo.png" data-background-transition=zoom data-state=opacidad}
+## Ejemplo: códigos-categorías-temas
+
+![](imagenes-cuali/Graneheim-Lundaman-Figura1-es.png)
+@graneheim_qualitative_2004 [p. 108]\
+`Narrativas sobre hipoglucemia`{.figcaption}
+
+# Vistas de red{.center data-background="imagenes-cuali/neurons.jpg" data-background-transition=zoom data-state=opacidad}
 
 >Aplicar redes temáticas es simplemente una forma de organizar un análisis temático de datos cualitativos. Los análisis temáticos intentan descubrir los temas más destacados en un texto a diferentes niveles, y las redes temáticas tienen como objetivo facilitar la estructuración y representación de esos temas.\
-@attride-stirling_thematic_2001 [p. 387]
+@attride_stirling2001 [p. 387]
 
 ##Redes temáticas
 ![Attride-Stirling, 2001. p. 388](imagenes-cuali/RedesTematicas.jpg)
@@ -544,7 +655,7 @@ Ejemplo
 
 ![](imagenes-cuali/EditorRelaciones.png)
 
-#Herramientas de consulta {data-background="imagenes-cuali/Proceso-fondo.png" data-background-transition=zoom data-state=opacidad}
+#Herramientas de consulta{.center data-background="imagenes-cuali/query.jpg" data-background-transition=zoom data-state=opacidad}
 
 ##Buscar texto
 
@@ -644,6 +755,6 @@ Múltiples categorías
 
 ![](imagenes-cuali/UH-Fusionar-2.png)
 
-#Referencias {.center}
+#Referencias{.center data-background="imagenes-cuali/books.jpg" data-background-transition=zoom data-state=opacidad}
 
-## {.scrollable}
+## {.scrollable .peque}

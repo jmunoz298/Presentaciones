@@ -1,0 +1,1196 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <title>Análisis con Atlas.ti</title>
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <link rel="stylesheet" href="reveal.js/css/reveal.css"/>
+ <link rel="stylesheet" href="reveal.js/plugin/toc-progress/toc-progress.css">
+  <!--  <style type="text/css">code{white-space: pre;}</style> -->
+    <link rel="stylesheet" href="reveal.js/css/theme/serif-mod.css" id="theme">
+
+<!-- If the query includes 'print-pdf', use the PDF print sheet -->
+<script>
+  var link = document.createElement( 'link' );
+  link.rel = 'stylesheet';
+  link.type = 'text/css';
+  link.href = window.location.search.match( /print-pdf/gi ) ? 'reveal.js/css/print/pdf.css' : 'reveal.jscss/print/paper.css';
+  document.getElementsByTagName( 'head' )[0].appendChild( link );
+</script>
+
+  <!--[if lt IE 9]>
+  <script src="reveal.js/lib/js/html5shiv.js"></script>
+  <![endif]-->
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+<section data-state="no-toc-progress , show-github-ribbon">
+    <h1 class="title .no-toc-progress">Análisis con Atlas.ti</h1>
+    <h4 class="author">Juan Muñoz</h4>
+    <h6 class="author">Universitat Autònoma de Barcelona</h6>
+    <h6 class="author">juan.munoz@uab.cat</h6>
+    <h4 class="date"></h4>
+    <h4 class="date">http:/juan.psicologiasocial.eu</h4>
+<div style="position: absolute; bottom: 0px; margin-left: 0px; width: 100%; <center><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Llicència de Creative Commons" style="border-width:0" src="img/cc-by.png" /></a></center>
+</div>
+</section>
+<section><section id="introducción" class="titleslide slide level1 center" data-background="imagenes-cuali/introduction-2.jpg" data-background-transition="zoom" data-state="opacidad"><h1>Introducción</h1></section><section id="caqdas" class="slide level2">
+<h1>CAQDAS</h1>
+<blockquote>
+<p>Programas para el análisis cualitativo de datos ASISTIDO por ordenador</p>
+</blockquote>
+<div class="fragment">
+<p><strong>Unos enlaces</strong></p>
+<p><a href="http://www.surrey.ac.uk/sociology/research/researchcentres/caqdas/">CAQDAS Networking Project</a></p>
+<p><a href="http://onlineqda.hud.ac.uk/">Online QDA</a></p>
+<p><a href="http://www.textanalysis.info/">Text Analysis Info – QDA Software</a></p>
+<p><a href="http://www.data-archive.ac.uk/">UK Data Archive</a></p>
+<!--
+
+##Los elogios
+
+>In my graduate student days, there were no tape recorders for making an interviewer’s life easier; these arrived after World War II, passing first through the wide recorder stage. These were ponderous machines, only gradually slimming down to today’s light models. Many years later, following our dreams of computers that would ease our lives as qualitative social researchers, software was devised for us.
+`Strauss,  1997, p.1`{.autor}
+
+-->
+</div>
+</section><section id="una-crítica" class="slide level2">
+<h1>Una crítica</h1>
+<blockquote>
+<p>(...) los datos cualitativos se derivan del lenguaje y permiten la exploración detallada de sentimientos, impulsos, emociones y la comprensión subjetiva que un encuestado tiene de cierta situación social en un momento determinado. Son indexicales y vinculados al contexto. Los datos son difusos, con límites resbaladizos entre significados, y no son adecuados para categorización y clasificación utilizando software. Utilizar en datos cualitativos una herramienta digital de este tipo puede distorsionar cualquier comprensión.<br />
+<span class="citation" data-cites="roberts_ict_2002">Roberts &amp; Wilson (2002)</span></p>
+</blockquote>
+<!--
+>(…) qualitative data are derived from language and allow for the detailed exploration of feelings, drives, emotions ant the subjective understanding a respondent had of a certain social situation at a particular time. They are indexical and context bound. The data are fuzzy, with slippery boundaries between meanings, and not ideally suited to categorization and classification using digitally based software. Employing a digital tool of this type on qualitative data has the potential to distort any understanding arrived at.\
+@roberts_ict_2002
+ -->
+</section><section id="una-advertencia" class="slide level2">
+<h1>Una advertencia</h1>
+<blockquote>
+<p>Recuerde siempre que un ordenador es sólo una máquina, no pensará por usted, y puede incluso dificultarle progresar con su análisis. No olvide apagar el ordenador de vez en cuando. Lleve sus datos, resultados de búsquedas, esquemas de codificación, etc, a un lugar tranquilo, y luego léalos y piense en ellos. Dé un largo paseo y despeje su mente. Será entonces cuando probablemente obtenga las mejores ideas.<br />
+<code class="autor">Friese,  1998</code></p>
+</blockquote>
+<!--
+>Always remember that a computer is just a machine, it won’t do the thinking for you, and it might even hinder you in progressing with your analysis. Don’t forget to turn the computer off once in a while. Take your data, search outputs, coding schemes, etc., to a quite place, and then read through them and think about them. Go far a walk and rest your mind. You probably will get the best ideas then.\
+`Friese,  1998`{.autor}
+ -->
+</section><section id="qué-permite" class="slide level2">
+<h1>¿Qué permite?</h1>
+<div style="float:left; margin:0; width:35%;">
+<figure>
+<img src="imagenes-cuali/atlas-que-permite.png" class="noshadow" />
+</figure>
+</div>
+<div style="float:left; margin:0; width:65%;">
+<ul>
+<li>Organización e integración</li>
+<li>Datos multimedia</li>
+<li>Búsqueda y recuperación</li>
+<li>Vinculación</li>
+<li>Representación gráfica</li>
+<li>Trabajo en equipo</li>
+</ul>
+</div>
+</section></section>
+<section><section id="definiciones" class="titleslide slide level1 center" data-background="imagenes-cuali/Definicion.jpg" data-background-transition="zoom" data-state="fondo"><h1>Definiciones</h1></section><section id="la-investigación-cualitativa" class="slide level2" data-background="imagenes-cuali/AnalisisCotidiano.png" data-background-transition="zoom" data-state="opacidad">
+<h1>La investigación cualitativa</h1>
+<blockquote>
+<p>Un enfoque cualitativo es uno en el que hay necesidad de interpretar los datos a través de la identificación y, posiblemente, la codificación de temas, conceptos, procesos, contextos, etc., con el fin de construir explicaciones o teorías o para probar o ampliar una teoría.<br />
+<span class="citation" data-cites="lewins_using_2007">Lewins &amp; Silver (2007, p. 7)</span></p>
+</blockquote>
+<!--
+##Análisis de contenido{data-background="imagenes-cuali/AnalisisCotidiano.png" data-background-transition=zoom data-state=opacidad}
+>Una técnica de investigación para la descripción objetiva, sistemática y cuantitativa del contenido manifiesto de las comunicaciones con el fin de interpretarlas.\
+@berelson_content_1952 [p. 18]
+ -->
+<!--
+##Análisis cualitativo de contenido{data-background="imagenes-cuali/AnalisisCotidiano.png" data-background-transition=zoom data-state=opacidad}
+>(…) un enfoque de análisis empírico, metodológicamente controlado, de textos en su contexto de comunicación, siguiendo reglas de análisis de contenido y modelos paso a paso, sin una cuantificación precipitada.\
+@mayring_qualitative_2000 [para. 5]
+ -->
+<!--
+##Análisis cualitativo de contenido{data-background="imagenes-cuali/AnalisisCotidiano.png" data-background-transition=zoom data-state=opacidad}
+>El análisis de contenido moderno, ya no se dirige únicamente al contenido del material verbal. Pueden ser objeto de estudio tanto los aspectos formales como el significado latente. La idea básica de un análisis de contenido cualitativo, pues, consiste en mantener el carácter sistemático del análisis de contenido durante las distintas etapas del análisis cualitativo, sin realizar cuantificaciones apresuradas.\
+@mayring_qualitative_2004 [p. 266]
+-->
+</section><section id="análisis-temático" class="slide level2" data-background="imagenes-cuali/AnalisisCotidiano.png" data-background-transition="zoom" data-state="opacidad">
+<h1>Análisis temático</h1>
+<blockquote>
+<p>El análisis temático es un método para identificar, analizar y reportar patrones (temas) dentro de los datos. Como mínimo organiza y describe en detalle el conjunto de datos. Sin embargo, con frecuencia, va más allá e interpreta diversos aspectos del tema de investigación.<br />
+<span class="citation" data-cites="braun_using_2006">Braun &amp; Clarke (2006, p. 79)</span></p>
+</blockquote>
+<!--
+##Cuantitativo vs. cualitativo
+
+![](imagenes-cuali/ContenidoTematico.jpg)
+ -->
+</section><section id="cómo" class="slide level2">
+<h1>¿Cómo?</h1>
+<figure>
+<img src="imagenes-cuali/AnalisisCotidiano.png" alt="Análisis &quot;cotidiano&quot;" /><figcaption>Análisis &quot;cotidiano&quot;</figcaption>
+</figure>
+</section><section id="section" class="slide level2">
+<h1></h1>
+<figure>
+<img src="imagenes-cuali/DatoATeoria.jpg" alt="Adaptado de Saldaña, 2009, p. 12" /><figcaption>Adaptado de Saldaña, 2009, p. 12</figcaption>
+</figure>
+</section><section id="fases-del-análisis" class="slide level2">
+<h1>Fases del análisis</h1>
+<figure>
+<img src="imagenes-cuali/proceso.jpg" class="noshadow" />
+</figure>
+</section></section>
+<section><section id="preparación-de-datos" class="titleslide slide level1 center" data-background="imagenes-cuali/preparacion-1.jpg" data-background-transition="zoom" data-state="opacidad"><h1>Preparación de datos</h1></section><section id="fases-preparación-datos" class="slide level2">
+<h1>Fases preparación datos</h1>
+<ul>
+<li class="fragment">Transcripción (literal de los datos)</li>
+<li class="fragment">Convenciones (&quot;jeffersonianas&quot;)</li>
+<li class="fragment">Gestión (archivado, formato, control)</li>
+</ul>
+</section><section id="transcripción" class="slide level2">
+<h1>Transcripción</h1>
+<div class="fragment">
+<blockquote>
+<p>(…) La producción y el uso de transcripciones son 'actividades de investigación' y no deben ser enfocadas como simplemente 'detalles técnicos' que preceden el análisis.<br />
+<span class="citation" data-cites="mclellan_beyond_2003">McLellan, MacQueen, &amp; Neidig (2003, p. 64)</span></p>
+</blockquote>
+<!--
+. . .
+
+>“(…) el examen de la grabación como una práctica perturba el tratamiento aproblemático de la cinta como "datos" inmutables. De repente, la cinta es tan "insegura" y "poco fiable" como todos los demás objetos, más obviamente artesanales.\
+@ashmore_innocence_2000 [para. 31]
+ -->
+</div>
+</section><section id="transcribir-herramientas" class="slide level2">
+<h1>Transcribir: herramientas</h1>
+<div id="column2" style="float:left; margin:0; width:50%;">
+<figure>
+<img src="imagenes-cuali/Grabadora.jpg" />
+</figure>
+</div>
+<div id="column1" style="float:left; margin:0; width:50%;">
+<figure>
+<img src="imagenes-cuali/Pedal.jpg" />
+</figure>
+</div>
+<p><strong>Software</strong></p>
+<p>Soundscriber: <a href="http://www-personal.umich.edu/~ebreck/sscriber.html" class="uri">http://www-personal.umich.edu/~ebreck/sscriber.html</a></p>
+<p>F4: <a href="http://www.audiotranskription.de/english" class="uri">http://www.audiotranskription.de/english</a></p>
+<!--
+##Transcribir: Software
+
+![Soundscriber: http://www-personal.umich.edu/~ebreck/sscriber.html](imagenes-cuali/Soundscriber.png)
+
+![F4: http://www.audiotranskription.de/english](imagenes-cuali/F4.png)
+
+`http://juan.psicologiasocial.eu/texto-adudio-f4/` {.figcaption}
+ -->
+</section><section id="pero..." class="slide level2">
+<h1>Pero...</h1>
+<iframe width="800" height="600" data-src="http://research.baidu.com/introducing-swiftscribe-breakthrough-ai-powered-transcription-software/">
+</iframe>
+</section><section id="convenciones" class="slide level2">
+<h1>Convenciones</h1>
+<blockquote>
+<p>En una conversación lo más significativo es lo que no se dice entre lo que se está diciendo, como por ejemplo las pausas y silencios, las entonaciones y los gestos, porque ahí radican los dobles significados, los ánimos y el objetivo mismo de la comunicación.<br />
+<span class="citation" data-cites="fernandez_christlieb_espiritu_2004">Fernández Christlieb (2004, p. 46)</span></p>
+</blockquote>
+</section><section id="convenciones-jeffersonianas" class="slide level2">
+<h1>Convenciones &quot;jeffersonianas&quot;</h1>
+<figure>
+<img src="imagenes-cuali/Transcripcion.jpg" />
+</figure>
+<p><span class="citation" data-cites="lerner_glossary_2004">Jefferson (2004, p. 15)</span></p>
+<!--
+##Ejercicio: transcripción con convenciones
+-->
+</section><section id="gestión-de-los-datos" class="slide level2">
+<h1>Gestión de los datos</h1>
+<blockquote>
+<p>La inadecuada documentación y monitorización de las actividades relacionadas con los datos pueden amenazar su integridad. Además, las prácticas inadecuadas de seguimiento pueden dificultar el análisis y aumentar la probabilidad de un pandemónium de investigación.<br />
+<span class="citation" data-cites="mclellan_beyond_2003">McLellan et al. (2003, p. 69)</span></p>
+</blockquote>
+<p>Ver: <a href="http://www.data-archive.ac.uk/create-manage">UK · Data Archive: Create &amp; Manage Data</a><br />
+<code class="figcaption">http://www.data-archive.ac.uk/create-manage</code></p>
+</section><section id="gestión-de-los-datos-1" class="slide level2">
+<h1>Gestión de los datos</h1>
+<blockquote>
+<p>Una buena gestión de los datos es la base para una buena investigación. Si los datos están debidamente organizados, preservados y bien documentados, y su exactitud, vigencia e integridad es controlada en todo momento, el resultado es de datos de alta calidad, investigación eficiente, resultados basados en pruebas sólidas y ahorro de tiempo y recursos. (...) La gestión de datos debe planificarse desde el inicio de la investigación. Si se convierte en parte de la práctica de investigación estándar, entonces no implicará necesariamente mucho tiempo ni costos adicionales.<br />
+<span class="citation" data-cites="uk_data_archive_managing_2009">Archive (2009, p. 2)</span></p>
+</blockquote>
+</section><section id="control-de-versiones" class="slide level2">
+<h1>Control de versiones</h1>
+<figure>
+<img src="imagenes-cuali/VersionControlTable.jpg" alt="https://www.ukdataservice.ac.uk/manage-data/format/versioning" /><figcaption>https://www.ukdataservice.ac.uk/manage-data/format/versioning</figcaption>
+</figure>
+</section><section id="ejercicio-gestión-de-datos" class="slide level2">
+<h1>Ejercicio: gestión de datos</h1>
+<figure>
+<img src="img/working-03.png" class="noshadow" />
+</figure>
+<ul>
+<li class="fragment">Formato documentos</li>
+<li class="fragment">Etiquetado archivos</li>
+<li class="fragment">Sistema de control</li>
+</ul>
+</section><section id="y-luego..." class="slide level2">
+<h1>Y luego...</h1>
+<div class="fragment">
+<figure>
+<img src="imagenes-cuali/reader-4.png" alt="para después..." class="noshadow" /><figcaption>para después...</figcaption>
+</figure>
+</div>
+<div class="fragment">
+<figure>
+<img src="imagenes-cuali/readers.jpg" class="noshadow" />
+</figure>
+</div>
+</section></section>
+<section><section id="proyecto" class="titleslide slide level1 center" data-background="imagenes-cuali/escriba.jpg" data-background-transition="zoom" data-state="opacidad"><h1>Proyecto</h1></section><section id="añadir-documentos" class="slide level2">
+<h1>Añadir documentos</h1>
+<!--
+ ![](imagenes/atlas-8/MenuAddDocuments.png)
+
+ . . .
+ -->
+<figure>
+<img src="img/working-03.png" class="noshadow" />
+</figure>
+<p>Desde la carpeta &quot;ControlParlamentario&quot;</p>
+<p><code class="fondonegro">File &gt; Add Documents &gt; Add File(s) &gt; *.rtf</code></p>
+<!--
+## Pantalla principal con documentos
+
+ ![](imagenes/atlas-8/PantallaPrincipal-ConDocumento.png)
+
+## Gestor de documentos
+
+ ![](imagenes/atlas-8/DocumentManager-00.png)
+
+ ## Comentarios de documentos
+
+ ![](imagenes/atlas-8/DocumentManager-01.png)
+
+ -->
+</section><section id="ejercicio-comentarios-de-documentos" class="slide level2">
+<h1>Ejercicio: Comentarios de documentos</h1>
+<figure>
+<img src="img/working-03.png" class="noshadow" />
+</figure>
+<ul>
+<li class="fragment">Abrir el gestor de documentos</li>
+<li class="fragment">Crear comentarios de documentos
+<ul>
+<li class="fragment">Desde el gestor</li>
+<li class="fragment">Con el editor de comentarios</li>
+</ul></li>
+</ul>
+</section></section>
+<section><section id="memoing" class="titleslide slide level1 center" data-background="imagenes-cuali/Memoing-01.jpg" data-background-transition="zoom" data-state="opacidad"><h1>Memoing</h1></section><section id="memoing-1" class="slide level2">
+<h1>Memoing</h1>
+<blockquote>
+<p>Mediante el uso de memorandos, el investigador es capaz de sumergirse en los datos, explorar los significados que estos datos tienen, mantener la continuidad y mantener el impulso en la realización de la investigación. Como crónica de un viaje de investigación, los memorandos permanecen como un registro, indeleble pero flexible, para retención personal o para difundir a otros.<br />
+<span class="citation" data-cites="birks_memoing_2008">Birks, Chapman, &amp; Francis (2008, p. 69)</span></p>
+</blockquote>
+</section><section id="memoing-2" class="slide level2">
+<h1>Memoing</h1>
+<blockquote>
+<p>Vemos la toma de notas como crucial para todos los tipos y enfoques de análisis. Otras funciones, como la codificación, la búsqueda de texto, la codificación automática y la modelización pueden ser utilizadas por enfoques concretos, pero la anotación de los datos, documentos y material de apoyo es indivisible del análisis general.<br />
+<span class="citation" data-cites="lewins_using_2007">Lewins &amp; Silver (2007, p. 59)</span></p>
+</blockquote>
+</section><section id="memoing-reflexionar-sobre..." class="slide level2 peque">
+<h1>Memoing = Reflexionar sobre...</h1>
+<ul>
+<li class="fragment">Relación con participantes y/o fenómeno</li>
+<li class="fragment">Preguntas de investigación</li>
+<li class="fragment">Elección de códigos y sus definiciones</li>
+<li class="fragment">Categorías, temas y conceptos emergentes</li>
+<li class="fragment">Posibles conexiones entre elementos</li>
+<li class="fragment">Teoría emergente</li>
+<li class="fragment">Problemas de cualquier tipo de nuestra investigación</li>
+<li class="fragment">Problemas o dilemas éticos</li>
+<li class="fragment">Informe final</li>
+</ul>
+<div class="fragment">
+<p><span class="citation" data-cites="saldana_coding_2009">Saldaña (2009, pp. 34–40)</span></p>
+<!--
+## Crear Memos
+
+<div style="position:relative; width:789px; height:512px; margin:0 auto;">
+  <img class="fragment fade-out" data-fragment-index="0"  src="imagenes/atlas-8/MemoManager-00.png" style="position:absolute;top:0;left:0;" />
+  <img class="fragment fade-in" data-fragment-index="0" src="imagenes/atlas-8/MemoCreate.png" style="position:absolute;top:0;left:0;" />
+</div>
+ -->
+<!--
+## Gestor de memos {data-transition="fade-in none-out"}
+
+![](imagenes/atlas-8/MemoManager-00.png)
+
+## Crear memos {data-transition="none-in fade-out"}
+
+![](imagenes/atlas-8/MemoCreate.png)
+ -->
+</div>
+</section><section id="ejercicio-memos-anotaciones" class="slide level2">
+<h1>Ejercicio memos-anotaciones</h1>
+<figure>
+<img src="img/working-03.png" class="noshadow" />
+</figure>
+<ul>
+<li>Crear una memo
+<ul>
+<li>Etiquetarla como &quot;Proceso&quot;</li>
+<li>Describir los pasos dados hasta el momento</li>
+<li>Guardar</li>
+</ul></li>
+<li>Crear una memo &quot;Objetivos&quot;</li>
+</ul>
+<!--
+##Ejercicio memos: insertar PDF
+
+![](img/working-03.png){.noshadow}
+
+>* Crear memo: Reglamento
+>     * Insertar PDF desde carpeta "Documentos"
+* Crear memo: Participantes
+>      * Insertar PDF desde carpeta "Documentos"
+* Guardar UH
+ -->
+</section></section>
+<section><section id="segmentar-y-codificar" class="titleslide slide level1 center" data-background="imagenes-cuali/Coding.jpg" data-background-transition="zoom" data-state="opacidad"><h1>Segmentar y codificar</h1></section><section id="reducción" class="slide level2">
+<h1>Reducción</h1>
+<blockquote>
+<p>[...] el reto es dar sentido a una cantidad masiva de datos, reducir el volumen de información, identificar pautas significativas, y construir un marco para comunicar la esencia de lo que revelan los datos.<br />
+<span class="citation" data-cites="patton_qualitative_1990">Patton (1990, pp. 371–372)</span></p>
+</blockquote>
+<div class="fragment">
+<figure>
+<img src="imagenes-cuali/Reduccion.png" class="noshadow" />
+</figure>
+</div>
+</section><section id="codificación" class="slide level2">
+<h1>Codificación</h1>
+<blockquote>
+<p>La indexación (o codificación) es la actividad en la que el investigador aplica significado a los datos en bruto mediante la asignación de palabras clave o frases. Estas palabras clave actúan como indicadores de temas en los datos. La indexación es una actividad por la que los datos se descomponen, conceptualizan y posteriormente son reformulados.<br />
+<span class="citation" data-cites="bloor_keywords_2006">Bloor &amp; Wood (2006, p. 201)</span></p>
+</blockquote>
+<!--
+##Codificación
+
+>Coding proceeds by means of the tentative development and labelling of concepts in the text that the researcher considers to be of potential relevance to the problem being studied.\
+Pidgeon & Henwood, 1996, p. 92
+
+-->
+</section><section id="estrategias-de-codificación" class="slide level2">
+<h1>Estrategias de codificación</h1>
+<figure>
+<img src="imagenes/atlas-8/EstrategiaCodificacion.png" />
+</figure>
+<!--
+## Codificación Top-Down: Códigos libres
+
+![](imagenes/atlas-8/NewEntities.png)
+
+. . .
+
+![](imagenes/atlas-8/CreateCodes.png)
+ -->
+<!--
+##Codificación deductiva
+
+>* Q Y/N
+* Q Why
+* Q Disjunctive
+* A Direct
+* A Indirect
+* A Intermediate
+* Ev Full
+* Ev Substantial
+* Ev Medium
+* Ev Subtle
+
+@rasiah_framework_2010
+ -->
+<!--
+##Comentarios de códigos
+
+Código
+: MARGPROB
+
+Definición breve
+: Problemas propios de comunidades marginales
+
+Definición completa
+: Situaciones sociales que son vividas exclusivamente por aquellas personas que llevan un estilo de vida marginal, con carencia fundamentalmente de bienes y servicios que sí están presentes en personas con nivel socioeconómico medio
+
+##
+
+Cuándo se usa
+: Cuando las personas señalan alguna dificultad que denote un problema social instrumental, como falta de alimento, abrigo, techo, salud, servicios sanitarios. Debe tener carácter grave o impedir el desarrollo adecuado de su vida familiar, social o laboral.
+
+Cuándo no se usa
+: No se aplica a problemas propios de una conducta condicionada por cultura marginal, como violencia doméstica, alcoholismo, abandono de hogar, delincuencia, prostitución
+
+Ejemplo
+:  “Como aquí no hay agua ni alcantarillado, la suciedad que hay aquí en las calles es terrible, ahí se puede ver... ¿se fija?, los niños se enferman a cada rato.”
+
+@macqueen_codebook_1998
+-->
+</section><section id="comentarios-de-códigos" class="slide level2 peque">
+<h1>Comentarios de códigos</h1>
+<table>
+<colgroup>
+<col style="width: 7%" />
+<col style="width: 92%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Código</th>
+<th style="text-align: left;">MARGPROB</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Definición breve</td>
+<td style="text-align: left;">Problemas propios de comunidades marginales</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Definición completa</td>
+<td style="text-align: left;">Situaciones sociales que son vividas exclusivamente por aquellas personas que llevan un estilo de vida marginal, con carencia fundamentalmente de bienes y servicios que sí están presentes en personas con nivel socioeconómico medio.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Cuándo se usa</td>
+<td style="text-align: left;">Cuando las personas señalan alguna dificultad que denote un problema social instrumental, como falta de alimento, abrigo, techo, salud, servicios sanitarios. Debe tener carácter grave o impedir el desarrollo adecuado de su vida familiar, social o laboral.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Cuándo no se usa</td>
+<td style="text-align: left;">No se aplica a problemas propios de una conducta condicionada por cultura marginal, como violencia doméstica, alcoholismo, abandono de hogar, delincuencia, prostitución</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Ejemplo</td>
+<td style="text-align: left;">“Como aquí no hay agua ni alcantarillado, la suciedad que hay aquí en las calles es terrible, ahí se puede ver... ¿se fija?, los niños se enferman a cada rato.”</td>
+</tr>
+</tbody>
+</table>
+<p><span class="citation" data-cites="macqueen_codebook_1998">MacQueen, McLellan, &amp; Milstein (1998)</span></p>
+</section><section id="comentarios-de-códigos-1" class="slide level2">
+<h1>Comentarios de códigos</h1>
+<figure>
+<img src="img/working-03.png" class="noshadow" />
+</figure>
+<ul>
+<li>Crear comentarios de códigos</li>
+</ul>
+<p>Ver:</p>
+<p><span class="citation" data-cites="macqueen_codebook_1998">MacQueen et al. (1998)</span></p>
+<!--
+## Codificación Bottom-Up: Citas libres
+
+![](imagenes/atlas-8/FreeQuotation-00.png){.border}
+
+. . .
+
+![](imagenes/atlas-8/FreeQuotation-01.png){.border}
+
+<!--
+##
+![](imagenes/atlas-8/FreeQuotation-02.png)
+-->
+<!--
+## Explorar Citas
+
+![](imagenes/atlas-8/QuotationManager-00.png)
+-->
+<!--
+## Codificación "mixta"
+
+![](imagenes/atlas-8/FreeQuotation-00a.png)
+ -->
+</section><section id="literatura-definicional" class="slide level2">
+<h1>Literatura definicional</h1>
+<div id="column1" style="float:left; margin:0;">
+<figure>
+<img src="imagenes-cuali/Gato-1.jpg" class="border" />
+</figure>
+</div>
+<div class="fragment">
+<div id="column1" style="float:left; margin:0;">
+<figure>
+<img src="imagenes-cuali/Gato-2.jpg" class="border" />
+</figure>
+</div>
+</div>
+<div class="fragment">
+<div id="column1" style="float:left; margin:0;">
+<figure>
+<img src="imagenes-cuali/Gato-3.jpg" class="border" />
+</figure>
+</div>
+</div>
+</section><section id="ejercicio-segmentación-codificación" class="slide level2">
+<h1>Ejercicio: Segmentación / Codificación</h1>
+<figure>
+<img src="img/working-03.png" class="noshadow" />
+</figure>
+<ul>
+<li>Crear citas libres</li>
+<li>Crear códigos libres</li>
+<li>Utilizar otras opciones de codificación</li>
+</ul>
+<!--
+##Gestor de códigos
+
+![](imagenes/atlas-8/CodeManager-02.png)
+ -->
+</section><section id="comparación-constante" class="slide level2">
+<h1>Comparación constante</h1>
+<figure>
+<img src="imagenes-cuali/comparacion-constante.png" class="noshadow" />
+</figure>
+<!--
+## Visualización: Informes
+
+![](imagenes/atlas-8/CodeManager-Menu-Report.png)
+
+. . .
+
+![](imagenes/atlas-8/CodesReport.png)
+ -->
+<!--
+##Literatura definicional
+
+| Origen           | El gato ha bebido la leche                                                                                                                                                                                                                                                                                                                 |
+|:-----------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Transformación 1 | El mamífero carnívoro digitígrado doméstico<br>ha tragado un líquido blanco, de sabor dulce producido<br>por las hembras de los mamíferos.                                                                                                                                                                                                 |
+| Transformación 2 | Quien tiene tetas, come carne, camina sobre<br>la extremidad de sus dedos y pertenece a la casa<br>ha hecho descender por el gaznate al estómago<br>un estado de la materia sin forma propia,<br>del color de la leche, de impresión<br>agradable al órgano del gusto y procurado por<br>los animales de sexo femenino que tienen tetas. | |
+
+-->
+<!--
+##Otra crítica
+
+>The ease with which CAQDAS permits multiple codiﬁcation can rapidly entice the user into exploring and creating masses of nodes (code themes) and being further tempted to codify each segment into many nodes. Researchers need to exhibit both restraint and ingenuity when coding within a CAQDAS context, as the time constraints do not permit the luxury of exploring all possible avenues of thought that the user discerns.\
+@blismas_computer-aided_2003
+ -->
+<!--
+##Ejercicio: Codificación
+Por grupos, categorizar el aula
+
+* Identificar y etiquetar elementos
+* Agrupar elementos por categorías
+* Comparar con otros grupos
+ -->
+<!--
+##Categorización
+>Los animales se clasifican en a) pertenecientes al emperador, b) embalsamados, c) amaestrados, d) lechones, e) sirenas, f) fabulosos, g) perros sueltos, h) incluidos en esta clasificación, i) que se agitan como locos, j) innumerables, k) dibujados con un pincel finísimo de pelo de camello, l) etcétera, m) que acaban de romper el jarrón, n) que de lejos parecen moscas.
+
+`J.L.Borges (1952). El idioma analítico de John Wilkins.` {.figcaption}
+-->
+</section></section>
+<section><section id="transportar-uh" class="titleslide slide level1 center" data-background="imagenes/luggage.png"><h1>&quot;Transportar&quot; UH</h1></section><section id="ejercicio-crearabrir-copia" class="slide level2">
+<h1>Ejercicio: Crear/abrir copia</h1>
+<figure>
+<img src="img/working-03.png" class="noshadow" />
+</figure>
+<ul>
+<li>Crear una copia de la UH</li>
+<li>Importat la copia (de un/a compañero/a)</li>
+</ul>
+</section></section>
+<section><section id="estructurar" class="titleslide slide level1 center" data-state="opacidad" data-background="imagenes-cuali/hanging-files.jpg" data-background-transition="zoom"><h1>Estructurar</h1></section><section id="autocodificación" class="slide level2">
+<h1>Autocodificación</h1>
+<!--
+Volver a informes. Queremos obtener informes de...
+(cuidado si antes se han visto las agrupaciones de códigos)
+
+![](imagenes/atlas-8/Autocoding-00.png)
+-->
+</section><section id="ejercicio-autocodificación" class="slide level2">
+<h1>Ejercicio autocodificación</h1>
+<figure>
+<img src="img/working-03.png" class="noshadow" />
+</figure>
+<ul>
+<li>Autocodificar participantes
+<ul>
+<li>Autocodificar Rajoy-LO (líder de la oposición)</li>
+<li>Autocodificar Rajoy-PR (presidente)</li>
+</ul></li>
+</ul>
+</section><section id="agrupar" class="slide level2">
+<h1>Agrupar</h1>
+<figure>
+<img src="imagenes/atlas-8/Grupos.png" alt="Tipos de Grupos" /><figcaption>Tipos de Grupos</figcaption>
+</figure>
+</section><section id="ejercicio-grupos-de-documentos" class="slide level2">
+<h1>Ejercicio: Grupos de documentos</h1>
+<figure>
+<img src="img/working-03.png" class="noshadow" />
+</figure>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Grupo</th>
+<th style="text-align: left;">Contenido</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Congreso</td>
+<td style="text-align: left;">Control-Congreso</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Senado</td>
+<td style="text-align: left;">Control-Senado</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">IX LEG.</td>
+<td style="text-align: left;">-2011</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">X LEG.</td>
+<td style="text-align: left;">-2012</td>
+</tr>
+</tbody>
+</table>
+</section><section id="grupos-inteligentes" class="slide level2">
+<h1>Grupos &quot;inteligentes&quot;</h1>
+<figure>
+<img src="img/working-03.png" class="noshadow" />
+</figure>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;"></th>
+<th style="text-align: center;">CONGRESO</th>
+<th style="text-align: center;">SENADO</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">IX LEG.</td>
+<td style="text-align: center;">Control-Congreso-2011</td>
+<td style="text-align: center;">Control-Senado-2011</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">X LEG.</td>
+<td style="text-align: center;">Control-Congreso-2012</td>
+<td style="text-align: center;">Control-Senado-2012</td>
+</tr>
+</tbody>
+</table>
+</section><section id="literatura-definicional-1" class="slide level2">
+<h1>Literatura definicional</h1>
+<div id="column1" style="float:left; margin:0;">
+<figure>
+<img src="imagenes-cuali/Gato-1.jpg" class="border" />
+</figure>
+</div>
+<div id="column1" style="float:left; margin:0;">
+<figure>
+<img src="imagenes-cuali/Gato-2.jpg" class="border" />
+</figure>
+</div>
+<div id="column1" style="float:left; margin:0;">
+<figure>
+<img src="imagenes-cuali/Gato-3.jpg" class="border" />
+</figure>
+</div>
+</section><section id="section-1" class="slide level2">
+<h1></h1>
+<figure>
+<img src="imagenes-cuali/DatoATeoria.jpg" alt="Adaptado de Saldaña, 2009, p. 12" /><figcaption>Adaptado de Saldaña, 2009, p. 12</figcaption>
+</figure>
+</section><section id="ejemplo-códigos-categorías-temas" class="slide level2">
+<h1>Ejemplo: códigos-categorías-temas</h1>
+<p><img src="imagenes-cuali/Graneheim-Lundaman-Figura1-es.png" /> <span class="citation" data-cites="graneheim_qualitative_2004">Graneheim &amp; Lundman (2004, p. 108)</span><br />
+<code class="figcaption">Narrativas sobre hipoglucemia</code></p>
+<!--
+## Gestor de grupos de códigos
+ ![](imagenes/atlas-8/CodeGroupManager-00.png)
+
+## Grupos de códigos
+ ![](imagenes/atlas-8/CodeGroupManager-01.png)
+
+
+## Grupos "inteligentes"
+
+ ![](imagenes/atlas-8/CodeGroupManager-Menu.png)
+
+## Editar grupos "inteligentes"
+
+ ![](imagenes/atlas-8/Code-SmartGroup-02.png)
+ -->
+</section><section id="agrupación-de-códigos" class="slide level2">
+<h1>Agrupación de códigos</h1>
+<figure>
+<img src="img/working-03.png" class="noshadow" />
+</figure>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;"></th>
+<th style="text-align: center;">NACIONALES</th>
+<th style="text-align: center;">AUTONÓMICOS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">IZQUIERDA</td>
+<td style="text-align: center;">IU<br>PCE<br>PSOE</td>
+<td style="text-align: center;">Amaiur<br>BNG<br>ERC<br>ICV PSC</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">DERECHA</td>
+<td style="text-align: center;">PP<br>UPD</td>
+<td style="text-align: center;">CC<br>CiU<br>PNV</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>Crear grupos de códigos</li>
+<li>Crear &quot;grupos &quot;inteligentes&quot;</li>
+</ul>
+<!--
+
+##Más codificación estructural
+
+>* Codificar:
+>     * Pregunta
+* Respuesta
+* Réplica
+* Contrarréplica
+-->
+<!--
+##Temas
+> Un tema capta algo importante sobre los datos en relación con la pregunta de investigación, y representa un cierto nivel de pauta de respuesta o significado en el conjunto de los datos.\
+@braun_using_2006 [p. 82]
+-->
+</section></section>
+<section><section id="relaciones" class="titleslide slide level1 center" data-background="imagenes-cuali/network.jpg" data-background-transition="zoom" data-state="opacidad"><h1>Relaciones</h1></section><section id="tipos-de-relaciones" class="slide level2">
+<h1>Tipos de Relaciones</h1>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;"></th>
+<th style="text-align: left;">CITAS</th>
+<th style="text-align: left;">CÓDIGOS</th>
+<th style="text-align: left;">MEMOS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">CITAS</td>
+<td style="text-align: left;">Hypervínculo</td>
+<td style="text-align: left;">Codificación</td>
+<td style="text-align: left;">Relación</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">CÓDIGOS</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Relación</td>
+<td style="text-align: left;">Relación</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">MEMOS</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Relación</td>
+</tr>
+</tbody>
+</table>
+<div class="fragment">
+<figure>
+<img src="imagenes/atlas-8/TiposRelaciones.png" />
+</figure>
+<!--
+##Jerarquías de códigos
+
+![](imagenes-cuali/JerarquiasCodigos.png)
+-->
+</div>
+</section><section id="relaciones-entre-códigos" class="slide level2">
+<h1>Relaciones entre códigos</h1>
+<figure>
+<img src="imagenes-cuali/RedQuestyonType.png" />
+</figure>
+</section></section>
+<section><section id="vistas-de-red" class="titleslide slide level1 center" data-background="imagenes-cuali/neurons.jpg" data-background-transition="zoom" data-state="opacidad"><h1>Vistas de red</h1></section><section id="section-2" class="slide level2">
+<h1></h1>
+<blockquote>
+<p>Aplicar redes temáticas es simplemente una forma de organizar un análisis temático de datos cualitativos. Los análisis temáticos intentan descubrir los temas más destacados en un texto a diferentes niveles, y las redes temáticas tienen como objetivo facilitar la estructuración y representación de esos temas.<br />
+<span class="citation" data-cites="attride-stirling_thematic_2001">Attride-Stirling (2001, p. 387)</span></p>
+</blockquote>
+</section><section id="redes-temáticas" class="slide level2">
+<h1>Redes temáticas</h1>
+<figure>
+<img src="imagenes-cuali/RedesTematicas.jpg" alt="Attride-Stirling, 2001. p. 388" /><figcaption>Attride-Stirling, 2001. p. 388</figcaption>
+</figure>
+<!--
+##Editar Relaciones
+
+![](imagenes-cuali/EditorRelaciones.png)
+ -->
+</section></section>
+<section><section id="herramientas-de-consulta" class="titleslide slide level1 center" data-background="imagenes-cuali/query.jpg" data-background-transition="zoom" data-state="opacidad"><h1>Herramientas de consulta</h1></section><section id="buscar-texto" class="slide level2">
+<h1>Buscar texto</h1>
+<!--
+![](imagenes-cuali/Buscar-01.png)
+ -->
+<dl>
+<dt class="fragment">Conjunto de términos</dt>
+<dd class="fragment"><code>Jorquera|Pérez-Bouza</code>
+</dd>
+<dt class="fragment">Categoría</dt>
+<dd class="fragment"><code>BNG:=Jorquera|Pérez-Bouza</code>
+</dd>
+<dt class="fragment">Múltiples categorías</dt>
+<dd class="fragment"><code>AUTONOMICO:= $AMAIUR|$BNG|$CC|$CiU</code>
+</dd>
+</dl>
+</section><section id="grep" class="slide level2">
+<h1>GREP</h1>
+<table>
+<colgroup>
+<col style="width: 14%" />
+<col style="width: 85%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: center;">Operador</th>
+<th style="text-align: left;">Función</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">^<em>término</em></td>
+<td style="text-align: left;">Limita la expresión de búsqueda que sigue al marcador al principio de la línea</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><em>término</em>$</td>
+<td style="text-align: left;">Limita la expresión de búsqueda precedente al final de la línea</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">&lt;<em>término</em></td>
+<td style="text-align: left;">Limita la expresión de búsqueda siguiente al inicio de una palabra</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><em>término</em>&gt;</td>
+<td style="text-align: left;">Limita la expresión de búsqueda precedente al inicio de una palabra</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">\B</td>
+<td style="text-align: left;">Limita la expresión de búsqueda siguiente a NO incio de palabra</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">.</td>
+<td style="text-align: left;">Localiza cualquier carácter</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">\w</td>
+<td style="text-align: left;">Localiza cualquier carácter alfanumérico</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">*</td>
+<td style="text-align: left;">Localiza cualquier cantidad (o su ausencia) de la expresión precedente</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">+</td>
+<td style="text-align: left;">Localiza al menos una ocurrencia de la expresión precedente</td>
+</tr>
+</tbody>
+</table>
+<!--
+
+##Consultas
+
+<div id="column1" style="float:left; margin:0; width:65%;">
+![Herramienta de consulta](imagenes-cuali/HerramientaConsulta.png)
+</div>
+
+<div id="column1" style="float:left; margin:0; width:35%;">
+
+``` {.peque .left}
+1.- Códigos-Familias de Códigos
+2.- Condiciones (Operandos)
+3/4.- Expresiones formuladas
+5.- Resultados
+6.- Distancia máxima
+7.- Selección de doumentos
+8.- Crear super-código
+9.- Borrar / Imprimir
+10.- Edición expresiones
+```
+</div>
+ -->
+</section><section id="consultas-operadores-booleanos" class="slide level2">
+<h1>Consultas: Operadores Booleanos</h1>
+<figure>
+<img src="imagenes-cuali/OperadoresBooleanos.jpg" />
+</figure>
+</section><section id="construcción-de-una-consulta" class="slide level2">
+<h1>Construcción de una consulta</h1>
+<p>&quot;Todas las citas codificadas como 'Evasión', realizadas por Rajoy o por Zapatero&quot;</p>
+<figure>
+<img src="imagenes-cuali/VennEvasion.jpg" />
+</figure>
+<div class="fragment">
+<figure>
+<img src="imagenes-cuali/EscrituraQuery-1.jpg" />
+</figure>
+</div>
+</section><section id="operadores-booleanos" class="slide level2">
+<h1>Operadores Booleanos</h1>
+<figure>
+<img src="imagenes-cuali/VennBooleanos.png" />
+</figure>
+</section><section id="operadores-semánticos" class="slide level2">
+<h1>Operadores Semánticos</h1>
+<figure>
+<img src="imagenes-cuali/OperadoresSemanticos.jpg" />
+</figure>
+</section><section id="section-3" class="slide level2">
+<h1></h1>
+<figure>
+<img src="imagenes-cuali/EscrituraQuery-2.jpg" />
+</figure>
+</section><section id="operadores-de-proximidad" class="slide level2">
+<h1>Operadores de Proximidad</h1>
+<figure>
+<img src="imagenes-cuali/OperadoresProximidad-1.jpg" />
+</figure>
+</section><section id="section-4" class="slide level2">
+<h1></h1>
+<figure>
+<img src="imagenes-cuali/Proximidad.jpg" />
+</figure>
+<!--
+##Consultas: Alcance
+
+![](imagenes-cuali/ConsultasAlcance.png)
+ -->
+<!--
+##Concurrencias
+
+![](imagenes-cuali/TablaCoocurrencias.png)
+-->
+</section></section>
+<section><section id="otras-herramientas" class="titleslide slide level1"><h1>Otras herramientas</h1></section><section id="copiarrestaurar-uh" class="slide level2">
+<h1>Copiar/Restaurar UH</h1>
+</section><section id="unir-uhs" class="slide level2">
+<h1>Unir UHs</h1>
+<figure>
+<img src="imagenes-cuali/UH-Fusionar-2.png" />
+</figure>
+</section></section>
+<section><section id="referencias" class="titleslide slide level1 center" data-background="imagenes-cuali/books.jpg" data-background-transition="zoom" data-state="opacidad"><h1>Referencias</h1></section><section id="section-5" class="slide level2 scrollable peque">
+<h1></h1>
+<!--
+
+# Organización Datos {.center data-state=opacidad data-background="imagenes-cuali/hanging-files.jpg" data-background-transition=zoom }
+
+##Agregar datos
+
+![](imagenes-cuali/EstrategiaAsignacion.png){.noshadow}
+
+. . .
+
+```
+1. Documentos > Nuevo > Agregar documentos (a biblioteca)
+2. Documentos > Nuevo > Asignar documentos externos
+```
+
+##Ejercicio: Agregar datos
+
+![](img/working-03.png){.noshadow}
+
+Desde la carpeta "ControlParlamentario"
+
+>* Agregar a biblioteca
+>* Asignar documentos externos
+
+##"Transportar" UH
+
+<div id="column1" style="float:left; margin:0; width:35%;">
+![](imagenes-cuali/EstrategiaAsignacion-1.png){.noshadow}
+
+</div>
+
+<div id="column1" style="float:left; margin:0; width:65%;">
+
+Copiar y restaurar
+
+```
+Proyecto > Guardar paquete de copia
+```
+
+```
+Proyecto > Desempaquetar la copia
+```
+
+O
+```
+Documentos > Administrador de fuente de datos
+   * Abrir Administrador de biblioteca
+       * Fuentes de datos > Exportar
+   * Exportar documentos seleccionados   
+```
+
+</div>
+
+. . .
+
+<hr />
+
+<div id="column1" style="float:left; margin:0; width:35%;">
+![](imagenes-cuali/EstrategiaAsignacion-2.png){.noshadow}
+
+</div>
+
+Copiar carpeta donde estén UH y documentos
+
+
+
+
+#Informes {.center data-background="imagenes-cuali/reports.jpg" data-background-transition=zoom data-state=opacidad}
+
+##Menús informes
+
+ `Componentes con opciones de impresión`{.figcaption}
+
+ ![](imagenes-cuali/imprimir.png)
+
+ . . .
+
+ `Destino del informe`{.figcaption}
+
+ ![](imagenes-cuali/informes-opciones.png)
+
+##Ejercicio: Informes
+
+![](img/working-03.png){.noshadow}
+
+>* Explorar diferentes tipos de informes: Documentos, Códigos, Memos...
+-->
+<div id="refs" class="references">
+<div id="ref-uk_data_archive_managing_2009">
+<p>Archive, U. D. (2009). <em>Managing and sharing data : a best practice guide for researchers.</em> (2ª ed.). Colchester: UK Data Archive.</p>
+</div>
+<div id="ref-attride-stirling_thematic_2001">
+<p>Attride-Stirling, J. (2001). Thematic networks: An analytic tool for qualitative research. <em>Qualitative Research</em>, <em>1</em>(3), 385–405. <a href="http://doi.org/10.1177/146879410100100307" class="uri">http://doi.org/10.1177/146879410100100307</a></p>
+</div>
+<div id="ref-birks_memoing_2008">
+<p>Birks, M., Chapman, Y., &amp; Francis, K. (2008). Memoing in qualitative research: Probing data and processes. <em>Journal of Research in Nursing</em>, <em>13</em>(1), 68–75. <a href="http://doi.org/10.1177/1744987107081254" class="uri">http://doi.org/10.1177/1744987107081254</a></p>
+</div>
+<div id="ref-bloor_keywords_2006">
+<p>Bloor, M., &amp; Wood, F. (2006). <em>Keywords in qualitative methods : a vocabulary of research concepts</em>. London: Sage Publications.</p>
+</div>
+<div id="ref-braun_using_2006">
+<p>Braun, V., &amp; Clarke, V. (2006). Using thematic analysis in psychology. <em>Qualitative Research in Psychology</em>, <em>3</em>(2), 77–101. <a href="http://doi.org/10.1191/1478088706qp063oa" class="uri">http://doi.org/10.1191/1478088706qp063oa</a></p>
+</div>
+<div id="ref-fernandez_christlieb_espiritu_2004">
+<p>Fernández Christlieb, P. (2004). <em>El espíritu de la calle. Psicología política de la cultura cotidiana</em>. Barcelona: Anthropos.</p>
+</div>
+<div id="ref-graneheim_qualitative_2004">
+<p>Graneheim, U., &amp; Lundman, B. (2004). Qualitative content analysis in nursing research: concepts, procedures and measures to achieve trustworthiness. <em>Nurse Education Today</em>, <em>24</em>(2), 105–112. <a href="http://doi.org/10.1016/j.nedt.2003.10.001" class="uri">http://doi.org/10.1016/j.nedt.2003.10.001</a></p>
+</div>
+<div id="ref-lerner_glossary_2004">
+<p>Jefferson, G. (2004). Glossary of transcript symbols with an introduction. In G. H. Lerner (Ed.), <em>Conversation analysis: studies from the first generation</em> (pp. 13–31). Philadelphia: John Benjamins Pub.</p>
+</div>
+<div id="ref-lewins_using_2007">
+<p>Lewins, A., &amp; Silver, C. (2007). <em>Using Software in Qualitative Reseach. A Step-By-step Guide</em>. London: Sage.</p>
+</div>
+<div id="ref-macqueen_codebook_1998">
+<p>MacQueen, K. M., McLellan, E., &amp; Milstein, B. (1998). Codebook development for team-based qualitative analysis. <em>Cultural Anthropology Methods</em>, <em>10</em>(2), 31–36. <a href="http://doi.org/10.1177/1525822x980100020301" class="uri">http://doi.org/10.1177/1525822x980100020301</a></p>
+</div>
+<div id="ref-mclellan_beyond_2003">
+<p>McLellan, E., MacQueen, K. M., &amp; Neidig, J. L. (2003). Beyond the Qualitative Interview: Data Preparation and Transcription. <em>Field Methods</em>, <em>15</em>(1), 63–84. <a href="http://doi.org/10.1177/1525822X02239573" class="uri">http://doi.org/10.1177/1525822X02239573</a></p>
+</div>
+<div id="ref-patton_qualitative_1990">
+<p>Patton, M. Q. (1990). <em>Qualitative Evaluation and Research Methods</em> (Second Edition). London: Sage Publications.</p>
+</div>
+<div id="ref-roberts_ict_2002">
+<p>Roberts, K. A., &amp; Wilson, R. W. (2002). ICT and the Research Process: Issues Around the Compatibility of Technology with Qualitative Data Analysis. <em>Forum Qualitative Sozialforschung / Forum: Qualitative Social Research</em>, <em>3</em>(2). Retrieved from <a href="C:\Documents%20and%20Settings\jmunoz\Mis%20documentos\Textos%20Html\Cuali\CAQDAS\ICT_And_The_Research_Process.pdf">C:\Documents%20and%20Settings\jmunoz\Mis%20documentos\Textos%20Html\Cuali\CAQDAS\ICT_And_The_Research_Process.pdf</a></p>
+</div>
+<div id="ref-saldana_coding_2009">
+<p>Saldaña, J. (2009). <em>The coding manual</em>. London: Sage Publications.</p>
+</div>
+</div>
+</section></section>
+    </div>
+  </div>
+
+  <script src="reveal.js/lib/js/head.min.js"></script>
+  <script src="reveal.js/js/reveal.js"></script>
+
+  <script>
+
+      // Full list of configuration options available here:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+
+        //Opciones reveal
+        controls: true,
+        rollingLinks: true,
+        previewLinks: false,
+        progress: true,
+        history: true,
+        center: false,
+	      zoomKey: 'shift',
+        theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+        transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
+
+
+        //Opciones plugin menu
+        menu: {
+          themes: false,
+          markers: true,
+	        titleSelector: 'h1',
+          custom: [
+                      { title: 'About', icon: '<i class="fa fa-info">', content: '<p>Presentaciones con reveal.js</p></p>Algunos consejos<ul><li>Se ven mejor a pantalla completa (normalmente F11)</li><li>Para navegar por las diapositivas, lo mejor es que utilices la barra espaciadora, aunque también puedes utilizar los controles de abajo a la derecha.</li><li>Durante las presentaciones, encontrarás más ayuda si aprietas la tecla "?".</f1></ul><h1>Reconocimientos</h1><p>Para realizar estas presentaciones he utilizado varios programas de software libre</p><ul><li><a href="http://lab.hakim.se/reveal-js/#/" target="_blank">Reveal.js</a>: Es el programa base de las presentaciones.</li><li><a href="http://pandoc.org/" target="_blank">Pandoc</a>: El programa que genera el archivo html (con formato Reveal.js) a partir de un archivo markdown.</li><li><a href="https://atom.io/" target="_blank">Atom</a>: El editor de texto.</li><li><a href="https://github.com/denehyg/reveal.js-menu" target="_blank">Reveal.js-menu: Menú lateral.</a></li><li><a href="https://github.com/rajgoel/reveal.js-plugins/tree/master/chalkboard" target="_blank">Reveal.js-chalkboard: Pizarra</a></li><li>GitHub: Donde está alojada la página</li><li>Inkscape: Parte de los gráficos (animados) en formato SVG.</li></ul> ' }
+                  ]
+          },
+
+          //Plugin chalkboard
+          keyboard: {
+              67: function() { RevealChalkboard.toggleNotesCanvas() },	// toggle notes canvas when 'c' is pressed
+              66: function() { RevealChalkboard.toggleChalkboard() },	// toggle chalkboard when 'b' is pressed
+              46: function() { RevealChalkboard.clear() },	// clear chalkboard when 'DEL' is pressed
+               8: function() { RevealChalkboard.reset() },	// reset chalkboard data on current slide when 'BACKSPACE' is pressed
+              68: function() { RevealChalkboard.download() },	// downlad recorded chalkboard drawing when 'd' is pressed
+          },
+          // fin chalckboard...
+
+        // Optional libraries used to extend on reveal.js
+        dependencies: [
+          { src: 'reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+          { src: 'reveal.js/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+          { src: 'reveal.js/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } },
+                    { src: 'reveal.js/plugin/reveal.js-menu-master/menu.js' },
+                    { src: 'reveal.js/plugin/chalkboard/chalkboard.js' },
+          // Muestra la tabla de contenido a pie de página
+          //	  { src: 'reveal.js/plugin/toc-progress/toc-progress.js', async: true, callback: function()
+          //		{ toc_progress.initialize(); toc_progress.create(); }},
+          { src: 'reveal.js/plugin/reveal-svg-fragment.js', condition: function() { return !!document.querySelector( '[data-svg-fragment]' ); } },
+          // { src: 'reveal.js/plugin/search/search.js', async: true, condition: function() { return !!document.body.classList; }, }
+          // { src: 'reveal.js/plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }
+          ]
+          });
+
+    </script>
+    <div class="ribbon">
+    <a  href="https://github.com/jmunoz298/presentaciones"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/365986a132ccd6a44c23a9169022c0b5c890c387/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f7265645f6161303030302e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png"></a>
+    </div>
+<!--
+<div style="position: absolute; bottom: 0px; margin-left: 0px; width: 100%; background-color:#fff; padding: 20px;
+    filter:alpha(opacity=5); opacity:0.5; border-color:#000000;"><center><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Llicència de Creative Commons" style="border-width:0" src="img/cc-by.png" /></a> Juan Muñoz  | Análisis con Atlas.ti</b></center>
+
+</div>
+-->
+
+  </body>
+</html>

@@ -225,7 +225,10 @@
 			'End':					'Última diapositiva',
 			'B  ,  .':				'Pausa',
 			'F':					'Pantalla completa',
-			'ESC, O':				'Vista global'
+			'ESC, O':				'Vista global',
+			'C':	'Escritura de notas en pantalla',
+			'B': 'Modo pizarra',
+			'DEL': 'Borra notas/pizarra actual'
 		};
 
 	/**

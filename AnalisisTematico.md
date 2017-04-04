@@ -57,7 +57,7 @@ lateral-menu: 'True'
 ![](imagenes-cuali/Fases.jpg)
 
 
-#Gestión de datos {.center data-background="imagenes-cuali/Data-management.jpg" data-background-transition=zoom data-state=fondo}
+#Preparación de datos {.center data-background="imagenes-cuali/preparacion-1.jpg" data-background-transition=zoom data-state=opacidad}
 
 
 ##Transcripción
@@ -186,7 +186,7 @@ Procediment de la recerca
 
 <!-- ![](imagenes-cuali/reader-9.png) -->
 
-#Memoing {.center data-background="imagenes-cuali/Memoing.jpg" data-background-transition=zoom data-state=fondo}
+#Memoing {.center data-background="imagenes-cuali/Memoing-01.jpg" data-background-transition=zoom data-state=opacidad}
 
 ##Memoing
 >Mediante el uso de memorandos, el investigador es capaz de sumergirse en los datos, explorar los significados que estos datos tienen, mantener la continuidad y mantener el impulso en la realización de la investigación. Como crónica de un viaje de investigación, los memorandos permanecen como un registro, indeleble pero flexible, para retención personal o para difundir a otros.\
@@ -226,7 +226,7 @@ Procediment de la recerca
 
 . . .
 
-![](imagenes-cuali/Reduccion-l.jpg)
+![](imagenes-cuali/Reduccion.png){.noshadow}
 
 <!--
 ##Reducción de la información
@@ -297,7 +297,7 @@ Codificar el aula
 @macqueen_codebook_1998
 
 ##Comparación constante
-![](imagenes-cuali/ComparacionConstante.jpg)
+![](imagenes-cuali/comparacion-constante.png){.noshadow}
 
 ##Categorizar
 >Categorizar es tratar objetos diferentes como si fueran equivalentes, agrupar en clases los objetos, los acontecimientos y las personas que nos rodean, y responder hacia ellos en función de su clase de pertenencia más que de su unicidad.\
