@@ -3,6 +3,7 @@ title:  'Acción Pública y Cambio Social'
 author:
 - name: Juan Muñoz
   affiliation: Universitat Autònoma de Barcelona
+  email: juan.munoz@uab.cat
 tags: [Conductas colectivas]
 tema: "Rumores y Pánico"
 url: "http:/juan.psicologiasocial.eu"
@@ -91,6 +92,6 @@ lateral-menu: 'True'
 
 ![](imagenes/war-of-worlds.jpg)
 
-#Referencias {.center}
+# Referencias{.center data-background="imagenes-cuali/books.jpg" data-background-transition=zoom data-state=opacidad}
 
 ## {.scrollable .peque}

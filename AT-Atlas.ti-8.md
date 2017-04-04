@@ -115,6 +115,12 @@ lateral-menu: 'True'
 ##
 ![Adaptado de Saldaña, 2009, p. 12](imagenes-cuali/DatoATeoria.jpg)
 
+## Ejemplo: códigos-categorías-temas
+
+![](imagenes-cuali/Graneheim-Lundaman-Figura1-es.png)
+@graneheim_qualitative_2004 [p. 108]\
+`Narrativas sobre hipoglucemia`{.figcaption}
+
 ##Fases del análisis
 ![](imagenes-cuali/proceso.jpg){.noshadow}
 
@@ -225,7 +231,7 @@ Ver: [UK · Data Archive: Create & Manage Data](http://www.data-archive.ac.uk/cr
 
 ![](imagenes-cuali/readers.jpg){.noshadow}
 
-#Unidad Hermenéutica {.center data-background="imagenes-cuali/escriba.jpg" data-background-transition=zoom data-state=opacidad}
+# Proyecto {.center data-background="imagenes-cuali/escriba.jpg" data-background-transition=zoom data-state=opacidad}
 
 <!--
 ##Estrategias trabajo en equipo
@@ -233,6 +239,7 @@ Ver: [UK · Data Archive: Create & Manage Data](http://www.data-archive.ac.uk/cr
 ![](imagenes-cuali/atlas-trabajo-equipo.png){.noshadow}
  -->
 
+<!--
 ##Pantalla inicial
 
  <div style="position:relative; margin:0 auto;">
@@ -241,32 +248,35 @@ Ver: [UK · Data Archive: Create & Manage Data](http://www.data-archive.ac.uk/cr
  </div>
 
  <!--![](imagenes/atlas-8/PantallaInicial.png) -->
+ -->
+
+<!--
 
 ## Pantalla principal
 
- <!--
  <div style="position:relative; margin:0 auto;">
    <img class="fragment fade-out" data-fragment-index="0"  src="imagenes/atlas-8/PantallaPrincipal-01.png" style="position:absolute;top:0;left:0;" />
    <img class="fragment fade-in" data-fragment-index="0" src="imagenes/atlas-8/PantallaPrincipal-02a.png" style="position:absolute;top:0;left:0;" />
    <img class="fragment fade-in" data-fragment-index="1" src="imagenes/atlas-8/PantallaPrincipal-02b.png" style="position:absolute;top:0;left:0;" />
    <img class="fragment fade-in" data-fragment-index="2" src="imagenes/atlas-8/PantallaPrincipal-03.png" style="position:absolute;top:0;left:0;" />
    </div>
-   -->
 
- ![](imagenes/atlas-8/PantallaPrincipal.png)
+![](imagenes/atlas-8/PantallaPrincipal.png)
 
- <!--
+-->
+
+<!--
  ![](imagenes/atlas-8/PantallaPrincipal-ConProyecto.png)
-  -->
+-->
 
- -->
+
 
 ##Añadir documentos
-
+<!--
  ![](imagenes/atlas-8/MenuAddDocuments.png)
 
  . . .
-
+ -->
 
  ![](img/working-03.png){.noshadow}
 
@@ -274,7 +284,7 @@ Ver: [UK · Data Archive: Create & Manage Data](http://www.data-archive.ac.uk/cr
 
  `File > Add Documents > Add File(s) > *.rtf`{.fondonegro}
 
-
+<!--
 ## Pantalla principal con documentos
 
  ![](imagenes/atlas-8/PantallaPrincipal-ConDocumento.png)
@@ -286,6 +296,8 @@ Ver: [UK · Data Archive: Create & Manage Data](http://www.data-archive.ac.uk/cr
  ## Comentarios de documentos
 
  ![](imagenes/atlas-8/DocumentManager-01.png)
+
+ -->
 
 ## Ejercicio: Comentarios de documentos
 
@@ -323,12 +335,14 @@ Ver: [UK · Data Archive: Create & Manage Data](http://www.data-archive.ac.uk/cr
 
 @saldana_coding_2009 [pp. 34-40]
 
+<!--
 ## Crear Memos
 
 <div style="position:relative; width:789px; height:512px; margin:0 auto;">
   <img class="fragment fade-out" data-fragment-index="0"  src="imagenes/atlas-8/MemoManager-00.png" style="position:absolute;top:0;left:0;" />
   <img class="fragment fade-in" data-fragment-index="0" src="imagenes/atlas-8/MemoCreate.png" style="position:absolute;top:0;left:0;" />
 </div>
+ -->
 
 <!--
 ## Gestor de memos {data-transition="fade-in none-out"}
@@ -350,14 +364,6 @@ Ver: [UK · Data Archive: Create & Manage Data](http://www.data-archive.ac.uk/cr
 >     * Describir los pasos dados hasta el momento
 >     * Guardar
 * Crear una memo "Objetivos"
-
-<!--
-## Descargar
-
-Descargar / descomprimir
-
-https://www.dropbox.com/s/5hw8f921lwlj5s6/CursoAtlasCP.zip
- -->
 
 <!--
 ##Ejercicio memos: insertar PDF
@@ -400,6 +406,7 @@ Pidgeon & Henwood, 1996, p. 92
 
 ![](imagenes/atlas-8/EstrategiaCodificacion.png)
 
+<!--
 ## Codificación Top-Down: Códigos libres
 
 ![](imagenes/atlas-8/NewEntities.png)
@@ -407,6 +414,7 @@ Pidgeon & Henwood, 1996, p. 92
 . . .
 
 ![](imagenes/atlas-8/CreateCodes.png)
+ -->
 
 <!--
 ##Codificación deductiva
@@ -451,8 +459,6 @@ Ejemplo
 @macqueen_codebook_1998
 -->
 
-<!--
-
 ##Comentarios de códigos {.peque}
 
 | Código              | MARGPROB                                                                                                                                                                                                                                                        |
@@ -465,7 +471,6 @@ Ejemplo
 
 @macqueen_codebook_1998
 
--->
 
 
 ##Comentarios de códigos
@@ -478,7 +483,7 @@ Ver:
 
 @macqueen_codebook_1998
 
-
+<!--
 ## Codificación Bottom-Up: Citas libres
 
 ![](imagenes/atlas-8/FreeQuotation-00.png){.border}
@@ -490,17 +495,40 @@ Ver:
 <!--
 ##
 ![](imagenes/atlas-8/FreeQuotation-02.png)
- -->
+-->
 
+<!--
 ## Explorar Citas
 
 ![](imagenes/atlas-8/QuotationManager-00.png)
+-->
 
+<!--
 ## Codificación "mixta"
 
 ![](imagenes/atlas-8/FreeQuotation-00a.png)
+ -->
 
-##Ejercicio: Segmentación / Codificación
+## Literatura definicional
+
+<div id="column1" style="float:left; margin:0;">
+ ![](imagenes-cuali/Gato-1.jpg){.border}
+</div>
+
+. . .
+
+<div id="column1" style="float:left; margin:0;">
+ ![](imagenes-cuali/Gato-2.jpg){.border}
+</div>
+
+. . .
+
+<div id="column1" style="float:left; margin:0;">
+ ![](imagenes-cuali/Gato-3.jpg){.border}
+</div>
+
+
+## Ejercicio: Segmentación / Codificación
 
 ![](img/working-03.png){.noshadow}
 
@@ -508,14 +536,16 @@ Ver:
 * Crear códigos libres
 * Utilizar otras opciones de codificación
 
+<!--
 ##Gestor de códigos
 
 ![](imagenes/atlas-8/CodeManager-02.png)
-
+ -->
 
 ##Comparación constante
 ![](imagenes-cuali/comparacion-constante.png){.noshadow}
 
+<!--
 ## Visualización: Informes
 
 ![](imagenes/atlas-8/CodeManager-Menu-Report.png)
@@ -523,8 +553,7 @@ Ver:
 . . .
 
 ![](imagenes/atlas-8/CodesReport.png)
-
-
+ -->
 
 <!--
 ##Literatura definicional
@@ -536,23 +565,6 @@ Ver:
 
 -->
 
-##Literatura definicional
-
-<div id="column1" style="float:left; margin:0;">
-![](imagenes-cuali/Gato-1.jpg){.border}
-</div>
-
-. . .
-
-<div id="column1" style="float:left; margin:0;">
-![](imagenes-cuali/Gato-2.jpg){.border}
-</div>
-
-. . .
-
-<div id="column1" style="float:left; margin:0;">
-![](imagenes-cuali/Gato-3.jpg){.border}
-</div>
 
 <!--
 ##Otra crítica
@@ -579,36 +591,9 @@ Por grupos, categorizar el aula
 -->
 
 
-## Agrupar códigos
-
-![](imagenes/atlas-8/Codes-CodeGroups-00.png)
-
-![](imagenes/atlas-8/CodeManager-Menu-OpenGroupManager.png)
-
-## Gestor de grupos de códigos
-![](imagenes/atlas-8/CodeGroupManager-00.png)
-
-## Grupos de códigos
-![](imagenes/atlas-8/CodeGroupManager-01.png)
-
-
-## "Smart groups"
-
-![](imagenes/atlas-8/CodeGroupManager-Menu.png)
-
-## Editat "smart" groups
-
-![](imagenes/atlas-8/Code-SmartGroup-02.png)
-
-## Ejercicio: agrupar códigos
-
-![](img/working-03.png){.noshadow}
-
->* Crear grupos de códigos
-* Crear "smart" group
-
 # "Transportar" UH{.center data-background="imagenes/luggage.png"}
 
+<!--
 ##1: Crear paquete de copia
 
 ![](imagenes/atlas-8/MenuFile-Export.png)
@@ -616,6 +601,7 @@ Por grupos, categorizar el aula
 ##2: Abrir paquete de copia
 
 ![](imagenes/atlas-8/MenuFile-New.png)
+ -->
 
 ## Ejercicio: Crear/abrir copia
 
@@ -625,48 +611,33 @@ Por grupos, categorizar el aula
 * Importat la copia (de un/a compañero/a)
 
 
-# Recuperar información selectivamente
+# Estructurar {.center data-state=opacidad data-background="imagenes-cuali/hanging-files.jpg" data-background-transition=zoom}
+
+
+## Autocodificación
 
 <!--
 Volver a informes. Queremos obtener informes de...
 (cuidado si antes se han visto las agrupaciones de códigos)
- -->
-
-##Codificación estructural
 
 ![](imagenes/atlas-8/Autocoding-00.png)
+-->
 
 ##Ejercicio autocodificación
 
 ![](img/working-03.png){.noshadow}
 
 >* Autocodificar participantes
->     * Autocodificar Presidente-Rajoy
->     * Autocodificar Rajoy-LO
+>     * Autocodificar Rajoy-LO (líder de la oposición)
+>     * Autocodificar Rajoy-PR (presidente)
 
-
-## Agrupación de códigos
-
-|           |    NACIONALES     |           AUTONÓMICOS           |
-|:----------|:-----------------:|:-------------------------------:|
-| IZQUIERDA | IU<br>PCE<br>PSOE | Amaiur<br>BNG<br>ERC<br>ICV PSC |
-| DERECHA   |     PP<br>UPD     |        CC<br>CiU<br>PNV         |
-
-<!--
-##Más codificación estructural
-
->* Codificar:
->     * Pregunta
-     * Respuesta
-     * Réplica
-     * Contrarréplica
- -->
-
-## Agrupar documentos
+## Agrupar
 
 ![Tipos de Grupos](imagenes/atlas-8/Grupos.png)
 
 ##Ejercicio: Grupos de documentos
+
+![](img/working-03.png){.noshadow}
 
 | Grupo    | Contenido        |
 |:---------|:-----------------|
@@ -675,9 +646,9 @@ Volver a informes. Queremos obtener informes de...
 | IX LEG.  | -2011            |
 | X LEG.   | -2012            |
 
-. . .
+## Grupos "inteligentes"
 
-<br>
+![](img/working-03.png){.noshadow}
 
 |         |       CONGRESO        |       SENADO        |
 |:--------|:---------------------:|:-------------------:|
@@ -685,15 +656,65 @@ Volver a informes. Queremos obtener informes de...
 | X LEG.  | Control-Congreso-2012 | Control-Senado-2012 |
 
 
-#Relaciones {.center data-background="imagenes-cuali/network.jpg" data-background-transition=zoom data-state=opacidad}
+<!--
+## Gestor de grupos de códigos
+ ![](imagenes/atlas-8/CodeGroupManager-00.png)
 
+## Grupos de códigos
+ ![](imagenes/atlas-8/CodeGroupManager-01.png)
+
+
+## Grupos "inteligentes"
+
+ ![](imagenes/atlas-8/CodeGroupManager-Menu.png)
+
+## Editar grupos "inteligentes"
+
+ ![](imagenes/atlas-8/Code-SmartGroup-02.png)
+ -->
+
+
+## Agrupación de códigos
+
+![](img/working-03.png){.noshadow}
+
+|           |    NACIONALES     |           AUTONÓMICOS           |
+|:----------|:-----------------:|:-------------------------------:|
+| IZQUIERDA | IU<br>PCE<br>PSOE | Amaiur<br>BNG<br>ERC<br>ICV PSC |
+| DERECHA   |     PP<br>UPD     |        CC<br>CiU<br>PNV         |
+
+
+>* Crear grupos de códigos
+* Crear "grupos "inteligentes"
 
 ##
+
 ![Adaptado de Saldaña, 2009, p. 12](imagenes-cuali/DatoATeoria.jpg)
 
+## Ejemplo: códigos-categorías-temas
+
+![](imagenes-cuali/Graneheim-Lundaman-Figura1-es.png)
+@graneheim_qualitative_2004 [p. 108]\
+`Narrativas sobre hipoglucemia`{.figcaption}
+
+<!--
+
+##Más codificación estructural
+
+>* Codificar:
+>     * Pregunta
+* Respuesta
+* Réplica
+* Contrarréplica
+-->
+
+<!--
 ##Temas
 > Un tema capta algo importante sobre los datos en relación con la pregunta de investigación, y representa un cierto nivel de pauta de respuesta o significado en el conjunto de los datos.\
 @braun_using_2006 [p. 82]
+-->
+
+# Relaciones {.center data-background="imagenes-cuali/network.jpg" data-background-transition=zoom data-state=opacidad}
 
 
 ##Tipos de Relaciones
@@ -706,7 +727,7 @@ Volver a informes. Queremos obtener informes de...
 
 . . .
 
-![](imagenes-cuali/Relaciones.png)
+![](imagenes/atlas-8/TiposRelaciones.png)
 
 <!--
 ##Jerarquías de códigos
@@ -718,29 +739,29 @@ Volver a informes. Queremos obtener informes de...
 
 ![](imagenes-cuali/RedQuestyonType.png)
 
-## Ejemplo: códigos-categorías-temas
-
-![](imagenes-cuali/Graneheim-Lundaman-Figura1-es.png)
-@graneheim_qualitative_2004 [p. 108]\
-`Narrativas sobre hipoglucemia`{.figcaption}
-
 # Vistas de red{.center data-background="imagenes-cuali/neurons.jpg" data-background-transition=zoom data-state=opacidad}
 
+##
+
 >Aplicar redes temáticas es simplemente una forma de organizar un análisis temático de datos cualitativos. Los análisis temáticos intentan descubrir los temas más destacados en un texto a diferentes niveles, y las redes temáticas tienen como objetivo facilitar la estructuración y representación de esos temas.\
-@attride_stirling2001 [p. 387]
+@attride-stirling_thematic_2001 [p. 387]
 
 ##Redes temáticas
 ![Attride-Stirling, 2001. p. 388](imagenes-cuali/RedesTematicas.jpg)
 
+<!--
 ##Editar Relaciones
 
 ![](imagenes-cuali/EditorRelaciones.png)
+ -->
 
-#Herramientas de consulta{.center data-background="imagenes-cuali/query.jpg" data-background-transition=zoom data-state=opacidad}
+# Herramientas de consulta{.center data-background="imagenes-cuali/query.jpg" data-background-transition=zoom data-state=opacidad}
 
 ##Buscar texto
 
+<!--
 ![](imagenes-cuali/Buscar-01.png)
+ -->
 
 Conjunto de términos
   : `Jorquera|Pérez-Bouza`
@@ -751,7 +772,7 @@ Categoría
 Múltiples categorías
   : `AUTONOMICO:= $AMAIUR|$BNG|$CC|$CiU`
 
-##GREP
+## GREP
 
   |  Operador   | Función                                                                        |
   |:-----------:|:-------------------------------------------------------------------------------|
@@ -764,6 +785,8 @@ Múltiples categorías
   |     \\w     | Localiza cualquier carácter alfanumérico                                       |
   |      *      | Localiza cualquier cantidad (o su ausencia) de la expresión precedente         |
   |      +      | Localiza al menos una ocurrencia de la expresión precedente                    |
+
+<!--
 
 ##Consultas
 
@@ -785,8 +808,9 @@ Múltiples categorías
 10.- Edición expresiones
 ```
 </div>
+ -->
 
-##Operadores Booleanos
+##Consultas: Operadores Booleanos
 
 ![](imagenes-cuali/OperadoresBooleanos.jpg)
 
@@ -820,13 +844,18 @@ Múltiples categorías
 
 ![](imagenes-cuali/Proximidad.jpg)
 
+<!--
 ##Consultas: Alcance
 
 ![](imagenes-cuali/ConsultasAlcance.png)
+ -->
 
+<!--
 ##Concurrencias
 
 ![](imagenes-cuali/TablaCoocurrencias.png)
+-->
+
 
 #Otras herramientas
 
