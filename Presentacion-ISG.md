@@ -1,9 +1,9 @@
 ---
 title:  'Influencia Social y Grupos'
 author:
-- name: Juan Muñoz
+- name:
   affiliation: Universitat Autònoma de Barcelona
-tema: "2016-2017"
+tema: "2017-2018"
 url: "http:/juan.psicologiasocial.eu"
 fragments: false
 ...
@@ -14,8 +14,8 @@ fragments: false
 |:-------------------|:-|:-------------------|
 | Fran Elejabarrieta |  | Fran Elejabarrieta |
 | Juan Muñoz         |  | Eduardo Moreno     |
-| Francisco Tirado   |  | Juan Muñoz         |
-| Félix Vázquez      |  | Jesús Rojas        |
+| Félix Vázquez      |  | Juan Muñoz         |
+|                    |  | Jesús Rojas        |
 |                    |  | Félix Vázquez      |
 |                    |  | Albert Vinyals     |
 

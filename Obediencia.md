@@ -18,20 +18,14 @@ lateral-menu: 'True'
 * Críticas
 * Desobediencia
 
+<hr>
+
 [The obedience song](https://www.youtube.com/watch?v=KKMSg_8aMoo)\
 `https://www.youtube.com/watch?v=KKMSg_8aMoo`{.peque}
-
-<aside class="notes">
-       Oh hey, these are some notes. They'll be hidden in your presentation, but you can see them if you open the speaker notes window (hit 's' on your keyboard).
-</aside>
 
 #Introducción { .center}
 
 ## Obediencia {data-background="imagenes-isg/abraham-sacrifice-caravaggio.jpg" data-background-transition=zoom data-state=fondo}
-
-[](https://www.youtube.com/watch?v=KKMSg_8aMoo)
-
-. . .
 
 > (...) deberíamos saber que el instinto de sumisión, un ardiente deseo de obedecer y de ser dominado por un hombre fuerte, es por lo menos tan prominente en la psicología humana como el deseo de poder, y, políticamente, resulta quizá más relevante.\
 @arendt_sobre_1969 [p. 54]
