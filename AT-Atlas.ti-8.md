@@ -122,7 +122,7 @@ lateral-menu: 'True'
 `Narrativas sobre hipoglucemia`{.figcaption}
 
 ##Fases del análisis
-![](imagenes-cuali/proceso.jpg){.noshadow}
+![](imagenes/atlas-8/Proceso-8.png){.noshadow}
 
 #Preparación de datos {.center data-background="imagenes-cuali/preparacion-1.jpg" data-background-transition=zoom data-state=opacidad}
 
@@ -232,12 +232,6 @@ Ver: [UK · Data Archive: Create & Manage Data](http://www.data-archive.ac.uk/cr
 ![](imagenes-cuali/readers.jpg){.noshadow}
 
 # Proyecto {.center data-background="imagenes-cuali/escriba.jpg" data-background-transition=zoom data-state=opacidad}
-
-<!--
-##Estrategias trabajo en equipo
-
-![](imagenes-cuali/atlas-trabajo-equipo.png){.noshadow}
- -->
 
 <!--
 ##Pantalla inicial
@@ -406,6 +400,20 @@ Pidgeon & Henwood, 1996, p. 92
 
 ![](imagenes/atlas-8/EstrategiaCodificacion.png)
 
+## Ejercicio: Segmentación / Codificación
+
+![](img/working-03.png){.noshadow}
+
+>* Crear citas libres
+* Crear códigos libres
+* Utilizar otras opciones de codificación
+
+<!--
+##Gestor de códigos
+
+![](imagenes/atlas-8/CodeManager-02.png)
+ -->
+
 <!--
 ## Codificación Top-Down: Códigos libres
 
@@ -527,20 +535,6 @@ Ver:
  ![](imagenes-cuali/Gato-3.jpg){.border}
 </div>
 
-
-## Ejercicio: Segmentación / Codificación
-
-![](img/working-03.png){.noshadow}
-
->* Crear citas libres
-* Crear códigos libres
-* Utilizar otras opciones de codificación
-
-<!--
-##Gestor de códigos
-
-![](imagenes/atlas-8/CodeManager-02.png)
- -->
 
 ##Comparación constante
 ![](imagenes-cuali/comparacion-constante.png){.noshadow}
@@ -697,6 +691,15 @@ Volver a informes. Queremos obtener informes de...
 @graneheim_qualitative_2004 [p. 108]\
 `Narrativas sobre hipoglucemia`{.figcaption}
 
+##Estrategias trabajo en equipo
+
+![](imagenes-cuali/atlas-trabajo-equipo.png){.noshadow}
+
+
+##Unir UHs
+
+![](imagenes-cuali/UH-Fusionar-2.png)
+
 <!--
 
 ##Más codificación estructural
@@ -737,7 +740,11 @@ Volver a informes. Queremos obtener informes de...
 
 ##Relaciones entre códigos
 
-![](imagenes-cuali/RedQuestyonType.png)
+![](imagenes/atlas-8/network-coaccion.png)
+
+##Relaciones entre códigos
+
+![](imagenes/atlas-8/network-ITER.png)
 
 # Vistas de red{.center data-background="imagenes-cuali/neurons.jpg" data-background-transition=zoom data-state=opacidad}
 
@@ -859,11 +866,7 @@ Múltiples categorías
 
 #Otras herramientas
 
-##Copiar/Restaurar UH
 
-##Unir UHs
-
-![](imagenes-cuali/UH-Fusionar-2.png)
 
 #Referencias{.center data-background="imagenes-cuali/books.jpg" data-background-transition=zoom data-state=opacidad}
 
@@ -933,9 +936,6 @@ Documentos > Administrador de fuente de datos
 </div>
 
 Copiar carpeta donde estén UH y documentos
-
-
-
 
 #Informes {.center data-background="imagenes-cuali/reports.jpg" data-background-transition=zoom data-state=opacidad}
 
