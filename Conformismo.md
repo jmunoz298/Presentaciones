@@ -241,6 +241,14 @@ Innovación
 ![](imagenes-isg/Mori-Koyama.png)\
 @mori_boys_2014
 
+##Unanimidad
+
+![](imagenes-isg/sheep.png)
+
+##Anonimato
+
+![Kota-Ezawa](imagenes-isg/kota-ezawa-handvote.jpg)
+
 
 <!--
 ##Tamaño de la mayoría
@@ -346,12 +354,28 @@ Tu bebé empieza a llorar a gritos. Le cubres la boca para amortiguar el sonido.
 ![@kundu_morality_2013](imagenes-isg/Kundu-dilematic.png)
 -->
 
-##Influencia informacional referente
 
+#Influencia informativa referente {.center}
+
+## La importancia de los grupos
+
+![](imagenes-isg/A61MillionVote.jpg)
+
+
+##Influencia informativa referente
+
+>Consideramos que tanto las comparaciones sociales para reducir la incertidumbre como la existencia de una presión normativa para conformarse dependen de percibir que la fuente de influencia pertenece a la propia categoría.\
+@abrams_knowing_1990 [p. 97]
+
+<!--
+"We argue that both social comparisons to reduce uncertainty and the existence of normative pressure to comply depend on perceiving the source of influence as belonging to one's own category" (Abrams et al 1990:97)
+-->
+
+<!--
 >La teoría de la influencia informativa referente es la teoría de la identidad social de la influencia social en grupos. Considera la influencia normativa e informativa -conceptos separados según el planteamiento de otros científicos sociales- como parte de un único proceso de influencia ligado a la pertenencia e identidad social.\
 @smith_referent_2010 [p. 687]
 
-<!--
+
 >Referent informational influence theory is the social identity theory of social influence in groups. It considers normative influence and informational influence—separate concepts in the thinking of other social scientists—as part of a single influence process linked to group membership and social identity.\
 @smith_referent_2010 [p. 687]
 -->
