@@ -4,8 +4,8 @@
 Influencia social y grupos
 --------------------------
 
--   Conformismo (Septiembre 2016) ([HTML](Conformismo.html) | [PDF](Conformismo.pdf))
--   Obediencia (Septiembre 2016) ([HTML](Obediencia.html) | [PDF](Obediencia.pdf))
+-   Conformismo (Septiembre 2017) ([HTML](Conformismo.html) | [PDF](Conformismo.pdf))
+-   Obediencia (Septiembre 2017) ([HTML](Obediencia.html) | [PDF](Obediencia.pdf))
 
 Acción Pública y cambio social
 ------------------------------
