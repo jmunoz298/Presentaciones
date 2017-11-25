@@ -12,18 +12,15 @@
 * Influencia informacional referente  
 </div>
 
-
 <div>
 <hr>
 
 “The opposite of courage in our society is not cowardice, it is… **conformity**”
 
-
 [InsideInfo - Conformity](https://soundcloud.com/insideinfo/conformity)\
 `https://soundcloud.com/insideinfo/conformity`{.peque}
 
 </div>
-
 
 #Introducción { .center}
 
