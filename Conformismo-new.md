@@ -1,7 +1,7 @@
 <section data-background-video="ISG.mp4" data-background-video-loop >
 </section>
 
-##Índice
+## Contenidos
 
 <div id="column1" style="float:left; margin:0; width:100%;">
 >* Introducción
@@ -59,7 +59,7 @@ Innovación
 (1906-1988)](imagenes-isg/Sherif.jpg)
 
 
-##El _efecto autocinético_ {data-background="imagenes-isg/autokinetic.jpg" data-background-transition=zoom data-state=fondo}
+## El _efecto autocinético_ {data-background="imagenes-isg/autokinetic.jpg" data-background-transition=zoom data-state=fondo}
 
 . . .
 
@@ -107,15 +107,6 @@ Innovación
 
 ##Esquema influencia informacional
 ![](imagenes-isg/InfluenciaInformativa.jpg)
-
-<!--
-<div data-svg-fragment="imagenes-isg/influencia-informativa.svg#[*|label=capa1]" class="svg">
-  <a class="fragment" title="[*|label=capa2]"></a>
-  <a class="fragment" title="[*|label=capa3]"></a>
-  <a class="fragment" title="[*|label=capa4]"></a>
-  <a class="fragment" title="[*|label=capa5]"></a>
-</div>
--->
 
 ##Teorías relacionadas: Comparación social
 
@@ -169,14 +160,6 @@ Innovación
 >La conformidad ocurre cuando una persona cambia su comportamiento o actitud para que sea más similar al comportamiento o actitud de un grupo. (...) la conformidad puede ocurrir sin que el grupo desee ejercer influencia sobre, o monitorear al individuo, siempre y cuando la persona conozca la posición del grupo y quiera estar de acuerdo con ella..\
 @levine_conformity_2007 [p. 168]
 
-<!--
-<video width="400"  class="stretch" controls>
-  <source src="multimedia/classic-candid.mp4" type="video/mp4">
-</video>
-`Candid Camera: Elevator`{.figcaption}
-
-###### <https://www.youtube.com/watch?v=BgRoiTWkBHU>
--->
 </div>
 
 . . .
