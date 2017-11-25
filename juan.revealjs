@@ -134,7 +134,7 @@ $endfor$
           },
           // fin chalckboard...
 
-        // Optional libraries used to extend on reveal.js
+          // Optional libraries used to extend on reveal.js
         dependencies: [
           { src: '$revealjs-url$/lib/js/classList.js', condition: function() { return !document.body.classList; } },
           { src: '$revealjs-url$/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
