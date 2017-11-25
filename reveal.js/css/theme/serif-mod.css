@@ -772,3 +772,7 @@ section .peque {
   color: white;
   padding: 15px;
 }
+
+.reveal .transparencia {
+  opacity: 0.8;
+}

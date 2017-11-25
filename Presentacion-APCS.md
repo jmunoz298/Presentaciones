@@ -9,7 +9,7 @@ url: "http:/juan.psicologiasocial.eu"
 
 ##Equipo docente
 
-<div style="float:left; margin:0; width:33%;">
+<div style="float:left; margin:0; width:33%;" class="fragment">
 ![Juan Muñoz](imagenes/juan.png)
 </div>
 

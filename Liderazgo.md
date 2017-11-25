@@ -11,17 +11,13 @@ csl: apa.csl
 lateral-menu: 'True'
 ...
 
-##Índice
+##Liderazgo {data-background="imagenes-isg/move-people-to-action.jpg" data-background-transition=zoom data-state=fondo}
 
 >Un proceso de influencia social mediante el que las personas consiguen y movilizan la ayuda de otras para la consecución de metas colectivas.\
 `Chemers, 2001` {.autor}
- <!--
-<audio controls>
- <source src="multimedia/Insideinfo-Conformity.mp3" type="audio/mp3">
-</audio>
- -->
 
-##¿Quién puede ser líder?
+
+##¿Quién puede ser líder? {data-background="imagenes-isg/Lider-nacimiento.jpg" data-background-transition=zoom data-state=fondo}
 >Desde el momento de su nacimiento algunas personas están marcadas para la servidumbre y otras para el mando.\
 `Aristóteles` {.autor}
 
@@ -31,7 +27,15 @@ lateral-menu: 'True'
 
 ## Rasgos Liderazgo
 
-![](imagenes/NubeRasgos.png)
+![](imagenes-isg/TeoriaImplicitaLiderazgo.png)
+
+## Teorías implícitas {data-background="imagenes-isg/Puzzle.jpg" data-background-transition=zoom data-state=fondo}
+> Muchos miembros creen que sus líderes deben ser inteligentes, extrovertidos, masculinos, sensibles, dominantes, conservadores y equilibrados, de forma que esas serán las características que poseerán los líderes\
+`Lord et al. 1986` {.autor}
+
+## Teoría de la categorización del líder {data-background="imagenes-isg/lider.jpg" data-background-transition=zoom data-state=fondo}
+
+> El líder es el miembro del grupo que es considerado como más prototípico del mismo (en términos de la teoría de la autocategorización)
 
 ## Estilos de liderazgo
 

@@ -50,7 +50,7 @@ lateral-menu: 'True'
 
 ##Manifiesto vs. latente {#manifiesto-latente}
 
-![](imagenes-cuali/SemioticaElPais.jpg)
+![](imagenes-cuali/SemioticaElPais.png)
 
 
 ##Fases del análisis
@@ -110,10 +110,6 @@ lateral-menu: 'True'
 >En una conversación lo más significativo es lo que no se dice entre lo que se está diciendo, como por ejemplo las pausas y silencios, las entonaciones y los gestos, porque ahí radican los dobles significados, los ánimos y el objetivo mismo de la comunicación.\
 @fernandez_christlieb_espiritu_2004 [p. 46]
 
-. . .
-
-![](img/sand-clock.png)
-
 
 ##Convenciones "jeffersonianas"
 ![](imagenes-cuali/Transcripcion.jpg)
@@ -139,9 +135,10 @@ Ver: [UK · Data Archive: Create & Manage Data](http://www.data-archive.ac.uk/cr
 
 ##Plan de Gestión de Datos
 
-[](http://www.fsd.uta.fi/aineistonhallinta/en/documents/data-management-plan-models.html#model-data-management-plan-for-research-collecting-qualitative-interviews-detailed)
+[A Model Data Management Plan](http://bit.ly/2hQW1IN)\
+`http://bit.ly/2hQW1IN` {.figcaption}
 
-`http://www.fsd.uta.fi/aineistonhallinta/en/documents/data-management-plan-models.html#model-data-management-plan-for-research-collecting-qualitative-interviews-detailed` {.figcaption}
+<!-- `http://www.fsd.uta.fi/aineistonhallinta/en/documents/data-management-plan-models.html#model-data-management-plan-for-research-collecting-qualitative-interviews-detailed` {.figcaption} -->
 
 ##Control de versiones
 
@@ -305,13 +302,6 @@ Codificar el aula
 
 ##Jerarquías códigos
 ![](imagenes-cuali/JerarquiaCodificacion.jpg)
-
-##Ejercicio: Codificación
-Por grupos, categorizar el aula
-
->* Identificar y etiquetar elementos
-* Agrupar elementos por categorías
-* Comparar con otros grupos
 
 ##Codificación de segundo nivel
 
