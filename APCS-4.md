@@ -13,7 +13,7 @@ lateral-menu: 'True'
 ...
 
 
-# El rumor{.center data-background="imagenes/rumor-01.jpg" data-background-transition=fade data-state=opacidad}
+# El rumor{.center data-background="imagenes-APCS-4/Rumor-01.jpg" data-background-transition=fade data-state=opacidad}
 
 ## "Definición"
 
@@ -23,11 +23,11 @@ lateral-menu: 'True'
 <!--
 ## Ejemplos
 
-![](imagenes/rumor-whatsap.jpg)
+![](imagenes-APCS-4/Rumor-whatsap.jpg)
 
 ##
 
-![](imagenes/rumor-telefono.png)
+![](imagenes-APCS-4/Rumor-telefono.png)
 -->
 
 ## Tipos de rumor
@@ -44,15 +44,15 @@ lateral-menu: 'True'
 
 ## Procter & Gamble
 
-![](imagenes/ProcterGamble.png)
+![](imagenes-APCS-4/ProcterGamble.png)
 
 ## Panfleto de Villejuif
 
-![](imagenes/Villejuif.jpg)
+![](imagenes-APCS-4/Villejuif.jpg)
 
 ## Allport y Postman: Transmisión serial
 
-![](imagenes/AllportPostman.jpg)
+![](imagenes-APCS-4/AllportPostman.jpg)
 
 ##
 
@@ -69,18 +69,20 @@ lateral-menu: 'True'
 
 ## Transmisión: Serie vs. red
 
-![](imagenes/rumor-red.png)
+![](imagenes-APCS-4/Rumor-red.png)
 
 
 ## Contra los rumores
 
+![](imagenes-APCS-4/StopRumores.png)
+
 [http://stoprumores.com/rumores/](http://stoprumores.com/rumores/)
 
-# Pánico {.center data-background="imagenes/panic.png" data-background-transition=fade data-state=opacidad}
+# Pánico {.center data-background="imagenes-APCS-4/Panic.jpg" data-background-transition=fade data-state=opacidad}
 
 . . .
 
-![](imagenes/Titanic.jpg)
+![](imagenes-APCS-4/Titanic.jpg)
 
 
 ##¿Qué es el pánico?
@@ -90,8 +92,8 @@ lateral-menu: 'True'
 
 ## La Guerra de los Mundos
 
-![](imagenes/war-of-worlds.jpg)
+![](imagenes-APCS-4/WarOfWorlds.jpg)
 
-# Referencias{.center data-background="imagenes-cuali/books.jpg" data-background-transition=zoom data-state=opacidad}
+# Referencias{.center data-background="imagenes/Books.jpg" data-background-transition=zoom data-state=opacidad}
 
 ## {.scrollable .peque}

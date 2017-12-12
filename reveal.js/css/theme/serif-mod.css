@@ -628,7 +628,8 @@ color:blue;}
 
 .reveal .slides li{
    font-size:1.3em;
-   color: #337ab7}
+   color: #337ab7;
+}
 
 .reveal .slides section li.fragment.visible.current-fragment, .reveal .slides section dt {
    background-color: #337AB7;

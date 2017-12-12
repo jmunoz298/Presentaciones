@@ -29,7 +29,7 @@ lateral-menu: 'True'
 “The opposite of courage in our society is not cowardice, it is… **conformity**”
 
 <audio controls>
-<source src="multimedia/Insideinfo-Conformity.mp3" type="audio/mp3">
+<source src="imagenes-conformismo/Insideinfo-Conformity.mp3" type="audio/mp3">
 </audio>
 
 <!--
@@ -67,7 +67,7 @@ Innovación
 
 #Normalización { .center}
 
-##Normalización {data-background="imagenes-isg/cebras.jpg" data-background-transition=zoom data-state=fondo}
+##Normalización {data-background="imagenes-conformismo/Cebras.jpg" data-background-transition=zoom data-state=fondo}
 
 . . .
 
@@ -75,16 +75,16 @@ Innovación
 @feliu_influencia_2003 [p. 260]
 
 ![Muzafer Sheriff (1936)\
-(1906-1988)](imagenes-isg/Sherif.jpg)
+(1906-1988)](imagenes-conformismo/Sherif.jpg)
 
 
-##El _efecto autocinético_ {data-background="imagenes-isg/autokinetic.jpg" data-background-transition=zoom data-state=fondo}
+##El _efecto autocinético_ {data-background="imagenes-conformismo/Autokinetic.jpg" data-background-transition=zoom data-state=fondo}
 
 . . .
 
 <div id="column1" style="float:left; margin:0; width:50%;">
 
-![Estimaciones individualmente](imagenes-isg/EfectoAutocinetico-1.svg)
+![Estimaciones individualmente](imagenes-conformismo/EfectoAutocinetico-1.svg)
 
 </div>
 
@@ -92,7 +92,7 @@ Innovación
 
 <div id="column2" style="float:left; margin:0; width:50%;">
 
-![Estimaciones en grupo](imagenes-isg/EfectoAutocinetico-2.png)
+![Estimaciones en grupo](imagenes-conformismo/EfectoAutocinetico-2.png)
 
 </div>
 
@@ -100,13 +100,13 @@ Innovación
 
 <div id="column3" style="float:left; margin:0; width:100%;">
 
-![Estimaciones individualmente](imagenes-isg/EfectoAutocinetico-3.svg)
+![Estimaciones individualmente](imagenes-conformismo/EfectoAutocinetico-3.svg)
 
 </div>
 
 ##Normalización
 
-<object id="svg1"  data="imagenes-isg/Normalizacion.svg" type="image/svg+xml"></object>
+<object id="svg1"  data="imagenes-conformismo/Normalizacion.svg" type="image/svg+xml"></object>
 
 ######Desplazamiento en dirección de una posición intermedia
 
@@ -118,17 +118,17 @@ Innovación
 
 ##Dificultad y relevancia de la tarea
 
-![@baron_forgotten_1996](imagenes-isg/Asch-RelevanciaTarea.jpg)
+![@baron_forgotten_1996](imagenes-conformismo/Asch-RelevanciaTarea.jpg)
 
 ##Baron et al. (1996)
 
-![Número medio de ensayos en los que hay conformismo](imagenes-isg/Baron-Vandello-Brunsman.jpg)
+![Número medio de ensayos en los que hay conformismo](imagenes-conformismo/Baron-Vandello-Brunsman.jpg)
 
 ##Esquema influencia informacional
-![](imagenes-isg/InfluenciaInformativa.jpg)
+![](imagenes-conformismo/InfluenciaInformativa.jpg)
 
 <!--
-<div data-svg-fragment="imagenes-isg/influencia-informativa.svg#[*|label=capa1]" class="svg">
+<div data-svg-fragment="imagenes-conformismo/influencia-informativa.svg#[*|label=capa1]" class="svg">
   <a class="fragment" title="[*|label=capa2]"></a>
   <a class="fragment" title="[*|label=capa3]"></a>
   <a class="fragment" title="[*|label=capa4]"></a>
@@ -140,7 +140,7 @@ Innovación
 
 <div id="column1" style="float:left; margin:0; width:25%;">
 
-![Leon Festinger](imagenes-isg/Festinger.jpg)
+![Leon Festinger](imagenes-conformismo/Festinger.jpg)
 
 </div>
 
@@ -148,7 +148,7 @@ Innovación
 
 <div id="column2" style="float:left; margin:0; width:75%;">
 
-![](imagenes-isg/A61MillionVote.jpg)\
+![](imagenes-conformismo/A61MillionVote.jpg)\
 @bond_61-million-person_2012
 
 </div>
@@ -157,7 +157,7 @@ Innovación
 
 <div id="column2.1" style="float:left; margin:0; width:33%;">
 
-![Bibb Latané y John Darley](imagenes-isg/Latane-Darley.jpg)
+![Bibb Latané y John Darley](imagenes-conformismo/Latane-Darley.jpg)
 </div>
 
 . . .
@@ -173,7 +173,7 @@ Innovación
 ##Ignorancia Pluralista
 
 <video width="860" class="stretch" controls>
-  <source src="multimedia/TheSmokeFilledRoomStudy.mp4" type="video/mp4">
+  <source src="imagenes-conformismo/TheSmokeFilledRoomStudy.mp4" type="video/mp4">
 </video>
 
 `The smoke filled room`{.figcaption}
@@ -190,7 +190,7 @@ Innovación
 
 <!--
 <video width="400"  class="stretch" controls>
-  <source src="multimedia/classic-candid.mp4" type="video/mp4">
+  <source src="imagenes-conformismo/Classic-candid.mp4" type="video/mp4">
 </video>
 `Candid Camera: Elevator`{.figcaption}
 
@@ -202,20 +202,20 @@ Innovación
 
 <div id="column1" style="float:left; margin:0; width:33%;">
 ![Solomon Asch
-(1907-1996)](imagenes-isg/Asch.jpg)
+(1907-1996)](imagenes-conformismo/Asch.jpg)
 </div>
 
 
 
-##El experimento de Asch {data-background="imagenes-isg/asch-conformity.jpg" data-background-transition=zoom data-state=fondo}
+##El experimento de Asch {data-background="imagenes-conformismo/Asch-conformity.jpg" data-background-transition=zoom data-state=fondo}
 
 . . .
 
-![](imagenes-isg/Asch-1.svg)
+![](imagenes-conformismo/Asch-1.svg)
 
-##El experimento de Asch {data-background="imagenes-isg/asch-conformity.jpg" data-background-transition=zoom data-state=fondo}
+##El experimento de Asch {data-background="imagenes-conformismo/Asch-conformity.jpg" data-background-transition=zoom data-state=fondo}
 
-![](imagenes-isg/Asch-2.svg)
+![](imagenes-conformismo/Asch-2.svg)
 
 ##Resultados
 
@@ -226,28 +226,28 @@ Innovación
 
 ##Conformismo
 
-<object id="svg1"  data="imagenes-isg/Conformismo.svg" type="image/svg+xml"></object>
+<object id="svg1"  data="imagenes-conformismo/Conformismo.svg" type="image/svg+xml"></object>
 
 ######Desplazamiento en la dirección de la posición mayoritaria
 
 
 
 ##Diferencias de sexo
-![](imagenes-isg/Mori-Arai.png)\
+![](imagenes-conformismo/Mori-Arai.png)\
 @mori_no_2010
 
 
 ##Sexo y edad
-![](imagenes-isg/Mori-Koyama.png)\
+![](imagenes-conformismo/Mori-Koyama.png)\
 @mori_boys_2014
 
 ##Unanimidad
 
-![](imagenes-isg/sheep.png)
+![](imagenes-conformismo/BlackSheep.png)
 
 ##Anonimato
 
-![Kota-Ezawa](imagenes-isg/kota-ezawa-handvote.jpg)
+![Kota-Ezawa](imagenes-conformismo/Kota-Ezawa-handvote.jpg)
 
 
 <!--
@@ -255,11 +255,11 @@ Innovación
 
 . . .
 
-![](imagenes-isg/Asch-EfectoMayoria.jpg)
+![](imagenes-conformismo/Asch-EfectoMayoria.jpg)
 
 ##Tamaño de la mayoría
 
-<video width="420"  class="stretch" controls><source src="multimedia/Stanley Milgram - Conformity and Independence.mp4"></video>
+<video width="420"  class="stretch" controls><source src="imagenes-conformismo/Stanley Milgram - Conformity and Independence.mp4"></video>
 
 ###### <https://www.youtube.com/watch?v=P0e6zG8IbE8>
 
@@ -270,10 +270,10 @@ Innovación
 
 ##Tamaño de la mayoría
 
-<object id="svg1"  data="imagenes-isg/TamañoMayoria.svg" type="image/svg+xml"></object>
+<object id="svg1"  data="imagenes-conformismo/TamañoMayoria.svg" type="image/svg+xml"></object>
 
 <!--
-<div data-svg-fragment="imagenes-isg/TamañoMayoria.svg#[*|label=base]" class="svg">
+<div data-svg-fragment="imagenes-conformismo/TamañoMayoria.svg#[*|label=base]" class="svg">
   <a class="fragment" title="[*|label=segundo]"></a>
   <a class="fragment" title="[*|label=circulos]"></a>
 </div>
@@ -286,10 +286,10 @@ Innovación
 
 ##Influencia normativa
 
-![](imagenes-isg/InfluenciaNormativa.jpg)
+![](imagenes-conformismo/InfluenciaNormativa.jpg)
 
 <!--
-<div data-svg-fragment="imagenes-isg/influencia-normativa.svg#[*|label=capa1]" class="svg">
+<div data-svg-fragment="imagenes-conformismo/influencia-normativa.svg#[*|label=capa1]" class="svg">
   <a class="fragment" title="[*|label=capa2]"></a>
   <a class="fragment" title="[*|label=capa3]"></a>
   <a class="fragment" title="[*|label=capa4]"></a>
@@ -314,10 +314,10 @@ Innovación
 -->
 
 <!--
-##Normas en el "Bennington College" {data-background="imagenes-isg/Bennington.jpg" data-background-transition=zoom data-state=fondo}
+##Normas en el "Bennington College" {data-background="imagenes-conformismo/Bennington.jpg" data-background-transition=zoom data-state=fondo}
 
 ![Theodore Newcomb\
-1903-1984](imagenes-isg/Newcomb.jpg)
+1903-1984](imagenes-conformismo/Newcomb.jpg)
 -->
 
 ##"Miedo" a hablar
@@ -325,12 +325,12 @@ Innovación
 <div id="column1" style="float:left; margin:0; width:20%;">
 Pensamiento grupal
 
-![Irving Janis](imagenes-isg/Janis.png)
+![Irving Janis](imagenes-conformismo/Janis.png)
 </div>
 
 <div id="column1" style="float:left; margin:0; width:60%;">
 
-![](imagenes-isg/SpiralOfSilence.jpg)
+![](imagenes-conformismo/Silence.jpg)
 
 </div>
 
@@ -339,7 +339,7 @@ Pensamiento grupal
 <div id="column1" style="float:left; margin:0; width:20%;">
 Espiral del silencio
 
-![Elisabeth Noelle-Neumann](imagenes-isg/Noelle-Neumann.jpg)
+![Elisabeth Noelle-Neumann](imagenes-conformismo/Noelle-Neumann.jpg)
 </div>
 
 <!--
@@ -351,7 +351,7 @@ Tu bebé empieza a llorar a gritos. Le cubres la boca para amortiguar el sonido.
 @kundu_morality_2013
 ##
 
-![@kundu_morality_2013](imagenes-isg/Kundu-dilematic.png)
+![@kundu_morality_2013](imagenes-conformismo/Kundu-dilematic.png)
 -->
 
 
@@ -359,7 +359,7 @@ Tu bebé empieza a llorar a gritos. Le cubres la boca para amortiguar el sonido.
 
 ## La importancia de los grupos
 
-![](imagenes-isg/A61MillionVote.jpg)
+![](imagenes-conformismo/A61MillionVote.jpg)
 
 
 ##Influencia informativa referente
@@ -382,12 +382,12 @@ Tu bebé empieza a llorar a gritos. Le cubres la boca para amortiguar el sonido.
 
 ## Categorización e influencia
 
-![](imagenes-isg/Abrams-Wetherell-exp1.png)\
+![](imagenes-conformismo/Abrams-Wetherell-exp1.png)\
 @abrams_knowing_1990
 
 ## Categorización, anonimato e influencia
 
-![](imagenes-isg/Abrams-Wetherell-exp2.png)\
+![](imagenes-conformismo/Abrams-Wetherell-exp2.png)\
 @abrams_knowing_1990
 
 
@@ -396,7 +396,7 @@ Tu bebé empieza a llorar a gritos. Le cubres la boca para amortiguar el sonido.
 
 ##
 
-![](imagenes-isg/chickenprotest.jpg)
+![](imagenes-conformismo/Chickenprotest.jpg)
 
 
 ##Independencia

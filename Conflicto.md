@@ -1,20 +1,22 @@
 ---
-title:  'Influencia Social y Grupos'
+title:  'Conflicto'
 author:
 - name: Juan Muñoz
   affiliation: Universitat Autònoma de Barcelona
 tags: [Dinámicas, Conflicto, Identidad]
-tema: "Conflicto"
+tema: "Influencia Social y Grupos"
 url: "http:/juan.psicologiasocial.eu"
 bibliography: diapos.bib
 csl: apa.csl
 lateral-menu: 'True'
 ...
 
-##¿Qué es un conflicto?
+##¿Qué es un conflicto? {data-background="imagenes-conflicto/conflicto.jpg" data-background-transition=zoom data-state=fondo}
 
->Divergencia percibida de intereses o creencias que hace que las aspiraciones corrientes de las partes no puedan lograrse simultáneamente..\
-`Suares, 1996` {.autor}
+>Se calificará de "conflicto" una relación social en la medida en que la acción dentro de ella esté orientada intencionalmente a llevar a cabo la voluntad del actor contra la resistencia de la otra parte o partes.\
+@weber_economy_1978 [p. 38]
+
+# La lucha por los recursos  {.center}
 
 ##Teoría realista del conflicto
 
@@ -22,49 +24,40 @@ lateral-menu: 'True'
 * El conflicto aparece cuando dos grupos tienen intereses y metas mutuamente incompatibles: cuando un grupo alcanza su meta, el otro no puede alcanzarla.
 
 ![Muzafer Sheriff\
-(1906-1988)](imagenes-isg/Sherif.jpg)
+(1906-1988)](imagenes-conflicto/Sherif.jpg)
 
-##Robber's Cave
+##Robber's Cave {data-background="imagenes-conflicto/RobbersCave.jpg" data-background-transition=zoom data-state=fondo}
+
+. . .
 
 <div id="column1" style="float:left; margin:0; width:50%;">
-![Competición](imagenes-isg/RobbersCave-1.jpg)
+![Competición](imagenes-conflicto/RobbersCave-1.jpg)
 </div>
 
 <div id="column1" style="float:left; margin:0; width:50%;">
-![Interdependencia](imagenes-isg/RobbersCave-2.jpg)
+![Interdependencia](imagenes-conflicto/RobbersCave-2.jpg)
 </div>
 
 <!--
-##Tyerman y Spencer (1983)
+## Tyerman y Spencer (1983)
+
 -->
 
-##Teoría de la identidad Social
+# La lucha por la identidad  {.center}
 
->...la identidad social de un individuo va ligada al conocimiento de su pertenencia a ciertos grupos sociales y al significado emocional y valorativo resultante de esta pertenencia..\
-`Tajfel, 1972` {.autor}
+##Teoría de la identidad Social {data-background="imagenes-conflicto/SocialIdentity.jpg" data-background-transition=zoom}
 
-##
-
->El proceso de comparación social transforma las simples discriminaciones perceptivas o cognitivas en actitudes y acciones diferenciales que favorecen al propio grupo sobre los otros grupos. Motiva el aumento competitivo de criterios de diferenciación entre los grupos y otras estrategias aparte de la discriminación directa para conseguir la distintividad positiva"\
-`Turner, 1981, p. 82`{.autor}
+>.(...) la 'identidad social' de un individuo se halla relacionada con el conocimiento de su pertenencia a ciertos grupos sociales y con la significación emocional y valorativa que resulta de esa pertenencia.\
+@tajfel_categorizacion_1975 [p. 376]
 
 ##
 
-#### El conflicto aparece cuando se categoriza a las partes como representantes de diferentes grupos o identidades sociales.
+>El proceso de comparación social transforma las simples discriminaciones perceptivas o cognitivas en actitudes y acciones diferenciales que favorecen al propio grupo sobre el grupo externo. Motiva el aumento competitivo de criterios de diferenciación entre los grupos y otras estrategias además de la discriminación directa para conseguir una distintividad positiva"\
+@turner_experimental_1981 [p. 82]
 
-##Klee Kandisnly
+## Categorización - conflicto {data-background="imagenes-conflicto/categorizacion.jpg" data-background-transition=zoom}
 
-<div id="column1" style="float:left; margin:0; width:50%;">
-![](imagenes-isg/Klee.png)
-</div>
-
-<div id="column1" style="float:left; margin:0; width:50%;">
-![](imagenes-isg/Kandinsky.png)
-</div>
-
-##Grupo mínimo
-
-![](imagenes-isg/MatrizGrupoMinimo.png)
+#### El conflicto aparece cuando se categoriza a las partes como representantes de diferentes grupos o identidades sociales. {.fondoblanco}
 
 ##Efectos de la categorización
 
@@ -78,14 +71,29 @@ Hostilidad exogrupal
 
 :   Asumimos que los argumentos del otro grupo son peores.  Interpretamos su significado de acuerdo a la identidad exogrupal.
 
+##Klee - Kandisnly
+
+![](imagenes-conflicto/Klee-Kandinsky.png)
+
+##Grupo mínimo
+
+![](imagenes-conflicto/MatrizGrupoMinimo.png)
+
+
 ##Reducción del conflicto
 
 * Decategorización
 * Recategorización
-* Diferenciación intergrupal mútua
+* Diferenciación intergrupal mutua
+
+#### @turner_mutual_2010 {.autor}
 
 ## Strangers
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RZLmxxz8VAU" frameborder="0" allowfullscreen></iframe>
 
-`Strangers: http://www.youtube.com/watch?v=RZLmxxz8VAU`{.figcaption}
+[http://www.youtube.com/watch?v=RZLmxxz8VAU](http://www.youtube.com/watch?v=RZLmxxz8VAU)
+
+# Referencias {.center}
+
+##  {.scrollable}

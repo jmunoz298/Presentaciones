@@ -12,7 +12,7 @@ lateral-menu: 'True'
 ...
 
 
-# Elementos de definición {.center data-background="imagenes/concept.png" data-background-transition=zoom data-state=opacidad}
+# Elementos de definición {.center data-background="imagenes-APCS-1/Concept.png" data-background-transition=zoom data-state=opacidad}
 
 ##Colectivos
 
@@ -41,7 +41,7 @@ Multitudes activas
 
 ## Clasificación (Forsyth, 2010)
 
-![](imagenes/ClasificacionColectivos-2.png){.noshadow}
+![](imagenes-APCS-1/ClasificacionColectivos-2.png){.noshadow}
 
 
 <!--
@@ -60,14 +60,14 @@ Multitudes activas
 - Anómico
 -->
 
-##Concepto paraguas {data-background="imagenes/umbrella.jpg" data-background-transition=zoom data-state=opacidad}
+##Concepto paraguas {data-background="imagenes-APCS-1/Umbrella.jpg" data-background-transition=zoom data-state=opacidad}
 
 ####Fenómenos que caen fuera de la estructura social u orden establecido
 
 <!--
 ##Mapa conceptual {data-state=img-completa}
 
-![Mapa conceptual](imagenes/Mapa.png)
+![Mapa conceptual](imagenes-APCS-1/Mapa.png)
 
 -->
 
@@ -82,34 +82,34 @@ Multitudes activas
 
 ##Primavera de los pueblos
 
-![](imagenes/Europe_1848_map_en-lt.png)
+![](imagenes-APCS-1/Europe_1848_map_en-lt.png)
 
-## {data-background="imagenes/ComunaBarricadas.jpg" data-background-transition=fade data-state=fondo}
+## {data-background="imagenes-APCS-1/ComunaBarricadas.jpg" data-background-transition=fade data-state=fondo}
 
 . . .
 
 <div id="column1" style="float:left; margin:0; width:50%;">
 
-![Revolución febrero 1848](imagenes/Revolucion1848.jpg)
+![Revolución febrero 1848](imagenes-APCS-1/Revolucion1848.jpg)
 
 </div>
 
 <div id="column1" style="float:left; margin:0; width:50%;">
 
-![Barricadas rue Saint-Maur 25 junio de 1848](imagenes/Barricadas-1848.jpg)
+![Barricadas rue Saint-Maur 25 junio de 1848](imagenes-APCS-1/Barricadas-1848.jpg)
 
 </div>
 
-## La comuna {data-background="imagenes/ComunaBarricadas.jpg" data-background-transition=fade data-state=fondo}
+## La comuna {data-background="imagenes-APCS-1/ComunaBarricadas.jpg" data-background-transition=fade data-state=fondo}
 
 <div id="column2" style="float:left; margin:0; width:50%;">
 
-![](imagenes/Comuna.jpg "18 de marzo?")
+![](imagenes-APCS-1/Comuna.jpg "18 de marzo?")
 
 </div>
 <div id="column1" style="float:left; margin:0; width:50%;">
 
-![](imagenes/DecretoComuna.jpg "La Comuna de París")
+![](imagenes-APCS-1/DecretoComuna.jpg "La Comuna de París")
 
 </div>
 
@@ -117,7 +117,7 @@ Multitudes activas
 <div>
 
 <audio width="100"  class="stretch"  controls data-autoplay>
-<source src="multimedia/ElTempsDeLesCireres.mp3">
+<source src="imagenes-APCS-1/ElTempsDeLesCireres.mp3">
 </audio>
 </div>
 

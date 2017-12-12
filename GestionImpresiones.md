@@ -14,10 +14,10 @@ lateral-menu: 'True'
 
 ##La perspectiva dramatúrgica
 <video width="860" class="stretch" controls>
-<source src="multimedia/ErvingGoffmanAndThePerformedSelf-sub.mp4" type="video/mp4">
+<source src="imagenes-gestionimp/ErvingGoffmanAndThePerformedSelf-sub.mp4" type="video/mp4">
 </video>
 
-## {data-background="imagenes-isg/Mascaras.jpg" data-background-transition=zoom data-state=fondo}
+## {data-background="imagenes-gestionimp/Mascaras.jpg" data-background-transition=zoom data-state=fondo}
 
 . . .
 
@@ -26,20 +26,20 @@ lateral-menu: 'True'
 
 #### Organizamos estratégicamente nuestra propia actuación, los escenarios en los que la orquestamos, y los equipamientos que nos apoyan  para crear una impresión de nosotros mismos para presentar a un público. {.fondoblanco .transparencia}
 
-## {data-background="imagenes-isg/Mascaras.jpg" data-background-transition=zoom data-state=fondo}
-![](imagenes-isg/meetic.jpg)
+## {data-background="imagenes-gestionimp/Mascaras.jpg" data-background-transition=zoom data-state=fondo}
+![](imagenes-gestionimp/Meetic.jpg)
 
-## {data-background="imagenes-isg/Mascaras.jpg" data-background-transition=zoom data-state=fondo}
-![](imagenes-isg/FirstDates.jpg)
+## {data-background="imagenes-gestionimp/Mascaras.jpg" data-background-transition=zoom data-state=fondo}
+![](imagenes-gestionimp/FirstDates.jpg)
 
 ## Aprendiendo a actuar
 <video width="860" class="stretch" controls>
-<source src="multimedia/GranTorinoThaoPeluqueria.mp4" type="video/mp4">
+<source src="imagenes-gestionimp/GranTorinoThaoPeluqueria.mp4" type="video/mp4">
 </video>
 `Gran Torino: Tao en la peluquería` {.autor}\
 `http://www.dailymotion.com/video/x9i6tt`{.peque}
 
-##El escenario {data-background="imagenes-isg/Backstage.jpg" data-background-transition=zoom data-state=fondo}
+##El escenario {data-background="imagenes-gestionimp/Backstage.jpg" data-background-transition=zoom data-state=fondo}
 
 . . .
 
@@ -47,9 +47,9 @@ lateral-menu: 'True'
 
 ###El fondo o la región invisible para el público se utiliza para preparar la actuación de una rutina (rol) {.fondoblanco .transparencia}
 
-##Cibereespacio {data-background="imagenes-isg/social-media-fakery.jpg" data-background-transition=zoom data-state=fondo}
+##Cibereespacio {data-background="imagenes-gestionimp/SocialMediaFakery.jpg" data-background-transition=zoom data-state=fondo}
 
-## {data-background="imagenes-isg/face-save.jpg" data-background-transition=zoom data-state=fondo}
+## {data-background="imagenes-gestionimp/FaceSave.jpg" data-background-transition=zoom data-state=fondo}
 
 . . .
 
@@ -64,11 +64,11 @@ lateral-menu: 'True'
 ## Actuaciones fallidas: "salvar la cara"
 
 <video width="860" class="stretch" controls>
-<source src="multimedia/PlayItAgainSamBlindDate.mp4" type="video/mp4">
+<source src="imagenes-gestionimp/PlayItAgainSamBlindDate.mp4" type="video/mp4">
 </video>
 
 `Sueños de un seductor - Allan intenta seducir a una mujer` {.autor}\
 `https://www.youtube.com/watch?v=BTOqNc1AaIA` {.peque}
 
 
-##El "auténtico" yo {data-background="imagenes-isg/NoFaceBehindMask.jpg" data-background-transition=zoom data-state=fondo}
+##El "auténtico" yo {data-background="imagenes-gestionimp/NoFaceBehindMask.jpg" data-background-transition=zoom data-state=fondo}

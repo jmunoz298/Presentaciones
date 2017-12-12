@@ -43,15 +43,15 @@ Grupos
 
 ##Contacte
 
-|                        |                                                         |
-|:-----------------------|:--------------------------------------------------------|
-| ![](img/Direccion.png) | B5-034                                                  |
-| ![](img/Clock.png)     | Dilluns: 12:30-13:30                                    |
-|                        | Dilluns: 16:00-17:00                                    |
-|                        | [Cita previa: http://cita.uab.cat](http://cita.uab.cat) |
-| ![](img/Telefono.png)  | 93 581 2874                                             |
-| ![](img/Correo.png)    | juan.munoz@uab.cat                                      |
-| ![](img/Web.png)       | <http://juan.psicologiasocial.eu>                       |
+|                             |                                                         |
+|:----------------------------|:--------------------------------------------------------|
+| ![](imagenes/Direccion.png) | B5-034                                                  |
+| ![](imagenes/Clock.png)     | Dilluns: 12:30-13:30                                    |
+|                             | Dilluns: 16:00-17:00                                    |
+|                             | [Cita previa: http://cita.uab.cat](http://cita.uab.cat) |
+| ![](imagenes/Telefono.png)  | 93 581 2874                                             |
+| ![](imagenes/Correo.png)    | juan.munoz@uab.cat                                      |
+| ![](imagenes/Web.png)       | <http://juan.psicologiasocial.eu>                       |
 
 ##Para el próximo día...
 

@@ -11,9 +11,9 @@ csl: apa.csl
 lateral-menu: 'True'
 ...
 
-#Las teorías: Contagio  {data-background="imagenes/virus.jpg" data-background-transition=zoom data-state=opacidad}
+#Las teorías: Contagio  {data-background="imagenes-APCS-2/Virus.jpg" data-background-transition=zoom data-state=opacidad}
 
-##Teorías del contagio {data-background="imagenes/zombis.jpg" data-background-transition=fade data-state=fondo}
+##Teorías del contagio {data-background="imagenes-APCS-2/Zombis.jpg" data-background-transition=fade data-state=fondo}
 
 . . .
 
@@ -24,7 +24,7 @@ lateral-menu: 'True'
 
 <div id="column1" style="float:left; margin:0; width:25%;">
 
-![Sighele](imagenes/Sighele-Portada.gif "Sighele")
+![Sighele](imagenes-APCS-2/Sighele-Portada.jpg "Sighele")
 
 </div>
 
@@ -32,25 +32,25 @@ lateral-menu: 'True'
 
 <div id="column2" style="float:left; margin:0; width:25%;">
 
-![Le Bon](imagenes/LeBon-Portada.jpg "")
+![Le Bon](imagenes-APCS-2/LeBon-Portada.jpg "")
 
 </div>
 
 <div id="column3" style="float:left; margin:0; width:25%;">
 
-![Tarde](imagenes/Tarde-Portada.jpg "")
+![Tarde](imagenes-APCS-2/Tarde-Portada.jpg "")
 
 </div>
 
 <div id="column4" style="float:left; margin:0; width:25%;">
 
-![Freud](imagenes/Freud-Portada.jpg "")
+![Freud](imagenes-APCS-2/Freud-Portada.jpg "")
 
 </div>
 
 . . .
 
-![Ortega](imagenes/Ortega-Portada.jpg "")
+![Ortega](imagenes-APCS-2/Ortega-Portada.jpg "")
 
 ##Irracionales y malvadas
 
@@ -91,7 +91,7 @@ lateral-menu: 'True'
 | Sugestibilidad | Afloran los instintos primitivos, salvajes  |                                    |
 
 
-##El "filósofo español" {data-background="imagenes/Ortega-ElSol-1922-2-4.jpg" data-background-transition=zoom data-state=opacidad}
+##El "filósofo español" {data-background="imagenes-APCS-2/Ortega-ElSol-1922-2-4.jpg" data-background-transition=zoom data-state=opacidad}
 
 . . .
 
@@ -100,14 +100,14 @@ lateral-menu: 'True'
 > ¿Cuál es, pues, la condición suma? El reconocimiento de que la misión de las masas no es otra que seguir a los mejores, en vez de pretender suplantarlos. Y esto en todo orden y porción de la vida.\
 @ortega_y_gasset_espaninvertebrada:_2007
 
-## {data-background="imagenes/Ortega-ElSol-1929-10-24.jpg" data-background-transition=zoom data-state=opacidad}
+## {data-background="imagenes-APCS-2/Ortega-ElSol-1929-10-24.jpg" data-background-transition=zoom data-state=opacidad}
 
 . . .
 
 >Cuando la masa actúa por sí misma, lo hace sólo de una manera, porque no tiene otra: lincha. (...) Ni mucho menos podrá extrañar que ahora, cuando las masas triunfan, triunfe la violencia y se haga de ella la única ratio, la única doctrina.\
 @ortega_y_gasset_rebelion_1930 [, p. 118]
 
-#Convergencia {  data-background="imagenes/crowd.jpg" data-background-transition=zoom data-state=opacidad}
+#Convergencia {  data-background="imagenes-APCS-2/Crowd.jpg" data-background-transition=zoom data-state=opacidad}
 
 ##Individualismo
 
@@ -120,16 +120,16 @@ lateral-menu: 'True'
 @allport_social_1924 [, pp. 4 y 295]
 
 
-##  {data-background="imagenes/ClaudeNeal.jpg" data-background-transition=zoom data-state=opacidad}
+##  {data-background="imagenes-APCS-2/ClaudeNeal.jpg" data-background-transition=zoom data-state=opacidad}
 
 . . .
 
 <video width="800"  class="stretch" controls>
-<source src="multimedia/StrangeFruit-BillieHoliday-sub.mp4">
+<source src="imagenes-APCS-2/StrangeFruit-BillieHoliday-sub.mp4">
 </video>
 
 ##
-![Linchamientos](imagenes/Linchamientos.jpg)
+![Linchamientos](imagenes-APCS-2/Linchamientos.jpg)
 
 ## ¿Por qué?
 
@@ -163,31 +163,31 @@ Milgram i Toch (1969), estudian episodios de linchamientos en pequeñas ciudades
 
 <div id="column1" style="float:left; margin:0; width:50%;">
 
-![](imagenes/Ferguson-1.jpg)
+![](imagenes-APCS-2/Ferguson-1.jpg)
 
 </div>
 
 <div id="column1" style="float:left; margin:0; width:50%;">
 
-![](imagenes/Ferguson-2.jpg)
+![](imagenes-APCS-2/Ferguson-2.jpg)
 
 </div>
 
 <div id="column1" style="float:left; margin:0; width:50%;">
 
-![](imagenes/Ferguson-3.jpg)
+![](imagenes-APCS-2/Ferguson-3.jpg)
 
 </div>
 
 <div id="column1" style="float:left; margin:0; width:50%;">
 
-![](imagenes/Ferguson-4.jpg)
+![](imagenes-APCS-2/Ferguson-4.jpg)
 
 </div>
 
 `Disturbios en Ferguson, noviembre 2014`{.figcaption}
 
-#Teorías de la Crisis {data-background="imagenes/crisis.jpg" data-background-transition=zoom data-state=opacidad}
+#Teorías de la Crisis {data-background="imagenes-APCS-2/Crisis.jpg" data-background-transition=zoom data-state=opacidad}
 
 ##Privación relativa
 
@@ -197,14 +197,14 @@ Milgram i Toch (1969), estudian episodios de linchamientos en pequeñas ciudades
 
 ##La Teoría de la "Curva en J"
 
-![Teoría de la Curva en J](imagenes/JCurveDavies.png)
+![Teoría de la Curva en J](imagenes-APCS-2/JCurveDavies.jpg)
 
 ##Teoría del Valor Añadido
 
 <div id="column4" style="float:left; margin:0; width:50%;">
 
 ![Neil J. Smelser\
-1930-](imagenes/Smelser.jpg)
+1930-](imagenes-APCS-2/Smelser.jpg)
 
 </div>
 
@@ -212,7 +212,7 @@ Milgram i Toch (1969), estudian episodios de linchamientos en pequeñas ciudades
 <div id="column4" style="float:left; margin:0; width:50%;">
 
 ![Teoría de la Acción Colectiva\
-1962](imagenes/SmelserPortada.jpg)
+1962](imagenes-APCS-2/SmelserPortada.jpg)
 
 </div>
 -->
@@ -229,7 +229,7 @@ Milgram i Toch (1969), estudian episodios de linchamientos en pequeñas ciudades
 ##Un ejemplo: Universidad de Kent
 
 <video width="800"  class="stretch" controls>
-<source src="multimedia/KentState.mp4">
+<source src="imagenes-APCS-2/KentState.mp4">
 </video>
 
 Lewis, J. M. (1972). A Study of the Kent State Incident Using Smelser’s Theory of Collective Behavior. Sociological Inquiry, 42(2), 87–96.

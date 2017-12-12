@@ -11,7 +11,7 @@ csl: apa.csl
 lateral-menu: 'True'
 ...
 
-# ¿Quién es irracional? {data-background="imagenes/BloodySunday-bac.jpg" data-background-transition=fade data-state=fondo}
+# ¿Quién es irracional? {data-background="imagenes-APCS-3/BloodySunday-bac.jpg" data-background-transition=fade data-state=fondo}
 
 <!-- ##
 
@@ -19,11 +19,11 @@ lateral-menu: 'True'
 src="https://www.youtube.com/embed/1glfzAoHYiI">
 </iframe> -->
 
-## Domingo Sangriento {data-background="imagenes/BloodySunday-bac.jpg" data-background-transition=fade data-state=fondo}
+## Domingo Sangriento {data-background="imagenes-APCS-3/BloodySunday-bac.jpg" data-background-transition=fade data-state=fondo}
 
 <div id="column4" style="float:left; margin:0; width:70%;">
   <video width="600"   controls>
-    <source src="multimedia/SundayBloodySunday.mp4">
+    <source src="imagenes-APCS-3/SundayBloodySunday.mp4">
   </video>
 
 `https://www.youtube.com/watch?v=vkOpgr1ElXg`{.fondoblanco}
@@ -32,14 +32,14 @@ src="https://www.youtube.com/embed/1glfzAoHYiI">
 
 <div id="column4" style="float:left; margin:0; width:30%;">
   ![Domingo Sangriento\
-  Paul Greengrass (2002)](imagenes/BloodySunday.jpg  "Domingo Sangriento")
+  Paul Greengrass (2002)](imagenes-APCS-3/BloodySunday.jpg  "Domingo Sangriento")
 </div>
 
 <div style="clear:both"></div>
 
 #### Ver: @o_dochartaigh_bloody_2010{.fondoblanco}
 
-# Teoría de la Norma Emergente {data-background="imagenes/group-talking.jpg" data-background-transition=fade data-state=fondo}
+# Teoría de la Norma Emergente {data-background="imagenes-APCS-3/GroupTalking.jpg" data-background-transition=fade data-state=fondo}
 
 <!--
 ## Influencias: Interaccionismo simbólico
@@ -53,7 +53,7 @@ src="https://www.youtube.com/embed/1glfzAoHYiI">
 ## Influencias: Park y Blumer
 
 <div id="column1" style="float:left; margin:0; width:30%;">
-![Robert E. Park (1864-1944)](imagenes/Park.png)
+![Robert E. Park (1864-1944)](imagenes-APCS-3/Park.png)
 </div>
 
 <div id="column1" style="float:left; margin:0; width:35%;">
@@ -65,7 +65,7 @@ Excitación colectiva
 </div>
 
 <div id="column1" style="float:left; margin:0; width:35%;">
-![Herbert Blumer (1900-1987)](imagenes/Blumer.jpg)
+![Herbert Blumer (1900-1987)](imagenes-APCS-3/Blumer.jpg)
 </div>
 -->
 
@@ -104,7 +104,7 @@ Park y Burges, 1921, p. 865
 
 ## Norma emergente: Principios
 
-![Ralph H. Turner y Lewis M. Killian 1957](imagenes/PortadaTurnerKillian.jpg)
+![Ralph H. Turner y Lewis M. Killian 1957](imagenes-APCS-3/PortadaTurnerKillian.jpg)
 
 <!--
 * Una apuesta por la diferenciación interna de las multitudes, que invalida las teorías del contagio y de la convergencia
@@ -135,21 +135,21 @@ Park y Burges, 1921, p. 865
 
 ## El proceso
 
-![](imagenes/NormaEmergente-proceso.png){.noshadow}
+![](imagenes-APCS-3/NormaEmergente-proceso.png){.noshadow}
 
-# Identidad Social {data-background="imagenes/group.jpg" data-background-transition=fade data-state=fondo}
+# Identidad Social {data-background="imagenes-APCS-3/Group.jpg" data-background-transition=fade data-state=fondo}
 
 ##Teoría de la Identidad Social
 
 <div id="column4" style="float:left; margin:0; width:50%;">
 
-![Stephen Reicher](imagenes/Reicher.jpg)
+![Stephen Reicher](imagenes-APCS-3/Reicher.jpg)
 
 </div>
 
 <div id="column4" style="float:left; margin:0; width:50%;">
 
-![](imagenes/Turner-Portada.jpg)
+![](imagenes-APCS-3/Turner-Portada.jpg)
 
 </div>
 
@@ -163,10 +163,10 @@ Park y Burges, 1921, p. 865
 * Los miembros de la masa actúan en términos de una identidad social común.
 * El contenido de la conducta de la masa estará limitado por la naturaleza de la categoría a la que pertenecen.
 
-## Los disturbios de St. Pauls {data-background="imagenes/SaintPauls-back.jpg" data-background-transition=fade data-state=fondo}
+## Los disturbios de St. Pauls {data-background="imagenes-APCS-3/SaintPauls-back.jpg" data-background-transition=fade data-state=fondo}
 
 <video   class="stretch" controls data-autoplay>
-  <source src="multimedia/St_Pauls_Uprising_Bristol_1980.mp4">
+  <source src="imagenes-APCS-3/St_Pauls_Uprising_Bristol_1980.mp4">
 </video>
 
 ###### <https://www.youtube.com/watch?v=Wdyo16VMhIQ>{.fondoblanco}
@@ -174,30 +174,30 @@ Park y Burges, 1921, p. 865
 @reicher_disturbios_1989
 
 <!--
-##Los disturbios de St. Pauls {data-background="imagenes/SaintPauls-back.jpg" data-background-transition=fade data-state=fondo}
+##Los disturbios de St. Pauls {data-background="imagenes-APCS-3/SaintPauls-back.jpg" data-background-transition=fade data-state=fondo}
 
 <div id="column1" style="float:left; margin:0; width:50%;">
 
-![](imagenes/SaintPauls-01.jpg)
+![](imagenes-APCS-3/SaintPauls-01.jpg)
 
 </div>
 
 <div id="column2" style="float:left; margin:0; width:50%;">
 
-![](imagenes/SaintPauls-05.jpg)
+![](imagenes-APCS-3/SaintPauls-05.jpg)
 
 </div>
 
 <div id="column1" style="float:left; margin:0; width:100%;">
   <video   class="stretch" controls data-autoplay>
-    <source src="multimedia/St_Pauls_Uprising_Bristol_1980.mp4">
+    <source src="imagenes-APCS-3/St_Pauls_Uprising_Bristol_1980.mp4">
   </video>
 
 ###### <https://www.youtube.com/watch?v=Wdyo16VMhIQ>{.figcaption}
 </div>
 
 <div id="column2" style="float:left; margin:0; width:50%;">
-  ![](imagenes/SaintPauls-06.jpg)
+  ![](imagenes-APCS-3/SaintPauls-06.jpg)
 </div>
 -->
 
@@ -220,7 +220,7 @@ Park y Burges, 1921, p. 865
 Teoría de la Identidad, categorización y comparación social
 
 ![Henri Tajfel\
-1919-1982](imagenes/Tajfel.jpg)
+1919-1982](imagenes-APCS-3/Tajfel.jpg)
 
 </div>
 
@@ -229,7 +229,7 @@ Teoría de la Identidad, categorización y comparación social
 Teoría de la autocategorización
 
 ![John C. Turner\
-1947-2011](imagenes/TurnerJ.jpg)
+1947-2011](imagenes-APCS-3/TurnerJ.jpg)
 
 </div>
 -->
@@ -268,26 +268,26 @@ Hipótesis 3
 
 >* Cuando una multitud hetereogénea es tratada de forma homogénea como una totalidad, se produce un cambio, una reconceptualización de los miembros redefiniéndose como una categoría común.
 
-## La batalla de Westminster (24-11-1998) {data-background="imagenes/BattleOfWestminster.jpg" data-background-transition=fade data-state=opacidad}
+## La batalla de Westminster (24-11-1998) {data-background="imagenes-APCS-3/BattleOfWestminster.jpg" data-background-transition=fade data-state=opacidad}
 
 . . .
 
 <div id="column1" style="float:left; margin:0; width:50%;">
 
-![](imagenes/westminster-1998-1.jpg)
+![](imagenes-APCS-3/Westminster-1998-1.jpg)
 
 </div>
 
 <div id="column2" style="float:left; margin:0; width:50%;">
 
-![](imagenes/westminster-1998-3.jpg)
+![](imagenes-APCS-3/Westminster-1998-3.jpg)
 
 </div>
 
 
 
 <video width="350"  class="stretch" controls>
-<source src="multimedia/Westminster-Student-Demonstration-1988.mp4">
+<source src="imagenes-APCS-3/Westminster-Student-Demonstration-1988.mp4">
 </video>
 
 ###### <https://www.youtube.com/watch?v=S1hOoM_93Bo>{.figcaption}
@@ -299,7 +299,7 @@ Hipótesis 3
 
 ## La visión de la policía
 
-![Diagrama de relación entre variables. @drury_role_2003](imagenes/Drury-Role-PathDiagram.png)
+![Diagrama de relación entre variables. @drury_role_2003](imagenes-APCS-3/Drury-Role-PathDiagram.png)
 
 
 <!--
@@ -329,26 +329,26 @@ Hipótesis 3
 
 <div id="column1" style="float:left; margin:0; width:50%;">
 
-![](imagenes/poll_tax_1990-1.jpg)
+![](imagenes-APCS-3/Poll_tax_1990-1.jpg)
 
 </div>
 
 <div id="column2" style="float:left; margin:0; width:50%;">
 
-![](imagenes/poll_tax_1990-2.jpg)
+![](imagenes-APCS-3/Poll_tax_1990-2.jpg)
 
 </div>
 
 <div id="column3" style="float:left; margin:0; width:50%;">
 
-![](imagenes/poll_tax_1990-3.jpg )
+![](imagenes-APCS-3/Poll_tax_1990-3.jpg )
 
 </div>
 
 <div id="column4" style="float:left; margin:0; width:50%;">
 
 <video width="400"  class="stretch" controls>
-<source src="multimedia/PollTaxRiot1990.mp4">
+<source src="imagenes-APCS-3/PollTaxRiot1990.mp4">
 </video>
 
 ###### <https://www.youtube.com/watch?v=R3nYGoppmoA>{.figcaption}
@@ -356,16 +356,16 @@ Hipótesis 3
 
 ## ¿Y qué pasa con los hooligans?
 
-![](imagenes/violencia-futbol.jpg)
+![](imagenes-APCS-3/ViolenciaFutbol.jpg)
 
 ## Violencia fútbol
 
-!["Tragedia de Heysel" - 29 de mayo de 1985](imagenes/heysel.jpg)
+!["Tragedia de Heysel" - 29 de mayo de 1985](imagenes-APCS-3/Heysel.jpg)
 
 ##Port Said (1-2-2012)
 
 <video  class="stretch" controls>
-<source src="multimedia/PortSaid.mp4">
+<source src="imagenes-APCS-3/PortSaid.mp4">
 </video>
 
 ######<https://www.youtube.com/watch?v=1mUd9vW4NnU>{.figcaption}
@@ -373,7 +373,7 @@ Hipótesis 3
 ## Hillsborough (15-4-1989)
 
 <video  class="stretch" controls>
-<source src="multimedia/FiebreMaldiniLaTragediaDeHillsborough.mp4">
+<source src="imagenes-APCS-3/FiebreMaldiniLaTragediaDeHillsborough.mp4">
 </video>
 
 ###### <https://www.youtube.com/watch?v=iORjkuClnMo>{.figcaption}

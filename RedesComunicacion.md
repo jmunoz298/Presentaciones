@@ -1,26 +1,17 @@
 ---
-title:  'Influencia Social y Grupos'
+title:  'Redes de comunicación'
 author:
 - name: Juan Muñoz
   affiliation: Universitat Autònoma de Barcelona
 tags: [Comunicación, Redes sociales]
-tema: "Redes de comunicación"
+tema: "Influencia Social y Grupos"
 url: "http:/juan.psicologiasocial.eu"
 bibliography: diapos.bib
 csl: apa.csl
 lateral-menu: 'True'
 ...
 
-
-## Dilema del prisionero
->Dada la enorme recompensa ofrecida y el pleno perdón que se concede por toda declaración probatoria, no cabe imaginar un solo instante que algún miembro de una pandilla de miserables criminales —o de cualquier pandilla— no haya traicionado hace rato a sus cómplices. En una pandilla colocada en esa situación, cada uno de sus miembros no está tan ansioso de recompensa o de impunidad, como temeroso de ser traicionado. Se apresura a delatar lo antes posible, a fin de no ser delatado a su turno. \
-`Edgard Allan Poe, El misterio de Marie Rogêt`{.autor}
-
-##
-![Dilema del prisionero](imagenes-isg/DilemaDelPrisionero.png)
-
-
-## Comunicación
+## Comunicación {data-background="imagenes-redes-com/comunicacion.jpg" data-background-transition=zoom data-state=fondo}
 
 >La comunicación es la base de toda interacción humana y del funcionamiento del grupo. Nuestra vida cotidiana está llena de una experiencia de comunicación tras otra. Es a través de la comunicación que interactúan los miembros del grupo, y una comunicación eficaz es un requisito previo para todos los aspectos de funcionamiento del grupo.\
 @johnson_joining_2014 [116]
@@ -39,30 +30,44 @@ Leavitt, H.J. (1951). Some effects of certain communication patterns on group pe
 
 -->
 
-## Comunicación: Redes
+## Comunicación: Redes {data-background="imagenes-redes-com/red-comunicacion.jpg" data-background-transition=zoom data-state=fondo}
 >¿Podría ocurrir que entre varios patrones de comunicación —todos lógicamente adecuados a completar con éxito una tarea especificada— uno permitiera mejor ejecución que otro? ¿Qué efectos tendrá el patrón, como tal, sobre el surgimiento del liderazgo, el desarrollo de la organización y el grado de resistencia a la ruptura del grupo?\
 @bavelas_communication_1950 [726]
 
 ## Eficacia
 
-![](imagenes-grupos/Redes-eficacia.jpg)
+![Niveles de eficacia en función del tipo de red](imagenes-redes-com/Redes-eficacia.jpg)
 
 ## liderazgo
-![](imagenes-grupos/Redes-Liderazgo.png)
+![](imagenes-redes-com/Redes-Liderazgo.png)
 
 ## Satisfacción con la tarea
-![](imagenes-grupos/Redes-Satisfaccion.png)
+![](imagenes-redes-com/Redes-Satisfaccion.png)
 
 ## Efecto del tipo de tarea
 
 |                  | Tareas simples  | Tareas complejas |
 |:-----------------|:----------------|:-----------------|
-| Menos mensajes   | Centralizada    | Centralizada     |
-| Menos tiempo     | Centralizada    | Descentralizada  |
-| Menos errores    | Centralizada    | Descentralizada  |
-| Más satisfacción | Descentralizada | Descentralizada  |
+| Mensajes (-)     | Centralizada    | Centralizada     |
+| Tiempo (-)       | Centralizada    | Descentralizada  |
+| Errores (-)      | Centralizada    | Descentralizada  |
+| Satisfacción (+) | Descentralizada | Descentralizada  |
+: Eficacia en función de la complejidad de la tarea
 
-## Conceptos explicativos: Saturación
+## Conceptos explicativos
+
+<div id="column2" style="float:left; margin:0; width:50%;">
+![Independencia](imagenes-redes-com/ajedrez-peones.jpg)
+</div>
+
+. . .
+
+<div id="column2" style="float:left; margin:0; width:50%;">
+![Saturación](imagenes-redes-com/saturacion-2.jpg)
+</div>
+
+
+<!-- ## Conceptos explicativos: Saturación
 
 <div id="column2" style="float:left; margin:0; width:25%;">
 ![Saturación](img/WorkLoad.png)
@@ -81,16 +86,18 @@ Leavitt, H.J. (1951). Some effects of certain communication patterns on group pe
 >En resumen, entonces, consideramos que la centralidad determina el comportamiento al limitar la independencia de acción, lo que produce diferencias en la actividad, la precisión, la satisfacción, el liderazgo y otras características de comportamiento.\
 @leavitt_effects_1951 [49]
 
-</div>
+</div> -->
 
 ## Redes sociales
 
-. . .
+>Desde el punto de vista del análisis de las redes sociales, el entorno social puede expresarse como patrones o regularidades en las relaciones entre las unidades que interactúan. Nos referiremos a la presencia de patrones regulares en la relación como estructura.\
+@wasserman_social_1994 [3]
 
+<!--
 >La idea de red reside en el hecho de que cada individuo mantiene ligamenes con otros individuos, cada uno de los cuales está a su vez ligado a otros, y así sucesivamente.  La estructura relacional de un grupo (...) consiste en las pautas de relaciones entre los actores.\
-@rodriguez_alisis_1995 [11]
+@rodriguez_alisis_1995 [11] -->
 
-## Nodos y relaciones
+## Nodos y relaciones {data-background="imagenes-redes-com/red.jpg" data-background-transition=zoom }
 
 <div id="column1" style="float:left; margin:0; width:25%">
 
@@ -106,7 +113,7 @@ Empresas
 </div>
 
 <div id="column3" style="float:left; margin:0;">
-![](imagenes-grupos/Red.jpg)
+<!-- ![](imagenes-redes-com/Red.jpg) -->
 </div>
 
 
@@ -129,16 +136,19 @@ Empresas
 ## Ejemplo: Grupo de trabajadores {.peque}
 
 <div id="column2" style="float:left; margin:0; width: 100%">
-![@roethlisberger_management_1939 [507]](imagenes-grupos/ManagementAndTheWorkerNetwork.jpg)
+![@roethlisberger_management_1939 [507]](imagenes-redes-com/ManagementAndTheWorkerNetwork.jpg)
 </div>
 `Western Electric Company, Hawthorne`
 
-## Ejemplo: Relaciones románticas
-![@bearman_chains_2002 [58]](imagenes-grupos/RomanticRelationships.jpg)
+## Ejemplo: Relaciones románticas {data-transition=fade}
+![@bearman_chains_2002 [58]](imagenes-redes-com/RomanticRelationships.jpg)
+
+## Ejemplo: Relaciones románticas {data-transition=fade}
+![@bearman_chains_2002 [58]](imagenes-redes-com/RomanticRelationships-2.png)
 
 ## Ejemplo: Red de coautorías
 
-![Red de coautorías de 8.500 nodos y 60.000 relaciones](imagenes-grupos/BigNetwork.jpg)
+![Red de coautorías de 8.500 nodos y 60.000 relaciones](imagenes-redes-com/BigNetwork.jpg)
 
 <!--
 Co-authorship network map of 8,500 doctors and scientists publishing on hepatitis C between 2008 and 2012 and the almost 60,000 co-authorship relationships between them. Photo via Andy Lamb: https://www.flickr.com/photos/speedoflife/8273922515/
@@ -163,15 +173,18 @@ Eigenvector
   : Grado en que un nodo está conectado con otros nodos con alto grado (bien conectados).
 
 ## Centralidad
-![@krackhardt_assessing_1990 [351]](imagenes-grupos/Red-centralidad.jpg)
+![@krackhardt_assessing_1990 [351]](imagenes-redes-com/Red-centralidad.jpg)
 
 
+##  {data-background="imagenes-redes-com/airports-world-network.png" data-background-transition=zoom }
+
+<!-- http://www.martingrandjean.ch/wp-content/uploads/2016/05/airports-world-network.png -->
 
 ## La fuerza de los lazos débiles
 
 <div id="column1" style="float:left; width: 100%">
 
-![](imagenes-grupos/Red-lazos.jpg)
+![](imagenes-redes-com/Red-lazos.jpg)
 
 </div>
 . . .
@@ -182,29 +195,30 @@ Eigenvector
 @granovetter_fuerza_2003 [205]
 </div>
 
+
 ## El mundo es un pañuelo
 
 <div id="column1" style="float:left; width: 30%">
-![](imagenes-grupos/Milgram.jpg)
+![](imagenes-redes-com/Milgram.jpg)
 </div>
 
 <div id="column3" style="float:right;  width: 35%">
-![](imagenes-grupos/Small-World-09.png)
+![](imagenes-redes-com/Small-World-09.png)
 </div>
 
 <div id="column2" style="float:right; width: 35%">
-![](imagenes-grupos/Small-World-01.png)
+![](imagenes-redes-com/Small-World-01.png)
 </div>
 
 . . .
 
 <div id="column1" style="float:left; margin:0; width: 100%">
 
-![[El oráculo de Bacon](http://www.oracleofbacon.org/)](imagenes-grupos/SixDegrees.jpg)
+![[El oráculo de Bacon](http://www.oracleofbacon.org/)](imagenes-redes-com/SixDegrees.jpg)
 
 </div>
 
 
-#Referencias
+#Referencias {.center}
 
-## {.scrollable}
+## {.scrollable .peque}
