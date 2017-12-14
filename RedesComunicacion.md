@@ -146,9 +146,14 @@ Empresas
 ## Ejemplo: Relaciones románticas {data-transition=fade}
 ![@bearman_chains_2002 [58]](imagenes-redes-com/RomanticRelationships-2.png)
 
+##  {data-background="imagenes-redes-com/airports-world-network.png" data-background-transition=zoom }
+
+<!-- http://www.martingrandjean.ch/wp-content/uploads/2016/05/airports-world-network.png -->
+
+<!--
 ## Ejemplo: Red de coautorías
 
-![Red de coautorías de 8.500 nodos y 60.000 relaciones](imagenes-redes-com/BigNetwork.jpg)
+![Red de coautorías de 8.500 nodos y 60.000 relaciones](imagenes-redes-com/BigNetwork.jpg) -->
 
 <!--
 Co-authorship network map of 8,500 doctors and scientists publishing on hepatitis C between 2008 and 2012 and the almost 60,000 co-authorship relationships between them. Photo via Andy Lamb: https://www.flickr.com/photos/speedoflife/8273922515/
@@ -176,9 +181,6 @@ Eigenvector
 ![@krackhardt_assessing_1990 [351]](imagenes-redes-com/Red-centralidad.jpg)
 
 
-##  {data-background="imagenes-redes-com/airports-world-network.png" data-background-transition=zoom }
-
-<!-- http://www.martingrandjean.ch/wp-content/uploads/2016/05/airports-world-network.png -->
 
 ## La fuerza de los lazos débiles
 
@@ -195,28 +197,31 @@ Eigenvector
 @granovetter_fuerza_2003 [205]
 </div>
 
-
 ## El mundo es un pañuelo
 
-<div id="column1" style="float:left; width: 30%">
-![](imagenes-redes-com/Milgram.jpg)
-</div>
+![](imagenes-redes-com/Small-World.png)
 
-<div id="column3" style="float:right;  width: 35%">
-![](imagenes-redes-com/Small-World-09.png)
-</div>
 
-<div id="column2" style="float:right; width: 35%">
-![](imagenes-redes-com/Small-World-01.png)
+## Seis grados de separación
+
+<div id="column1" style="float:left; margin:0; width: 55%">
+![[El oráculo de Bacon](http://www.oracleofbacon.org/)](imagenes-redes-com/SixDegrees.jpg)
 </div>
 
 . . .
 
-<div id="column1" style="float:left; margin:0; width: 100%">
-
-![[El oráculo de Bacon](http://www.oracleofbacon.org/)](imagenes-redes-com/SixDegrees.jpg)
-
+<div id="column1" style="float:left; margin:0; width: 45%">
+![](imagenes-redes-com/KevinBacon.jpg)
 </div>
+
+##
+
+<video width="860" class="stretch" controls>
+<source src="imagenes-redes-com/BewareOnlineFilterBubbles-2011.mp4" type="video/mp4">
+</video>
+`Eli Pariser: Beware online "filter bubbles"` {.autor}\
+`https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles?language=es
+`{.peque}
 
 
 #Referencias {.center}
