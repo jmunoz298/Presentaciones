@@ -4,23 +4,32 @@
 Influencia social y grupos
 --------------------------
 
--   Conformismo (Septiembre 2016) ([HTML](Conformismo.html) | [PDF](Conformismo.pdf))
--   Obediencia (Septiembre 2016) ([HTML](Obediencia.html) | [PDF](Obediencia.pdf))
+- Conformismo (Septiembre 2017) ([HTML](Conformismo.html) | [PDF](Conformismo.pdf))
+- Obediencia (Septiembre 2017) ([HTML](Obediencia.html) | [PDF](Obediencia.pdf))
+- Desobediencia (Octubre 2017) ([HTML](Desobediencia.html) | [PDF](Desobediencia.pdf))
+
+Dinámicas
+---------
+
+- Autopresentación (noviembre 2017) ([HTML](GestionImpresiones.html) | [PDF](GestionImpresiones.pdf))
+- Liderazgo
+- Decisiones (noviembre 2017) ([HTML](Decisiones.html) | [PDF](Decisiones.pdf))
+- Redes comunicación (diciembre 2017) ([HTML](RedesComunicacion.html) | [PDF](RedesComunicacion.pdf))
+- Conflicto (diciembre 2017) ([HTML](Conflicto.html) | [PDF](Conflicto.pdf))
 
 Acción Pública y cambio social
 ------------------------------
 
--   Primera parte ([HTML](APCS-1.html) | [PDF](APCS-1.pdf))
--   Segunda parte ([HTML](APCS-2.html) | [PDF](APCS-2.pdf))
+- Primera parte (febrero 2017) ([HTML](APCS-1.html) | [PDF](APCS-1.pdf))
+- Segunda parte (febrero 2017) ([HTML](APCS-2.html) | [PDF](APCS-2.pdf))
+- Tercera parte (marzo 2017) ([HTML](APCS-3.html) | [PDF](APCS-3.pdf))
 
 Análisis temático
 -----------------
 
--   Análisis temático (Septiembre 2016) ([HTML](AnalisisTematico.html) | [PDF](AnalisisTematico.pdf))
+- Análisis temático (Septiembre 2017) ([HTML](AnalisisTematico.html) | [PDF](AnalisisTematico.pdf))
 
-Grupos en Psicología Social
----------------------------
-- Grupos en Psicología Social (Octubre 2016) ([HTML](GruposEnPS.html) | [PDF](GruposEnPS.pdf)
+
 
 Cómo verlas
 ===========

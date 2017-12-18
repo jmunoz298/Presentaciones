@@ -24,7 +24,7 @@ lateral-menu: 'True'
 > Las acciones de un grupo de personas que responden de manera similar a un evento o situación, incluyendo personas que ocupan el mismo lugar (una multitud), así como fenómenos de masas en los que los individuos están dispersos en una amplia área (Movimientos colectivos).\
 @forsyth_group_2010 [, p. 502]
 
-## Clasificación @blumer_collective_1939
+## Clasificación  {.peque}
 
 Multitud ocasional (casual)
 : temporal, poco organizada, y mínima emocionalidad. Si comparten algún interés este es menor y temporal.
@@ -38,6 +38,7 @@ Multitudes expresivas
 Multitudes activas
 : realizan alguna acción hacia un objetivo. Se concentra intensamente en algún objetivo y se involucra en un comportamiento activo para lograrlo.
 
+#### @blumer_collective_1939 {.autor}
 
 ## Clasificación (Forsyth, 2010)
 
@@ -62,7 +63,7 @@ Multitudes activas
 
 ##Concepto paraguas {data-background="imagenes-APCS-1/Umbrella.jpg" data-background-transition=zoom data-state=opacidad}
 
-####Fenómenos que caen fuera de la estructura social u orden establecido
+####Fenómenos que caen fuera de la estructura social u orden establecido {.fondoblanco}
 
 <!--
 ##Mapa conceptual {data-state=img-completa}
@@ -121,9 +122,11 @@ Multitudes activas
 </audio>
 </div>
 
-`El temps de les cireres`{.autor}
+#### @gine_temps_1984 {.autor}
 
-##Preguntas {data-state=opacidad}
+<!-- `El temps de les cireres`{.autor} -->
+
+##Preguntas
 
 * ¿Quiénes eran los participantes en las acciones de masas?
 * ¿Cómo se explicaba que ciudadanos habitualmente respetuosos de las leyes se involucren en actos perturbadores del orden social?
