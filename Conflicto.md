@@ -26,7 +26,7 @@ lateral-menu: 'True'
 ![Muzafer Sheriff\
 (1906-1988)](imagenes-conflicto/Sherif.jpg)
 
-##Robber's Cave {data-background="imagenes-conflicto/RobbersCave.jpg" data-background-transition=zoom data-state=fondo}
+##Robber's Cave {data-background="imagenes-conflicto/RobbersCave.jpg" data-background-transition=zoom data-state=fondo }
 
 . . .
 
@@ -37,6 +37,8 @@ lateral-menu: 'True'
 <div id="column1" style="float:left; margin:0; width:50%;">
 ![Interdependencia](imagenes-conflicto/RobbersCave-2.jpg)
 </div>
+
+#### @sherif_experiments_1956 {.autor}
 
 <!--
 ## Tyerman y Spencer (1983)
@@ -91,6 +93,8 @@ Hostilidad exogrupal
 ## Strangers
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RZLmxxz8VAU" frameborder="0" allowfullscreen></iframe>
+
+#### @tadmor_strangers_2003 {.autor}
 
 [http://www.youtube.com/watch?v=RZLmxxz8VAU](http://www.youtube.com/watch?v=RZLmxxz8VAU)
 

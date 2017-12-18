@@ -133,12 +133,9 @@ Empresas
 
 </div>
 
-## Ejemplo: Grupo de trabajadores {.peque}
+## Ejemplo: Western Electric
 
-<div id="column2" style="float:left; margin:0; width: 100%">
 ![@roethlisberger_management_1939 [507]](imagenes-redes-com/ManagementAndTheWorkerNetwork.jpg)
-</div>
-`Western Electric Company, Hawthorne`
 
 ## Ejemplo: Relaciones románticas {data-transition=fade}
 ![@bearman_chains_2002 [58]](imagenes-redes-com/RomanticRelationships.jpg)
@@ -146,9 +143,11 @@ Empresas
 ## Ejemplo: Relaciones románticas {data-transition=fade}
 ![@bearman_chains_2002 [58]](imagenes-redes-com/RomanticRelationships-2.png)
 
-##  {data-background="imagenes-redes-com/airports-world-network.png" data-background-transition=zoom }
+##  {data-background="imagenes-redes-com/airports-world-network.png" data-background-transition=zoom}
 
 <!-- http://www.martingrandjean.ch/wp-content/uploads/2016/05/airports-world-network.png -->
+
+@grandjean_connected_2016
 
 <!--
 ## Ejemplo: Red de coautorías
@@ -201,6 +200,7 @@ Eigenvector
 
 ![](imagenes-redes-com/Small-World.png)
 
+@milgram_small_1967
 
 ## Seis grados de separación
 
@@ -219,9 +219,8 @@ Eigenvector
 <video width="860" class="stretch" controls>
 <source src="imagenes-redes-com/BewareOnlineFilterBubbles-2011.mp4" type="video/mp4">
 </video>
-`Eli Pariser: Beware online "filter bubbles"` {.autor}\
-`https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles?language=es
-`{.peque}
+
+#### @pariser_cuidado_2011 {.autor}
 
 
 #Referencias {.center}
