@@ -1,5 +1,19 @@
+---
+css: index.css
+---
+
+<!-- genera con: pandoc -s index.md -o index.html -->
+
 Índice de presentaciones docentes
-=================================
+===================================
+
+```
+Juan Muñoz Justicia
+Departament de Psicologia Social
+Universitat Autònoma de Barcelona
+```
+
+Archivos fuente en: [https://github.com/jmunoz298/Presentaciones](https://github.com/jmunoz298/Presentaciones)
 
 Influencia social y grupos
 --------------------------
@@ -56,5 +70,6 @@ software libre
 -   [Atom](https://atom.io/): El editor de texto.
 -   [Reveal.js-menu:
     Menú lateral.](https://github.com/denehyg/reveal.js-menu)
+-   [Reveal.js-chalkboard: Pizarra](https://github.com/rajgoel/reveal.js-plugins/tree/master/chalkboard)
 -   GitHub: Donde está alojada la página
 -   Inkscape: Parte de los gráficos (animados) en formato SVG.
