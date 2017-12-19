@@ -11,6 +11,8 @@ csl: apa.csl
 lateral-menu: 'True'
 ...
 
+<!-- Nota: En la parte final hay diapos ocultas (de cualquier parte de la presentación) -->
+
 #Introducción {.center data-background="imagenes-cuali/introduction-2.jpg" data-background-transition=zoom data-state=opacidad}
 
 ##CAQDAS
@@ -613,9 +615,9 @@ Por grupos, categorizar el aula
 <!--
 Volver a informes. Queremos obtener informes de...
 (cuidado si antes se han visto las agrupaciones de códigos)
+-->
 
 ![](imagenes/atlas-8/Autocoding-00.png)
--->
 
 ##Ejercicio autocodificación
 
@@ -956,4 +958,10 @@ Copiar carpeta donde estén UH y documentos
 ![](img/working-03.png){.noshadow}
 
 >* Explorar diferentes tipos de informes: Documentos, Códigos, Memos...
+
+##Ejercicio: Relaciones "Question type"
+
+![](imagenes-cuali/Evasion.png){.noshadow}
+
+
 -->
