@@ -26,7 +26,7 @@ Dinámicas
 ---------
 
 - Autopresentación (noviembre 2017) ([HTML](GestionImpresiones.html) | [PDF](GestionImpresiones.pdf))
-- Liderazgo
+- Liderazgo (noviembre 2017) ([HTML](Liderazgo.html) | [PDF](Lideerazgo.pdf))
 - Decisiones (noviembre 2017) ([HTML](Decisiones.html) | [PDF](Decisiones.pdf))
 - Redes comunicación (diciembre 2017) ([HTML](RedesComunicacion.html) | [PDF](RedesComunicacion.pdf))
 - Conflicto (diciembre 2017) ([HTML](Conflicto.html) | [PDF](Conflicto.pdf))

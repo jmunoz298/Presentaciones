@@ -43,7 +43,7 @@ lateral-menu: 'True'
   <source src="imagenes-liderazgo/EstilosDeLiderazgo.mp4" type="video/mp4">
 </video>
 
-## Lewin, Lippit y White
+##Lewin, Lippit y White {.peque}
 
 | Autoritatio                                                          | Democrático                                                                                        | _Laissez Faire_                                                                             |
 |:---------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|
