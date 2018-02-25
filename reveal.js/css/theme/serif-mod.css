@@ -63,7 +63,7 @@ body {
   word-wrap: break-word; }
 
 
- .reveal h1 {
+ .reveal h1 , .reveal h2 {
   font-size: 1.5em;
   background: black;
   color: white;
@@ -76,7 +76,7 @@ body {
   font-size: 2em; }
 */
 
-.reveal h2 {
+/*.reveal h2 {
     padding: 20px 10px 10px 0;
     margin: 20px 0 25px 0;
     letter-spacing: 0.02em;
@@ -84,7 +84,7 @@ body {
     text-align: center;
     /* color: #c00; */
     border-bottom: 3px solid #ccc;
-}
+}*/
 .reveal h3 {
   font-size: 1.55em; }
 
@@ -793,4 +793,10 @@ section .peque {
 .overlayright{
   background-color:rgba(0,0,0,0.9);
   margin-left: 50% !important;
+}
+
+.reveal .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }

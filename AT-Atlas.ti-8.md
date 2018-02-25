@@ -377,7 +377,7 @@ Ver: [UK · Data Archive: Create & Manage Data](http://www.data-archive.ac.uk/cr
 #Segmentar y codificar {.center data-background="imagenes-cuali/Coding.jpg" data-background-transition=zoom data-state=opacidad}
 
 ##Reducción
->[...] el reto es dar sentido a una cantidad masiva de datos, reducir el volumen de información, identificar pautas significativas, y construir un marco para comunicar la esencia de lo que revelan los datos.\
+>[En la investigación cualitativa] el reto es dar sentido a una cantidad masiva de datos, reducir el volumen de información, identificar pautas significativas, y construir un marco para comunicar la esencia de lo que revelan los datos.\
 @patton_qualitative_1990 [pp. 371-372]
 
 . . .

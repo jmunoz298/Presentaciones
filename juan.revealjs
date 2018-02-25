@@ -59,10 +59,10 @@ $if(title)$
 <section data-state="no-toc-progress , show-github-ribbon">
     <h1 class="title .no-toc-progress">$title$</h1>
 $if(subtitle)$
-  <h1 class="subtitle">$subtitle$</h1>
+  <h4 class="subtitle">$subtitle$</h4>
 $endif$
 $if(tema)$
-<h2>$tema$</h2>
+<h4 class="author">$tema$</h4>
 $endif$
 $for(author)$
     <h4 class="author">$author.name$</h4>
@@ -118,7 +118,7 @@ $endfor$
         menu: {
           themes: false,
           markers: true,
-	        titleSelector: 'h1',
+	        titleSelector: 'h1, h2',
           custom: [
                       { title: 'About', icon: '<i class="fa fa-info">', content: '<p>Presentaciones con reveal.js</p></p>Algunos consejos<ul><li>Se ven mejor a pantalla completa (normalmente F11)</li><li>Para navegar por las diapositivas, lo mejor es que utilices la barra espaciadora, aunque también puedes utilizar los controles de abajo a la derecha.</li><li>Durante las presentaciones, encontrarás más ayuda si aprietas la tecla "?".</f1></ul><h1>Reconocimientos</h1><p>Para realizar estas presentaciones he utilizado varios programas de software libre</p><ul><li><a href="http://lab.hakim.se/reveal-js/#/" target="_blank">Reveal.js</a>: Es el programa base de las presentaciones.</li><li><a href="http://pandoc.org/" target="_blank">Pandoc</a>: El programa que genera el archivo html (con formato Reveal.js) a partir de un archivo markdown.</li><li><a href="https://atom.io/" target="_blank">Atom</a>: El editor de texto.</li><li><a href="https://github.com/denehyg/reveal.js-menu" target="_blank">Reveal.js-menu: Menú lateral.</a></li><li><a href="https://github.com/rajgoel/reveal.js-plugins/tree/master/chalkboard" target="_blank">Reveal.js-chalkboard: Pizarra</a></li><li>GitHub: Donde está alojada la página</li><li>Inkscape: Parte de los gráficos (animados) en formato SVG.</li></ul> ' }
                   ]

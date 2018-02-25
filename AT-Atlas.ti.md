@@ -33,6 +33,7 @@ lateral-menu: 'True'
 ##Los elogios
 
 >In my graduate student days, there were no tape recorders for making an interviewer’s life easier; these arrived after World War II, passing first through the wide recorder stage. These were ponderous machines, only gradually slimming down to today’s light models. Many years later, following our dreams of computers that would ease our lives as qualitative social researchers, software was devised for us.
+`Strauss,  1997, p.1`{.autor}
 
 -->
 
@@ -77,7 +78,7 @@ lateral-menu: 'True'
 ##La investigación cualitativa{data-background="imagenes-cuali/AnalisisCotidiano.png" data-background-transition=zoom data-state=opacidad}
 
 >Un enfoque cualitativo es uno en el que hay necesidad de interpretar los datos a través de la identificación y, posiblemente, la codificación de temas, conceptos, procesos, contextos, etc., con el fin de construir explicaciones o teorías o para probar o ampliar una teoría.\
-@lewins_using_2007
+@lewins_using_2007 [, p. 7]
 
 <!--
 ##Análisis de contenido{data-background="imagenes-cuali/AnalisisCotidiano.png" data-background-transition=zoom data-state=opacidad}
@@ -113,6 +114,12 @@ lateral-menu: 'True'
 
 ##
 ![Adaptado de Saldaña, 2009, p. 12](imagenes-cuali/DatoATeoria.jpg)
+
+## Ejemplo: códigos-categorías-temas
+
+![](imagenes-cuali/Graneheim-Lundaman-Figura1-es.png)
+@graneheim_qualitative_2004 [p. 108]\
+`Narrativas sobre hipoglucemia`{.figcaption}
 
 ##Fases del análisis
 ![](imagenes-cuali/proceso.jpg){.noshadow}
@@ -288,7 +295,7 @@ https://www.dropbox.com/s/5hw8f921lwlj5s6/CursoAtlasCP.zip
 >      * Insertar PDF desde carpeta "Documentos"
 * Guardar UH
 
-# Organización Datos {.center data-state=opacidad data-background="imagenes-cuali/hanging-files.jpg" data-background-transition=zoom }
+# Los Datos {.center data-state=opacidad data-background="imagenes-cuali/Data-management.jpg" data-background-transition=zoom }
 
 ##Agregar datos
 
@@ -349,6 +356,8 @@ Documentos > Administrador de fuente de datos
 </div>
 
 Copiar carpeta donde estén UH y documentos
+
+# Organización Datos {.center data-state=opacidad data-background="imagenes-cuali/hanging-files.jpg" data-background-transition=zoom }
 
 ##Familias
 ![Tipos de Familias](imagenes-cuali/Familias.png)
@@ -440,7 +449,7 @@ Códigos > Codificar > Codificación automática
 #Segmentar y codificar {.center data-background="imagenes-cuali/Coding.jpg" data-background-transition=zoom data-state=opacidad}
 
 ##Reducción
->[...] el reto es dar sentido a una cantidad masiva de datos, reducir el volumen de información, identificar pautas significativas, y construir un marco para comunicar la esencia de lo que revelan los datos.\
+>[En la investigación cualitativa] el reto es dar sentido a una cantidad masiva de datos, reducir el volumen de información, identificar pautas significativas, y construir un marco para comunicar la esencia de lo que revelan los datos.\
 @patton_qualitative_1990 [pp. 371-372]
 
 . . .
@@ -635,7 +644,11 @@ Ejemplo
 
 ##Relaciones entre códigos
 
-![](imagenes-cuali/RedQuestyonType.png)
+![](imagenes/atlas-8/network-coaccion.png)
+
+##Relaciones entre códigos
+
+![](imagenes/atlas-8/network-ITER.png)
 
 ## Ejemplo: códigos-categorías-temas
 
@@ -644,6 +657,8 @@ Ejemplo
 `Narrativas sobre hipoglucemia`{.figcaption}
 
 # Vistas de red{.center data-background="imagenes-cuali/neurons.jpg" data-background-transition=zoom data-state=opacidad}
+
+##
 
 >Aplicar redes temáticas es simplemente una forma de organizar un análisis temático de datos cualitativos. Los análisis temáticos intentan descubrir los temas más destacados en un texto a diferentes niveles, y las redes temáticas tienen como objetivo facilitar la estructuración y representación de esos temas.\
 @attride_stirling2001 [p. 387]

@@ -14,7 +14,7 @@ lateral-menu: 'True'
 
 # Elementos de definición {.center data-background="imagenes-APCS-1/Concept.png" data-background-transition=zoom data-state=opacidad}
 
-##Colectivos
+## Colectivos
 
 >Una agrupación o grupo de individuos relativamente grande que muestran similitudes en acciones y perspectivas (actitudes, opiniones).\
 @forsyth_group_2010 [p, 503]
@@ -24,7 +24,7 @@ lateral-menu: 'True'
 > Las acciones de un grupo de personas que responden de manera similar a un evento o situación, incluyendo personas que ocupan el mismo lugar (una multitud), así como fenómenos de masas en los que los individuos están dispersos en una amplia área (Movimientos colectivos).\
 @forsyth_group_2010 [, p. 502]
 
-## Clasificación  {.peque}
+## Clasificación
 
 Multitud ocasional (casual)
 : temporal, poco organizada, y mínima emocionalidad. Si comparten algún interés este es menor y temporal.
@@ -52,7 +52,7 @@ Multitudes activas
 -->
 
 <!--
-##Son un fenómeno... {data-state=opacidad}
+## Son un fenómeno... {data-state=opacidad}
 - Colectivo
 - Unitario
 - Sin organización
@@ -61,27 +61,62 @@ Multitudes activas
 - Anómico
 -->
 
-##Concepto paraguas {data-background="imagenes-APCS-1/Umbrella.jpg" data-background-transition=zoom data-state=opacidad}
+## Concepto paraguas {data-background="imagenes-APCS-1/Umbrella.jpg" data-background-transition=zoom data-state=opacidad}
 
-####Fenómenos que caen fuera de la estructura social u orden establecido {.fondoblanco}
+#### Fenómenos que caen fuera de la estructura social u orden establecido {.fondoblanco}
+
+
+##
+
+![](imagenes-APCS-1/ejemplo-disturbios-2.png)
+
+##
+
+![](imagenes-APCS-1/ejemplo-futbol.png)
+
+##
+
+![](imagenes-APCS-1/ejemplo-desastres.png)
+
+##
+
+![](imagenes-APCS-1/ejemplo-panico.png)
+
+##
+
+![](imagenes-APCS-1/ejemplo-rumor.png)
+
+##
+
+![](imagenes-APCS-1/ejemplo-histeria.png)
+
+##
+
+![](imagenes-APCS-1/ejemplo-moda.png)
+
+##
+
+![](imagenes-APCS-1/ejemplo-fans.png)
+
+
 
 <!--
-##Mapa conceptual {data-state=img-completa}
+## Mapa conceptual {data-state=img-completa}
 
 ![Mapa conceptual](imagenes-APCS-1/Mapa.png)
 
 -->
 
 <!--
-##Movimientos sociales
+## Movimientos sociales
 >Una **colectividad** que actúa con cierta **continuidad** para **promover un cambio** en la sociedad o grupo de la que forma parte.\
 [Turner & Killian, 1987 en @miller_introduction_2013, p. 469]
 -->
 
 
-#Los inicios { .center}
+# Los inicios { .center}
 
-##Primavera de los pueblos
+## Primavera de los pueblos
 
 ![](imagenes-APCS-1/Europe_1848_map_en-lt.png)
 
@@ -122,17 +157,17 @@ Multitudes activas
 </audio>
 </div>
 
-#### @gine_temps_1984 {.autor}
+#### @gine_temps_1978 {.autor}
 
 <!-- `El temps de les cireres`{.autor} -->
 
-##Preguntas
+## Preguntas
 
 * ¿Quiénes eran los participantes en las acciones de masas?
 * ¿Cómo se explicaba que ciudadanos habitualmente respetuosos de las leyes se involucren en actos perturbadores del orden social?
 * ¿Cómo se podían prevenir las explosiones violentas de las masas cuando se dan las condiciones para que éstas actúen colectivamente?
 
-##Respuestas: Los fenómenos de masas...
+## Respuestas: Los fenómenos de masas...
 
 * Son amenazas para el orden social
 * Son manifestaciones patológicas de la naturaleza humana
@@ -155,11 +190,12 @@ Es decir,
 * Teorías de la convergencia
 
 <!--
-##Y para el próximo día...{.references}
+## Y para el próximo día...{.references}
 
 Delgado, M. (2015). La redención de las multitudes: rescate y restauración del sujeto en los movimientos sociales de última generación. _Intersticios. Revista sociológica de pensamiento crítico_, _9_(2), 101-129. http://www.intersticios.es/article/view/15446
 -->
 
-#Referencias {.center}
+# Referencias {.center}
+
 
 ## {.scrollable}
