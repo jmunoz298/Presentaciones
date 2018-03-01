@@ -1,10 +1,14 @@
 multimedia/
+imagenes-svg/
 imagenes/atlas-8/capturas-originales
 genera.sh
 .gitignore
 madoko*
 *.sty
 *.aux
+*.mp3
+*.mp4
+*.avi
 *~
 cp1/*.*
 cp2/*.*

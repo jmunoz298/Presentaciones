@@ -7,7 +7,7 @@ author:
 url: "http:/juan.psicologiasocial.eu"
 ...
 
-##Caso 1: Rompiendo normas
+## Caso 1: Rompiendo normas
 
 * El diario de campo
 * Concepto de norma social y rutptura de norma
@@ -17,7 +17,31 @@ url: "http:/juan.psicologiasocial.eu"
 * Escenificación y registro
 * Informe
 
-##El informe
+##
+![(El País, 6 sept 2015)](cp1/GoogleCar.jpg)
+
+<div class="animate" data-svg-src="BPMN.svg">
+	<svg>
+		<circle opacity="0" cx="75" cy="145" r="10" style="stroke-width:2;stroke:#000000" fill="#ff0000">
+			<animate class="fragment" data-reverse="reverse0" begin="indefinite" attributeName="opacity" from="0" to="1" dur="0.1s" fill="freeze" repeatCount="1" />     
+			<animate id="reverse0" begin="indefinite" attributeName="opacity" to="0" from="1" dur="0.1s" fill="freeze" repeatCount="1" />     
+			<animateTransform class="fragment" data-reverse="reverse1" attributeName="transform" begin="indefinite" dur="1.15s" type="translate" from="0 0" to="115 0" fill="freeze" />
+			<animateTransform id="reverse1" attributeName="transform" begin="indefinite" dur="0.01s" type="translate" from="115 0" to="0 0" fill="freeze" />
+			<animateTransform id="step2" class="fragment" data-reverse="reverse2" attributeName="transform" begin="indefinite" dur="1.35s" type="translate" from="115 0" to="250 0" fill="freeze" />
+			<animateTransform id="step2b" attributeName="transform" begin="step2.end" dur="0.8s" type="translate" from="250 0" to="250 -80" fill="freeze" />
+			<animateTransform attributeName="transform" begin="step2b.end" dur="1.65s" type="translate" from="250 -80" to="415 -80" fill="freeze" />
+			<animateTransform id="reverse2" attributeName="transform" begin="indefinite" dur="0.01s" type="translate" from="415 -80" to="115 0" fill="freeze" />
+			<animateTransform id="step3" class="fragment" data-reverse="reverse3" attributeName="transform" begin="indefinite" dur="1.6s" type="translate" from="415 -80" to="575 -80" fill="freeze" />
+			<animateTransform id="step3b" attributeName="transform" begin="step3.end" dur="0.8s" type="translate" from="575 -80" to="575 0" fill="freeze" />
+			<animateTransform attributeName="transform" begin="step3b.end" dur="0.9s" type="translate" from="575 0" to="665 0" fill="freeze" />
+			<animateTransform id="reverse3" attributeName="transform" begin="indefinite" dur="0.01s" type="translate" from="665 0" to="415 -80" fill="freeze" />
+			<animate class="fragment" data-reverse="reverse4" begin="indefinite" attributeName="opacity" from="1" to="0" dur="0.1s" fill="freeze" repeatCount="1" />     
+			<animate id="reverse4" begin="indefinite" attributeName="opacity" to="1" from="0" dur="0.01s" fill="freeze" repeatCount="1" />     
+		</circle>
+	</svg>
+</div>
+
+## El informe
 
 * **Fecha de entrega: 24 de octubre**
 * Parte grupal: 70% calificación
@@ -25,13 +49,13 @@ url: "http:/juan.psicologiasocial.eu"
 * Total: 12,5% asignatura
 
 
-##El diario de campo
+## El diario de campo
 
 > Un diario de campo consiste en un relato en primera persona en que, por escrito y mediante entradas regulares y sinceras, se consignan la evolución y desarrollo (avances y retrocesos) que el/la investigador/a advierte durante el proceso de investigación.
 
 `Leer documento "Observació pàrticipant i Diari de camp")` {.autor}
 
-##Las normas sociales
+## Las normas sociales
 
 . . .
 
@@ -120,7 +144,7 @@ The Big Bang Theory (5x24)
 -->
 
 
-##Referencias {.references}
+## Referencias {.references}
 
 Crum, M. (2014, julio 3). ASU professor encourages students to defy body hair norms. Recuperado a partir de https://asunews.asu.edu/20140703-body-shaving
 
