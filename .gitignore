@@ -1,5 +1,5 @@
-multimedia/
-imagenes-svg/
+multimedia/*.*
+imagenes-svg/*.*
 imagenes/atlas-8/capturas-originales
 genera.sh
 .gitignore
