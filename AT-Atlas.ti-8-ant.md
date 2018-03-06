@@ -1,5 +1,5 @@
 ---
-title:  'Análisis con Atlas.ti 8'
+title:  'Análisis con Atlas.ti'
 author:
 - name: Juan Muñoz
   affiliation: Universitat Autònoma de Barcelona
@@ -29,10 +29,6 @@ lateral-menu: 'True'
 
 [UK Data Archive](http://www.data-archive.ac.uk/)
 
-## Una advertencia
->Recuerde siempre que un ordenador es sólo una máquina, no pensará por usted, y puede incluso dificultarle progresar con su análisis. No olvide apagar el ordenador de vez en cuando. Lleve sus datos, resultados de búsquedas, esqzoteruemas de codificación, etc, a un lugar tranquilo, y luego léalos y piense en ellos. Dé un largo paseo y despeje su mente. Será entonces cuando probablemente obtenga las mejores ideas.\
-`Friese,  1998`{.autor}
-
 ## ¿Qué permite?
 
 <div style="float:left; margin:0; width:35%;">
@@ -55,9 +51,9 @@ lateral-menu: 'True'
 >Un enfoque cualitativo es uno en el que hay necesidad de interpretar los datos a través de la identificación y, posiblemente, la codificación de temas, conceptos, procesos, contextos, etc., con el fin de construir explicaciones o teorías o para probar o ampliar una teoría.\
 @lewins_using_2007 [, p. 7]
 
-
 ## Análisis temático{data-background="imagenes-cuali/AnalisisCotidiano.png" data-background-transition=zoom data-state=opacidad}
- >El análisis temático es un método para identificar, analizar y reportar patrones (temas) dentro de los datos. Como mínimo organiza y describe en detalle el conjunto de datos. Sin embargo, con frecuencia, va más allá e interpreta diversos aspectos del tema de investigación.\
+
+>El análisis temático es un método para identificar, analizar y reportar patrones (temas) dentro de los datos. Como mínimo organiza y describe en detalle el conjunto de datos. Sin embargo, con frecuencia, va más allá e interpreta diversos aspectos del tema de investigación.\
 @braun_using_2006 [p. 79]
 
 ## Tema
@@ -72,11 +68,13 @@ lateral-menu: 'True'
 ##
 ![Adaptado de Saldaña, 2009, p. 12](imagenes-cuali/DatoATeoria.jpg)
 
+
 ## Ejemplo: códigos-categorías-temas
 
 ![](imagenes-cuali/Graneheim-Lundaman-Figura1-es.png)
 @graneheim_qualitative_2004 [p. 108]\
 `Narrativas sobre hipoglucemia`{.figcaption}
+
 
 ## ¿Cómo?
 
@@ -98,77 +96,10 @@ lateral-menu: 'True'
 
 #### @braun_using_2006 [p. 87]{.figcaption}
 
+
 ## Fases del análisis (Atlas.ti)
 ![](imagenes-cuali/proceso.png){.noshadow}
 
-# Preparación de datos {.center data-background="imagenes-cuali/preparacion-1.jpg" data-background-transition=zoom data-state=opacidad}
-
-## Fases preparación datos
-
-* Transcripción (literal de los datos)
-* Convenciones ("jeffersonianas")
-* Gestión (archivado, formato, control)
-
-
-## Transcripción
-
-. . .
-
->(…) La producción y el uso de transcripciones son 'actividades de investigación' y no deben ser enfocadas como simplemente 'detalles técnicos' que preceden el análisis.\
-@mclellan_beyond_2003 [p. 64]
-
-## Transcribir: herramientas
-
-<div id="column2" style="float:left; margin:0; width:50%;">
-
-![](imagenes-cuali/Grabadora.jpg)
-
-</div>
-
-<div id="column1" style="float:left; margin:0; width:50%;">
-
-![](imagenes-cuali/Pedal.jpg)
-
-</div>
-
-**Software**
-
-Soundscriber:
-[http://www-personal.umich.edu/~ebreck/sscriber.html](http://www-personal.umich.edu/~ebreck/sscriber.html)
-
-F4:
-[http://www.audiotranskription.de/english](http://www.audiotranskription.de/english)
-
-
-## Pero...
-
-<iframe width="800" height="600" data-src="http://research.baidu.com/introducing-swiftscribe-breakthrough-ai-powered-transcription-software/"></iframe>
-
-## Convenciones
->En una conversación lo más significativo es lo que no se dice entre lo que se está diciendo, como por ejemplo las pausas y silencios, las entonaciones y los gestos, porque ahí radican los dobles significados, los ánimos y el objetivo mismo de la comunicación.\
-@fernandez_christlieb_espiritu_2004 [p. 46]
-
-## Convenciones "jeffersonianas"
-![](imagenes-cuali/Transcripcion.jpg)
-
-@lerner_glossary_2004 [p. 15]
-
-
-## Gestión de los datos
->La inadecuada documentación y monitorización de las actividades relacionadas con los datos pueden amenazar su integridad. Además, las prácticas inadecuadas de seguimiento pueden dificultar el análisis y aumentar la probabilidad de un pandemónium de investigación.\
-@mclellan_beyond_2003 [p. 69]
-
-Ver: [UK · Data Archive: Create & Manage Data](http://www.data-archive.ac.uk/create-manage)\
-`http://www.data-archive.ac.uk/create-manage` {.figcaption}
-
-## Gestión de los datos
->Una buena gestión de los datos es la base para una buena investigación. Si los datos están debidamente organizados, preservados y bien documentados, y su exactitud, vigencia e integridad es controlada en todo momento, el resultado es de datos de alta calidad, investigación eficiente, resultados basados en pruebas sólidas y ahorro de tiempo y recursos. (...) La gestión de datos debe planificarse desde el inicio de la investigación. Si se convierte en parte de la práctica de investigación estándar, entonces no implicará necesariamente mucho tiempo ni costos adicionales.\
-@uk_data_archive_managing_2009 [p. 2]
-
-
-## Control de versiones
-
-![https://www.ukdataservice.ac.uk/manage-data/format/versioning](imagenes-cuali/VersionControlTable.jpg)
 
 ## Y luego...
 
@@ -182,76 +113,14 @@ Ver: [UK · Data Archive: Create & Manage Data](http://www.data-archive.ac.uk/cr
 
 # Proyecto {.center data-background="imagenes-cuali/escriba.jpg" data-background-transition=zoom data-state=opacidad}
 
-<!--
-## Pantalla inicial
 
- <div style="position:relative; margin:0 auto;">
-   <img class="fragment fade-out" data-fragment-index="0"  src="imagenes/atlas-8/PantallaInicial.png" style="position:absolute;top:0;left:0;" />
-   <img class="fragment fade-in" data-fragment-index="0" src="imagenes/atlas-8/PantallaInicial-b.png" style="position:absolute;top:0;left:0;" />
- </div>
+## Añadir documentos{.peque}
 
- <!--![](imagenes/atlas-8/PantallaInicial.png) -->
--->
+![](img/working-03.png){.noshadow}
 
-<!--
-## Pantalla principal
-
- <div style="position:relative; margin:0 auto;">
-   <img class="fragment fade-out" data-fragment-index="0"  src="imagenes/atlas-8/PantallaPrincipal-01.png" style="position:absolute;top:0;left:0;" />
-   <img class="fragment fade-in" data-fragment-index="0" src="imagenes/atlas-8/PantallaPrincipal-02a.png" style="position:absolute;top:0;left:0;" />
-   <img class="fragment fade-in" data-fragment-index="1" src="imagenes/atlas-8/PantallaPrincipal-02b.png" style="position:absolute;top:0;left:0;" />
-   <img class="fragment fade-in" data-fragment-index="2" src="imagenes/atlas-8/PantallaPrincipal-03.png" style="position:absolute;top:0;left:0;" />
-   </div>
-
-![](imagenes/atlas-8/PantallaPrincipal.png)
-
--->
-
-<!--
- ![](imagenes/atlas-8/PantallaPrincipal-ConProyecto.png)
--->
-
-## Estrategias trabajo en equipo
-
-![](imagenes-cuali/atlas-trabajo-equipo.png){.noshadow}
-
-
-## Unir proyectos
-
-![](imagenes-cuali/FusionarProyecto-8.png)
-
-
-## Añadir documentos
-
-<div id="column1" style="float:left; margin:0; width:50%">
-
- ![](imagenes-cuali/AgregarDocumentos-8-01.png)
-</div>
-
-<div id="column1" style="float:left; margin:0; width:50%">
- ![](img/working-03.png){.noshadow}
-</div>
-
-<div id="column1" style="float:left; margin:0">
- Descargar y descomprimir http://bit.ly/2oJUWCm
-
- >- Inicio > Agregar documentos > Agregar archivos
- - Gestor de documentos > Crear comentarios de documentos
-</div>
-<!--
-## Pantalla principal con documentos
-
- ![](imagenes/atlas-8/PantallaPrincipal-ConDocumento.png)
-
-## Gestor de documentos
-
- ![](imagenes/atlas-8/DocumentManager-00.png)
-
- ## Comentarios de documentos
-
- ![](imagenes/atlas-8/DocumentManager-01.png)
-
- -->
+Descargar y descomprimir http://bit.ly/2oJUWCm
+>- Inicio > Agregar documentos > Agregar archivos > *.*
+- Gestor de documentos > Crear comentarios de documentos
 
 # Memoing {.center data-background="imagenes-cuali/Memoing-01.jpg" data-background-transition=zoom data-state=opacidad}
 
@@ -280,35 +149,16 @@ Ver: [UK · Data Archive: Create & Manage Data](http://www.data-archive.ac.uk/cr
 
 @saldana_coding_2009 [pp. 34-40]
 
-<!--
-## Crear Memos
-
-<div style="position:relative; width:789px; height:512px; margin:0 auto;">
-  <img class="fragment fade-out" data-fragment-index="0"  src="imagenes/atlas-8/MemoManager-00.png" style="position:absolute;top:0;left:0;" />
-  <img class="fragment fade-in" data-fragment-index="0" src="imagenes/atlas-8/MemoCreate.png" style="position:absolute;top:0;left:0;" />
-</div>
- -->
-
-<!--
-## Gestor de memos {data-transition="fade-in none-out"}
-
-![](imagenes/atlas-8/MemoManager-00.png)
-
-## Crear memos {data-transition="none-in fade-out"}
-
-![](imagenes/atlas-8/MemoCreate.png)
- -->
-
 ## Crear memos-anotaciones
 
-![](imagenes-cuali/AdministradoMemos-8-01.png)
 
- >* Crear una memo
- >     * Etiquetarla como "Proceso"
- >     * Describir los pasos dados hasta el momento
- >     * Guardar
- * Crear una memo "Objetivos"
+![](img/working-03.png){.noshadow}
 
+>* Crear una memo
+>     * Etiquetarla como "Proceso"
+>     * Describir los pasos dados hasta el momento
+>     * Guardar
+* Crear una memo "Objetivos"
 
 # Segmentar y codificar {.center data-background="imagenes-cuali/Coding.jpg" data-background-transition=zoom data-state=opacidad}
 
@@ -326,6 +176,8 @@ Ver: [UK · Data Archive: Create & Manage Data](http://www.data-archive.ac.uk/cr
 >La indexación (o codificación) es la actividad en la que el investigador aplica significado a los datos en bruto mediante la asignación de palabras clave o frases. Estas palabras clave actúan como indicadores de temas en los datos. La indexación es una actividad por la que los datos se descomponen, conceptualizan y posteriormente son reformulados.\
 @bloor_keywords_2006 [p.201]
 
+##
+![Adaptado de Saldaña, 2009, p. 12](imagenes-cuali/DatoATeoria.jpg)
 
 ## Estrategias de codificación
 
@@ -382,76 +234,31 @@ Ver: [UK · Data Archive: Create & Manage Data](http://www.data-archive.ac.uk/cr
 >* Crear citas libres
 * Crear códigos libres
 * Utilizar otras opciones de codificación
-
-<!--
-## Gestor de códigos
-
-![](imagenes/atlas-8/CodeManager-02.png)
- -->
-
-<!--
-## Codificación Top-Down: Códigos libres
-
-![](imagenes/atlas-8/NewEntities.png)
-
-. . .
-
-![](imagenes/atlas-8/CreateCodes.png)
- -->
-
-<!--
-## Codificación Bottom-Up: Citas libres
-
-![](imagenes/atlas-8/FreeQuotation-00.png){.border}
-
-. . .
-
-![](imagenes/atlas-8/FreeQuotation-01.png){.border}
-
-<!--
-##
-![](imagenes/atlas-8/FreeQuotation-02.png)
--->
-
-<!--
-## Explorar Citas
-
-![](imagenes/atlas-8/QuotationManager-00.png)
--->
-
-<!--
-## Codificación "mixta"
-
-![](imagenes/atlas-8/FreeQuotation-00a.png)
- -->
-
+* Comentar códigos
 
 ## Comparación constante
 ![](imagenes-cuali/comparacion-constante.png){.noshadow}
 
-## {transition=none}
+##
 
-![](imagenes-cuali/Categorizacion01.png){.noshadow }
+![](imagenes-cuali/Categorizacion01.png){.noshadow}
 
-## {transition=none}
+##
 
 ![](imagenes-cuali/Categorizacion02.png){.noshadow}
 
-## {transition=none}
+##
 
 ![](imagenes-cuali/Categorizacion03.png){.noshadow}
 
-## {transition=none}
+##
 
 ![](imagenes-cuali/Categorizacion04.png){.noshadow}
 
-## {transition=none}
+##
 
 ![](imagenes-cuali/Categorizacion05.png){.noshadow}
 
-## {transition=none}
-
-![](imagenes-cuali/Categorizacion06.png){.noshadow}
 
 <!--
 ## Visualización: Informes
@@ -465,15 +272,6 @@ Ver: [UK · Data Archive: Create & Manage Data](http://www.data-archive.ac.uk/cr
 
 # "Transportar" UH{.center data-background="imagenes/luggage.png"}
 
-<!--
-##1: Crear paquete de copia
-
-![](imagenes/atlas-8/MenuFile-Export.png)
-
-##2: Abrir paquete de copia
-
-![](imagenes/atlas-8/MenuFile-New.png)
- -->
 
 ## Ejercicio: Crear/abrir copia
 
@@ -493,19 +291,11 @@ Volver a informes. Queremos obtener informes de...
 (cuidado si antes se han visto las agrupaciones de códigos)
 -->
 
-
-
-![](imagenes-cuali/Autocodificacion-8.png)
+![](imagenes/atlas-8/Autocoding-00.png)
 
 ## Ejercicio autocodificación
 
-<div id="column1" style="float:left; margin:0; width:75%;">
-![](imagenes-cuali/Autocodificacion-menu-8-01.png)
-</div>
-
-<div id="column1" style="float:left; margin:0; width:25%;">
 ![](img/working-03.png){.noshadow}
-</div>
 
 >* Autocodificar participantes
 >     * Autocodificar Rajoy-LO (líder de la oposición)
@@ -517,10 +307,7 @@ Volver a informes. Queremos obtener informes de...
 
 ## Ejercicio: Grupos de documentos
 
-![](imagenes-cuali/AdministradorCodigos-8-01.png)
-
-<!--
-![](img/working-03.png){.noshadow} -->
+![](img/working-03.png){.noshadow}
 
 | Grupo    | Contenido        |
 |:---------|:-----------------|
@@ -539,25 +326,7 @@ Volver a informes. Queremos obtener informes de...
 | X LEG.  | Control-Congreso-2012 | Control-Senado-2012 |
 
 
-<!--
-## Gestor de grupos de códigos
- ![](imagenes/atlas-8/CodeGroupManager-00.png)
-
-## Grupos de códigos
- ![](imagenes/atlas-8/CodeGroupManager-01.png)
-
-
-## Grupos "inteligentes"
-
- ![](imagenes/atlas-8/CodeGroupManager-Menu.png)
-
-## Editar grupos "inteligentes"
-
- ![](imagenes/atlas-8/Code-SmartGroup-02.png)
- -->
-
-
-## Agrupación de códigos{.peque}
+## Agrupación de códigos
 
 ![](img/working-03.png){.noshadow}
 
@@ -580,8 +349,6 @@ Volver a informes. Queremos obtener informes de...
 @graneheim_qualitative_2004 [p. 108]\
 `Narrativas sobre hipoglucemia`{.figcaption}
 
-
-<!--
 
 # Relaciones {.center data-background="imagenes-cuali/network.jpg" data-background-transition=zoom data-state=opacidad}
 
@@ -606,6 +373,7 @@ Volver a informes. Queremos obtener informes de...
 
 ![](imagenes-cuali/JerarquiasCodigos.png)
 
+
 ## Relaciones entre códigos
 
 ![](imagenes/atlas-8/network-coaccion.png)
@@ -624,19 +392,11 @@ Volver a informes. Queremos obtener informes de...
 ## Redes temáticas
 ![Attride-Stirling, 2001. p. 388](imagenes-cuali/RedesTematicas.jpg)
 
-<!--
-##Editar Relaciones
-
-![](imagenes-cuali/EditorRelaciones.png)
- -->
 
 # Herramientas de consulta{.center data-background="imagenes-cuali/query.jpg" data-background-transition=zoom data-state=opacidad}
 
 ## Buscar texto
 
-![](imagenes-cuali/Buscar-8.png)
-
- <!--
 Conjunto de términos
   : `Jorquera|Pérez-Bouza`
 
@@ -646,31 +406,31 @@ Categoría
 Múltiples categorías
   : `AUTONOMICO:= $AMAIUR|$BNG|$CC|$CiU`
 
-
-## GREP
-
-  |  Operador   | Función                                                                        |
-  |:-----------:|:-------------------------------------------------------------------------------|
-  | ^*término*  | Limita la expresión de búsqueda que sigue al marcador al principio de la línea |
-  | *término*$  | Limita la expresión de búsqueda precedente al final de la línea                |
-  | \<*término* | Limita la expresión de búsqueda siguiente al inicio de una palabra             |
-  | *término*\> | Limita la expresión de búsqueda precedente al inicio de una palabra            |
-  |     \\B     | Limita la expresión de búsqueda siguiente a NO incio de palabra                |
-  |      .      | Localiza cualquier carácter                                                    |
-  |     \\w     | Localiza cualquier carácter alfanumérico                                       |
-  |      *      | Localiza cualquier cantidad (o su ausencia) de la expresión precedente         |
-  |      +      | Localiza al menos una ocurrencia de la expresión precedente                    |
-
--->
-
-
 ## Consultas
 
-![Herramienta de consulta](imagenes-cuali/Analizar-Consulta-8.png)
+<div id="column1" style="float:left; margin:0; width:65%;">
+![Herramienta de consulta](imagenes-cuali/HerramientaConsulta.png)
+</div>
+
+<div id="column1" style="float:left; margin:0; width:35%;">
+
+``` {.peque .left}
+1.- Códigos-Familias de Códigos
+2.- Condiciones (Operandos)
+3/4.- Expresiones formuladas
+5.- Resultados
+6.- Distancia máxima
+7.- Selección de doumentos
+8.- Crear super-código
+9.- Borrar / Imprimir
+10.- Edición expresiones
+```
+</div>
+ -->
 
 ## Consultas: Operadores Booleanos
 
-![](imagenes-cuali/Operadores-Booleanos-8.png)
+![](imagenes-cuali/OperadoresBooleanos.jpg)
 
 ## Construcción de una consulta
 
@@ -688,7 +448,7 @@ Múltiples categorías
 
 ## Operadores Semánticos
 
-![](imagenes-cuali/Operadores-Semanticos-8.png)
+![](imagenes-cuali/OperadoresSemanticos.jpg)
 
 ##
 
@@ -696,39 +456,23 @@ Múltiples categorías
 
 ## Operadores de Proximidad
 
-![](imagenes-cuali/Operadores-Proximidad-8.png)
+![](imagenes-cuali/OperadoresProximidad-1.jpg)
 
 ##
 
-![](imagenes-cuali/Proximidad-8.png)
-
-## Ejemplo consulta
-
-![](imagenes-cuali/Consulta-8-ejemplo-01.png)
-
-## Ejemplo consulta
-
-![](imagenes-cuali/Consulta-8-ejemplo-02.png)
+![](imagenes-cuali/Proximidad.jpg)
 
 
-<!--
-## Consultas: Alcance
 
-![](imagenes-cuali/ConsultasAlcance.png)
- -->
+## Concurrencias
+
+![](imagenes-cuali/TablaCoocurrencias.png)
+
 
 
 # Otras herramientas
 
-## Analizar
 
-![](imagenes-cuali/Analizar-8.png)
-
-<!--
-## Concurrencias
-
-![](imagenes-cuali/TablaCoocurrencias.png)
--->
 
 # Referencias{.center data-background="imagenes-cuali/books.jpg" data-background-transition=zoom data-state=opacidad}
 
@@ -740,7 +484,19 @@ Múltiples categorías
 # Organización Datos {.center data-state=opacidad data-background="imagenes-cuali/hanging-files.jpg" data-background-transition=zoom }
 
 
-# Informes {.center data-background="imagenes-cuali/reports.jpg" data-background-transition=zoom data-state=opacidad}
+## Ejercicio: Relaciones "Question type"
+
+![](imagenes-cuali/Evasion.png){.noshadow}
+
+
+## Estrategias trabajo en equipo
+
+![](imagenes-cuali/atlas-trabajo-equipo.png){.noshadow}
+
+
+## Unir UHs
+
+![](imagenes-cuali/UH-Fusionar-2.png)
 
 
 -->

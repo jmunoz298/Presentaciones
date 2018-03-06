@@ -201,7 +201,7 @@ Milgram i Toch (1969), estudian episodios de linchamientos en pequeñas ciudades
 
 ##
 
->Al reducir la explicación del conflicto colectivo a la patología inherente a una sola de las partes involucradas -la multitud- no sólo se elimina todo significado de la acción de la multitud, sino que también elimina toda responsabilidad del orden social y justifica una represión creciente como la única posibilidad de tratar a las multitudes. En otras palabras, el conflicto se produce cuando las multitudes se reúnen porque está en la naturaleza misma de las multitudes ser conflictivas. No hay nada más que decir. Preguntas como si las condiciones sociales causan las protestas o si la acción de la policía precipita la violencia ni siquiera surgen. Estudiarlas sería simplemente una pérdida de tiempo.\
+>Al reducir la explicación del conflicto colectivo a la patología inherente a una sola de las partes involucradas -la multitud- no sólo se elimina todo significado de la acción de la multitud, sino que también elimina toda responsabilidad del orden social y justifica una represión creciente como la única posibilidad de tratar a las multitudes.\
 @stott_crowd_1998 [p. 511]
 
 <!--
@@ -237,6 +237,33 @@ Milgram i Toch (1969), estudian episodios de linchamientos en pequeñas ciudades
 
 </div>
 
+## Disturbios en Fergurson
+
+<div id="column1" style="float:left; margin:0; width:50%;">
+
+![](imagenes-APCS-2/Ferguson-1.jpg)
+
+</div>
+
+<div id="column1" style="float:left; margin:0; width:50%;">
+
+![](imagenes-APCS-2/Ferguson-2.jpg)
+
+</div>
+
+<div id="column1" style="float:left; margin:0; width:50%;">
+
+![](imagenes-APCS-2/Ferguson-3.jpg)
+
+</div>
+
+<div id="column1" style="float:left; margin:0; width:50%;">
+
+![](imagenes-APCS-2/Ferguson-4.jpg)
+
+</div>
+
+`Disturbios en Ferguson, noviembre 2014`{.figcaption}
 
 # Teorías de la Crisis {data-background="imagenes-APCS-2/Crisis.jpg" data-background-transition=zoom data-state=opacidad}
 
