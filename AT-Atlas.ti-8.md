@@ -13,6 +13,7 @@ lateral-menu: 'True'
 
 # Introducción {.center data-background="imagenes-cuali/introduction-2.jpg" data-background-transition=zoom data-state=opacidad}
 
+
 ## CAQDAS
 
 >Programas para el análisis cualitativo de datos ASISTIDO por ordenador
@@ -33,30 +34,37 @@ lateral-menu: 'True'
 >Recuerde siempre que un ordenador es sólo una máquina, no pensará por usted, y puede incluso dificultarle progresar con su análisis. No olvide apagar el ordenador de vez en cuando. Lleve sus datos, resultados de búsquedas, esqzoteruemas de codificación, etc, a un lugar tranquilo, y luego léalos y piense en ellos. Dé un largo paseo y despeje su mente. Será entonces cuando probablemente obtenga las mejores ideas.\
 `Friese,  1998`{.autor}
 
-## ¿Qué permite?
+## ¿Qué permite? {#permite}
 
-<div style="float:left; margin:0; width:35%;">
+
+:::::::::::::: {.columns}
+::: {.column width="35%"}
 ![](imagenes-cuali/atlas-que-permite.png){.noshadow}
-</div>
+:::
 
-<div style="float:left; margin:0; width:65%;">
->* Organización e integración
+::: {.column width="65%"}
+
+::: nonincremental
+* Organización e integración
 * Datos multimedia
 * Búsqueda y recuperación
 * Vinculación
 * Representación gráfica
 * Trabajo en equipo
-</div>
+:::
+
+:::
+::::::::::::::
 
 # Definiciones {.center data-background="imagenes-cuali/Definicion.jpg" data-background-transition=zoom data-state=fondo}
 
-## La investigación cualitativa{data-background="imagenes-cuali/AnalisisCotidiano.png" data-background-transition=zoom data-state=opacidad}
+## La investigación cualitativa {#investigacion-cualitativa data-background="imagenes-cuali/AnalisisCotidiano.png" data-background-transition=zoom data-state=opacidad}
 
 >Un enfoque cualitativo es uno en el que hay necesidad de interpretar los datos a través de la identificación y, posiblemente, la codificación de temas, conceptos, procesos, contextos, etc., con el fin de construir explicaciones o teorías o para probar o ampliar una teoría.\
 @lewins_using_2007 [, p. 7]
 
 
-## Análisis temático{data-background="imagenes-cuali/AnalisisCotidiano.png" data-background-transition=zoom data-state=opacidad}
+## Análisis temático {#analisis-tematico data-background="imagenes-cuali/AnalisisCotidiano.png" data-background-transition=zoom data-state=opacidad}
  >El análisis temático es un método para identificar, analizar y reportar patrones (temas) dentro de los datos. Como mínimo organiza y describe en detalle el conjunto de datos. Sin embargo, con frecuencia, va más allá e interpreta diversos aspectos del tema de investigación.\
 @braun_using_2006 [p. 79]
 
@@ -72,21 +80,21 @@ lateral-menu: 'True'
 ##
 ![Adaptado de Saldaña, 2009, p. 12](imagenes-cuali/DatoATeoria.jpg)
 
-## Ejemplo: códigos-categorías-temas
+## Ejemplo: códigos-categorías-temas {#ejemplo-c-c-t}
 
 ![](imagenes-cuali/Graneheim-Lundaman-Figura1-es.png)
 @graneheim_qualitative_2004 [p. 108]\
 `Narrativas sobre hipoglucemia`{.figcaption}
 
-## ¿Cómo?
+## ¿Cómo? {#como}
 
 ![Análisis "cotidiano"](imagenes-cuali/AnalisisCotidiano.png)
 
-## Proceso de análisis
+## Proceso de análisis {#proceso-analisis}
 
 ![Adaptado de @seidel_qualitative_1998 [p. 2]](imagenes-cuali/Seidel-NCT.png)
 
-## Fases del análisis
+## Fases del análisis {#fases-analisis}
 
 >0. Gestión de datos
 1. Familiarizarse con los datos
@@ -96,21 +104,21 @@ lateral-menu: 'True'
 5. Definir y etiquetar temas
 6. Producir informe
 
-#### @braun_using_2006 [p. 87]{.figcaption}
+@braun_using_2006 [p. 87]
 
-## Fases del análisis (Atlas.ti)
+## Fases del análisis (Atlas.ti) {#fases-analisis-atlas}
 ![](imagenes-cuali/proceso.png){.noshadow}
 
-# Preparación de datos {.center data-background="imagenes-cuali/preparacion-1.jpg" data-background-transition=zoom data-state=opacidad}
+# Preparación de datos {#preparacion-datos .center data-background="imagenes-cuali/preparacion-1.jpg" data-background-transition=zoom data-state=opacidad}
 
-## Fases preparación datos
+## Fases preparación datos {#fases-preparacion-datos}
 
 * Transcripción (literal de los datos)
 * Convenciones ("jeffersonianas")
 * Gestión (archivado, formato, control)
 
 
-## Transcripción
+## Transcripción {#transcripcion}
 
 . . .
 
@@ -119,17 +127,14 @@ lateral-menu: 'True'
 
 ## Transcribir: herramientas
 
-<div id="column2" style="float:left; margin:0; width:50%;">
-
+:::::: {.columns}
+::: {.column width="50%"}
 ![](imagenes-cuali/Grabadora.jpg)
-
-</div>
-
-<div id="column1" style="float:left; margin:0; width:50%;">
-
+:::
+::: {.column width="50%"}
 ![](imagenes-cuali/Pedal.jpg)
-
-</div>
+:::
+::::::
 
 **Software**
 
@@ -154,14 +159,14 @@ F4:
 @lerner_glossary_2004 [p. 15]
 
 
-## Gestión de los datos
+## Gestión de los datos {#gestion-datos-1}
 >La inadecuada documentación y monitorización de las actividades relacionadas con los datos pueden amenazar su integridad. Además, las prácticas inadecuadas de seguimiento pueden dificultar el análisis y aumentar la probabilidad de un pandemónium de investigación.\
 @mclellan_beyond_2003 [p. 69]
 
 Ver: [UK · Data Archive: Create & Manage Data](http://www.data-archive.ac.uk/create-manage)\
 `http://www.data-archive.ac.uk/create-manage` {.figcaption}
 
-## Gestión de los datos
+## Gestión de los datos {#gestion-datos-2}
 >Una buena gestión de los datos es la base para una buena investigación. Si los datos están debidamente organizados, preservados y bien documentados, y su exactitud, vigencia e integridad es controlada en todo momento, el resultado es de datos de alta calidad, investigación eficiente, resultados basados en pruebas sólidas y ahorro de tiempo y recursos. (...) La gestión de datos debe planificarse desde el inicio de la investigación. Si se convierte en parte de la práctica de investigación estándar, entonces no implicará necesariamente mucho tiempo ni costos adicionales.\
 @uk_data_archive_managing_2009 [p. 2]
 
@@ -215,29 +220,40 @@ Ver: [UK · Data Archive: Create & Manage Data](http://www.data-archive.ac.uk/cr
 
 ![](imagenes-cuali/atlas-trabajo-equipo.png){.noshadow}
 
+::: notes
+Dos formas básicas de trabajo en equipo:
+
+- Todos los analistas trabajando con el conjunto de los documentos.
+- Diferentes analistas trabajan con diferentes documentos.
+
+En ambos casos, el resultado final es la unión de los diferentes proyectos
+:::
 
 ## Unir proyectos
 
 ![](imagenes-cuali/FusionarProyecto-8.png)
 
 
-## Añadir documentos
+## Añadir documentos {#anadir-documentos}
 
-<div id="column1" style="float:left; margin:0; width:50%">
+:::::: {.columns}
+::: {.column width="50%"}
+![](imagenes-cuali/AgregarDocumentos-8-01.png)
+:::
+::: {.column width="50%"}
+![](img/working-03.png){.noshadow}
+:::
+::::::
 
- ![](imagenes-cuali/AgregarDocumentos-8-01.png)
-</div>
+:::::: {.columns}
+::: {.column width="100%"}
+Descargar y descomprimir http://bit.ly/2oJUWCm
 
-<div id="column1" style="float:left; margin:0; width:50%">
- ![](img/working-03.png){.noshadow}
-</div>
+>- Inicio > Agregar documentos > Agregar archivos
+- Gestor de documentos > Crear comentarios de documentos
+:::
+::::::
 
-<div id="column1" style="float:left; margin:0">
- Descargar y descomprimir http://bit.ly/2oJUWCm
-
- >- Inicio > Agregar documentos > Agregar archivos
- - Gestor de documentos > Crear comentarios de documentos
-</div>
 <!--
 ## Pantalla principal con documentos
 
@@ -247,7 +263,7 @@ Ver: [UK · Data Archive: Create & Manage Data](http://www.data-archive.ac.uk/cr
 
  ![](imagenes/atlas-8/DocumentManager-00.png)
 
- ## Comentarios de documentos
+## Comentarios de documentos
 
  ![](imagenes/atlas-8/DocumentManager-01.png)
 
@@ -312,7 +328,7 @@ Ver: [UK · Data Archive: Create & Manage Data](http://www.data-archive.ac.uk/cr
 
 # Segmentar y codificar {.center data-background="imagenes-cuali/Coding.jpg" data-background-transition=zoom data-state=opacidad}
 
-## Reducción
+## Reducción {#reduccion}
 >[En la investigación cualitativa] el reto es dar sentido a una cantidad masiva de datos, reducir el volumen de información, identificar pautas significativas, y construir un marco para comunicar la esencia de lo que revelan los datos.\
 @patton_qualitative_1990 [pp. 371-372]
 
@@ -321,17 +337,17 @@ Ver: [UK · Data Archive: Create & Manage Data](http://www.data-archive.ac.uk/cr
 ![](imagenes-cuali/Reduccion.png){.noshadow}
 
 
-## Codificación
+## Codificación {#codificacion}
 
 >La indexación (o codificación) es la actividad en la que el investigador aplica significado a los datos en bruto mediante la asignación de palabras clave o frases. Estas palabras clave actúan como indicadores de temas en los datos. La indexación es una actividad por la que los datos se descomponen, conceptualizan y posteriormente son reformulados.\
 @bloor_keywords_2006 [p.201]
 
 
-## Estrategias de codificación
+## Estrategias de codificación {#estrategias-codificacion}
 
 ![](imagenes/atlas-8/EstrategiaCodificacion.png)
 
-## Categorización
+## Categorización {#categorizacion}
 >Los animales se clasifican en a) pertenecientes al emperador, b) embalsamados, c) amaestrados, d) lechones, e) sirenas, f) fabulosos, g) perros sueltos, h) incluidos en esta clasificación, i) que se agitan como locos, j) innumerables, k) dibujados con un pincel finísimo de pelo de camello, l) etcétera, m) que acaban de romper el jarrón, n) que de lejos parecen moscas.\
 `J.L.Borges (1952). El idioma analítico de John Wilkins.`{.autor}
 
@@ -345,25 +361,22 @@ Ver: [UK · Data Archive: Create & Manage Data](http://www.data-archive.ac.uk/cr
 
 `Raymond Queneau`{.autor}
 
+
 ## "El gato""
 
-<div id="column1" style="float:left; margin:0;">
+:::::: {.columns}
+::: {.column width="50%"}
  ![](imagenes-cuali/Gato-1.jpg){.border}
-</div>
-
-. . .
-
-<div id="column1" style="float:left; margin:0;">
+:::
+::: {.column width="25%"}
  ![](imagenes-cuali/Gato-2.jpg){.border}
-</div>
-
-. . .
-
-<div id="column1" style="float:left; margin:0;">
+:::
+::: {.column width="25%"}
  ![](imagenes-cuali/Gato-3.jpg){.border}
-</div>
+:::
+::::::
 
-## Comentarios de códigos {.peque}
+## Comentarios de códigos {#comentarios-codigos .peque}
 
 | Código              | MARGPROB                                                                                                                                                                                                                                                        |
 |:--------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -384,13 +397,13 @@ Ver: [UK · Data Archive: Create & Manage Data](http://www.data-archive.ac.uk/cr
 * Utilizar otras opciones de codificación
 
 <!--
-## Gestor de códigos
+## Gestor de códigos {#gestor-codigos}
 
 ![](imagenes/atlas-8/CodeManager-02.png)
  -->
 
 <!--
-## Codificación Top-Down: Códigos libres
+## Codificación Top-Down: Códigos libres {#codificacion-top-down}
 
 ![](imagenes/atlas-8/NewEntities.png)
 
@@ -400,7 +413,7 @@ Ver: [UK · Data Archive: Create & Manage Data](http://www.data-archive.ac.uk/cr
  -->
 
 <!--
-## Codificación Bottom-Up: Citas libres
+## Codificación Bottom-Up: Citas libres {#codificacion-bottom-up}
 
 ![](imagenes/atlas-8/FreeQuotation-00.png){.border}
 
@@ -420,13 +433,13 @@ Ver: [UK · Data Archive: Create & Manage Data](http://www.data-archive.ac.uk/cr
 -->
 
 <!--
-## Codificación "mixta"
+## Codificación "mixta" {#codificacion-mixta}
 
 ![](imagenes/atlas-8/FreeQuotation-00a.png)
  -->
 
 
-## Comparación constante
+## Comparación constante {#comparacion-constante}
 ![](imagenes-cuali/comparacion-constante.png){.noshadow}
 
 ## {transition=none}
@@ -454,7 +467,7 @@ Ver: [UK · Data Archive: Create & Manage Data](http://www.data-archive.ac.uk/cr
 ![](imagenes-cuali/Categorizacion06.png){.noshadow}
 
 <!--
-## Visualización: Informes
+## Visualización: Informes {#informes}
 
 ![](imagenes/atlas-8/CodeManager-Menu-Report.png)
 
@@ -486,7 +499,7 @@ Ver: [UK · Data Archive: Create & Manage Data](http://www.data-archive.ac.uk/cr
 # Estructurar {.center data-state=opacidad data-background="imagenes-cuali/hanging-files.jpg" data-background-transition=zoom}
 
 
-## Autocodificación
+## Autocodificación {#autocodificacion}
 
 <!--
 Volver a informes. Queremos obtener informes de...
@@ -497,19 +510,24 @@ Volver a informes. Queremos obtener informes de...
 
 ![](imagenes-cuali/Autocodificacion-8.png)
 
-## Ejercicio autocodificación
+## Ejercicio autocodificación {#ejercicio-autocodificacion}
 
-<div id="column1" style="float:left; margin:0; width:75%;">
+:::::: {.columns}
+::: {.column width="75%"}
 ![](imagenes-cuali/Autocodificacion-menu-8-01.png)
-</div>
-
-<div id="column1" style="float:left; margin:0; width:25%;">
+:::
+::: {.column width="25%"}
 ![](img/working-03.png){.noshadow}
-</div>
+:::
+::::::
 
+:::::: {.columns}
+::: {.column width="75%"}
 >* Autocodificar participantes
 >     * Autocodificar Rajoy-LO (líder de la oposición)
 >     * Autocodificar Rajoy-PR (presidente)
+:::
+::::::
 
 ## Agrupar
 
@@ -540,10 +558,10 @@ Volver a informes. Queremos obtener informes de...
 
 
 <!--
-## Gestor de grupos de códigos
+## Gestor de grupos de códigos {#gestor-grupos-codigos}
  ![](imagenes/atlas-8/CodeGroupManager-00.png)
 
-## Grupos de códigos
+## Grupos de códigos {#grupos-codigos}
  ![](imagenes/atlas-8/CodeGroupManager-01.png)
 
 
@@ -557,7 +575,7 @@ Volver a informes. Queremos obtener informes de...
  -->
 
 
-## Agrupación de códigos{.peque}
+## Agrupación de códigos{ #agrupacion-codigos .peque}
 
 ![](img/working-03.png){.noshadow}
 
@@ -574,7 +592,7 @@ Volver a informes. Queremos obtener informes de...
 
 ![Adaptado de Saldaña, 2009, p. 12](imagenes-cuali/DatoATeoria.jpg)
 
-## Ejemplo: códigos-categorías-temas
+## Ejemplo: códigos-categorías-temas {#ejemplo-c-c-t}
 
 ![](imagenes-cuali/Graneheim-Lundaman-Figura1-es.png)
 @graneheim_qualitative_2004 [p. 108]\
@@ -598,19 +616,19 @@ Volver a informes. Queremos obtener informes de...
 
 ![](imagenes/atlas-8/TiposRelaciones.png)
 
-## Jerarquías de códigos
+## Jerarquías de códigos {#jerarquias-codigos-1}
 
 ![](imagenes-cuali/JerarquiaCodificacion.jpg)
 
-## Jerarquías de códigos
+## Jerarquías de códigos {#jerarquias-codigos-2}
 
 ![](imagenes-cuali/JerarquiasCodigos.png)
 
-## Relaciones entre códigos
+## Relaciones entre códigos {#relaciones-codigos-1}
 
 ![](imagenes/atlas-8/network-coaccion.png)
 
-## Relaciones entre códigos
+## Relaciones entre códigos {#relaciones-codigos-2}
 
 ![](imagenes/atlas-8/network-ITER.png)
 
@@ -621,7 +639,7 @@ Volver a informes. Queremos obtener informes de...
 >Aplicar redes temáticas es simplemente una forma de organizar un análisis temático de datos cualitativos. Los análisis temáticos intentan descubrir los temas más destacados en un texto a diferentes niveles, y las redes temáticas tienen como objetivo facilitar la estructuración y representación de esos temas.\
 @attride-stirling_thematic_2001 [p. 387]
 
-## Redes temáticas
+## Redes temáticas {#redes-tematicas}
 ![Attride-Stirling, 2001. p. 388](imagenes-cuali/RedesTematicas.jpg)
 
 <!--
@@ -672,7 +690,7 @@ Múltiples categorías
 
 ![](imagenes-cuali/Operadores-Booleanos-8.png)
 
-## Construcción de una consulta
+## Construcción de una consulta {#construccion-consulta}
 
 "Todas las citas codificadas como 'Evasión', realizadas por Rajoy o por Zapatero"
 
@@ -686,7 +704,7 @@ Múltiples categorías
 
 ![](imagenes-cuali/VennBooleanos.png)
 
-## Operadores Semánticos
+## Operadores Semánticos {#operadores-semanticos}
 
 ![](imagenes-cuali/Operadores-Semanticos-8.png)
 
