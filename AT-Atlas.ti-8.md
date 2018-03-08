@@ -11,7 +11,7 @@ csl: apa.csl
 lateral-menu: 'True'
 ...
 
-# Introducción {.center data-background="imagenes-cuali/introduction-2.jpg" data-background-transition=zoom data-state=opacidad}
+# Introducción {.center data-background="imagenes-cuali/introduction-2.jpg" data-background-transition=zoom data-state=opacidad }
 
 
 ## CAQDAS
@@ -343,9 +343,16 @@ Descargar y descomprimir http://bit.ly/2oJUWCm
 @bloor_keywords_2006 [p.201]
 
 
-## Estrategias de codificación {#estrategias-codificacion}
+## Estrategias de codificación {#estrategias-codificacion }
 
 ![](imagenes/atlas-8/EstrategiaCodificacion.png)
+
+::: notes
+
+Si la estrategia de trabajo es de tipo deductivo, se creará una lista de códigos que se intentará "aplicar" sobre los datos creando citas.
+
+Si la estrategia es inductiva, los códigos surgirán de la lectura de los datos y por lo tanto primero crearemos citas que se vincularán con códigos.
+:::
 
 ## Categorización {#categorizacion}
 >Los animales se clasifican en a) pertenecientes al emperador, b) embalsamados, c) amaestrados, d) lechones, e) sirenas, f) fabulosos, g) perros sueltos, h) incluidos en esta clasificación, i) que se agitan como locos, j) innumerables, k) dibujados con un pincel finísimo de pelo de camello, l) etcétera, m) que acaban de romper el jarrón, n) que de lejos parecen moscas.\
@@ -362,7 +369,7 @@ Descargar y descomprimir http://bit.ly/2oJUWCm
 `Raymond Queneau`{.autor}
 
 
-## "El gato""
+## "El gato"
 
 :::::: {.columns}
 ::: {.column width="50%"}
@@ -375,6 +382,19 @@ Descargar y descomprimir http://bit.ly/2oJUWCm
  ![](imagenes-cuali/Gato-3.jpg){.border}
 :::
 ::::::
+
+
+::: notes
+Podemos pensar en la codificación como una forma de literatura definicional a la inversa, en la que nuestros datos (y citas) son la última transformación y los pasos previos son códigos.
+
+La duda que se nos puede plantear es sobre el nivel de codificación que realizaremos (Mamífero, Carnívoro... frente a Gato, Bebe...).
+
+Tenemos dos posibles respuestas (no incompatibles entre sí):
+
+- El nivel adecuado viene definido por los objetivos
+- Podemos utilizar diferentes niveles (códigos, categorías...)
+
+:::
 
 ## Comentarios de códigos {#comentarios-codigos .peque}
 

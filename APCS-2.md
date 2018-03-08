@@ -21,9 +21,9 @@ lateral-menu: 'True'
 
 <!-- `CSI Las Vegas 03x09 Sed deSangre`{.figcaption} -->
 
-# Las teorías: Contagio  {data-background="imagenes-APCS-2/Virus.jpg" data-background-transition=zoom data-state=opacidad}
+# Las teorías: Contagio  {#teorias-contagio data-background="imagenes-APCS-2/Virus.jpg" data-background-transition=zoom data-state=opacidad}
 
-## Teorías del contagio {data-background="imagenes-APCS-2/Zombis.jpg" data-background-transition=fade data-state=fondo}
+## Teorías del contagio {#teoria-contagio data-background="imagenes-APCS-2/Zombis.jpg" data-background-transition=fade data-state=fondo}
 
 . . .
 
@@ -32,31 +32,20 @@ lateral-menu: 'True'
 
 ## Algunos representantes
 
-<div id="column1" style="float:left; margin:0; width:25%;">
-
+:::::: {.columns}
+::: {.column width="25%"}
 ![Sighele (1892)](imagenes-APCS-2/Sighele-Portada.jpg "Sighele")
-
-</div>
-
-. . .
-
-<div id="column2" style="float:left; margin:0; width:25%;">
-
+:::
+::: {.column width="25%"}
 ![Le Bon (1895)](imagenes-APCS-2/LeBon-Portada.jpg "")
-
-</div>
-
-<div id="column3" style="float:left; margin:0; width:25%;">
-
+:::
+::: {.column width="25%"}
 ![Tarde (1901)](imagenes-APCS-2/Tarde-Portada.jpg "")
-
-</div>
-
-<div id="column4" style="float:left; margin:0; width:25%;">
-
+:::
+::: {.column width="25%"}
 ![Freud (1921)](imagenes-APCS-2/Freud-Portada.jpg "")
-
-</div>
+:::
+::::::
 
 . . .
 
@@ -81,7 +70,7 @@ lateral-menu: 'True'
 * Ley de la composición de la multitud
 * Ley de la no deducibilidad del carácter de la multitud a partir de sus miembros
 
-## Contra la civilización
+## Contra la civilización {#contra-civilizacion}
 
 > Por su poder exclusivamente destructivo, actúan como aquellos microbios que activan la disolución de los cuerpos debilitados o de los cadáveres. Cuando el edificio de una civilización está carcomido, las masas provocan su derrumbamiento. Se pone entonces de manifiesto su papel. Durante un instante, la fuerza ciega del número se convierte en la única filosofía de la historia.\
 @le_bon_psychologie_1895 [, p. 22]
@@ -101,7 +90,7 @@ lateral-menu: 'True'
 | Sugestibilidad | Afloran los instintos primitivos, salvajes  |                                    |
 
 
-## El "filósofo español" {data-background="imagenes-APCS-2/Ortega-ElSol-1922-2-4.jpg" data-background-transition=zoom data-state=opacidad}
+## El "filósofo español" {#ortega data-background="imagenes-APCS-2/Ortega-ElSol-1922-2-4.jpg" data-background-transition=zoom data-state=opacidad}
 
 . . .
 
@@ -174,7 +163,7 @@ Maupassant, G. (1888). _Sur l'eau_. París: P. Ollendorff. Obtenido de http://ar
 
 ![](imagenes-APCS-2/Linchamientos-1.png){.noshadow}
 
-## ¿Por qué?
+## ¿Por qué? {#por-que}
 
 Milgram i Toch (1969), estudian episodios de linchamientos en pequeñas ciudades de EEUU. La respuesta al porqué no participan en ellos toda la población es que quienes lo hacen son personas propensas a la violencia.
 
@@ -187,7 +176,7 @@ Milgram i Toch (1969), estudian episodios de linchamientos en pequeñas ciudades
 ![](imagenes-APCS-2/Miller-Dollard-2.png){.noshadow}
 
 
-# Críticas
+# Críticas {#criticas}
 
 ##
 
@@ -212,60 +201,54 @@ Milgram i Toch (1969), estudian episodios de linchamientos en pequeñas ciudades
 
 ## Disturbios{.peque}
 
-<div id="column1" style="float:left; margin:0; width:50%;">
-
+:::::: {.columns}
+::: {.column width="50%"}
 ![Hamburgo, 8 de julio de 2017 (G20)](imagenes-APCS-2/Disturbios-1.jpg)
-
-</div>
-
-<div id="column1" style="float:left; margin:0; width:50%;">
-
+:::
+::: {.column width="50%"}
 ![Boston, 17 de agosto de 2017](imagenes-APCS-2/Disturbios-2.jpg)
 
 <!-- Thousands of Counter-Protesters March Against White Nationalism in Boston a Week After Charlottesville -->
-</div>
+:::
+::::::
 
-<div id="column1" style="float:left; margin:0; width:50%;">
-
+:::::: {.columns}
+::: {.column width="50%"}
 ![Murcia, 16 de septiembre de 2017](imagenes-APCS-2/Disturbios-3.jpg)
-
-</div>
-
-<div id="column1" style="float:left; margin:0; width:50%;">
-
+:::
+::: {.column width="50%"}
 ![Barcelona, 1 de octubre de 2017](imagenes-APCS-2/Disturbios-4.jpg)
-
-</div>
+:::
+::::::
 
 ## Disturbios en Fergurson
 
-<div id="column1" style="float:left; margin:0; width:50%;">
+:::::: {.columns}
+::: {.column width="50%"}
 
-![](imagenes-APCS-2/Ferguson-1.jpg)
+<video  height="237" data-autoplay controls="1" src="imagenes-APCS-2/Ferguson-2014.mp4"></video>
 
-</div>
+<!-- https://www.youtube.com/watch?v=-NZ0NQh9y30 -->
 
-<div id="column1" style="float:left; margin:0; width:50%;">
-
+:::
+::: {.column width="50%"}
 ![](imagenes-APCS-2/Ferguson-2.jpg)
+:::
+::::::
 
-</div>
-
-<div id="column1" style="float:left; margin:0; width:50%;">
-
+:::::: {.columns}
+::: {.column width="50%"}
 ![](imagenes-APCS-2/Ferguson-3.jpg)
-
-</div>
-
-<div id="column1" style="float:left; margin:0; width:50%;">
-
+:::
+::: {.column width="50%"}
 ![](imagenes-APCS-2/Ferguson-4.jpg)
-
-</div>
+:::
+::::::
 
 `Disturbios en Ferguson, noviembre 2014`{.figcaption}
 
-# Teorías de la Crisis {data-background="imagenes-APCS-2/Crisis.jpg" data-background-transition=zoom data-state=opacidad}
+
+# Teorías de la Crisis {#teorias-crisis data-background="imagenes-APCS-2/Crisis.jpg" data-background-transition=zoom data-state=opacidad}
 
 ## Privación relativa
 
@@ -273,27 +256,23 @@ Milgram i Toch (1969), estudian episodios de linchamientos en pequeñas ciudades
 @javaloy_comportamiento_2003 [, p. 180]
 
 
-## La Teoría de la "Curva en J"
+## La Teoría de la "Curva en J" {#teoria-curva-j}
 
 ![Teoría de la Curva en J](imagenes-APCS-2/JCurveDavies.jpg)
 
-## Teoría del Valor Añadido
 
-<div id="column4" style="float:left; margin:0; width:50%;">
+## Teoría del Valor Añadido {#teoria-valor-anadido}
 
+:::::: {.columns}
+::: {.column width="50%"}
 ![Neil J. Smelser\
 1930-2017](imagenes-APCS-2/Smelser.jpg)
-
-</div>
-
-
-<div id="column4" style="float:left; margin:0; width:50%;">
-
+:::
+::: {.column width="50%"}
 ![Teoría de la Acción Colectiva\
 1962](imagenes-APCS-2/SmelserPortada.jpg)
-
-</div>
-
+:::
+::::::
 
 ## Determinantes
 

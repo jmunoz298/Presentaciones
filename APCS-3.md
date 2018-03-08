@@ -11,7 +11,7 @@ csl: apa.csl
 lateral-menu: 'True'
 ...
 
-# ¿Quién es irracional? {data-background="imagenes-APCS-3/BloodySunday-bac.jpg" data-background-transition=fade data-state=fondo}
+# ¿Quién es irracional? {#quien-es-irracional .center data-background="imagenes-APCS-3/BloodySunday-bac.jpg" data-background-transition=fade data-state=fondo}
 
 <!-- ##
 
@@ -21,25 +21,26 @@ src="https://www.youtube.com/embed/1glfzAoHYiI">
 
 ## Domingo Sangriento {data-background="imagenes-APCS-3/BloodySunday-bac.jpg" data-background-transition=fade data-state=fondo}
 
-<div id="column4" style="float:left; margin:0; width:70%;">
-  <video width="600"   controls>
-    <source src="imagenes-APCS-3/SundayBloodySunday.mp4">
-  </video>
+:::::: {.columns}
+::: {.column width="70%"}
+
+ <video width="600"   controls>
+  <source src="imagenes-APCS-3/SundayBloodySunday.mp4">
+ </video>
 
 `https://www.youtube.com/watch?v=vkOpgr1ElXg`{.fondoblanco}
+:::
+::: {.column width="30%"}
+  ![](imagenes-APCS-3/BloodySunday.jpg  "Domingo Sangriento")
 
-</div>
+#### @greengrass_bloody_2002 {.autor .fondoblanco}
+:::
+::::::
 
-<div id="column4" style="float:left; margin:0; width:30%;">
-  ![Domingo Sangriento\
-  Paul Greengrass (2002)](imagenes-APCS-3/BloodySunday.jpg  "Domingo Sangriento")
-</div>
+#### Ver: @o_dochartaigh_bloody_2010 {.autor .fondoblanco}
 
-<div style="clear:both"></div>
 
-#### Ver: @o_dochartaigh_bloody_2010{.fondoblanco}
-
-# Teoría de la Norma Emergente {data-background="imagenes-APCS-3/GroupTalking.jpg" data-background-transition=fade data-state=fondo}
+# Teoría de la Norma Emergente {.center data-background="imagenes-APCS-3/Confused.jpg" data-background-transition=fade data-state=fondo}
 
 <!--
 ## Influencias: Interaccionismo simbólico
@@ -52,21 +53,22 @@ src="https://www.youtube.com/embed/1glfzAoHYiI">
 <!--
 ## Influencias: Park y Blumer
 
-<div id="column1" style="float:left; margin:0; width:30%;">
+:::::: {.columns}
+::: {.column width="30%"}
 ![Robert E. Park (1864-1944)](imagenes-APCS-3/Park.png)
-</div>
-
-<div id="column1" style="float:left; margin:0; width:35%;">
+:::
+::: {.column width="30%"}
 Reacción circular
 
 “Milling”
 
 Excitación colectiva
-</div>
-
-<div id="column1" style="float:left; margin:0; width:35%;">
+:::
+::: {.column width="35%"}
 ![Herbert Blumer (1900-1987)](imagenes-APCS-3/Blumer.jpg)
-</div>
+:::
+::::::
+
 -->
 
 <!--
@@ -104,7 +106,16 @@ Park y Burges, 1921, p. 865
 
 ## Norma emergente: Principios
 
-![Ralph H. Turner y Lewis M. Killian 1957](imagenes-APCS-3/PortadaTurnerKillian.jpg)
+:::::: {.columns}
+::: {.column width="35%"}
+![](imagenes-APCS-3/PortadaTurnerKillian.jpg)
+:::
+::: {.column width="35%"}
+@turner_collective_1957
+:::
+::: {.column width="30%"}
+:::
+::::::
 
 <!--
 * Una apuesta por la diferenciación interna de las multitudes, que invalida las teorías del contagio y de la convergencia
@@ -117,14 +128,14 @@ Park y Burges, 1921, p. 865
 
 
 <!--
-##Norma emergente: Idea central
+## Norma emergente: Idea central
 
 >...la conducta de las multitudes (…) está regulada por normas que no vienen de fuera, que no están institucionalizadas, sino que surgen precisamente al hilo del desarrollo de la propia dinámica del comportamiento de la multitud (...); emergen de la propia situación y son vinculantes para los individuos participantes (...) cuando la situación es inicialmente ambigua, surgen definiciones nuevas durante el discurso de la interacción social.\
 @ovejero_bernal_individuo_1997 [, p. 218]
 -->
 
 <!--
-##Proceso
+## Proceso
 
 * La actuación de las persona depende de la percepción sobre las normas que rigen la situación.
 * En una situación ambigua, las normas son creadas en el transcurso de la interacción.
@@ -137,23 +148,20 @@ Park y Burges, 1921, p. 865
 
 ![](imagenes-APCS-3/NormaEmergente-proceso.png){.noshadow}
 
-# Identidad Social {data-background="imagenes-APCS-3/Group.jpg" data-background-transition=fade data-state=fondo}
+# Identidad Social {.center data-background="imagenes-APCS-3/Group.jpg" data-background-transition=fade data-state=fondo}
 
-##Teoría de la Identidad Social
+## Teoría de la Identidad Social {#teoria-identidad-social}
 
-<div id="column4" style="float:left; margin:0; width:50%;">
-
+:::::: {.columns}
+::: {.column width="50%"}
 ![Stephen Reicher](imagenes-APCS-3/Reicher.jpg)
-
-</div>
-
-<div id="column4" style="float:left; margin:0; width:50%;">
-
+:::
+::: {.column width="50%"}
 ![](imagenes-APCS-3/Turner-Portada.jpg)
+:::
+::::::
 
-</div>
-
-##La propuesta de Steve Reicher
+## La propuesta de Steve Reicher
 
 >Si se deja de lado el exogrupo, no puede comprenderse que la violencia surja de un proceso de conflicto intergrupal. En su lugar se atribuye a la masa misma.\
 @reicher_conducta_1987 [, p. 240]
@@ -169,72 +177,42 @@ Park y Burges, 1921, p. 865
   <source src="imagenes-APCS-3/St_Pauls_Uprising_Bristol_1980.mp4">
 </video>
 
-###### <https://www.youtube.com/watch?v=Wdyo16VMhIQ>{.fondoblanco}
+[<https://www.youtube.com/watch?v=Wdyo16VMhIQ>]{.peque .fondoblanco}
 
-@reicher_disturbios_1989
+#### Ver: @reicher_st._1984 {.autor .fondoblanco}
 
-<!--
-##Los disturbios de St. Pauls {data-background="imagenes-APCS-3/SaintPauls-back.jpg" data-background-transition=fade data-state=fondo}
 
-<div id="column1" style="float:left; margin:0; width:50%;">
-
-![](imagenes-APCS-3/SaintPauls-01.jpg)
-
-</div>
-
-<div id="column2" style="float:left; margin:0; width:50%;">
-
-![](imagenes-APCS-3/SaintPauls-05.jpg)
-
-</div>
-
-<div id="column1" style="float:left; margin:0; width:100%;">
-  <video   class="stretch" controls data-autoplay>
-    <source src="imagenes-APCS-3/St_Pauls_Uprising_Bristol_1980.mp4">
-  </video>
-
-###### <https://www.youtube.com/watch?v=Wdyo16VMhIQ>{.figcaption}
-</div>
-
-<div id="column2" style="float:left; margin:0; width:50%;">
-  ![](imagenes-APCS-3/SaintPauls-06.jpg)
-</div>
--->
-
-## Despersonalización
+## Despersonalización {#despersonalizacion}
 
 >La despersonalización se refiere a los procesos de autoestereotipación por los que las personas se perciben a sí mismas más como casos intercambiables de una categoría social que como personalidades únicas definidas por sus diferencias individuales respecto a los demás.\
 @turner_rediscovering_1987 [, p. 50]
 
-
-
-##Críticas a la teoría de la norma emergente
+## Críticas a la teoría de la norma emergente {#critica-norma-emergente}
 
 * Su explicación de cómo emergen las normas es inadecuada para explicar las situaciones en las que la masa actúa y cambia rápidamente.
 * Énfasis que ponen en el papel de los individuos prominentes en la emergencia de la norma.
 
 <!--
-##Bases
+## Bases
 
-<div id="column1" style="float:left; margin:0; width:50%;">
+:::::: {.columns}
+::: {.column width="50%"}
 Teoría de la Identidad, categorización y comparación social
 
 ![Henri Tajfel\
 1919-1982](imagenes-APCS-3/Tajfel.jpg)
-
-</div>
-
-<div id="column1" style="float:left; margin:0; width:50%;">
-
+:::
+::: {.column width="50%"}
 Teoría de la autocategorización
 
 ![John C. Turner\
 1947-2011](imagenes-APCS-3/TurnerJ.jpg)
+:::
+::::::
 
-</div>
 -->
 
-##Teoría de la autocategorización del yo
+## Teoría de la autocategorización del yo {#teoria-autocategorizacion}
 
 Hipótesis 1
 :	Tiende a darse una relación inversa entre la saliencia de los niveles personal y social de categorización del yo
@@ -246,7 +224,7 @@ Hipótesis 3
 :	La despersonalización de la percepción del yo es el proceso básico que subyace a los fenómenos de grupo
 
 <!--
-## Construcción de identidad
+## Construcción de identidad {#construccion-identidad}
 >El proceso de construcción de la identidad puede resumirse del siguiente modo: se da una identificación inmediata con una categoría supraordenada que define un campo de posibles identidades; los miembros de la masa tienen que construir entonces una identidad situacional específica que determine las normas de conducta adecuadas, y los medios a través de los cuales lo hacen son el aspecto inductivo de la categorización del yo.\
 @reicher_conducta_1987 [, p. 250]
 -->
@@ -258,9 +236,9 @@ Hipótesis 3
 * No se trata de un proceso de creación, sino de inferencia, lo que permite explicar que las normas “surjan” rápidamente.
 * De una multitud no puede surgir cualquier tipo de norma, sólo aquellas que están delimitadas por el contenido categorial.
 
-# Modelo elaborado de identidad social
+# Modelo elaborado de identidad social {.center}
 
-## Reformulación
+## Reformulación {#reformulacion}
 
 >* La identidad social de los miembros de la masa, y por lo tanto sus actuaciones, dependen de las dinámicas intergrupales.
 
@@ -268,29 +246,29 @@ Hipótesis 3
 
 >* Cuando una multitud hetereogénea es tratada de forma homogénea como una totalidad, se produce un cambio, una reconceptualización de los miembros redefiniéndose como una categoría común.
 
+
 ## La batalla de Westminster (24-11-1998) {data-background="imagenes-APCS-3/BattleOfWestminster.jpg" data-background-transition=fade data-state=opacidad}
 
 . . .
 
-<div id="column1" style="float:left; margin:0; width:50%;">
 
+<!-- :::::: {.columns}
+::: {.column width="50%"}
 ![](imagenes-APCS-3/Westminster-1998-1.jpg)
+:::
+:::::: -->
 
-</div>
-
-<div id="column2" style="float:left; margin:0; width:50%;">
-
-![](imagenes-APCS-3/Westminster-1998-3.jpg)
-
-</div>
-
-
-
-<video width="350"  class="stretch" controls>
-<source src="imagenes-APCS-3/Westminster-Student-Demonstration-1988.mp4">
-</video>
-
-###### <https://www.youtube.com/watch?v=S1hOoM_93Bo>{.figcaption}
+:::::: {.columns}
+::: {.column width="70%"}
+ <video data-autoplay width="450"  class="stretch" controls>
+   <source src="imagenes-APCS-3/Westminster-Student-Demonstration-1988.mp4">
+ </video>
+ [<https://www.youtube.com/watch?v=S1hOoM_93Bo>]{.peque .fondoblanco}
+:::
+::: {.column width="30%"}
+ ![](imagenes-APCS-3/Westminster-1998-3.jpg)
+:::
+::::::
 
 
 ## ¿Responsabilidad?
@@ -327,48 +305,44 @@ Hipótesis 3
 
 ## Poll Tax Riots (31-3-1990)
 
-<div id="column1" style="float:left; margin:0; width:50%;">
-
+<!-- :::::: {.columns}
+::: {.column width="50%"}
 ![](imagenes-APCS-3/Poll_tax_1990-1.jpg)
-
-</div>
-
-<div id="column2" style="float:left; margin:0; width:50%;">
-
+:::
+::: {.column width="50%"}
 ![](imagenes-APCS-3/Poll_tax_1990-2.jpg)
+:::
+:::::: -->
 
-</div>
-
-<div id="column3" style="float:left; margin:0; width:50%;">
-
+:::::: {.columns}
+::: {.column width="50%"}
 ![](imagenes-APCS-3/Poll_tax_1990-3.jpg )
+:::
+::: {.column width="50%"}
+ <video data-autoplay width="400"  class="stretch" controls>
+  <source src="imagenes-APCS-3/PollTaxRiot1990.mp4">
+ </video>
 
-</div>
+[<https://www.youtube.com/watch?v=R3nYGoppmoA>]{.peque}
+:::
+::::::
 
-<div id="column4" style="float:left; margin:0; width:50%;">
 
-<video width="400"  class="stretch" controls>
-<source src="imagenes-APCS-3/PollTaxRiot1990.mp4">
-</video>
-
-###### <https://www.youtube.com/watch?v=R3nYGoppmoA>{.figcaption}
-</div>
-
-## ¿Y qué pasa con los hooligans?
+## ¿Y qué pasa con los hooligans? {#que-pasa-hooligans}
 
 ![](imagenes-APCS-3/ViolenciaFutbol.jpg)
 
-## Violencia fútbol
+## Violencia fútbol {#violencia-futbol}
 
 !["Tragedia de Heysel" - 29 de mayo de 1985](imagenes-APCS-3/Heysel.jpg)
 
-##Port Said (1-2-2012)
+## Port Said (1-2-2012)
 
 <video  class="stretch" controls>
 <source src="imagenes-APCS-3/PortSaid.mp4">
 </video>
 
-######<https://www.youtube.com/watch?v=1mUd9vW4NnU>{.figcaption}
+[<https://www.youtube.com/watch?v=1mUd9vW4NnU>]{.peque}
 
 ## Hillsborough (15-4-1989)
 
@@ -376,9 +350,9 @@ Hipótesis 3
 <source src="imagenes-APCS-3/FiebreMaldiniLaTragediaDeHillsborough.mp4">
 </video>
 
-###### <https://www.youtube.com/watch?v=iORjkuClnMo>{.figcaption}
+[<https://www.youtube.com/watch?v=iORjkuClnMo>]{.peque}
 
 
-#Referencias {.center}
+# Referencias {.center}
 
 ## {.scrollable .peque}

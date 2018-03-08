@@ -335,6 +335,10 @@
 </section><section id="estrategias-codificacion" class="slide level2">
 <h2>Estrategias de codificación</h2>
 <p><img data-src="imagenes/atlas-8/EstrategiaCodificacion.png" /></p>
+<aside class="notes">
+<p>Si la estrategia de trabajo es de tipo deductivo, se creará una lista de códigos que se intentará “aplicar” sobre los datos creando citas.</p>
+<p>Si la estrategia es inductiva, los códigos surgirán de la lectura de los datos y por lo tanto primero crearemos citas que se vincularán con códigos.</p>
+</aside>
 </section><section id="categorizacion" class="slide level2">
 <h2>Categorización</h2>
 <blockquote>
@@ -367,7 +371,7 @@
 </table>
 <p><code class="autor">Raymond Queneau</code></p>
 </section><section id="el-gato" class="slide level2">
-<h2>“El gato”&quot;</h2>
+<h2>“El gato”</h2>
 <div class="columns">
 <div class="column" style="width:50%;">
 <p><img data-src="imagenes-cuali/Gato-1.jpg" class="border" /></p>
@@ -377,6 +381,15 @@
 <p><img data-src="imagenes-cuali/Gato-3.jpg" class="border" /></p>
 </div>
 </div>
+<aside class="notes">
+<p>Podemos pensar en la codificación como una forma de literatura definicional a la inversa, en la que nuestros datos (y citas) son la última transformación y los pasos previos son códigos.</p>
+<p>La duda que se nos puede plantear es sobre el nivel de codificación que realizaremos (Mamífero, Carnívoro… frente a Gato, Bebe…).</p>
+<p>Tenemos dos posibles respuestas (no incompatibles entre sí):</p>
+<ul>
+<li>El nivel adecuado viene definido por los objetivos</li>
+<li>Podemos utilizar diferentes niveles (códigos, categorías…)</li>
+</ul>
+</aside>
 </section><section id="comentarios-codigos" class="slide level2 peque">
 <h2>Comentarios de códigos</h2>
 <table>
@@ -846,6 +859,12 @@ Múltiples categorías
         theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
         transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
 
+        //Opciones coursemod
+        coursemod: {
+              enabled: true, //enable or disable the plugin, default to false
+              shown: true //immediatly show the course notes view, this defaults to true if not present.
+            },
+        //fin opciones coursemod
 
         //Opciones plugin menu
         menu: {
@@ -905,6 +924,7 @@ Múltiples categorías
           // fin anything
           // Optional libraries used to extend on reveal.js
         dependencies: [
+          { src: 'reveal.js/plugin/coursemod/coursemod.js', async: true},
           { src: 'reveal.js/plugin/anything/anything.js' },
           { src: 'reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
           { src: 'reveal.js/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
