@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html$if(lang)$ lang="$lang$"$endif$>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+$for(author-meta)$
+  <meta name="author" content="$author-meta$" />
+$endfor$
+$if(date-meta)$
+  <meta name="dcterms.date" content="$date-meta$" />
+$endif$
+  <title>$if(title-prefix)$$title-prefix$ - $endif$$pagetitle$</title>
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <link rel="stylesheet" href="$revealjs-url$/css/reveal.css"/>
+ <link rel="stylesheet" href="reveal.js/plugin/toc-progress/toc-progress.css">
+ <style type="text/css">
+     code{white-space: pre-wrap;}
+     span.smallcaps{font-variant: small-caps;}
+     span.underline{text-decoration: underline;}
+     div.column{display: inline-block; vertical-align: top; width: 50%;}
+$if(quotes)$
+     q { quotes: "“" "”" "‘" "’"; }
+$endif$
+ </style>
+  <!--  <style type="text/css">code{white-space: pre;}</style> -->
+$if(highlighting-css)$
+    <style type="text/css">
+$highlighting-css$
+    </style>
+$endif$
+$if(css)$
+$for(css)$
+    <link rel="stylesheet" href="$css$"/>
+$endfor$
+$else$
+    <link rel="stylesheet" href="$revealjs-url$/css/theme/luzma.css" id="theme">
+$endif$
+
+<!-- If the query includes 'print-pdf', use the PDF print sheet -->
+<script>
+  var link = document.createElement( 'link' );
+  link.rel = 'stylesheet';
+  link.type = 'text/css';
+  link.href = window.location.search.match( /print-pdf/gi ) ? 'reveal.js/css/print/pdf.css' : 'reveal.jscss/print/paper.css';
+  document.getElementsByTagName( 'head' )[0].appendChild( link );
+</script>
+
+  <!--[if lt IE 9]>
+  <script src="$revealjs-url$/lib/js/html5shiv.js"></script>
+  <![endif]-->
+$if(math)$
+    $math$
+$endif$
+$for(header-includes)$
+    $header-includes$
+$endfor$
+</head>
+<body>
+$for(include-before)$
+$include-before$
+$endfor$
+  <div class="reveal">
+    <div class="slides">
+$if(title)$
+<section data-state="no-toc-progress", data-background="$imagen-fondo$">
+    <h1 class="title .no-toc-progress">$title$</h1>
+$if(subtitle)$
+  <h4 class="subtitle">$subtitle$</h4>
+$endif$
+$if(tema)$
+<h4 class="author">$tema$</h4>
+$endif$
+$for(author)$
+    <h4 class="author">$author.name$</h4>
+    <h6 class="author">$author.affiliation$</h6>
+    <h6 class="author">$author.email$</h6>
+$endfor$
+    <h4 class="date">$date$</h4>
+    <h4 class="date">$url$</h4>
+</section>
+$endif$
+$if(toc)$
+   <section id="$idprefix$TOC">
+    <p>Índice</p>
+    $toc$
+   </section>
+$endif$
+$if(abstract)$
+  <section>
+    $abstract$
+  </section>
+$endif$
+$body$
+    </div>
+  </div>
+$for(include-after)$
+  $include-after$
+$endfor$
+
+  <script src="$revealjs-url$/lib/js/head.min.js"></script>
+  <script src="$revealjs-url$/js/reveal.js"></script>
+
+  <script>
+
+      // Full list of configuration options available here:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+        //Opciones reveal
+        controls: true,
+        fragments: false,
+        // Help the user learn the controls by providing hints, for example by
+        // bouncing the down arrow when they first encounter a vertical slide
+        controlsTutorial: true,
+        // Flags if speaker notes should be visible to all viewers
+      	showNotes: false,
+        rollingLinks: true,
+        previewLinks: false,
+        progress: true,
+        history: true,
+        center: false,
+	      zoomKey: 'shift',
+
+        theme: $if(theme)$'$theme$'$else$Reveal.getQueryHash().theme$endif$, // available themes are in /css/theme
+        transition: $if(transition)$'$transition$'$else$Reveal.getQueryHash().transition || 'default'$endif$, // default/cube/page/concave/zoom/linear/fade/none
+
+        //Opciones plugin menu
+        menu: {
+          themes: false,
+          markers: true,
+	        titleSelector: 'h1, h2',
+          custom: [
+                      { title: 'About', icon: '<i class="fa fa-info">', content: '<p>Presentaciones con reveal.js</p></p>Algunos consejos<ul><li>Se ven mejor a pantalla completa (normalmente F11)</li><li>Para navegar por las diapositivas, lo mejor es que utilices la barra espaciadora, aunque también puedes utilizar los controles de abajo a la derecha.</li><li>Durante las presentaciones, encontrarás más ayuda si aprietas la tecla "?".</f1></ul><h1>Reconocimientos</h1><p>Para realizar estas presentaciones he utilizado varios programas de software libre</p><ul><li><a href="http://lab.hakim.se/reveal-js/#/" target="_blank">Reveal.js</a>: Es el programa base de las presentaciones.</li><li><a href="http://pandoc.org/" target="_blank">Pandoc</a>: El programa que genera el archivo html (con formato Reveal.js) a partir de un archivo markdown.</li><li><a href="https://atom.io/" target="_blank">Atom</a>: El editor de texto.</li><li><a href="https://github.com/denehyg/reveal.js-menu" target="_blank">Reveal.js-menu: Menú lateral.</a></li><li><a href="https://github.com/rajgoel/reveal.js-plugins/tree/master/chalkboard" target="_blank">Reveal.js-chalkboard: Pizarra</a></li><li>GitHub: Donde está alojada la página</li><li>Inkscape: Parte de los gráficos (animados) en formato SVG.</li></ul> ' }
+                  ]
+          },
+
+          //Plugin chalkboard
+          keyboard: {
+              67: function() { RevealChalkboard.toggleNotesCanvas() },	// toggle notes canvas when 'c' is pressed
+              66: function() { RevealChalkboard.toggleChalkboard() },	// toggle chalkboard when 'b' is pressed
+              46: function() { RevealChalkboard.clear() },	// clear chalkboard when 'DEL' is pressed
+               8: function() { RevealChalkboard.reset() },	// reset chalkboard data on current slide when 'BACKSPACE' is pressed
+              68: function() { RevealChalkboard.download() },	// downlad recorded chalkboard drawing when 'd' is pressed
+          },
+          // fin chalckboard...
+          // Inicio anything
+          anything: [
+          	{className: "animate",  initialize: (function(container, options){
+          		Reveal.addEventListener( 'fragmentshown', function( event ) {
+          			if (typeof event.fragment.beginElement === "function" ) {
+          				event.fragment.beginElement();
+          			}
+          		});
+          		Reveal.addEventListener( 'fragmenthidden', function( event ) {
+          			if (event.fragment.hasAttribute('data-reverse') ) {
+          				var reverse = event.fragment.parentElement.querySelector('[id=\"' + event.fragment.getAttribute('data-reverse') + '\"]');
+          				if ( reverse && typeof reverse.beginElement === "function" ) {
+          					reverse.beginElement();
+          				}
+          			}
+          		});
+          		if ( container.getAttribute("data-svg-src") ) {
+          			var xhr = new XMLHttpRequest();
+          			xhr.onload = function() {
+          				if (xhr.readyState === 4) {
+          					var svg = container.querySelector('svg');
+          					container.removeChild( svg );
+          					container.innerHTML = xhr.responseText + container.innerHTML;
+          					if ( svg ) {
+          						container.querySelector('svg').innerHTML = container.querySelector('svg').innerHTML + svg.innerHTML;
+          					}
+          				}
+          				else {
+          					console.warn( "Failed to get file. ReadyState: " + xhr.readyState + ", Status: " + xhr.status);
+          				}
+          			};
+          			xhr.open( 'GET', container.getAttribute("data-svg-src"), true );
+          			xhr.send();
+          		}
+          	}) }
+          ],
+          // fin anything
+          // Optional libraries used to extend on reveal.js
+        dependencies: [
+          /*{ src: '$revealjs-url$/plugin/coursemod/coursemod.js', async: true},*/
+          { src: '$revealjs-url$/plugin/anything/anything.js' },
+          { src: '$revealjs-url$/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+          { src: '$revealjs-url$/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+          { src: '$revealjs-url$/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } },
+          $if(lateral-menu)$
+          { src: 'reveal.js/plugin/reveal.js-menu-master/menu.js' },
+          $endif$
+          { src: 'reveal.js/plugin/chalkboard/chalkboard.js' },
+          // Muestra la tabla de contenido a pie de página
+          //	  { src: 'reveal.js/plugin/toc-progress/toc-progress.js', async: true, callback: function()
+          //		{ toc_progress.initialize(); toc_progress.create(); }},
+          { src: 'reveal.js/plugin/reveal-svg-fragment.js', condition: function() { return !!document.querySelector( '[data-svg-fragment]' ); } },
+          // { src: '$revealjs-url$/plugin/search/search.js', async: true, condition: function() { return !!document.body.classList; }, }
+          // { src: '$revealjs-url$/plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }
+          ]
+          });
+
+    </script>
+
+  </body>
+</html>
