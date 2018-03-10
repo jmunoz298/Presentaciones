@@ -36,7 +36,8 @@ $for(css)$
     <link rel="stylesheet" href="$css$"/>
 $endfor$
 $else$
-    <link rel="stylesheet" href="$revealjs-url$/css/theme/luzma.css" id="theme">
+  <link rel="stylesheet" href="$revealjs-url$/css/theme/serif.css" id="theme">
+  <link rel="stylesheet" href="$revealjs-url$/css/theme/luzma-2.css" id="theme">
 $endif$
 
 <!-- If the query includes 'print-pdf', use the PDF print sheet -->
