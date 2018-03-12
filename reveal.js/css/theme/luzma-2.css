@@ -12,6 +12,7 @@
 }
 
 
+
 /*********************************************
  * GLOBAL STYLES
  *********************************************/
@@ -197,7 +198,7 @@ background-color: #B9C9FE;
 color:#039;}
 
 .reveal table td {
-  vertical-align: middle;
+  vertical-align: top;
   font-size: .8em;}
 
 
@@ -224,6 +225,10 @@ border-bottom: none; }
 .reveal tr:hover{
 background-color:  #d0dafd;
 }
+
+.reveal thead{
+  font-size: 0.9em;}
+
 
 /* Fin tablas */
 
@@ -255,6 +260,7 @@ background-color:  #d0dafd;
  * IMAGES
  *********************************************/
  /*** CAMBIO JUAN ***/
+
 .reveal img, .reveal object#svg1 {
   margin: 15px;
   border: .1em solid #fff;
@@ -263,8 +269,9 @@ background-color:  #d0dafd;
   box-shadow: 0px 0px 40px -2px rgba(0,0,0,0.75);
 }
 
-.reveal .noshadow{
+.reveal  section .noshadow img  {
   box-shadow: none;
+  border: 0px;
 }
 
 .reveal .nopadding{
@@ -320,7 +327,7 @@ html.laback .reveal section img {
 
 #toc-progress-footer {text-color: red;}
 
-.red {color: #F08080;}
+/*.red {color: #F08080;}*/
 
 .reveal li, .reveal dt, .reveal dd {
   padding-top: .4em;
@@ -476,15 +483,23 @@ font-family: monospace; } JMJ versión anterior: oculto (está visible en serif.
   box-shadow:0px 0px 1px #000;}
 
 .reveal .slides li:before{
-	content: "\f0c9";}
+	content: "\f0c8";}
 
 .reveal .slide li li:before{
- content: "\f068";}
+  font-size: 0.5em;
+ content: "\f0c9";}
+
+ .reveal .left{
+   text-align: left;
+   margin-left: -500px;}
+
+
 
  /*   flecha: f0a9
  eslabón f0c1
  cuadrado f0c8 f009 f00a f146
  líneas f0c9 f068
+barras h f0c9 f068
  barras v f04c
  check f058 f14a
  circulo f111 f28d

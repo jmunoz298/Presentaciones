@@ -1,9 +1,10 @@
 ---
-title:  'Psicologia Social del Món Contemporani'
-subtitle: 'Proyecto docente'
+title:  'Proyecto docente'
+subtitle: 'Psicologia Social del Món Contemporani'
 author:
 - name: Luz Mª Martínez
-  affiliation: Universitat Autònoma de Barcelona
+  affiliation: Departament de Psicologia Social
+  email: Universitat Autònoma de Barcelona
 tema: "marzo 2018"
 lateral-menu: true
 imagen-fondo: 'imagenes/columnas-4.jpg'
@@ -11,34 +12,34 @@ imagen-fondo: 'imagenes/columnas-4.jpg'
 
 ## Esquema de la presentación {#esquema}
 
-- El Grado de Psicología
+- El Grado de Psicología.
   - Contexto del Grado de Psicología.
   - Posición estratégica de la asignatura y criterios para su diseño.
 - Transversalidad: el género como competencia de aprendizaje.
-- La Psicología Social en el mundo contemporáneo: una mirada a su función.
+- La Psicología Social en el mundo contemporáneo.
 - Objetivos y competencias.
 - Contenidos de la asignatura.
-- Metodologías docentes.
-- Materiales.
-- Sistema de evaluación.
-- Unidades didácticas.
-<!-- - Bloques modulares de contenido por unidades. -->
+  - Metodologías docentes.
+  - Materiales.
+  - Unidades didácticas.
+  - Sistema de evaluación.
 
 
 # El Grado de Psicología {#grado .center}
 
 ## Objetivo del título oficial de Graduada/o en Psicología en la UAB {#objetivo-titulo .peque}
 
->“formar profesionales en los aspectos científicos y técnicos que se requieren para [promover la calidad de vida de]{.red} los individuos y para la [resolución de problemas]{.red} psicológicos en los distintos [ámbitos]{.red} consolidados y emergentes de la disciplina (clínico y de la salud, educativo, trabajo, organizaciones, comunitario, etc…). El desarrollo del listado de competencias generales y específicas (…) garantiza una [formación]{.red} científico-técnica dirigida a los [aspectos básicos y aplicados de la Psicología]{.red}, centrada en los mecanismos básicos de la conducta humana y en la dinámica de las organizaciones y de los grupos. Este proyecto formativo es el punto de partida para la [capacitación]{.red} del futuro(/a) psicólogo(/a) profesional y le permitirá [intervenir de forma crítica y reflexiva]{.red} con programas que den respuesta a las demandas de los individuos en un [contexto biopsicosocial]{.red}” (Memoria del Grado en Psicología de la UAB, p. 18).
+>Formar profesionales en los aspectos científicos y técnicos que se requieren para [promover la calidad de vida de]{.red} los individuos y para la [resolución de problemas]{.red} psicológicos en los distintos [ámbitos]{.red} consolidados y emergentes de la disciplina (clínico y de la salud, educativo, trabajo, organizaciones, comunitario, etc…). El desarrollo del listado de competencias generales y específicas (…) garantiza una [formación]{.red} científico-técnica dirigida a los [aspectos básicos y aplicados de la Psicología]{.red}, centrada en los mecanismos básicos de la conducta humana y en la dinámica de las organizaciones y de los grupos. Este proyecto formativo es el punto de partida para la [capacitación]{.red} del futuro(/a) psicólogo(/a) profesional y le permitirá [intervenir de forma crítica y reflexiva]{.red} con programas que den respuesta a las demandas de los individuos en un [contexto biopsicosocial]{.red}\
+[Memoria del Grado en Psicología de la UAB, p. 18]{.autor}
 
 ## Menciones de la titulación {#menciones}
 
-- Psicología de la Salud
-- Psicología clínica de la infancia y la adolescencia
-- Psicología clínica de adultos
-- Análisis e Intervención en Psicología Social
-- Psicología del trabajo y las organizaciones
-- Análisis e intervención socioeducativas
+- Psicología de la Salud.
+- Psicología clínica de la infancia y la adolescencia.
+- Psicología clínica de adultos.
+- Análisis e Intervención en Psicología Social.
+- Psicología del trabajo y las organizaciones.
+- Análisis e intervención socioeducativas.
 
 ## El área de conocimiento en el Grado de Psicología {#area-conocimiento}
 
@@ -91,10 +92,10 @@ Psicología Social**
 
 ## Bases
 
-- Promoción de la calidad de vida
-- Deficitaria presencia en el grado
+- Promoción de la calidad de vida.
+- Deficitaria presencia en el grado.
 - Leyes, ordenanzas, disposiciones y planes de acción:\
-[Ley 17/2015 de 21 de julio de Igualdad Efectiva entre Hombres y Mujeres del Parlament de Catalunya]{.peque}
+[Ley 17/2015 de 21 de julio de Igualdad Efectiva entre Hombres y Mujeres del Parlament de Catalunya.]{.peque}
 
 ::: notes
 - Artículo 7.3. Para llevar a cabo las funciones en materia de políticas de igualdad de género, la Administración de la Generalidad debe dotarse de: b) Mecanismos de cooperación interinstitucional para trasladar el [impulso de la transversalidad de la perspectiva de género]{.red} a las demás administraciones, agentes sociales y [universidades]{.red}.
@@ -113,7 +114,7 @@ Psicología Social**
 - Transmite conocimientos invisibilizados y críticos.
 - Hace pensar (competencias cognitivas).
 - Desarrolla competencias prácticas.
-- Forma a personas para una sociedad más igualitaria y justa socialmente.  
+- Forma a personas para una sociedad más igualitaria y justa socialmente.
 
 [Dauder, 2011]{.autor}
 
@@ -150,13 +151,19 @@ Psicología Social**
 - Tener en cuenta el contexto y la fuerza y el impacto de instancias macrosociales y de discursos hegemónicos en las relaciones microsociales.
 - Elaborar y generar un conocimiento psicosocial reflexivo y analítico que mantenga en el horizonte la autonomía de individuos y grupos.
 - Subjetividad en relación al gobierno que ha ejercido/ejerce la ciencia psicológica y psicosocial
-- Revisar asunciones, instrumentos y prácticas que producen exclusiones de ciertos modos de relación y de ciertas subjetividades entendidas como disfuncionales al orden imperante, en especial el que determina el sistema sexo/género.
-- Poner en práctica una psicología inclusiva que, en ocasiones, suponga redefinir el concepto de objetividad y racionalidad científica y rehabilitar la razón práctica.
 
 ::: notes
 - Tener en cuenta el contexto y la fuerza y el impacto de instancias macrosociales y de discursos hegemónicos en las relaciones microsociales.
 - Elaborar y generar un conocimiento psicosocial reflexivo y analítico que mantenga en el horizonte la autonomía de individuos y grupos.
 - Subjetividad en relación al gobierno que ha ejercido/ejerce la ciencia psicológica y psicosocial
+:::
+
+## PSMC
+
+- Revisar asunciones, instrumentos y prácticas que producen exclusiones de ciertos modos de relación y de ciertas subjetividades entendidas como disfuncionales al orden imperante, en especial el que determina el sistema sexo/género.
+- Poner en práctica una psicología inclusiva que, en ocasiones, suponga redefinir el concepto de objetividad y racionalidad científica y rehabilitar la razón práctica.
+
+::: notes
 - Revisar asunciones, instrumentos y prácticas que producen exclusiones de ciertos modos de relación y de ciertas subjetividades entendidas como disfuncionales al orden imperante, en especial el que determina el sistema sexo/género (transversalidad del género).
 - Poner en práctica una psicología inclusiva que, en ocasiones, suponga redefinir el concepto de objetividad y racionalidad científica y rehabilitar la razón práctica (en análisis de casos de intervención familiar, por ejemplo).
 :::
@@ -181,6 +188,61 @@ Psicología Social**
 - Identificar los efectos de desigualdad social en los ámbitos de la (bio)tecnología, sexualidad, interculturalidad, cuidados, precariedad, salud y violencia.
 - Desarrollar una perspectiva transversal y transdisciplinar en el análisis de fenómenos psicosociales contemporáneos.
 :::
+
+## Competencias y resultados de aprendizaje {.peque}
+
+------------------------------------------------------------------------------------------------------------------------------
+Competencias            Resultados
+Generales
+----------------------- ------------------------------ -------------------------------- ---------------------------------
+Aprendizaje autónomo    Desarrollar estrategias de
+                        aprendizaje autónomo
+------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
+Competencias            Resultados
+Específicas
+----------------------- ------------------------------ -------------------------------- ---------------------------------
+Reconocer la dimensión  Analizar y comparar conceptos  Aplicar conceptos e identificar  Aplicar conceptos e identificar
+social del ser humano   y procesos psicosociales       procesos psicosociales           procesos psicosociales
+                                                       (pertenencia categorial)         (comunicación social)
+
+Escuchar activamente    Expresar preguntas             Documentar conceptos y       
+                        y respuestas                   procesos psicosociales
+
+Comunicarse eficazmente Exponer públicamente
+
+Hacer revisiones        Identificar las principales    Producir diferentes              Reproducir experiencias clásicas
+sistemáticas            técnicas de búsqueda           tipos de informes                de la investigación psicosocial
+                        de información
+-----------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------------------------------------------------
+Competencias / Resultados Transversales
+--------------------------------------------------------------------------------------------------------------------------
+Trabajar en equipo
+
+Aplicar de manera crítica, reflexiva y creativa los conocimientos, habilidades y valores adquiridos
+
+Reconocer y apreciar las valoraciones externas sobre la propia actuación
+---------------------------------------------------------------------------------------------------------------------------
+
+<!--
+-------------------------------------------------------------------------------------------------------------
+Competencias                                          Resultados
+Transversales
+----------------------------------------------------- -------------------------------------------------------
+Trabajar en equipo                                    Trabajar en equipo
+
+Aplicar de manera crítica, reflexiva y creativa los   Aplicar de manera crítica, reflexiva y creativa los
+conocimientos, habilidades y valores adquiridos       conocimientos, habilidades y valores adquiridos
+
+Reconocer y apreciar las valoraciones externas        Reconocer y apreciar las valoraciones externas
+sobre la propia actuación                             sobre la propia actuación
+----------------------------------------------------------------------------------------------------------------
+
+
 
 ## Competencias
 
@@ -244,7 +306,7 @@ Psicología Social**
 - Utilizar las técnicas de búsqueda de información en [fuentes]{.red} documentales de la psicología social [para producir]{.red} diferentes tipos de [informes]{.red} o monografías científicas (CE37.5).
 
 :::
-
+-->
 <!-- # La función de la Psicología social en el contexto de hoy (Ibáñez, 1993) {#funcion-ps .center .peque} -->
 
 
@@ -296,16 +358,22 @@ Psicología Social**
   - Posibilita atender e incorporar [otras voces]{.red} (acorde principios psicología inclusiva).
 :::
 
-## Materiales: Distintas “arenas” para el análisis de casos
+## Materiales: Distintas “arenas” para el análisis de casos {#arenas}
+
+- Textos y debates académicos de la [comunidad científica]{.red}.
+- Textos y representaciones producidas por los [medios de comunicación]{.red}.
+- Piezas provenientes de la [cultura popular]{.red}.
+- [Voces concretas de colectivos]{.red} de operadores o reclamadores.
+- [Protocolos normativos]{.red} sobre una problemática concreta.
+
+::: notes
+Los problemas sociales de hoy en día se construyen en distintos ámbitos de discusión o “arenas” sociales: medios de comunicación, debates en los congresos, dependencias del poder ejecutivo, juicios en tribunales, diversos espacios de la cultura (como libros, películas, documentales o incluso programas de ficción o de humor –sub-ámbitos de creciente importancia en el mercado de problemas sociales-) la comunidad científica, las organizaciones religiosas.
 
 - Textos y debates académicos de la [comunidad científica]{.red}.
 - Textos y representaciones producidas por los [medios de comunicación]{.red} (páginas de internet, diarios de tirada nacional, programas o entrevistas televisivas).
 - Piezas provenientes de la [cultura popular]{.red} (películas de ficción, documentales, viñetas humorísticas, rumores).
 - [Voces concretas de colectivos]{.red} de operadores o reclamadores.
 - [Protocolos normativos]{.red} sobre una problemática concreta.
-
-::: notes
-Los problemas sociales de hoy en día se construyen en distintos ámbitos de discusión o “arenas” sociales: medios de comunicación, debates en los congresos, dependencias del poder ejecutivo, juicios en tribunales, diversos espacios de la cultura (como libros, películas, documentales o incluso programas de ficción o de humor –sub-ámbitos de creciente importancia en el mercado de problemas sociales-) la comunidad científica, las organizaciones religiosas.
 :::
 
 ## Estructura modular
@@ -314,7 +382,7 @@ Bloques temáticos relacionados con:
 
 - La máscara de la diversidad en un mundo excluyente.
 - La creciente precarización y falta de protección social de la vida.
-- Los problemas de la identidad y la desigualdad de género aparentemente superada socialmente..
+- Los problemas de la identidad y la desigualdad de género aparentemente superada socialmente.
 
 ## Bloques
 
@@ -328,15 +396,15 @@ Bloque 3: El gobierno de la identidad y la desigualdad en el mundo contemporáne
 ## Bloque 1 (Diversidad)
 
 +---------+----------------------------------------------------------+--------------------------------------------+
-| Unidad  | Sesión Temática                                          | Sesión Práctica                            |
-+:=======:+:=========================================================+:===========================================+
-| 1       | - Efectos de la tecnología en la constitución del sujeto | - Poder/saber                              |
-|         |                                                          | - Patologización                           |
-+---------+----------------------------------------------------------+--------------------------------------------+
-| 2       | - La diversidad sexual y afectiva                        | - Identidades sexuales                     |
-+---------+----------------------------------------------------------+--------------------------------------------+
-|  3      | - La diversidad cultural                                 | - Identificaciones culturales y étnicas    |
-+---------+----------------------------------------------------------+--------------------------------------------+
+| Unidad | Sesión Temática                                          | Sesión Práctica                            |
++:======:+:=========================================================+:===========================================+
+| 1      | - Efectos de la tecnología en la constitución del sujeto | - Poder/saber                              |
+|        |                                                          | - Patologización                           |
++--------+----------------------------------------------------------+--------------------------------------------+
+| 2      | - La diversidad sexual y afectiva                        | - Identidades sexuales                     |
++--------+----------------------------------------------------------+--------------------------------------------+
+|  3     | - La diversidad cultural                                 | - Identificaciones culturales y étnicas    |
++--------+----------------------------------------------------------+--------------------------------------------+
 
 ## Bloque 2 (Cuidados)
 
@@ -354,18 +422,18 @@ Bloque 3: El gobierno de la identidad y la desigualdad en el mundo contemporáne
 
 ## Bloque 3 (Malestares de género)
 
-+---------+----------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------+
-| Unidad  | Sesión Temática                                                            | Sesión Práctica                                                                                             |
++--------+----------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------+
+| Unidad | Sesión Temática                                                            | Sesión Práctica                                                                                             |
 +:=======:+:===========================================================================+:============================================================================================================+
-| 7       | - Sistema sexo/género: violencias, modernidad, desigualdad e identidad     | - El caso XXY y los malestares de género                                                                    |
-|         |                                                                            | - La Psicología tradicional: historia y actualidad del análisis y la intervención en malestares de género   |
-+---------+----------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------+
-| 8       | - Sistema sexo/género: modelos, organización y políticas para la igualdad  | - La Psicología tradicional: historia y actualidad del análisis y la intervención en malestares de género   |
-|         |                                                                            | - Psicología igualitaria y para la diversidad                                                               |
-+---------+----------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------+
-| 9       | - Sistema sexo/Género: Psicología y salud                                  | - Psicología igualitaria y para la diversidad                                                               |
-|         |                                                                            | - Psicología igualitaria y para la diversidad                                                               |
-+---------+----------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------+
+| 7      | - Sistema sexo/género: violencias, modernidad, desigualdad e identidad     | - El caso XXY y los malestares de género                                                                    |
+|        |                                                                            | - La Psicología tradicional: historia y actualidad del análisis y la intervención en malestares de género   |
++--------+----------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------+
+| 8      | - Sistema sexo/género: modelos, organización y políticas para la igualdad  | - La Psicología tradicional: historia y actualidad del análisis y la intervención en malestares de género   |
+|        |                                                                            | - Psicología igualitaria y para la diversidad                                                               |
++--------+----------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------+
+| 9      | - Sistema sexo/Género: Psicología y salud                                  | - Psicología igualitaria y para la diversidad                                                               |
+|        |                                                                            | - Psicología igualitaria y para la diversidad                                                               |
++--------+----------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------+
 
 ## Sistema de evaluación {#evaluacion}
 
@@ -377,3 +445,5 @@ Bloque 3: El gobierno de la identidad y la desigualdad en el mundo contemporáne
   - EV2: informe de actividades (relaciones conceptuales).
   - EV3: presentación de actividad y representación de rol-playing.
   - EV4: prueba de test multiopcional.
+
+## {data-background-image="imagenes/logo.png" }

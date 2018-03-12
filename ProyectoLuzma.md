@@ -3,7 +3,8 @@ title:  'Proyecto de Investigación'
 subtitle: 'Políticas, culturas y prácticas de cuidados de la población joven: una exploración cualitativa en espacios urbanos de los estados de Chile, México, España y Uruguay. '
 author:
 - name: Luz Mª Martínez
-  affiliation: Universitat Autònoma de Barcelona
+  affiliation: Departament de Psicologia Social
+  email: Universitat Autònoma de Barcelona
 tema: "marzo 2018"
 lateral-menu: true
 imagen-fondo: 'imagenes/columnas-4.jpg'
@@ -39,8 +40,8 @@ Objetivos principales (entre otros)
 - Conocimiento situado.
 - Sensibilidad al contexto y sus necesidades en la redefinición de procesos de investigación.
 - Producción de prácticas de refracción y de reflexión, en tres tipologías de actividad:
-  - Investigación,
-  - Aprendizaje mutuo
+  - Investigación.
+  - Aprendizaje mutuo.
   - Intercambio y divulgación de materiales.
 
 ::: notes
@@ -59,6 +60,7 @@ Objetivos principales (entre otros)
 
 ![Red de diez centros universitarios](imagenes/UniversidadesProyecto.png)
 
+<!--
 ## Participantes
 
 - Red de diez centros universitarios:
@@ -69,7 +71,7 @@ Objetivos principales (entre otros)
   - Universidad FLACSO, Ecuador,
   - Universidad de York, Canadá,
   - UAEH, México
-  - Universidad de la República, Uruguay.
+  - Universidad de la República, Uruguay. -->
 
 ##
 
@@ -107,6 +109,9 @@ La posibilidad de trabajar con asociaciones u organizaciones no gubernamentales 
   - Sofisticación analítica y descriptiva para su poca participación en el trabajo de cuidados.
   - Si cuestionamiento de la ausencia de la figura paterna en la ejecución de tareas.
   - Argumentos individualizadores: preferir, gustar, saber.
+
+##
+
 - Jóvenes de 25 a 35 años:
   - Imposivilidad mutua de definirse fuera de la co-participación (y las evidencias lo contradicen)
 - Colectivo de personas socializadas en la igualdad y contemporáneo de muchas investigadoras.
@@ -176,7 +181,7 @@ La posibilidad de trabajar con asociaciones u organizaciones no gubernamentales 
 ##
 
 - Examinar los vínculos y efectos de las políticas sociales de cuidados de los contextos de la investigación en las percepciones y construcciones discursivas de las/los jóvenes.
-- Aplicar, experimentar y examinar la técnica cualitativa de entrevista grupal como modo de recogida de datos coherente con planteamientos feministas
+- Aplicar, experimentar y examinar la técnica cualitativa de entrevista grupal como modo de recogida de datos coherente con planteamientos feministas.
 - Detectar y describir de manera densa y detallada el curso de interacciones y comunicaciones (verbales y no verbales) desarrollado por las/los participantes (jóvenes e investigadora) en el transcurso del trabajo de campo.
 - Producir un análisis autorreflexivo y experiencial de la conducción y dinamización grupal.
 Analizar los datos etnográficos del proceso de investigación de campo de manera colaborativa, a fin de producir formas no discriminatorias de conocimiento.
@@ -195,12 +200,22 @@ Analizar los datos etnográficos del proceso de investigación de campo de maner
 ##
 
 - Guión conversacional, bloques temáticos:
+  - Necesidades del ámbito doméstico de acuerdo con el rol que se desarrolla.
+  - Organización del tiempo.
+  - Procesos de transformación y cambio percibidos.
+  - Identidad de rol.
+- Registro etnográfico del proceso grupal.
+  - Diario de campo de la observadora y anotaciones vivenciales posteriores de la conductora de la entrevista grupal.
+
+::: notes
+- Guión conversacional, bloques temáticos:
   - Necesidades del ámbito doméstico de acuerdo con el rol que se desarrolla: tareas, competencias, vivencias, valoraciones y otras cuestiones que hacen específico cada rol,
   - Organización del tiempo,
   - Procesos de transformación y cambio percibidos (de hábitos, tecnológicos, ideológicos, etc.)
   - Identidad de rol.
 - Registro etnográfico del proceso grupal (roles diferenciados de conducción y registro).
   - Diario de campo de la observadora y anotaciones vivenciales posteriores de la conductora de la entrevista grupal; reflexiones dialogadas.
+:::
 
 <!--
 ## Composición de los grupos de entrevista {#composicion-grupos}
@@ -217,17 +232,17 @@ Procesos de muestreo en Ciudad de México, Santiago de Chile, Barcelona y Montev
 ## Composición de los grupos {#composicion-grupos}
 
   --------------------------------------------------------------------------------
-  Formación                  Trabajo                 Hombres             Mujeres
-                          Doméstico
-  --------------       -------------------------    ---------  --------  ----------
-  Con educación          No se consideran             18-25              18-25      
-  universitaria          responsables principales                         
+  Formación                    Trabajo                       Hombres              Mujeres
+                              Doméstico
+  --------------        -------------------------------    ---------  --------  ----------
+  Con educación           No se consideran                   18-25                18-25      
+  universitaria           responsables principales                         
 
-  Sin educación          No se consideran              18-25             18-25      
-  universitaria          responsables principales                         
+  Sin educación           No se consideran                    18-25               18-25      
+  universitaria           responsables principales                         
 
-  Personas activas en    Sí se consideran                        25-35
-  el mercado de trabajo  responsables principales
+  Activas en el           Sí se consideran                              25-35
+  mercado de trabajo      responsables principales
   ------------------------------------------------------------------------------
 
 : Procesos de muestreo en Ciudad de México, Santiago de Chile, Barcelona y Montevideo.
@@ -260,3 +275,5 @@ Procesos de muestreo en Ciudad de México, Santiago de Chile, Barcelona y Montev
 - Descripción densa: visibilizar estructuras de significación que a menudo parecen irregulares, no explícitas o inconexas; localizar estructuras de significación recurrentes en las formas concretas en que los y las participantes en los grupos de entrevista grupal dan sentido y viven sus prácticas domésticas y de cuidado, así como a ellas/ellos mismos y a las personas, situaciones y escenarios en que se desarrollan estas prácticas.
 - Incluye niveles descriptivos y argumentales y explicativos.
 :::
+
+## {data-background-image="imagenes/logo.png" }
