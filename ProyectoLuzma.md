@@ -1,6 +1,6 @@
 ---
-title:  'Proyecto de Investigación'
-subtitle: 'Políticas, culturas y prácticas de cuidados de la población joven: una exploración cualitativa en espacios urbanos de los estados de Chile, México, España y Uruguay. '
+title:  'Proyecto docente'
+subtitle: 'Psicologia Social del Món Contemporani'
 author:
 - name: Luz Mª Martínez
   affiliation: Departament de Psicologia Social
@@ -10,270 +10,443 @@ lateral-menu: true
 imagen-fondo: 'imagenes/columnas-4.jpg'
 ...
 
-# Metainvestigación de contexto {#metainvestigacion .center}
+## Esquema de la presentación {#esquema}
+
+- El Grado de Psicología.
+  - Contexto del Grado de Psicología.
+  - Posición estratégica y criterios de su diseño.
+- Transversalidad de género.
+- Objetivos y competencias.
+- La Psicología Social en el mundo contemporáneo.
+- La asignatura.
+  - Metodologías docentes.
+  - Materiales.
+  - Unidades didácticas.
+  - Sistema de evaluación.
 
 
-##
-
-Proyecto marco
-: Integración de las perspectivas feministas en los procesos de investigación: una colaboración internacional para repensar e innovar los aspectos metodológicos en las ciencias sociales.
-: Propuesta internacional para promover perspectivas feministas y de interseccionalidad de género en los procesos de investigación.
-
-##
-
-Objetivos principales (entre otros)
-: Fortalecimiento de redes de intercambio de conocimiento, tanto nacionales como internacionales,
-: Consolidación de un marco sistematizado de conocimientos transdisciplinarios y centrados en el género, que supongan, desde la diversidad de vinculaciones en que se generan, calidad y excelencia en la investigación internacional.
-
-<!-- ”Integrating feminist criticalities throughout research process: an international collaboration to enhance methodological rigour in the social sciences” -->
-
-## Mediante
-
-- Foros de debate y talleres para la colaboración y consolidación de conocimientos entre la academia y la sociedad civil.
-- Red de colaboración que busca la heterogeneidad de sus miembros y la diversidad disciplinaria sobre algunas preocupaciones metodológicas centrales sensibles al género.
-- Producción de recursos educativos, compartir los conocimientos producidos de forma libre y amplia.
-
-## Perspectivas de enfoque {#perspectivas}
-
-- Interseccionalidad de género.
-- Conocimiento dialógico y relacional, de horizontalidad, respeto al individuo y sus experiencias vitales.
-- Conocimiento situado.
-- Sensibilidad al contexto y sus necesidades en la redefinición de procesos de investigación.
-- Producción de prácticas de refracción y de reflexión, en tres tipologías de actividad:
-  - Investigación.
-  - Aprendizaje mutuo.
-  - Intercambio y divulgación de materiales.
-
-::: notes
-- Interseccionalidad de género.
-- Conocimiento dialógico y relacional, de horizontalidad, respeto al individuo y sus experiencias vitales.
-- Conocimiento situado (conexiones parciales, conversaciones compartidas en la epistemología y conexiones –solidaridad- en la política, Haraway, 2004).
-- Sensibilidad al contexto y sus necesidades en la redefinición de procesos de investigación.
-- Producción de prácticas de refracción (interacciones, interferencias, refuerzos, diferencias) y de reflexión, en 3 tipologías de actividad:
-  - Investigación,
-  - Aprendizaje mutuo
-  - Intercambio y divulgación de materiales.
-:::
-
-
-## Participantes
-
-![Red de diez centros universitarios](imagenes/UniversidadesProyecto.png)
+# El Grado de Psicología {#grado .center}
 
 <!--
-## Participantes
+## Objetivo del título oficial de Graduada/o en Psicología en la UAB {#objetivo-titulo .peque}
 
-- Red de diez centros universitarios:
-  - Tres universidades del estado español (URV, UPV/EHU y UAB, integrantes del seminario SIMReF),
-  - Universidad de Brunel, Reino Unido,
-  - Universidad Central, Chile,
-  - Universidad de Victoria, Australia,
-  - Universidad FLACSO, Ecuador,
-  - Universidad de York, Canadá,
-  - UAEH, México
-  - Universidad de la República, Uruguay. -->
+>Formar profesionales en los aspectos científicos y técnicos que se requieren para [promover la calidad de vida de]{.red} los individuos y para la [resolución de problemas]{.red} psicológicos en los distintos [ámbitos]{.red} consolidados y emergentes de la disciplina (clínico y de la salud, educativo, trabajo, organizaciones, comunitario, etc…). El desarrollo del listado de competencias generales y específicas (…) garantiza una [formación]{.red} científico-técnica dirigida a los [aspectos básicos y aplicados de la Psicología]{.red}, centrada en los mecanismos básicos de la conducta humana y en la dinámica de las organizaciones y de los grupos. Este proyecto formativo es el punto de partida para la [capacitación]{.red} del futuro(/a) psicólogo(/a) profesional y le permitirá [intervenir de forma crítica y reflexiva]{.red} con programas que den respuesta a las demandas de los individuos en un [contexto biopsicosocial]{.red}\
+[Memoria del Grado en Psicología de la UAB, p. 18]{.autor} -->
 
-##
+## Menciones de la titulación {#menciones}
 
-Déficit de publicaciones en lengua castellana.
+- Psicología de la Salud.
+- Psicología clínica de la infancia y la adolescencia.
+- Psicología clínica de adultos.
+- Análisis e Intervención en Psicología Social.
+- Psicología del trabajo y las organizaciones.
+- Análisis e intervención socioeducativas.
 
-La posibilidad de trabajar con asociaciones u organizaciones no gubernamentales es una de las orientaciones para el desarrollo de la red.
-
-## Áreas temáticas de trabajo {#areas-trabajo}
-
-- Violencia.
-- Política y política cotidiana.
-- Pedagogía crítica.
-- Embodiment o materializaciones.
+## El área de conocimiento en el Grado de Psicología {#area-conocimiento}
 
 ::: notes
-- Violencia (violencia relacionada con el género, conflictos sociales, violencia simbólica)
-- Política y política cotidiana (movimientos sociales, análisis crítico de políticas públicas, articulaciones sociales, prácticas de cuidados, etc…)
-- Pedagogía crítica (educación informal, pedagogía feminista, teatro de los oprimidos, arte),
-- Embodiment o materializaciones (cuerpo, materialidad, condiciones físicas, transgresión, monstruosidades, ciborgs…)
+Estructura 1+2+1
+:::
+
+:::::: {.columns}
+::: {.column width="50%"}
+**Materia básica\
+Psicología**
+
+- Procesos psicológicos: atención y percepción
+- Psicología Evolutiva I
+- Personalidad y diferencias individuales
+- Procesos psicológicos: motivación y emoción
+- La dimensión social de la persona
+:::
+::: {.column width="50%"}
+**Materia troncal\
+Psicología Social**
+
+- Influencia Social y Grupos
+- Psicología Social del Mundo Contemporáneo
+:::
+::::::
+
+## Posición estratégica de la asignatura y criterios para su diseño {#posicion-estrategica}
+
+- Afianzar la dimensión social de forma situada.
+- Reflejar campos de trabajo de la Psicología Social.
+- Conectar conocimientos troncales con opciones de itinerario.
+- Incorporar teorizaciones surgidas en los últimos años.
+- Introducir reflexiones éticas.
+- Trasmitir la importancia de la mirada crítica.
+- Vincular los contenidos a líneas de investigación.
+
+::: notes
+- Afianzar la dimensión social de forma situada
+- Reflejar campos de trabajo de la Psicología Social (ámbitos y perfiles)
+- Conectar conocimientos troncales con opciones de itinerario (análisis e intervención psicosocial)
+- Incorporar teorizaciones surgidas en los últimos años (psicología social contemporánea).  
+- Introducir reflexiones éticas.
+- Trasmitir la importancia de la mirada crítica (efectos del conocimiento).
+- Vincular los contenidos a líneas de investigación (tercer ciclo)
 :::
 
 
-## Antecedentes y planteamiento del problema de la investigación {#antecedentes}
+# Transversalidad de género {#transversalidad-genero .center .peque}
 
-- Problemática encuadrada en la temática de políticas cotidianas.
-- Atraviesa la realidad de distintos países.
-- Cambios, reorganizaciones, tensiones.
-- Crisis de cuidados, relevancia social.
-- Necesidad de revisar los modelos genéricos de relación (en crisis).
-- Resultados de nuestra investigación anterior (entrevistas grupales).
+## Bases
 
-##
-- Jóvenes de 18 a 25 años (universitarias/os, ambos sexos):
-  - Gestión de lo doméstico centrada en figuras de madre y femeninas.
-  - Sofisticación analítica y descriptiva para su poca participación en el trabajo de cuidados.
-  - Si cuestionamiento de la ausencia de la figura paterna en la ejecución de tareas.
-  - Argumentos individualizadores: preferir, gustar, saber.
+- Promoción de la calidad de vida.
+- Marco legal
+- Presencia deficitaria en el grado.
 
-##
-
-- Jóvenes de 25 a 35 años:
-  - Imposivilidad mutua de definirse fuera de la co-participación (y las evidencias lo contradicen)
-- Colectivo de personas socializadas en la igualdad y contemporáneo de muchas investigadoras.
-- Se decidió indagar, en las localizaciones de un equipo en diáspora.
-
-
-## Contextos e idiosincrasias locales
-
-- Cuatro países de la red, de tradición familiar en el cuidado.
-- Diferencias en políticas publicas formales e informales.
-  - México
-  - Chile
-  - Uruguay
-  - España
 
 ::: notes
-- Cuatro países de la red, de tradición familiar en el cuidado.
-- Diferencias en políticas publicas formales e informales.
-  - México: inciativas políticas de corte asistencial, aunque flutúantes; modelo familiar con estreotipos y presiones de mercado, pero con normalización de rupturas (Hernández, 2015).
-  - Chile: políticas neoliberales, reducción de la intervención estatal, acceso a servicios por mercado, altas tasas de desigualdad y pobreza, con aumento de la brecha sexual.
-  - Uruguay: modelo de protección más avanzado, régimen de bienestar intermedio, cuidados incorporados a la agenda pública en 2015, SNIC, implica extender la protección y ver el cuidado como problema social con necesidad de respuestas colectivas.
-  - España: Iniciativas legislativas (Dependencia, Conciliación) desvirtuadas por las respuestas políticas a la situación de crisis económica, externalización, etnificación, sobrecarga femenina; algunas corporaciones locales trabajan hacia el cambio de paradigma (política de cuidados de ciudad, cambios de espacios y tiempos).
+- Artículo 7.3. Para llevar a cabo las funciones en materia de políticas de igualdad de género, la Administración de la Generalidad debe dotarse de: b) Mecanismos de cooperación interinstitucional para trasladar el [impulso de la transversalidad de la perspectiva de género]{.red} a las demás administraciones, agentes sociales y [universidades]{.red}.
+- Artículo 28.1 Universidades e Investigación: La educación en valores a que se refiere el artículo 5 de la Ley 1/2003, de 19 de febrero, de universidades de Cataluña, debe incluir necesariamente: a) la [promoción de la introducción de la perspectiva de género de forma transversal]{.red} y de los estudios sobre la contribución de las mujeres a lo largo de la historia [en todos los ámbitos del conocimiento]{.red} y en la actividad académica e investigadora, que deben [incluirse en el currículo de los grados]{.red} y de los programas de posgrado (…).
 :::
 
+## III Plan de acción UAB {#plan-accion}
 
-## Pregunta de investigación y enfoque del estudio {#pregunta}
+- Universidad inclusiva y de excelencia inclusiva.
+- Interseccionalidad de género.
 
->**Pregunta guía**: ¿qué aspectos de las formas de comprender, gestionar  y ejecutar el cuidado (circunscribiendo su  acepción a las prácticas domésticas y de atención de personas vinculadas al hogar) permiten experiencias satisfactorias o, por el contrario, producen malestar y reducción de equidad y calidad de vida en las personas jóvenes que lo realizan y/o lo disfrutan?
+<!-- ## Formación transversal de género {#dauder}
 
-## Pregunta de investigación y enfoque del estudio {#enfoque}
-- Enfoque psicosocial, centralidad de la dimensión simbólica.
-- Comprensión interseccional de género, construcción y reconstrucción en las prácticas cotidianas.
-- Relación del cuidado doméstico y la tecnología: revisión de estudios feministas.
-- Pregunta metodológica acerca de la fase del proceso de producción de datos.
-- Registro del modo de implementación de la técnica utilizada, valorar su coherencia.
-- Valoración de la coherencia de la producción de datos con las teorizaciones feministas.
+- Transmite conocimientos invisibilizados y críticos.
+- Hace pensar (competencias cognitivas).
+- Desarrolla competencias prácticas.
+- Forma a personas para una sociedad más igualitaria y justa socialmente.
+
+[Dauder, 2011]{.autor} -->
+
+## Aplicar perspectiva de género en docencia {#donoso}
+
+- Revisar los [sesgos androcéntricos]{.red} de nuestras disciplinas.
+- Incluir el conocimiento producido por las [mujeres científicas]{.red} y expertas.
+- Incluir un análisis de [mecanismos]{.red} sociales y culturales que sustentan las desigualdades.
+
+[Donoso, 2014]{.autor}
+
+# Objetivos y competencias {.center}
+
+## Objetivos de la asignatura
+
+- Analizar las problemáticas de nuestro entorno social.
+- Aplicar críticamente herramientas de la psicología social.
+- Desarrollar una perspectiva interseccional.
+- Reconocer la transversalidad del sistema sexo/género.
+- Identificar efectos de desigualdad social.
+- Desarrollar una perspectiva transversal y transdisciplinar.
+
 
 ::: notes
-- Enfoque psicosocial, centralidad de la dimensión simbólica; prácticas y significados como explicación de la interacción, el orden y la transformación social (contexto sociohistórico, discursos legitimadores).
-- Comprensión interseccional de género, construcción y reconstrucción en las prácticas cotidianas.
-- Relación del cuidado doméstico y la tecnología: revisión de estudios feministas (Bittman, Rice y Wajcman, 2004; Warre, 2010).
-- Pregunta metodológica acerca de la fase del proceso de producción de datos.
-- Registro del modo de implementación de la técnica utilizada (entrevista grupal: interacciones, distribución de palabras, desacuerdos, negociaciones, relaciones con la entrevistadora…), valorar su coherencia.
-- Valoración de la coherencia de la producción de datos con las teorizaciones feministas (no reproducir marcas jerárquicas o situaciones de subalternidad).
+- Analizar las problemáticas de nuestro entorno social desde la perspectiva psicosocial a partir del estudio de casos prácticos.
+- Aplicar críticamente herramientas de la psicología social para afrontar estas problemáticas.
+- Desarrollar una perspectiva interseccional que tenga en cuenta diferentes ejes de desigualdad social (género, clase, etnia, sexualidad, edad, diversidad funcional, acceso al conocimiento y la tecnología…).
+- Reconocer la transversalidad del sistema sexo/género en la producción de desigualdad social.
+- Identificar los efectos de desigualdad social en los ámbitos de la (bio)tecnología, sexualidad, interculturalidad, cuidados, precariedad, salud y violencia.
+- Desarrollar una perspectiva transversal y transdisciplinar en el análisis de fenómenos psicosociales contemporáneos.
 :::
 
+## Competencias y resultados de aprendizaje {.peque}
 
-## Objetivo general
+------------------------------------------------------------------------------------------------------------------------------
+Competencias            Resultados
+Generales
+----------------------- ------------------------------ -------------------------------- ---------------------------------
+Aprendizaje autónomo    Desarrollar estrategias de
+                        aprendizaje autónomo
+------------------------------------------------------------------------------------------------------------------------------
 
->Identificar y conocer cómo se construyen y qué prácticas sustentan los discursos sobre labores domésticas y de cuidado entre jóvenes de localizaciones geográficas distintas y experiencias sociohistóricas diferentes, a fin de comprender los efectos de las culturas, las políticas y los sentidos del cuidado que manejan y, simultáneamente, examinar de forma difractiva el dispositivo metodológico de producción de los datos del estudio.
+------------------------------------------------------------------------------------------------------------------------------
+Competencias            Resultados
+Específicas
+----------------------- ------------------------------ -------------------------------- ---------------------------------
+Reconocer la dimensión  Analizar y comparar conceptos  Aplicar conceptos e identificar  Aplicar conceptos e identificar
+social del ser humano   y procesos psicosociales       procesos psicosociales           procesos psicosociales
+                                                       (pertenencia categorial)         (comunicación social)
 
-## Objetivos específicos {#objetivos-especificos}
+Escuchar activamente    Expresar preguntas             Documentar conceptos y       
+                        y respuestas                   procesos psicosociales
 
-- Identificar y comparar los elementos centrales que definen las necesidades en el ámbito doméstico y las narraciones de distribución de las responsabilidades del hogar que se producen.
-- Detectar las valoraciones y las desvalorizaciones con las que se significan las prácticas domésticas y/o las prácticas de cuidado.
-- Determinar los roles a los que son atribuidas las distintas responsabilidades del cuidado y trabajo doméstico.
-- Distinguir elementos contextuales, psicosociales o individuales que aparecen implicados en las transformaciones percibidas de estas labores y valorar la satisfacción sentida respecto a dichas transformaciones.
+Comunicarse eficazmente Exponer públicamente
 
-##
+Hacer revisiones        Identificar las principales    Producir diferentes              Reproducir experiencias clásicas
+sistemáticas            técnicas de búsqueda           tipos de informes                de la investigación psicosocial
+                        de información
+-----------------------------------------------------------------------------------------------------------
 
-- Identificar los elementos sociotécnicos presentes en las narraciones y valorar su repercusión en la modificación de prácticas y significados del ámbito doméstico
-- Comprobar similitudes y diferencias en cuanto a la necesidad de apoyo y reconocimiento de la labor doméstica que manifiestan distintas posiciones.
-- Mapear las políticas de cuidado, en cuanto a programas y servicios gubernamentales públicos, privados, comunitarios o de voluntariado presentes en los contextos locales de la investigación.
-- Identificar las principales directrices del cuidado social en los contextos locales de investigación.
-- Analizar, desde una perspectiva interseccional de género, las principales directrices del cuidado en los contextos locales de la investigación y sus efectos.
 
-##
+--------------------------------------------------------------------------------------------------------------------------
+Competencias / Resultados Transversales
+--------------------------------------------------------------------------------------------------------------------------
+Trabajar en equipo
 
-- Examinar los vínculos y efectos de las políticas sociales de cuidados de los contextos de la investigación en las percepciones y construcciones discursivas de las/los jóvenes.
-- Aplicar, experimentar y examinar la técnica cualitativa de entrevista grupal como modo de recogida de datos coherente con planteamientos feministas.
-- Detectar y describir de manera densa y detallada el curso de interacciones y comunicaciones (verbales y no verbales) desarrollado por las/los participantes (jóvenes e investigadora) en el transcurso del trabajo de campo.
-- Producir un análisis autorreflexivo y experiencial de la conducción y dinamización grupal.
-Analizar los datos etnográficos del proceso de investigación de campo de manera colaborativa, a fin de producir formas no discriminatorias de conocimiento.
+Aplicar de manera crítica, reflexiva y creativa los conocimientos, habilidades y valores adquiridos
 
-## Diseño metodológico {#diseno}
-
-- Diseño cualitativo coherente con la perspectiva teórica.
-- Información y significados vinculados a sus contextos de producción específicos.
-- Técnicas de recolección de datos: entrevistas grupales y anotaciones etnográficas.
-- Técnica de entrevista grupal acorde con las perspectivas feministas.
-
-::: notes
-- Técnica de entrevista grupal acorde con las perspectivas feministas (grupos de concienciación y empoderamiento, colectivización de experiencias, desindividualización de problemáticas, oportunidades para relacionarse colectivamente, distribución del poder en el grupo, calidad de los datos por elaboración de preguntas en interpelacción, sensibilidad a los sublenguajes culturales)
-:::
-
-##
-
-- Guión conversacional, bloques temáticos:
-  - Necesidades del ámbito doméstico de acuerdo con el rol que se desarrolla.
-  - Organización del tiempo.
-  - Procesos de transformación y cambio percibidos.
-  - Identidad de rol.
-- Registro etnográfico del proceso grupal.
-  - Diario de campo de la observadora y anotaciones vivenciales posteriores de la conductora de la entrevista grupal.
-
-::: notes
-- Guión conversacional, bloques temáticos:
-  - Necesidades del ámbito doméstico de acuerdo con el rol que se desarrolla: tareas, competencias, vivencias, valoraciones y otras cuestiones que hacen específico cada rol,
-  - Organización del tiempo,
-  - Procesos de transformación y cambio percibidos (de hábitos, tecnológicos, ideológicos, etc.)
-  - Identidad de rol.
-- Registro etnográfico del proceso grupal (roles diferenciados de conducción y registro).
-  - Diario de campo de la observadora y anotaciones vivenciales posteriores de la conductora de la entrevista grupal; reflexiones dialogadas.
-:::
+Reconocer y apreciar las valoraciones externas sobre la propia actuación
+---------------------------------------------------------------------------------------------------------------------------
 
 <!--
-## Composición de los grupos de entrevista {#composicion-grupos}
+-------------------------------------------------------------------------------------------------------------
+Competencias                                          Resultados
+Transversales
+----------------------------------------------------- -------------------------------------------------------
+Trabajar en equipo                                    Trabajar en equipo
 
-Procesos de muestreo en Ciudad de México, Santiago de Chile, Barcelona y Montevideo.
+Aplicar de manera crítica, reflexiva y creativa los   Aplicar de manera crítica, reflexiva y creativa los
+conocimientos, habilidades y valores adquiridos       conocimientos, habilidades y valores adquiridos
 
-- Cinco  grupos por localidad.
-  - Grupo 1: mujeres de 18 a 25 años con educación universitaria que no se consideran las principales responsables del trabajo doméstico en casa.
-  - Grupo 2: hombres de 18 a 25 años con educación universitaria que no se consideran los principales responsables del trabajo doméstico en casa.
-  - Grupo 3: mujeres de 18 a 25 años sin educación universitaria que no se consideran las principales responsables del trabajo doméstico en casa.
-  - Grupo 4: hombres de 18 a 25 años sin educación universitaria que no se consideran los principales responsables del trabajo doméstico en casa.
-  - Grupo 5: personas activas en el mercado de trabajo de 25 a 35 años que se consideran las principales responsables del trabajo doméstico en casa -->
-
-## Composición de los grupos {#composicion-grupos}
-
-  --------------------------------------------------------------------------------
-  Formación                    Trabajo                       Hombres              Mujeres
-                              Doméstico
-  --------------        -------------------------------    ---------  --------  ----------
-  Con educación           No se consideran                   18-25                18-25      
-  universitaria           responsables principales                         
-
-  Sin educación           No se consideran                    18-25               18-25      
-  universitaria           responsables principales                         
-
-  Activas en el           Sí se consideran                              25-35
-  mercado de trabajo      responsables principales
-  ------------------------------------------------------------------------------
-
-: Procesos de muestreo en Ciudad de México, Santiago de Chile, Barcelona y Montevideo.
+Reconocer y apreciar las valoraciones externas        Reconocer y apreciar las valoraciones externas
+sobre la propia actuación                             sobre la propia actuación
+----------------------------------------------------------------------------------------------------------------
 
 
-- Criterios de heterogeneidad.
-- Ficha previa de información sobre las/los participantes
-- Cuadro de descripción de las personas con las que convive.
+
+## Competencias
+
+- Aplicar de manera crítica, reflexiva y creativa los conocimientos, habilidades y valores adquiridos (CT7).
+- Comunicarse eficazmente (CE29).
+- Aprendizaje autónomo (CG2).
+- Escuchar activamente (CE28).
+- Hacer revisiones sistemáticas (CE37).
+- Reconocer y apreciar las valoraciones externas sobre la propia actuación (CT10).
+- Reconocer la dimensión social del ser humano (CE5).
+- Trabajar en equipo (CT6).
 
 ::: notes
-- Criterios de heterogeneidad: tipo de convivencia (familiar clásica, en pareja, con amigos/as o compañeros/as), con/sin personas dependientes o de autonomía restringida en el hogar y diversidad en la experiencia laboral.
-- Ficha previa de información sobre las/los participantes:
-  - Sexo (mujer, hombre u otro).
-  - Edad.
-  - Ciudad y barrio o colonia de residencia.
-  - Estudios cursados y en qué disciplina.
-  - Si trabaja o no y, en el primer caso, el número de horas.
-  - Si trabaja en aquello para que lo que se formó/estudió y, en caso negativo, el porqué.
-- Cuadro de descripción de las personas con las que convive (rol vincular –madre, padre, hermano, amiga…-, edad, sexo, con/sin trabajo remunerado fuera del hogar, persona dependiente por edad o salud).
+- [Aplicar]{.red} de manera crítica, reflexiva y creativa los conocimientos, habilidades y valores adquiridos (CT7).
+- [Comunicarse]{.red} eficazmente, utilizando los medios apropiados (orales, escritos o audiovisuales), teniendo en cuenta la diversidad y todos aquellos elementos que puedan facilitar o dificultar la comunicación (CE29).
+- Desarrollar estrategias de [aprendizaje autónomo]{.red} (CG2).
+- [Escuchar]{.red} activamente para poder obtener y sintetizar la información pertinente y comprender el contenido (CE28).
+- Hacer revisiones sistemáticas a partir de la consulta de [diferentes fuentes documentales]{.red} en psicología para recoger, ordenar y clasificar datos y materiales de investigación (CE37).
+- Reconocer y [apreciar las valoraciones]{.red} externas [sobre la propia actuación]{.red} (CT10).
+- [Reconocer la dimensión social]{.red} del ser humano, considerando los factores históricos y socioculturales que intervienen en la configuración psicológica humana (CE5).
+- [Trabajar en equipo]{.red} (CT6).
 :::
 
-## Procedimiento de Análisis {#procedimiento-analisis}
 
-- Análisis cualitativo de contenido categorial.
-- Descripción densa.
-- Incluye niveles descriptivos y argumentales y explicativos.
+## Resultados de aprendizaje...
+
+- Analizar y comparar conceptos y procesos psicosociales (CE5.6).
+- Aplicar conceptos e identificar procesos psicosociales (CE5.8) (CE5.9).
+- Aplicar de manera crítica, reflexiva y creativa (CT7).
+- Desarrollar estrategias de aprendizaje autónomo (CG2).
+- Documentar conceptos y procesos psicosociales (CE28.5).
+- Exponer públicamente (CE29.5).
 
 ::: notes
-- Análisis cualitativo de contenido categorial (descomposición de unidades, recomposición por categorías, regularidades).
-- Descripción densa: visibilizar estructuras de significación que a menudo parecen irregulares, no explícitas o inconexas; localizar estructuras de significación recurrentes en las formas concretas en que los y las participantes en los grupos de entrevista grupal dan sentido y viven sus prácticas domésticas y de cuidado, así como a ellas/ellos mismos y a las personas, situaciones y escenarios en que se desarrollan estas prácticas.
-- Incluye niveles descriptivos y argumentales y explicativos.
+- Analizar y comparar [conceptos y procesos]{.red} psicosociales que muestren la dimensión social del comportamiento individual de la persona (CE5.6).
+- Aplicar conceptos e identificar procesos psicosociales en el análisis del comportamiento de la persona en relación con su pertenencia a [categorías sociales]{.red} y a su [contexto]{.red} social (CE5.8).
+- Aplicar conceptos e identificar procesos psicosociales en el [análisis]{.red} de los elementos que facilitan y obstaculizan la [comunicación social]{.red} (CE5.9).
+- [Aplicar]{.red} de manera crítica, reflexiva y creativa los [conocimientos, habilidades y valores]{.red} adquiridos (CT7).
+- Desarrollar estrategias de [aprendizaje autónomo]{.red} (CG2).
+- Documentar conceptos y procesos psicosociales mediante la búsqueda de [ejemplos]{.red} en la [vida cotidiana]{.red} (CE28.5).
+- [Exponer públicamente]{.red} el análisis y los resultados de investigaciones psicosociales (CE29.5).
 :::
+
+
+## ...Resultados de aprendizaje
+
+- Expresar [preguntas y respuestas]{.red} (CE28.4).
+- Identificar las principales [técnicas de búsqueda de información]{.red} (CE37.4).
+- Reconocer y [apreciar]{.red} las [valoraciones externas]{.red} (CT10).
+- Trabajar en [equipo]{.red} (CT6).
+- [Reproducir experiencias clásicas de la investigación]{.red} psicosocial (CE37.6).
+- [Producir]{.red} diferentes tipos de [informes]{.red} (CE37.5).
+
+
+::: notes
+- Expresar [preguntas y respuestas]{.red} sobre conceptos y procesos psicosociales explicados en clase (CE28.4).
+- Identificar las principales [técnicas de búsqueda de información]{.red} en fuentes documentales de la psicología social (CE37.4).
+- Reconocer y [apreciar]{.red} las [valoraciones externas sobre la propia actuación]{.red} (CT10).
+- Trabajar en [equipo]{.red} (CT6).
+- Utilizar la información recogida y clasificada con las técnicas anteriores para [reproducir experiencias clásicas de la investigación]{.red} psicosocial (CE37.6).
+- Utilizar las técnicas de búsqueda de información en [fuentes]{.red} documentales de la psicología social [para producir]{.red} diferentes tipos de [informes]{.red} o monografías científicas (CE37.5).
+
+:::
+-->
+<!-- # La función de la Psicología social en el contexto de hoy (Ibáñez, 1993) {#funcion-ps .center .peque} -->
+
+# La Psicología Social en el mundo contemporáneo {#funcion-ps .center .peque}
+
+## Mirada sociohistórica
+
+- Disciplina implicada en procesos de regulación.
+- Procesos de regulación social que demanda el contexto.
+- Características del contexto actual:
+  - Transformación relaciones instancias macro - unidades micro.
+  - Intersubjetividad.
+
+  ::: notes
+  - Gobernar sujetos libres: conocimientos y tecnologías de poder
+  Función Psicología (Rose)
+  : Equipar a los individuos (sentimientos, deseos, motivaciones, identidades, representaciones y valores que hacen que sean sujetos ‘gobernables’ en nombre de su propia libertad y a partir de su propia libertad)
+
+  Función Psicología Social
+  : Gobierno de la intersubjetividad (regular, ordenar y normalizar las relaciones interpersonales, intragrupales o intergrupales).
+  :::
+
+<!-- ## PSMC
+
+- Tener en cuenta el contexto y la fuerza y el impacto de instancias macrosociales y de discursos hegemónicos en las relaciones microsociales.
+- Elaborar y generar un conocimiento psicosocial reflexivo y analítico que mantenga en el horizonte la autonomía de individuos y grupos.
+- Subjetividad en relación al gobierno que ha ejercido/ejerce la ciencia psicológica y psicosocial
+
+::: notes
+- Tener en cuenta el contexto y la fuerza y el impacto de instancias macrosociales y de discursos hegemónicos en las relaciones microsociales.
+- Elaborar y generar un conocimiento psicosocial reflexivo y analítico que mantenga en el horizonte la autonomía de individuos y grupos.
+- Subjetividad en relación al gobierno que ha ejercido/ejerce la ciencia psicológica y psicosocial
+:::
+
+## PSMC
+
+- Revisar asunciones, instrumentos y prácticas que producen exclusiones de ciertos modos de relación y de ciertas subjetividades entendidas como disfuncionales al orden imperante, en especial el que determina el sistema sexo/género.
+- Poner en práctica una psicología inclusiva que, en ocasiones, suponga redefinir el concepto de objetividad y racionalidad científica y rehabilitar la razón práctica.
+
+::: notes
+- Revisar asunciones, instrumentos y prácticas que producen exclusiones de ciertos modos de relación y de ciertas subjetividades entendidas como disfuncionales al orden imperante, en especial el que determina el sistema sexo/género (transversalidad del género).
+- Poner en práctica una psicología inclusiva que, en ocasiones, suponga redefinir el concepto de objetividad y racionalidad científica y rehabilitar la razón práctica (en análisis de casos de intervención familiar, por ejemplo).
+::: -->
+
+# La asignatura {.center}
+
+##
+
+- Tipologías docentes:
+  - Teoría
+  - Práctica
+- Modalidades de socialización didáctica:
+  - Clase teórica
+  - Seminarios de trabajo en grupo y tutorizado
+- Métodos:
+  - Exposición de contenidos
+  - Estudio de caso
+
+::: notes
+- Tipologías docentes:
+  - Teoría (grupo grande)
+  - Práctica (grupo pequeño)
+- Modalidades de socialización didáctica:
+  - Clase teórica
+  - Seminarios de trabajo en grupo y tutorizado (estrategia de aprendizaje cooperativo)
+- Métodos:
+  - Exposición de contenidos (transmisión y activación de procesos cognitivos)
+  - Estudio de caso (adquisición de aprendizajes mediante análisis de casos reales o simulados). Incluye lecturas, simulaciones, visionados, debates, presentaciones, grupos de discusión.
+:::
+
+## Metodologías docentes {#metodologia}
+
+- Aprendizaje significativo (contextos, experiencias):
+  - Integración por memoria vivencial.
+  - Concreción del pensamiento abstracto general.
+- Proceso de Interacción social como recurso facilitador:
+  - Moviliza lo inter-psíquico y desarrolla un [conocimiento vinculado]{.red}.
+  - Relevancia del mundo y los demás en la construcción de conocimientos.
+  - Moviliza aspectos [emocionales]{.red}.
+  - Posibilita atender e incorporar [otras voces]{.red}.
+
+::: notes
+- Aprendizaje significativo (contextos, experiencias):
+  - Integración por memoria vivencial.
+  - Concreción del pensamiento abstracto general.
+- Proceso de Interacción social como recurso facilitador:
+  - Moviliza lo inter-psíquico y desarrolla un [conocimiento vinculado a la comunidad]{.red}, a la sociedad, a la cultura de grupo, que luego se traduce en lo intra-psíquico.
+  - Relevancia del mundo y los demás en la construcción de conocimientos.
+  - Moviliza aspectos [emocionales]{.red} (componentes socioafectivos gestionados en el diálogo e interacción; experiencias integradas pensar/sentir/actuar).
+  - Posibilita atender e incorporar [otras voces]{.red} (acorde principios psicología inclusiva).
+:::
+
+## Materiales: Distintas “arenas” para el análisis de casos {#arenas}
+
+- Textos y debates académicos de la [comunidad científica]{.red}.
+- Textos y representaciones producidas por los [medios de comunicación]{.red}.
+- Piezas provenientes de la [cultura popular]{.red}.
+- [Voces concretas de colectivos]{.red} de operadores o reclamadores.
+- [Protocolos normativos]{.red} sobre una problemática concreta.
+
+::: notes
+Los problemas sociales de hoy en día se construyen en distintos ámbitos de discusión o “arenas” sociales: medios de comunicación, debates en los congresos, dependencias del poder ejecutivo, juicios en tribunales, diversos espacios de la cultura (como libros, películas, documentales o incluso programas de ficción o de humor –sub-ámbitos de creciente importancia en el mercado de problemas sociales-) la comunidad científica, las organizaciones religiosas.
+
+- Textos y debates académicos de la [comunidad científica]{.red}.
+- Textos y representaciones producidas por los [medios de comunicación]{.red} (páginas de internet, diarios de tirada nacional, programas o entrevistas televisivas).
+- Piezas provenientes de la [cultura popular]{.red} (películas de ficción, documentales, viñetas humorísticas, rumores).
+- [Voces concretas de colectivos]{.red} de operadores o reclamadores.
+- [Protocolos normativos]{.red} sobre una problemática concreta.
+:::
+
+## Estructura modular
+
+Bloques temáticos relacionados con:
+
+- La máscara de la diversidad en un mundo excluyente.
+- La creciente precarización y falta de protección social de la vida.
+- Los problemas de la identidad y la desigualdad de género aparentemente superada socialmente.
+
+## Bloques
+
+Bloque 1: El gobierno de la diversidad en el mundo contemporáneo.
+: Tecnologías, relaciones sexo-afectivas, multiculturalidad
+Bloque 2: El gobierno de la ciudadanía y la protección social en el mundo contemporáneo.
+: Cuidados
+Bloque 3: El gobierno de la identidad y la desigualdad en el mundo contemporáneo: el caso del sistema sexo/género.  
+: Malestares de género
+
+## Bloque 1 (Diversidad)
+
++---------+----------------------------------------------------------+--------------------------------------------+
+| Unidad  | Sesión Temática                                          | Sesión Práctica                            |
++:=======:+:=========================================================+:===========================================+
+| 1       | - Efectos de la tecnología en la constitución del sujeto | - Poder/saber                              |
+|         |                                                          | - Patologización                           |
++---------+----------------------------------------------------------+--------------------------------------------+
+| 2       | - La diversidad sexual y afectiva                        | - Identidades sexuales                     |
++---------+----------------------------------------------------------+--------------------------------------------+
+|  3      | - La diversidad cultural                                 | - Identificaciones culturales y étnicas    |
++---------+----------------------------------------------------------+--------------------------------------------+
+
+[Caso práctico 1. Gubernamentalidad y subjetividad]{.peque}
+
+## Bloque 2 (Cuidados)
+
++---------+-------------------------------------------------------+------------------------------------------------------------------------+
+| Unidad  | Sesión Temática                                       | Sesión Práctica                                                        |
++:=======:+:======================================================+:=======================================================================+
+| 4       | - Problemáticas psicosociales del mundo contemporáneo | - Cuidado en condiciones de precariedad                                |
++---------+-------------------------------------------------------+------------------------------------------------------------------------+
+| 5       | - Una mirada al concepto de cuidado                   | - Análisis de una controversia generada en torno al caso de Ladybird   |
+|         |                                                       | - Cambios en la gestión pública de la atención primaria                |
++---------+-------------------------------------------------------+------------------------------------------------------------------------+
+| 6       | - Hacia el cuidado social sostenido                   | - Reflexiones éticas relacionadas con el cuidado y modelos de relación profesional-consultante |
+|         |                                                       | - Cambios en la gestión pública de la atención primaria   |
++---------+-------------------------------------------------------+------------------------------------------------------------------------+
+
+[Caso práctico 2. El cuidado social: normalización, familia y gestión pública de la salud]{.peque}
+
+## Bloque 3 (Malestares de género) {#bloque-3 .medio}
+
++--------+---------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------+
+| Unidad | Sesión Temática                                                           | Sesión Práctica                                                                                               |
++:======:+:==========================================================================+:==============================================================================================================+
+| 7      | - Sistema sexo/género: violencias, modernidad, desigualdad e identidad    | - El caso XXY y los malestares de género                                                                      |
+|        |                                                                           | - La Psicología tradicional: historia y actualidad del análisis y la intervención en malestares de género     |
++--------+---------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------+
+| 8      | - Sistema sexo/género: modelos, organización y políticas para la igualdad | - La Psicología tradicional: historia y actualidad del análisis y la intervención en malestares de género     |
+|        |                                                                           | - Psicología igualitaria y para la diversidad I                                                               |
++--------+---------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------+
+| 9      | - Sistema sexo/Género: Psicología y salud                                 | - Psicología igualitaria y para la diversidad I                                                               |
+|        |                                                                           | - Psicología igualitaria y para la diversidad II                                                              |
++--------+---------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------+
+
+[Caso práctico 3. Sistema sexo/género, normalización y malestares de género]{.peque}
+
+## Sistema de evaluación {#evaluacion}
+
+- Vinculado a las actividades de aprendizaje.
+- Proceso continuado, fases.
+- Integración de conocimientos al terminar cada bloque temático (evaluaciones grupales).
+- Prueba de examen al finalizar la asignatura.
+  - EV1: informe de actividades (síntesis del trabajo de cada eje).
+  - EV2: informe de actividades (relaciones conceptuales).
+  - EV3: presentación de actividad y representación de rol-playing.
+  - EV4: prueba de test multiopcional.
 
 ## {data-background-image="imagenes/logo.png" }

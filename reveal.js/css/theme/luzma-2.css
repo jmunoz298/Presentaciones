@@ -329,6 +329,10 @@ html.laback .reveal section img {
 
 /*.red {color: #F08080;}*/
 
+.resaltar {
+  color:#3b759e;
+  font-weight:bold;}
+
 .reveal li, .reveal dt, .reveal dd {
   padding-top: .4em;
 }
@@ -405,6 +409,11 @@ font-size: 0.8em;
 section .peque {
 font-size: 0.7em;
 line-height: 1.7em;}
+
+section .medio {
+font-size: 0.95em;
+line-height: 1.7em;}
+
 
 .reveal .fondoblanco{
 background-color: white;
@@ -486,7 +495,6 @@ font-family: monospace; } JMJ versión anterior: oculto (está visible en serif.
 	content: "\f0c8";}
 
 .reveal .slide li li:before{
-  font-size: 0.5em;
  content: "\f0c9";}
 
  .reveal .left{
