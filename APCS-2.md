@@ -4,7 +4,7 @@ author:
 - name: Juan Muñoz
   affiliation: Universitat Autònoma de Barcelona
 tags: [Conductas colectivas]
-tema: "Teorías Irracionalistas y Toerías de la Crisis"
+tema: "Teorías Irracionalistas y Teorías de la Crisis"
 url: "http:/juan.psicologiasocial.eu"
 bibliography: diapos.bib
 csl: apa.csl
