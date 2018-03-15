@@ -17,7 +17,8 @@
      div.column{display: inline-block; vertical-align: top; width: 50%;}
  </style>
   <!--  <style type="text/css">code{white-space: pre;}</style> -->
-    <link rel="stylesheet" href="reveal.js/css/theme/serif-mod.css" id="theme">
+    <link rel="stylesheet" href="reveal.js/css/theme/serif.css" id="theme">
+    <link rel="stylesheet" href="reveal.js/css/theme/juan.css" id="theme">
 
 <!-- If the query includes 'print-pdf', use the PDF print sheet -->
 <script>
@@ -75,8 +76,8 @@
 -->
 <div class="fragment">
 <ul>
-<li class="fragment">La conducta de masa no es asocial ni irracional, está regulada por normas que emergen en la propia situación.</li>
-<li class="fragment">La multitud es un espacio de interacción social en el que se desarrollan normas sociales.</li>
+<li>La conducta de masa no es asocial ni irracional, está regulada por normas que emergen en la propia situación.</li>
+<li>La multitud es un espacio de interacción social en el que se desarrollan normas sociales.</li>
 </ul>
 <!--
 ## Norma emergente: Idea central
@@ -326,20 +327,26 @@ Teoría de la autocategorización
 
         //Opciones reveal
         controls: true,
+        // Help the user learn the controls by providing hints, for example by
+        // bouncing the down arrow when they first encounter a vertical slide
+        controlsTutorial: true,
+        // Flags if speaker notes should be visible to all viewers
+      	showNotes: false,
         rollingLinks: true,
         previewLinks: false,
         progress: true,
         history: true,
         center: false,
 	      zoomKey: 'shift',
+
         theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
         transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
 
         //Opciones coursemod
-        coursemod: {
-              enabled: true, //enable or disable the plugin, default to false
-              shown: false //immediatly show the course notes view, this defaults to true if not present.
-            },
+      //  coursemod: {
+        //      enabled: true, //enable or disable the plugin, default to false
+          //    shown: false //immediatly show the course notes view, this defaults to true if not present.
+        //    },
         //fin opciones coursemod
 
         //Opciones plugin menu
@@ -400,7 +407,7 @@ Teoría de la autocategorización
           // fin anything
           // Optional libraries used to extend on reveal.js
         dependencies: [
-          { src: 'reveal.js/plugin/coursemod/coursemod.js', async: true},
+          /*{ src: 'reveal.js/plugin/coursemod/coursemod.js', async: true},*/
           { src: 'reveal.js/plugin/anything/anything.js' },
           { src: 'reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
           { src: 'reveal.js/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },

@@ -123,7 +123,7 @@ Park y Burges, 1921, p. 865
 
 . . .
 
-* La conducta de masa no es asocial ni irracional, está regulada por normas que emergen en la propia situación.
+>* La conducta de masa no es asocial ni irracional, está regulada por normas que emergen en la propia situación.
 * La multitud es un espacio de interacción social en el que se desarrollan normas sociales.
 
 

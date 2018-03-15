@@ -36,7 +36,8 @@ $for(css)$
     <link rel="stylesheet" href="$css$"/>
 $endfor$
 $else$
-    <link rel="stylesheet" href="$revealjs-url$/css/theme/serif-mod.css" id="theme">
+    <link rel="stylesheet" href="$revealjs-url$/css/theme/serif.css" id="theme">
+    <link rel="stylesheet" href="$revealjs-url$/css/theme/juan.css" id="theme">
 $endif$
 
 <!-- If the query includes 'print-pdf', use the PDF print sheet -->
@@ -113,20 +114,26 @@ $endfor$
 
         //Opciones reveal
         controls: true,
+        // Help the user learn the controls by providing hints, for example by
+        // bouncing the down arrow when they first encounter a vertical slide
+        controlsTutorial: true,
+        // Flags if speaker notes should be visible to all viewers
+      	showNotes: false,
         rollingLinks: true,
         previewLinks: false,
         progress: true,
         history: true,
         center: false,
 	      zoomKey: 'shift',
+
         theme: $if(theme)$'$theme$'$else$Reveal.getQueryHash().theme$endif$, // available themes are in /css/theme
         transition: $if(transition)$'$transition$'$else$Reveal.getQueryHash().transition || 'default'$endif$, // default/cube/page/concave/zoom/linear/fade/none
 
         //Opciones coursemod
-        coursemod: {
-              enabled: true, //enable or disable the plugin, default to false
-              shown: false //immediatly show the course notes view, this defaults to true if not present.
-            },
+      //  coursemod: {
+        //      enabled: true, //enable or disable the plugin, default to false
+          //    shown: false //immediatly show the course notes view, this defaults to true if not present.
+        //    },
         //fin opciones coursemod
 
         //Opciones plugin menu
@@ -187,7 +194,7 @@ $endfor$
           // fin anything
           // Optional libraries used to extend on reveal.js
         dependencies: [
-          { src: '$revealjs-url$/plugin/coursemod/coursemod.js', async: true},
+          /*{ src: '$revealjs-url$/plugin/coursemod/coursemod.js', async: true},*/
           { src: '$revealjs-url$/plugin/anything/anything.js' },
           { src: '$revealjs-url$/lib/js/classList.js', condition: function() { return !document.body.classList; } },
           { src: '$revealjs-url$/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },

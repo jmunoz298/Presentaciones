@@ -4,7 +4,7 @@ author:
 - name: Juan Muñoz
   affiliation: Universitat Autònoma de Barcelona
 tags: [Conductas colectivas]
-tema: "Teorías: Irracionalistas"
+tema: "Teorías Irracionalistas y Toerías de la Crisis"
 url: "http:/juan.psicologiasocial.eu"
 bibliography: diapos.bib
 csl: apa.csl
@@ -21,9 +21,9 @@ lateral-menu: 'True'
 
 <!-- `CSI Las Vegas 03x09 Sed deSangre`{.figcaption} -->
 
-# Las teorías: Contagio  {#teorias-contagio data-background="imagenes-APCS-2/Virus.jpg" data-background-transition=zoom data-state=opacidad}
+# Las teorías: Contagio  {#teorias-contagio .center data-background="imagenes-APCS-2/Virus.jpg" data-background-transition=zoom data-state=opacidad}
 
-## Teorías del contagio {#teoria-contagio data-background="imagenes-APCS-2/Zombis.jpg" data-background-transition=fade data-state=fondo}
+## Teorías del contagio {#teoria-contagio  data-background="imagenes-APCS-2/Zombis.jpg" data-background-transition=fade data-state=fondo}
 
 . . .
 
@@ -64,8 +64,8 @@ lateral-menu: 'True'
 ## Sighele: Leyes
 
 * Ley de la unidad o uniformidad
-* Ley del número
-* Ley de la predisposición al mal
+  * Ley del número
+  * Ley de la predisposición al mal
 * Ley del guía o instigador
 * Ley de la composición de la multitud
 * Ley de la no deducibilidad del carácter de la multitud a partir de sus miembros
@@ -139,7 +139,29 @@ En resumen, no es más sorprendente ver a los individuos reunidos formar un todo
 
 Maupassant, G. (1888). _Sur l'eau_. París: P. Ollendorff. Obtenido de http://archive.org/details/surleau00maupuoft (pp. 149-152)
 
-# Convergencia {  data-background="imagenes-APCS-2/Crowd.jpg" data-background-transition=zoom data-state=opacidad}
+# Convergencia {.center   data-background="imagenes-APCS-2/Crowd.jpg" data-background-transition=zoom data-state=opacidad}
+
+##  {data-background="imagenes-APCS-2/ClaudeNeal.jpg" data-background-transition=zoom data-state=opacidad}
+
+. . .
+
+<video width="800"  clas s="stretch" controls>
+<source src="imagenes-APCS-2/StrangeFruit-BillieHoliday-sub.mp4">
+</video>
+
+[http://bit.ly/2FTXcSc](http://bit.ly/2FTXcSc)
+
+## Linchamientos {#billie-holiday}
+
+![](imagenes-APCS-2/Linchamientos-1.png){.noshadow height="500"}
+
+## Linchamientos
+
+![](imagenes-APCS-2/Linchamientos-3.png)
+
+## ¿Por qué? {#por-que}
+
+Milgram i Toch (1969), estudian episodios de linchamientos en pequeñas ciudades de EEUU. La respuesta al porqué no participan en ellos toda la población es que quienes lo hacen son personas propensas a la violencia.
 
 ## Individualismo
 
@@ -151,32 +173,17 @@ Maupassant, G. (1888). _Sur l'eau_. París: P. Ollendorff. Obtenido de http://ar
 @allport_social_1924 [, pp. 4 y 295]
 
 
-##  {data-background="imagenes-APCS-2/ClaudeNeal.jpg" data-background-transition=zoom data-state=opacidad}
-
-. . .
-
-<video width="800"  class="stretch" controls>
-<source src="imagenes-APCS-2/StrangeFruit-BillieHoliday-sub.mp4">
-</video>
-
-## Linchamientos
-
-![](imagenes-APCS-2/Linchamientos-1.png){.noshadow}
-
-## ¿Por qué? {#por-que}
-
-Milgram i Toch (1969), estudian episodios de linchamientos en pequeñas ciudades de EEUU. La respuesta al porqué no participan en ellos toda la población es que quienes lo hacen son personas propensas a la violencia.
-
+<!--
 ##
 
 ![](imagenes-APCS-2/Miller-Dollard-1.png){.noshadow}
 
 ##
 
-![](imagenes-APCS-2/Miller-Dollard-2.png){.noshadow}
+![](imagenes-APCS-2/Miller-Dollard-2.png){.noshadow} -->
 
 
-# Críticas {#criticas}
+# Críticas {#criticas .center }
 
 ##
 
@@ -208,7 +215,7 @@ Milgram i Toch (1969), estudian episodios de linchamientos en pequeñas ciudades
 ::: {.column width="50%"}
 ![Boston, 17 de agosto de 2017](imagenes-APCS-2/Disturbios-2.jpg)
 
-<!-- Thousands of Counter-Protesters March Against White Nationalism in Boston a Week After Charlottesville -->
+<!-- Thousands of Counter-Protesters March Against White Nationalism in Boston a Week After Charlottesville. En respuesta a “Unite the Right” rally of white nationalists opposing the removal of a Confederate general Robert E. Lee statue.-->
 :::
 ::::::
 
@@ -248,7 +255,7 @@ Milgram i Toch (1969), estudian episodios de linchamientos en pequeñas ciudades
 `Disturbios en Ferguson, noviembre 2014`{.figcaption}
 
 
-# Teorías de la Crisis {#teorias-crisis data-background="imagenes-APCS-2/Crisis.jpg" data-background-transition=zoom data-state=opacidad}
+# Teorías de la Crisis {#teorias-crisis .center data-background="imagenes-APCS-2/Crisis.jpg" data-background-transition=zoom data-state=opacidad}
 
 ## Privación relativa
 
@@ -258,8 +265,9 @@ Milgram i Toch (1969), estudian episodios de linchamientos en pequeñas ciudades
 
 ## La Teoría de la "Curva en J" {#teoria-curva-j}
 
-![Teoría de la Curva en J](imagenes-APCS-2/JCurveDavies.jpg)
+![](imagenes-APCS-2/JCurveDavies.jpg)
 
+###### @davies_toward_1962
 
 ## Teoría del Valor Añadido {#teoria-valor-anadido}
 
@@ -276,7 +284,7 @@ Milgram i Toch (1969), estudian episodios de linchamientos en pequeñas ciudades
 
 ## Determinantes
 
-* Conductividad estructural
+>* Conductividad estructural
 * Tensión estructural
 * Creencia generalizada
 * Suceso precipitador
@@ -289,8 +297,8 @@ Milgram i Toch (1969), estudian episodios de linchamientos en pequeñas ciudades
 <source src="imagenes-APCS-2/KentState-sub.mp4">
 </video>
 
-@lewis_study_1972
+@lewis_study_1972 y @rudwick_kent_1972
 
 # Referencias {.center}
 
-## {.scrollable}
+## {.peque .scrollable }
