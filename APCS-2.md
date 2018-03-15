@@ -149,7 +149,7 @@ Maupassant, G. (1888). _Sur l'eau_. París: P. Ollendorff. Obtenido de http://ar
 <source src="imagenes-APCS-2/StrangeFruit-BillieHoliday-sub.mp4">
 </video>
 
-[http://bit.ly/2FTXcSc](http://bit.ly/2FTXcSc)
+###### [http://bit.ly/2FTXcSc](http://bit.ly/2FTXcSc){.fondoblanco}
 
 ## Linchamientos {#billie-holiday}
 
@@ -228,7 +228,7 @@ Milgram i Toch (1969), estudian episodios de linchamientos en pequeñas ciudades
 :::
 ::::::
 
-## Disturbios en Fergurson
+## Disturbios en Fergurson (noviembre 2014) {.peque}
 
 :::::: {.columns}
 ::: {.column width="50%"}
@@ -251,8 +251,6 @@ Milgram i Toch (1969), estudian episodios de linchamientos en pequeñas ciudades
 ![](imagenes-APCS-2/Ferguson-4.jpg)
 :::
 ::::::
-
-`Disturbios en Ferguson, noviembre 2014`{.figcaption}
 
 
 # Teorías de la Crisis {#teorias-crisis .center data-background="imagenes-APCS-2/Crisis.jpg" data-background-transition=zoom data-state=opacidad}
