@@ -24,7 +24,7 @@ lateral-menu: 'True'
 > Las acciones de un grupo de personas que responden de manera similar a un evento o situación, incluyendo personas que ocupan el mismo lugar (una multitud), así como fenómenos de masas en los que los individuos están dispersos en una amplia área (Movimientos colectivos).\
 @forsyth_group_2010 [, p. 502]
 
-## Clasificación
+## Clasificación{#clasificacion .medio}
 
 Multitud ocasional (casual)
 : temporal, poco organizada, y mínima emocionalidad. Si comparten algún interés este es menor y temporal.
@@ -40,9 +40,9 @@ Multitudes activas
 
 #### @blumer_collective_1939 {.autor}
 
-## Clasificación (Forsyth, 2010)
+## Clasificación (Forsyth, 2010) {#clasificacion-forsyth}
 
-![](imagenes-APCS-1/ClasificacionColectivos-2.png){.noshadow}
+![](imagenes-APCS-1/ClasificacionColectivos-2.png){height="600px" .noshadow}
 
 
 <!--

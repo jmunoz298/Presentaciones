@@ -13,11 +13,6 @@ lateral-menu: 'True'
 
 # ¿Quién es irracional? {#quien-es-irracional .center data-background="imagenes-APCS-3/BloodySunday-bac.jpg" data-background-transition=fade data-state=fondo}
 
-<!-- ##
-
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/1glfzAoHYiI">
-</iframe> -->
 
 ## Domingo Sangriento {data-background="imagenes-APCS-3/BloodySunday-bac.jpg" data-background-transition=fade data-state=fondo}
 
@@ -28,7 +23,7 @@ src="https://www.youtube.com/embed/1glfzAoHYiI">
   <source src="imagenes-APCS-3/SundayBloodySunday.mp4">
  </video>
 
-`https://www.youtube.com/watch?v=vkOpgr1ElXg`{.fondoblanco}
+`https://www.youtube.com/watch?v=Yv5U0A10hrI`{.fondoblanco}
 :::
 ::: {.column width="30%"}
   ![](imagenes-APCS-3/BloodySunday.jpg  "Domingo Sangriento")
@@ -42,13 +37,14 @@ src="https://www.youtube.com/embed/1glfzAoHYiI">
 
 # Teoría de la Norma Emergente {.center data-background="imagenes-APCS-3/Confused.jpg" data-background-transition=fade data-state=fondo}
 
-<!--
-## Influencias: Interaccionismo simbólico
 
-* El ser humano orienta sus actos hacia las cosas en función de lo que significan para él.
+## Influencias: Interaccionismo simbólico {#influencias}
+
+>* El ser humano orienta sus actos hacia las cosas en función de lo que significan para él.
 * El significado de estas cosas es consecuencia de la interacción social.
 * Los significados se manipulan y modifican mediante la interpretación que la persona realiza al enfrentarse con el mundo.
--->
+
+###### @blumer_interaccionismo_1969 [p, 2] {.autor}
 
 <!--
 ## Influencias: Park y Blumer
@@ -71,13 +67,16 @@ Excitación colectiva
 
 -->
 
-<!--
-## Excitación colectiva
+
+## Excitación colectiva {#excitacion-colectiva}
 
 >Cuando entra en relación con otros miembros de la masa, un individuo pierde su habitual comprensión crítica y auto-control y queda afectado por la excitación colectiva que la domina. Responde de forma inmediata y directa a los comentarios y conductas de los otros en vez de interpretarlos, como haría en su conducta ordinaria.\
-Blumer, 1939, p. 180
+@blumer_collective_1939[, p. 180]
 
--->
+## Interacción no interpretativa {#reaccion-circular}
+
+![Reacción circular](imagenes-APCS-3/ReaccionCircular.png)
+
 
 <!--
 ## Modelo de "inquietud social" de Blumer
@@ -192,6 +191,13 @@ Park y Burges, 1921, p. 865
 * Su explicación de cómo emergen las normas es inadecuada para explicar las situaciones en las que la masa actúa y cambia rápidamente.
 * Énfasis que ponen en el papel de los individuos prominentes en la emergencia de la norma.
 
+
+## Diferencias con Norma Emergente
+
+* Las normas se obtienen observando cómo actúan otros, pero esos otros tienen que ser miembros de la categoría.
+* No se trata de un proceso de creación, sino de inferencia, lo que permite explicar que las normas “surjan” rápidamente.
+* De una multitud no puede surgir cualquier tipo de norma, sólo aquellas que están delimitadas por el contenido categorial.
+
 <!--
 ## Bases
 
@@ -214,14 +220,9 @@ Teoría de la autocategorización
 
 ## Teoría de la autocategorización del yo {#teoria-autocategorizacion}
 
-Hipótesis 1
-:	Tiende a darse una relación inversa entre la saliencia de los niveles personal y social de categorización del yo
-
-Hipótesis 2
-:	Cuando nos vemos como miembros intercambiables de una categoría social, nos despersonalizamos
-
-Hipótesis 3
-:	La despersonalización de la percepción del yo es el proceso básico que subyace a los fenómenos de grupo
+- Tiende a darse una relación inversa entre la saliencia de los niveles personal y social de categorización del yo
+- Cuando nos vemos como miembros intercambiables de una categoría social, nos despersonalizamos
+- La despersonalización de la percepción del yo es el proceso básico que subyace a los fenómenos de grupo
 
 <!--
 ## Construcción de identidad {#construccion-identidad}
@@ -229,12 +230,6 @@ Hipótesis 3
 @reicher_conducta_1987 [, p. 250]
 -->
 
-
-## Diferencias con Norma Emergente
-
-* Las normas se obtienen observando cómo actúan otros, pero esos otros tienen que ser miembros de la categoría.
-* No se trata de un proceso de creación, sino de inferencia, lo que permite explicar que las normas “surjan” rápidamente.
-* De una multitud no puede surgir cualquier tipo de norma, sólo aquellas que están delimitadas por el contenido categorial.
 
 # Modelo elaborado de identidad social {.center}
 
@@ -246,6 +241,10 @@ Hipótesis 3
 
 >* Cuando una multitud hetereogénea es tratada de forma homogénea como una totalidad, se produce un cambio, una reconceptualización de los miembros redefiniéndose como una categoría común.
 
+
+## Protesta ambiental
+
+![](imagenes-APCS-3/George_Green_chestnut_tree.jpg)
 
 ## La batalla de Westminster (24-11-1998) {data-background="imagenes-APCS-3/BattleOfWestminster.jpg" data-background-transition=fade data-state=opacidad}
 
@@ -271,37 +270,6 @@ Hipótesis 3
 ::::::
 
 
-## ¿Responsabilidad?
->las teorías de la multitud que explican la acción colectiva y la conducta colectiva en términos de patología de la masa, sirven para eliminar cualquier responsabilidad posible del Estado y sus fuerzas. Igualmente, en los relatos de nuestros entrevistados no hay lugar para abordar el papel de la policía en la producción de conflicto. La naturaleza de la multitud y sus dinámicas internas son en sí mismas explicaciones suficientes. En ningún momento en las entrevistas, ninguno de los oficiales sugieren que deben mirarse a sí mis mos para una explicación de la violencia.\
-@stott_crowd_1998 [, p. 519]
-
-## La visión de la policía
-
-![Diagrama de relación entre variables. @drury_role_2003](imagenes-APCS-3/Drury-Role-PathDiagram.png)
-
-
-<!--
-##
-
-|    |          |                                                                                                   |
-|:--:|:---------|:--------------------------------------------------------------------------------------------------|
-| T1 | Multitud | Contexto comparativo: Impuesto injusto                                                            |
-| T1 | Multitud | Conducta prototípica: Actividad legítima de protesta                                              |
-| T1 | Policía  | Contexto comparativo: La multitud supone una amenaza                                              |
-| T1 | Policía  | Conducta: Utilización de la fuerza                                                                |
-| T2 | Multitud | Cambio en el contexto comparativo: De "impuesto injusto",<br> a actuación ilegítima de la policía |
-| T2 | Multitud | Cambios en identidad y poder: El conflicto hacia<br> la policía es legítimo                       |
-| T2 | Multitud | Cambios en las normas: Conflicto con la policía                                                   |
-| T3 | Policía  | Contexto comparativo: Incremento de la amenaza<br> de la multitud                                 |
-
-:Cambios en las relaciones intergrupales y\
- consecuencias para la conducta prototípica.
-
-###### T1, T2 y T3 = Fases temporales de la relación intergrupal
-
-###### Adaptado de @stott_crowds_2000
-
--->
 
 ## Poll Tax Riots (31-3-1990)
 
@@ -327,6 +295,43 @@ Hipótesis 3
 :::
 ::::::
 
+
+
+## ¿Responsabilidad?
+
+>Las teorías de la multitud que explican la acción colectiva y la conducta colectiva en términos de patología de la masa, sirven para eliminar cualquier responsabilidad posible del Estado y sus fuerzas. Igualmente, en los relatos de nuestros entrevistados no hay lugar para abordar el papel de la policía en la producción de conflicto. La naturaleza de la multitud y sus dinámicas internas son en sí mismas explicaciones suficientes. En ningún momento en las entrevistas, ninguno de los oficiales sugieren que deben mirarse a sí mismos para una explicación de la violencia.\
+@stott_crowd_1998 [, p. 519]
+
+
+<!--
+## La visión de la policía {#vision-policia}
+
+![Diagrama de relación entre variables. @drury_role_2003](imagenes-APCS-3/Drury-Role-PathDiagram.png) -->
+
+
+<!--  
+
+##
+
+|    |          |                                                                                                   |
+|:--:|:---------|:--------------------------------------------------------------------------------------------------|
+| T1 | Multitud | Contexto comparativo: Impuesto injusto                                                            |
+| T1 | Multitud | Conducta prototípica: Actividad legítima de protesta                                              |
+| T1 | Policía  | Contexto comparativo: La multitud supone una amenaza                                              |
+| T1 | Policía  | Conducta: Utilización de la fuerza                                                                |
+| T2 | Multitud | Cambio en el contexto comparativo: De "impuesto injusto",<br> a actuación ilegítima de la policía |
+| T2 | Multitud | Cambios en identidad y poder: El conflicto hacia<br> la policía es legítimo                       |
+| T2 | Multitud | Cambios en las normas: Conflicto con la policía                                                   |
+| T3 | Policía  | Contexto comparativo: Incremento de la amenaza<br> de la multitud                                 |
+
+:Cambios en las relaciones intergrupales y\
+ consecuencias para la conducta prototípica.
+
+###### T1, T2 y T3 = Fases temporales de la relación intergrupal
+
+###### Adaptado de @stott_crowds_2000
+
+-->
 
 ## ¿Y qué pasa con los hooligans? {#que-pasa-hooligans}
 

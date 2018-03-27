@@ -53,7 +53,6 @@ lateral-menu: 'True'
 
 ## Irracionales y malvadas
 
-
 >(...) doce hombres de buen sentido y de inteligencia pueden dar un veredicto estúpido y absurdo. Una reunión de individuos puede, por tanto, dar un resultado opuesto al que habría dado cada uno de ellos (p. 17)
 
 . . .
@@ -75,7 +74,7 @@ lateral-menu: 'True'
 > Por su poder exclusivamente destructivo, actúan como aquellos microbios que activan la disolución de los cuerpos debilitados o de los cadáveres. Cuando el edificio de una civilización está carcomido, las masas provocan su derrumbamiento. Se pone entonces de manifiesto su papel. Durante un instante, la fuerza ciega del número se convierte en la única filosofía de la historia.\
 @le_bon_psychologie_1895 [, p. 22]
 
-## Alma colectiva
+## Alma colectiva{.medio}
 
 >En determinadas circunstancias, y tan sólo en ellas, una aglomeración de seres humanos posee características nuevas y muy diferentes de las de cada uno de los individuos que la componen. La personalidad consciente se esfuma, los sentimientos y las ideas de todas las unidades se orientan en una misma dirección. Se forma un alma colectiva, indudablemente transitoria, pero que presenta características muy definidas. La colectividad se convierte entonces en aquello que, a falta de otra expresión mejor, designaré como masa organizada o, si se prefiere, masa psicológica. Forma un solo ser y está sometida a la ley de la unidad mental de las masas.\
 @le_bon_psychologie_1895 [, p. 27]

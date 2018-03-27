@@ -10,8 +10,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <link rel="stylesheet" href="reveal.js/css/reveal.css"/>
  <link rel="stylesheet" href="reveal.js/plugin/toc-progress/toc-progress.css">
+ <style type="text/css">
+     code{white-space: pre-wrap;}
+     span.smallcaps{font-variant: small-caps;}
+     span.underline{text-decoration: underline;}
+     div.column{display: inline-block; vertical-align: top; width: 50%;}
+ </style>
   <!--  <style type="text/css">code{white-space: pre;}</style> -->
-    <link rel="stylesheet" href="reveal.js/css/theme/serif-mod.css" id="theme">
+    <link rel="stylesheet" href="reveal.js/css/theme/serif.css" id="theme">
+    <link rel="stylesheet" href="reveal.js/css/theme/juan.css" id="theme">
 
 <!-- If the query includes 'print-pdf', use the PDF print sheet -->
 <script>
@@ -52,7 +59,7 @@
 <p>Las acciones de un grupo de personas que responden de manera similar a un evento o situación, incluyendo personas que ocupan el mismo lugar (una multitud), así como fenómenos de masas en los que los individuos están dispersos en una amplia área (Movimientos colectivos).<br />
 <span class="citation" data-cites="forsyth_group_2010">Forsyth (2010, p. 502)</span></p>
 </blockquote>
-</section><section id="clasificación" class="slide level2">
+</section><section id="clasificacion" class="slide level2 medio">
 <h2>Clasificación</h2>
 <dl>
 <dt class="fragment">Multitud ocasional (casual)</dt>
@@ -69,9 +76,9 @@
 </dd>
 </dl>
 <h4 id="blumer_collective_1939" class="autor"><span class="citation" data-cites="blumer_collective_1939">Blumer (1939)</span></h4>
-</section><section id="clasificación-forsyth-2010" class="slide level2">
+</section><section id="clasificacion-forsyth" class="slide level2">
 <h2>Clasificación (Forsyth, 2010)</h2>
-<p><img data-src="imagenes-APCS-1/ClasificacionColectivos-2.png" class="noshadow" /></p>
+<p><img data-src="imagenes-APCS-1/ClasificacionColectivos-2.png" class="noshadow" height="600" /></p>
 <!--
 ##Conducta colectiva
 > [definimos] la conducta colectiva como una acción voluntaria, dirigida a una meta, que se produce en una situación relativamente desorganizada, en la que las normas y valores predominantes de la sociedad dejan de actuar sobre la conducta individual. La conducta colectiva consiste en la reacción de un grupo a alguna situación.\
@@ -228,15 +235,27 @@ Delgado, M. (2015). La redención de las multitudes: rescate y restauración del
 
         //Opciones reveal
         controls: true,
+        // Help the user learn the controls by providing hints, for example by
+        // bouncing the down arrow when they first encounter a vertical slide
+        controlsTutorial: true,
+        // Flags if speaker notes should be visible to all viewers
+      	showNotes: false,
         rollingLinks: true,
         previewLinks: false,
         progress: true,
         history: true,
         center: false,
 	      zoomKey: 'shift',
+
         theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
         transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
 
+        //Opciones coursemod
+        coursemod: {
+        enabled: false, //enable or disable the plugin, default to false
+        shown: false //immediatly show the course notes view, this defaults to true if not present.
+        }, //Pueden mostrarse con ?show-notes=true
+        //fin opciones coursemod
 
         //Opciones plugin menu
         menu: {
@@ -257,9 +276,47 @@ Delgado, M. (2015). La redención de las multitudes: rescate y restauración del
               68: function() { RevealChalkboard.download() },	// downlad recorded chalkboard drawing when 'd' is pressed
           },
           // fin chalckboard...
-
+          // Inicio anything
+          anything: [
+          	{className: "animate",  initialize: (function(container, options){
+          		Reveal.addEventListener( 'fragmentshown', function( event ) {
+          			if (typeof event.fragment.beginElement === "function" ) {
+          				event.fragment.beginElement();
+          			}
+          		});
+          		Reveal.addEventListener( 'fragmenthidden', function( event ) {
+          			if (event.fragment.hasAttribute('data-reverse') ) {
+          				var reverse = event.fragment.parentElement.querySelector('[id=\"' + event.fragment.getAttribute('data-reverse') + '\"]');
+          				if ( reverse && typeof reverse.beginElement === "function" ) {
+          					reverse.beginElement();
+          				}
+          			}
+          		});
+          		if ( container.getAttribute("data-svg-src") ) {
+          			var xhr = new XMLHttpRequest();
+          			xhr.onload = function() {
+          				if (xhr.readyState === 4) {
+          					var svg = container.querySelector('svg');
+          					container.removeChild( svg );
+          					container.innerHTML = xhr.responseText + container.innerHTML;
+          					if ( svg ) {
+          						container.querySelector('svg').innerHTML = container.querySelector('svg').innerHTML + svg.innerHTML;
+          					}
+          				}
+          				else {
+          					console.warn( "Failed to get file. ReadyState: " + xhr.readyState + ", Status: " + xhr.status);
+          				}
+          			};
+          			xhr.open( 'GET', container.getAttribute("data-svg-src"), true );
+          			xhr.send();
+          		}
+          	}) }
+          ],
+          // fin anything
           // Optional libraries used to extend on reveal.js
         dependencies: [
+          { src: 'reveal.js/plugin/coursemod/coursemod.js', async: true},
+          { src: 'reveal.js/plugin/anything/anything.js' },
           { src: 'reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
           { src: 'reveal.js/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
           { src: 'reveal.js/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } },
