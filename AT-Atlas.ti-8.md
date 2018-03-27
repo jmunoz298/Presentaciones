@@ -13,10 +13,9 @@ lateral-menu: 'True'
 
 # Introducción {.center data-background="imagenes-cuali/introduction-2.jpg" data-background-transition=zoom data-state=opacidad }
 
-
 ## CAQDAS
 
->Programas para el análisis cualitativo de datos ASISTIDO por ordenador
+>Programas para el análisis cualitativo de datos [ASISTIDO]{.fosforito} por ordenador
 
 . . .
 
@@ -31,7 +30,7 @@ lateral-menu: 'True'
 [UK Data Archive](http://www.data-archive.ac.uk/)
 
 ## Una advertencia
->Recuerde siempre que un ordenador es sólo una máquina, no pensará por usted, y puede incluso dificultarle progresar con su análisis. No olvide apagar el ordenador de vez en cuando. Lleve sus datos, resultados de búsquedas, esqzoteruemas de codificación, etc, a un lugar tranquilo, y luego léalos y piense en ellos. Dé un largo paseo y despeje su mente. Será entonces cuando probablemente obtenga las mejores ideas.\
+>Recuerde siempre que un ordenador es sólo una máquina, [no pensará por usted]{.fosforito}, y puede incluso dificultarle progresar con su análisis. No olvide apagar el ordenador de vez en cuando. Lleve sus datos, resultados de búsquedas, esquemas de codificación, etc, a un lugar tranquilo, y luego [léalos y piense en ellos]{.fosforito}. Dé un largo paseo y despeje su mente. Será entonces cuando probablemente obtenga las mejores ideas.\
 `Friese,  1998`{.autor}
 
 ## ¿Qué permite? {#permite}
@@ -65,12 +64,12 @@ lateral-menu: 'True'
 
 
 ## Análisis temático {#analisis-tematico data-background="imagenes-cuali/AnalisisCotidiano.png" data-background-transition=zoom data-state=opacidad}
- >El análisis temático es un método para identificar, analizar y reportar patrones (temas) dentro de los datos. Como mínimo organiza y describe en detalle el conjunto de datos. Sin embargo, con frecuencia, va más allá e interpreta diversos aspectos del tema de investigación.\
+ >El análisis temático es un método para identificar, analizar y reportar patrones (temas) dentro de los datos. Como mínimo [organiza y describe]{.fosforito} en detalle el conjunto de datos. Sin embargo, con frecuencia, va más allá e [interpreta]{.fosforito} diversos aspectos del tema de investigación.\
 @braun_using_2006 [p. 79]
 
 ## Tema
 
->Un tema es un patrón que se encuentra en la información que, como mínimo, describe y organiza posibles observaciones o, como máximo, interpreta aspectos del fenómeno. Un tema puede identificarse a nivel manifiesto (directamente observable en la información) o a nivel latente (subyacente al fenómeno). Los temas pueden generarse inicialmente inductivamente a partir de la información bruta o generarse deductivamente a partir de la teoría y la investigación previa.\
+>Un tema es un patrón que se encuentra en la información que, como mínimo, describe y organiza posibles observaciones o, como máximo, interpreta aspectos del fenómeno. Un tema puede identificarse a nivel [manifiesto]{.fosforito} (directamente observable en la información) o a nivel [latente]{.fosforito} (subyacente al fenómeno). Los temas pueden generarse inicialmente [inductivamente]{.fosforito} a partir de la información bruta o generarse [deductivamente]{.fosforito} a partir de la teoría y la investigación previa.\
 @boyatzis_transforming_1998 [p. vii]
 
 ## Temas
@@ -79,6 +78,10 @@ lateral-menu: 'True'
 
 ##
 ![Adaptado de Saldaña, 2009, p. 12](imagenes-cuali/DatoATeoria.jpg)
+
+::: notes
+En este esquema podemos ver cómo, el proceso de análisis temático implica una continua reducción-agrupación de datos. La primera es la que realizamos con la codificación de los fragmentos de texto significativos (citas) para, a continuación, agrupar los códigos en categorías (y subcategorías) que a su vez formarán temas que son los que, finalmente, nos permitirán formular una teoría sobre nuestros datos.
+:::
 
 ## Ejemplo: códigos-categorías-temas {#ejemplo-c-c-t}
 
@@ -104,7 +107,7 @@ lateral-menu: 'True'
 5. Definir y etiquetar temas
 6. Producir informe
 
-@braun_using_2006 [p. 87]
+###### @braun_using_2006 [p. 87]{.autor}
 
 ## Fases del análisis (Atlas.ti) {#fases-analisis-atlas}
 ![](imagenes-cuali/proceso.png){.noshadow}
@@ -122,7 +125,7 @@ lateral-menu: 'True'
 
 . . .
 
->(…) La producción y el uso de transcripciones son 'actividades de investigación' y no deben ser enfocadas como simplemente 'detalles técnicos' que preceden el análisis.\
+>(…) La producción y el uso de transcripciones son ['actividades de investigación']{.fosforito} y no deben ser enfocadas como simplemente 'detalles técnicos' que preceden el análisis.\
 @mclellan_beyond_2003 [p. 64]
 
 ## Transcribir: herramientas
@@ -160,11 +163,11 @@ F4:
 
 
 ## Gestión de los datos {#gestion-datos-1}
->La inadecuada documentación y monitorización de las actividades relacionadas con los datos pueden amenazar su integridad. Además, las prácticas inadecuadas de seguimiento pueden dificultar el análisis y aumentar la probabilidad de un pandemónium de investigación.\
+>La inadecuada documentación y monitorización de las actividades relacionadas con los datos pueden [amenazar su integridad]{.fosforito}. Además, las prácticas inadecuadas de seguimiento pueden dificultar el análisis y aumentar la probabilidad de un [pandemónium]{.fosforito} de investigación.\
 @mclellan_beyond_2003 [p. 69]
 
 Ver: [UK · Data Archive: Create & Manage Data](http://www.data-archive.ac.uk/create-manage)\
-`http://www.data-archive.ac.uk/create-manage` {.figcaption}
+`http://www.data-archive.ac.uk/create-manage`{.figcaption}
 
 ## Gestión de los datos {#gestion-datos-2}
 >Una buena gestión de los datos es la base para una buena investigación. Si los datos están debidamente organizados, preservados y bien documentados, y su exactitud, vigencia e integridad es controlada en todo momento, el resultado es de datos de alta calidad, investigación eficiente, resultados basados en pruebas sólidas y ahorro de tiempo y recursos. (...) La gestión de datos debe planificarse desde el inicio de la investigación. Si se convierte en parte de la práctica de investigación estándar, entonces no implicará necesariamente mucho tiempo ni costos adicionales.\
@@ -247,7 +250,7 @@ En ambos casos, el resultado final es la unión de los diferentes proyectos
 
 :::::: {.columns}
 ::: {.column width="100%"}
-Descargar y descomprimir http://bit.ly/2oJUWCm
+Descargar y descomprimir [http://bit.ly/2oJUWCm]{.fosforito}
 
 >- Inicio > Agregar documentos > Agregar archivos
 - Gestor de documentos > Crear comentarios de documentos
@@ -272,15 +275,15 @@ Descargar y descomprimir http://bit.ly/2oJUWCm
 # Memoing {.center data-background="imagenes-cuali/Memoing-01.jpg" data-background-transition=zoom data-state=opacidad}
 
 ## Memoing
->Mediante el uso de memorandos, el investigador es capaz de sumergirse en los datos, explorar los significados que estos datos tienen, mantener la continuidad y mantener el impulso en la realización de la investigación. Como crónica de un viaje de investigación, los memorandos permanecen como un registro, indeleble pero flexible, para retención personal o para difundir a otros.\
+>Mediante el uso de memorandos, el investigador es capaz de sumergirse en los datos, explorar los significados que estos datos tienen, mantener la continuidad y mantener el impulso en la realización de la investigación. Como [crónica de un viaje de investigación]{.fosforito}, los memorandos permanecen como un registro, indeleble pero flexible, para retención personal o para difundir a otros.\
 @birks_memoing_2008 [p. 69]
 
 ## Memoing
->Vemos la toma de notas como crucial para todos los tipos y enfoques de análisis. Otras funciones, como la codificación, la búsqueda de texto, la codificación automática y la modelización pueden ser utilizadas por enfoques concretos, pero la anotación de los datos, documentos y material de apoyo es indivisible del análisis general.\
+>Vemos la toma de notas como [crucial]{.fosforito} para todos los tipos y enfoques de análisis. Otras funciones, como la codificación, la búsqueda de texto, la codificación automática y la modelización pueden ser utilizadas por enfoques concretos, pero la anotación de los datos, documentos y material de apoyo es [indivisible del análisis general]{.fosforito}.\
 @lewins_using_2007 [p. 59]
 
 
-## Memoing = Reflexionar sobre... {.peque}
+## Memoing = Reflexionar sobre...
 
 * Relación con participantes y/o fenómeno
 * Preguntas de investigación
@@ -294,7 +297,7 @@ Descargar y descomprimir http://bit.ly/2oJUWCm
 
 . . .
 
-@saldana_coding_2009 [pp. 34-40]
+###### @saldana_coding_2009 [pp. 34-40]{.autor}
 
 <!--
 ## Crear Memos
@@ -334,7 +337,7 @@ Descargar y descomprimir http://bit.ly/2oJUWCm
 
 . . .
 
-![](imagenes-cuali/Reduccion.png){.noshadow}
+![](imagenes-cuali/Reduccion.png){ width="370px"}
 
 
 ## Codificación {#codificacion}
@@ -371,18 +374,7 @@ Si la estrategia es inductiva, los códigos surgirán de la lectura de los datos
 
 ## "El gato"
 
-:::::: {.columns}
-::: {.column width="50%"}
- ![](imagenes-cuali/Gato-1.jpg){.border}
-:::
-::: {.column width="25%"}
- ![](imagenes-cuali/Gato-2.jpg){.border}
-:::
-::: {.column width="25%"}
- ![](imagenes-cuali/Gato-3.jpg){.border}
-:::
-::::::
-
+![](imagenes-cuali/Gato.jpg){.border}
 
 ::: notes
 Podemos pensar en la codificación como una forma de literatura definicional a la inversa, en la que nuestros datos (y citas) son la última transformación y los pasos previos son códigos.
@@ -396,7 +388,7 @@ Tenemos dos posibles respuestas (no incompatibles entre sí):
 
 :::
 
-## Comentarios de códigos {#comentarios-codigos .peque}
+## Comentarios de códigos {#comentarios-codigos .medio}
 
 | Código              | MARGPROB                                                                                                                                                                                                                                                        |
 |:--------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -406,7 +398,7 @@ Tenemos dos posibles respuestas (no incompatibles entre sí):
 | Cuándo no se usa    | No se aplica a problemas propios de una conducta condicionada por cultura marginal, como violencia doméstica, alcoholismo, abandono de hogar, delincuencia, prostitución                                                                                        |
 | Ejemplo             | “Como aquí no hay agua ni alcantarillado, la suciedad que hay aquí en las calles es terrible, ahí se puede ver... ¿se fija?, los niños se enferman a cada rato.”                                                                                                |
 
-@macqueen_codebook_1998
+###### @macqueen_codebook_1998{.autor}
 
 ## Ejercicio: Segmentación / Codificación
 
@@ -462,9 +454,12 @@ Tenemos dos posibles respuestas (no incompatibles entre sí):
 ## Comparación constante {#comparacion-constante}
 ![](imagenes-cuali/comparacion-constante.png){.noshadow}
 
+
 ## {transition=none}
 
 ![](imagenes-cuali/Categorizacion01.png){.noshadow }
+
+###### @friese_using_2011 {.autor}
 
 ## {transition=none}
 
@@ -551,14 +546,12 @@ Volver a informes. Queremos obtener informes de...
 
 ## Agrupar
 
-![Tipos de Grupos](imagenes/atlas-8/Grupos.png)
+![Tipos de Grupos](imagenes-cuali/Grupos.png)
 
 ## Ejercicio: Grupos de documentos
 
 ![](imagenes-cuali/AdministradorCodigos-8-01.png)
 
-<!--
-![](img/working-03.png){.noshadow} -->
 
 | Grupo    | Contenido        |
 |:---------|:-----------------|
@@ -612,29 +605,30 @@ Volver a informes. Queremos obtener informes de...
 
 ![Adaptado de Saldaña, 2009, p. 12](imagenes-cuali/DatoATeoria.jpg)
 
-## Ejemplo: códigos-categorías-temas {#ejemplo-c-c-t}
+## Ejemplo: códigos-categorías-temas {#ejemplo-c-c-t-2}
 
 ![](imagenes-cuali/Graneheim-Lundaman-Figura1-es.png)
 @graneheim_qualitative_2004 [p. 108]\
 `Narrativas sobre hipoglucemia`{.figcaption}
 
 
-<!--
+
 
 # Relaciones {.center data-background="imagenes-cuali/network.jpg" data-background-transition=zoom data-state=opacidad}
 
 
 ## Tipos de Relaciones
 
+ <!--
 |         | CITAS        | CÓDIGOS      | MEMOS    |
 |:--------|:-------------|:-------------|:---------|
 | CITAS   | Hypervínculo | Codificación | Relación |
 | CÓDIGOS |              | Relación     | Relación |
 | MEMOS   |              |              | Relación |
 
-. . .
+. . . -->
 
-![](imagenes/atlas-8/TiposRelaciones.png)
+![](imagenes-cuali/TiposRelaciones-8.png)
 
 ## Jerarquías de códigos {#jerarquias-codigos-1}
 
@@ -642,7 +636,7 @@ Volver a informes. Queremos obtener informes de...
 
 ## Jerarquías de códigos {#jerarquias-codigos-2}
 
-![](imagenes-cuali/JerarquiasCodigos.png)
+![](imagenes-cuali/JerarquiasCodigos1.png)
 
 ## Relaciones entre códigos {#relaciones-codigos-1}
 
@@ -656,11 +650,11 @@ Volver a informes. Queremos obtener informes de...
 
 ##
 
->Aplicar redes temáticas es simplemente una forma de organizar un análisis temático de datos cualitativos. Los análisis temáticos intentan descubrir los temas más destacados en un texto a diferentes niveles, y las redes temáticas tienen como objetivo facilitar la estructuración y representación de esos temas.\
+>Aplicar redes temáticas es simplemente una forma de organizar un análisis temático de datos cualitativos. Los análisis temáticos intentan descubrir los temas más destacados en un texto a diferentes niveles, y las redes temáticas tienen como objetivo [facilitar la estructuración y representación]{.fosforito} de esos temas.\
 @attride-stirling_thematic_2001 [p. 387]
 
 ## Redes temáticas {#redes-tematicas}
-![Attride-Stirling, 2001. p. 388](imagenes-cuali/RedesTematicas.jpg)
+![Attride-Stirling, 2001. p. 388](imagenes-cuali/RedesTematicas.png)
 
 <!--
 ##Editar Relaciones
@@ -712,17 +706,17 @@ Múltiples categorías
 
 ## Construcción de una consulta {#construccion-consulta}
 
-"Todas las citas codificadas como 'Evasión', realizadas por Rajoy o por Zapatero"
+"Todas las citas codificadas como 'Economía', realizadas por Rajoy o por Zapatero"
 
-![](imagenes-cuali/VennEvasion.jpg)
+![](imagenes-cuali/VennEvasion.png){ width="350px"}
 
 . . .
 
-![](imagenes-cuali/EscrituraQuery-1.jpg)
+![](imagenes-cuali/EscrituraQuery-1.jpg){ height="150px"}
 
 ## Operadores Booleanos
 
-![](imagenes-cuali/VennBooleanos.png)
+![](imagenes-cuali/VennBooleanos-8.png)
 
 ## Operadores Semánticos {#operadores-semanticos}
 

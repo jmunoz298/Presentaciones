@@ -605,24 +605,6 @@ color:blue;}
 **/
 
 
-/** Listas de definiciones **/
-
-.reveal dd{
-  padding-bottom: 15px;
-  padding-left: 1.7em;
-}
-
-.reveal .slides section dd.fragment.visible.current-fragment{
-  background-color: lavender;
-  color: black;
-  border-radius: 0;}
-
-.reveal dd.fragment p {
-  margin: 0;
-  padding: 0;
-  font-size: 1em;
-  }
-
 
 /** Listas desordenadas **/
 
@@ -696,7 +678,6 @@ color:blue;}
 .reveal .slides ul ul li {line-height: 0.8em;}
 .reveal .slides ul ul li
 {
-  padding: 5px;
 }
 /**Fin listas segundo nivel **/
 

@@ -1,0 +1,109 @@
+@import url(../../lib/font/quicksand/quicksand.css);
+
+@import url(http://fonts.googleapis.com/css?family=Quicksand);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+@font-face {
+  font-family: 'bullets';
+  src: url("../../lib/font/typicons/font/icon-font.eot");
+  src: url("../../lib/font/typicons/font/icon-font.eot#iefix") format('embedded-opentype'), url("../../lib/font/typicons/font/icon-font.woff") format('woff'), url("../../lib/font/typicons/font/icon-font.ttf") format('truetype'), url("../../lib/font/typicons/font/icon-font.svg#bullets") format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+/*********************************************
+ * GLOBAL STYLES
+ *********************************************/
+body {
+  background: white;
+  background-color: white; }
+
+.reveal {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 32px;
+  font-weight: normal;
+  color: #000;} /* color: #000;}*/
+
+.reveal .slides > section, .reveal .slides > section > section {
+  text-align: center;}
+
+.reveal .slides {
+  margin-top: 2px;}
+
+
+
+.reveal dl {
+ background-color: white;
+}
+
+.reveal dd {
+ padding-bottom: 10px;} /* JMJ */
+
+
+/*********************************************
+ * Listas desordenadas con iconos
+ *********************************************/
+
+
+
+.reveal ul, .reveal li li  {
+  list-style: none;
+  padding: 0;
+}
+.reveal li {
+  padding-left: 1.3em;
+}
+.reveal li:before {
+  font-family: FontAwesome;
+  content: "\f0c8"; /* FontAwesome Unicode */
+  display: inline-block;
+  margin-left: -1.3em; /* same as padding-left set on li */
+  width: 1.3em; /* same as padding-left set on li */
+  color: #3b759e;
+  margin-top: 0.8em;
+  font-size: 0.7em;
+}
+
+.reveal li::before{
+  content: "\f0c8"; /* FontAwesome Unicode */
+}
+
+.reveal li li::before{
+  content: "\f0c9"; /* FontAwesome Unicode */
+}
+
+
+/*********************************************
+ * Listas definiciones con iconos
+ *********************************************/
+.reveal dt, .reveal dd {
+  list-style: none;
+  padding: 0;}
+
+.reveal dd, .reveal dt {
+  padding-left: 1.3em;
+}
+
+.reveal dt:before{
+  font-family: FontAwesome;
+  content: "\f146";
+  display: inline-block;
+  margin-left: -1.3em; /* same as padding-left set on li */
+  width: 1.3em; /* same as padding-left set on li */
+  color: #3b759e;
+  margin-top: 0.8em;
+  font-size: 0.7em;
+  }
+
+.reveal dd:before{
+  font-family: FontAwesome;
+  content: "\f0c9";
+  display: inline-block;
+  margin-left: -1.3em; /* same as padding-left set on li */
+  width: 1.3em; /* same as padding-left set on li */
+  color: #3b759e;
+  margin-top: 0.8em;
+  font-size: 0.7em;
+  }

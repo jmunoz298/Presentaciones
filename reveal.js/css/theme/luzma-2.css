@@ -448,7 +448,7 @@ margin-left: 50% !important;
   margin-right: auto;
 }
 
-.reveal footer .footer {
+/*.reveal footer .footer {
   position: absolute;
   bottom: 0px;
   margin-left: 0px;
@@ -456,8 +456,18 @@ margin-left: 50% !important;
   background-color:#fff;
     filter:alpha(opacity=5);
     opacity:0.5;
-  border-color:red;}
+  border-color:red;}*/
 
+
+.reveal  .slides .footer {
+    position: absolute;
+    bottom: 10px;
+    margin-left: 0px;
+    width: 100%;
+    background-color:#fff;
+      filter:alpha(opacity=5);
+      opacity:0.5;
+    border-color:red;}
 /*.reveal code {
 font-family: monospace; } JMJ versión anterior: oculto (está visible en serif.css)/ } */
 
@@ -494,7 +504,7 @@ font-family: monospace; } JMJ versión anterior: oculto (está visible en serif.
 .reveal .slides li:before{
 	content: "\f0c8";}
 
-.reveal .slide li li:before{
+.reveal .slides li li:before{
  content: "\f0c9";}
 
  .reveal .left{
