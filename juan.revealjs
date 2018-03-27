@@ -130,10 +130,10 @@ $endfor$
         transition: $if(transition)$'$transition$'$else$Reveal.getQueryHash().transition || 'default'$endif$, // default/cube/page/concave/zoom/linear/fade/none
 
         //Opciones coursemod
-      //  coursemod: {
-        //      enabled: true, //enable or disable the plugin, default to false
-          //    shown: false //immediatly show the course notes view, this defaults to true if not present.
-        //    },
+        coursemod: {
+        enabled: false, //enable or disable the plugin, default to false
+        shown: false //immediatly show the course notes view, this defaults to true if not present.
+        }, //Pueden mostrarse con ?show-notes=true
         //fin opciones coursemod
 
         //Opciones plugin menu
@@ -194,7 +194,7 @@ $endfor$
           // fin anything
           // Optional libraries used to extend on reveal.js
         dependencies: [
-          /*{ src: '$revealjs-url$/plugin/coursemod/coursemod.js', async: true},*/
+          { src: '$revealjs-url$/plugin/coursemod/coursemod.js', async: true},
           { src: '$revealjs-url$/plugin/anything/anything.js' },
           { src: '$revealjs-url$/lib/js/classList.js', condition: function() { return !document.body.classList; } },
           { src: '$revealjs-url$/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
