@@ -320,7 +320,7 @@ Descargar y descomprimir [http://bit.ly/2oJUWCm]{.fosforito}
 
 ## Crear memos-anotaciones
 
-![](imagenes-cuali/AdministradoMemos-8-01.png)
+![](imagenes-cuali/AdministradorMemos-8-01.png)
 
  >* Crear una memo
  >     * Etiquetarla como "Proceso"
@@ -638,14 +638,6 @@ Volver a informes. Queremos obtener informes de...
 
 ![](imagenes-cuali/JerarquiasCodigos1.png)
 
-## Relaciones entre códigos {#relaciones-codigos-1}
-
-![](imagenes/atlas-8/network-coaccion.png)
-
-## Relaciones entre códigos {#relaciones-codigos-2}
-
-![](imagenes/atlas-8/network-ITER.png)
-
 # Vistas de red{.center data-background="imagenes-cuali/neurons.jpg" data-background-transition=zoom data-state=opacidad}
 
 ##
@@ -655,6 +647,14 @@ Volver a informes. Queremos obtener informes de...
 
 ## Redes temáticas {#redes-tematicas}
 ![Attride-Stirling, 2001. p. 388](imagenes-cuali/RedesTematicas.png)
+
+## Relaciones entre códigos {#relaciones-codigos-1}
+
+![](imagenes/atlas-8/network-coaccion.png)
+
+## Relaciones entre códigos {#relaciones-codigos-2}
+
+![](imagenes/atlas-8/network-ITER.png)
 
 <!--
 ##Editar Relaciones
@@ -731,7 +731,6 @@ Múltiples categorías
 ![](imagenes-cuali/Operadores-Proximidad-8.png)
 
 ##
-
 ![](imagenes-cuali/Proximidad-8.png)
 
 ## Ejemplo consulta
@@ -742,6 +741,7 @@ Múltiples categorías
 
 ![](imagenes-cuali/Consulta-8-ejemplo-02.png)
 
+### https://bit.ly/2JoJhCg
 
 <!--
 ## Consultas: Alcance

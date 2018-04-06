@@ -557,14 +557,6 @@ Si la estrategia es inductiva, los códigos surgirán de la lectura de los datos
 
 ![](imagenes-cuali/JerarquiasCodigos1.png)
 
-## Relaciones entre códigos {#relaciones-codigos-1}
-
-![](imagenes/atlas-8/network-coaccion.png)
-
-## Relaciones entre códigos {#relaciones-codigos-2}
-
-![](imagenes/atlas-8/network-ITER.png)
-
 # Vistas de red{.center data-background="imagenes-cuali/neurons.jpg" data-background-transition=zoom data-state=opacidad}
 
 ##
@@ -574,6 +566,14 @@ Si la estrategia es inductiva, los códigos surgirán de la lectura de los datos
 
 ## Redes temáticas {#redes-tematicas}
 ![Attride-Stirling, 2001. p. 388](imagenes-cuali/RedesTematicas.png)
+
+## Relaciones entre códigos {#relaciones-codigos-1}
+
+![](imagenes/atlas-8/network-coaccion.png)
+
+## Relaciones entre códigos {#relaciones-codigos-2}
+
+![](imagenes/atlas-8/network-ITER.png)
 
 <!--
 ##Editar Relaciones
