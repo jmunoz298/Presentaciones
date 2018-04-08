@@ -34,6 +34,9 @@ lateral-menu: 'True'
 
 #### Ver: @o_dochartaigh_bloody_2010 {.autor .fondoblanco}
 
+::: notes
+https://es.wikipedia.org/wiki/Domingo_Sangriento_(1972)
+:::
 
 # Teoría de la Norma Emergente {.center data-background="imagenes-APCS-3/Confused.jpg" data-background-transition=fade data-state=fondo}
 
@@ -77,6 +80,15 @@ Excitación colectiva
 
 ![Reacción circular](imagenes-APCS-3/ReaccionCircular.png)
 
+::: notes
+Para la explicación de las conductas colectivas, Park y Blumer diferencian entre dos tipos de interacciones:
+
+La **“interacción interpretativa”**, típica de la conducta rutinaria, en el que la interacción está guiada por los significados y expectativas compartidos, en los que la respuestas ante la actuación de los otros dependen de la interpretación que se realiza de dichas conductas, más que de la conducta en sí misma.
+
+La **interacción no interpretativa, no simbólica** puede producirse cuando ocurren condiciones de *malestar social* como las que se dan cuando hay cambios significativos en las formas de vida, «cuando la gente tiene impulsos, deseos o disposiciones que no se pueden satisfacer». En esas condiciones, el tipo de interacción es no interpretativa, no simbólica, una forma de interacción que designa como
+
+*reacción circular*: «un tipo de interestimulación de la conducta en la que la respuesta de un individuo reproduce el estímulo que le llega de otro y, al dirigirse otra vez a dicho individuo, refuerza el estímulo anterior» (1939: 224). Esta forma de interacción se denomina circular porque la acción de un individuo tiene un efecto reflejo sobre él, sin que sea mediada por otros elementos de carácter simbólico o cultural. Cada individuo refleja sobre el otro sus sentimientos de pánico, agresividad o irritación, y al hacerlo retornan a él intensificados. (Laraña, 1996, p. 29)
+:::
 
 <!--
 ## Modelo de "inquietud social" de Blumer
@@ -170,6 +182,10 @@ Park y Burges, 1921, p. 865
 * Los miembros de la masa actúan en términos de una identidad social común.
 * El contenido de la conducta de la masa estará limitado por la naturaleza de la categoría a la que pertenecen.
 
+::: notes
+Reicher señala que una de las limitaciones de las teorías clásicas es que no tiene en cuenta el carácter social de la misma, algo que queda patente si se tiene en cuenta que la conducta de masas no puede reducirse a un tipo de conductas concretas (destructivas y violentas) y que incluso cuando se produce tal violencia los acontecimientos son selectivos y muestran un patrón que toma sentido cuando se analiza en términos de las ideologías asociadas con los colectivos implicados.
+:::
+
 ## Los disturbios de St. Pauls {data-background="imagenes-APCS-3/SaintPauls-back.jpg" data-background-transition=fade data-state=fondo}
 
 <video   class="stretch" controls data-autoplay>
@@ -180,11 +196,21 @@ Park y Burges, 1921, p. 865
 
 #### Ver: @reicher_st._1984 {.autor .fondoblanco}
 
+::: notes
+En su estudio de los disturbios de St. Pauls, se muestran los límites de la acción tanto geográficamente como hacia quién va dirigida.
+:::
 
 ## Despersonalización {#despersonalizacion}
 
 >La despersonalización se refiere a los procesos de autoestereotipación por los que las personas se perciben a sí mismas más como casos intercambiables de una categoría social que como personalidades únicas definidas por sus diferencias individuales respecto a los demás.\
 @turner_rediscovering_1987 [, p. 50]
+
+::: notes
+Hay que entenderla de una forma totalmente diferente al concpeto de desindividuación de teorías anteriores, puesto que no se trata de una inmersión del yo en el grupo, y tampoco una regresión a una forma de identidad más primitiva o inconsciente, sino que lo que realmente implica es el paso del funcionamiento en términos de una identidad personal a hacerlo en función de una identidad social.
+
+Al sentirse miembros de un grupo, se incrementa entre ellos la atracción y la empatía, y como resultado de ello, aumenta la cohesión, entendida como atracción mutua entre el conjunto de miembros del grupo, la cual a su vez tiende a producir unidad de creencias y cooperación.
+
+:::
 
 ## Críticas a la teoría de la norma emergente {#critica-norma-emergente}
 
@@ -241,6 +267,9 @@ Teoría de la autocategorización
 
 >* Cuando una multitud hetereogénea es tratada de forma homogénea como una totalidad, se produce un cambio, una reconceptualización de los miembros redefiniéndose como una categoría común.
 
+::: notes
+El Modelo Elaborado de la Identidad Social se formula para tener en cuenta el contexto, entendido como constituido para un grupo por las acciones del otro y viceversa. Esta reformulación también intenta responder cómo la actuación en términos de una posición determinada (como miembro de una categoría) puede llevar a cambios en esa posición y a cambios en la autocomprensión (autoconcepto).
+:::
 
 ## Protesta ambiental
 
@@ -249,7 +278,6 @@ Teoría de la autocategorización
 ## La batalla de Westminster (24-11-1998) {data-background="imagenes-APCS-3/BattleOfWestminster.jpg" data-background-transition=fade data-state=opacidad}
 
 . . .
-
 
 <!-- :::::: {.columns}
 ::: {.column width="50%"}
@@ -269,7 +297,9 @@ Teoría de la autocategorización
 :::
 ::::::
 
-
+::: notes
+La "creación de identidades" se relaciona con datos que sugieren que las autoridades tienden a considerar las grandes multitudes, por su número, como una amenaza potencial al orden público. La policía, que tiene esa concepción, también tiene el poder de actuar en función de ella utilizando su poder coercitivo, pero lo hacen de forma indiscriminada sobre el colectivo como algo único. Esas tácticas provocan, por lo tanto, que todos los manifestantes compartan la misma experiencia, lo que favorece la formación de grupo y explica cómo una masa fragmentada puede llegar a convertirse en una homogénea.
+:::
 
 ## Poll Tax Riots (31-3-1990)
 
