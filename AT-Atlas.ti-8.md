@@ -351,7 +351,6 @@ Descargar y descomprimir [http://bit.ly/2oJUWCm]{.fosforito}
 ![](imagenes/atlas-8/EstrategiaCodificacion.png)
 
 ::: notes
-
 Si la estrategia de trabajo es de tipo deductivo, se creará una lista de códigos que se intentará "aplicar" sobre los datos creando citas.
 
 Si la estrategia es inductiva, los códigos surgirán de la lectura de los datos y por lo tanto primero crearemos citas que se vincularán con códigos.
@@ -385,7 +384,6 @@ Tenemos dos posibles respuestas (no incompatibles entre sí):
 
 - El nivel adecuado viene definido por los objetivos
 - Podemos utilizar diferentes niveles (códigos, categorías...)
-
 :::
 
 ## Comentarios de códigos {#comentarios-codigos .medio}
