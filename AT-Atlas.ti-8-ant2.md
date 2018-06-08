@@ -72,21 +72,6 @@ lateral-menu: 'True'
 >Un tema es un patrón que se encuentra en la información que, como mínimo, describe y organiza posibles observaciones o, como máximo, interpreta aspectos del fenómeno. Un tema puede identificarse a nivel [manifiesto]{.fosforito} (directamente observable en la información) o a nivel [latente]{.fosforito} (subyacente al fenómeno). Los temas pueden generarse inicialmente [inductivamente]{.fosforito} a partir de la información bruta o generarse [deductivamente]{.fosforito} a partir de la teoría y la investigación previa.\
 @boyatzis_transforming_1998 [p. vii]
 
-## Manifiesto vs. latente {#manifiesto-latente}
-
-<video width="850"   controls>
- <source src="imagenes-cuali/TheCodes.mp4">
-</video>
-
-`The Codes of Gender`{.figcaption}
-
-`https://www.youtube.com/watch?v=Zxxvr0ex8MI`{.figcaption}
-
-
-## Temas
-> Un tema capta algo importante sobre los datos en relación con la pregunta de investigación, y representa un cierto nivel de pauta de respuesta o significado en el conjunto de los datos.\
-@braun_using_2006 [p. 82]
-
 ##
 ![Adaptado de Saldaña, 2009, p. 12](imagenes-cuali/DatoATeoria.jpg)
 
@@ -122,72 +107,6 @@ En este esquema podemos ver cómo, el proceso de análisis temático implica una
 
 ## Fases del análisis (Atlas.ti) {#fases-analisis-atlas}
 ![](imagenes-cuali/proceso.png){.noshadow}
-
-# Preparación de datos {#preparacion-datos .center data-background="imagenes-cuali/preparacion-1.jpg" data-background-transition=zoom data-state=opacidad}
-
-## Fases preparación datos {#fases-preparacion-datos}
-
-* Transcripción (literal de los datos)
-* Convenciones ("jeffersonianas")
-* Gestión (archivado, formato, control)
-
-
-## Transcripción {#transcripcion}
-
-. . .
-
->(…) La producción y el uso de transcripciones son ['actividades de investigación']{.fosforito} y no deben ser enfocadas como simplemente 'detalles técnicos' que preceden el análisis.\
-@mclellan_beyond_2003 [p. 64]
-
-## Transcribir: herramientas
-
-:::::: {.columns}
-::: {.column width="50%"}
-![](imagenes-cuali/Grabadora.jpg)
-:::
-::: {.column width="50%"}
-![](imagenes-cuali/Pedal.jpg)
-:::
-::::::
-
-**Software**
-
-Soundscriber:
-[http://www-personal.umich.edu/~ebreck/sscriber.html](http://www-personal.umich.edu/~ebreck/sscriber.html)
-
-F4:
-[http://www.audiotranskription.de/english](http://www.audiotranskription.de/english)
-
-
-## Pero...
-
-<iframe width="800" height="600" data-src="http://research.baidu.com/introducing-swiftscribe-breakthrough-ai-powered-transcription-software/"></iframe>
-
-## Convenciones
->En una conversación lo más significativo es lo que no se dice entre lo que se está diciendo, como por ejemplo las pausas y silencios, las entonaciones y los gestos, porque ahí radican los dobles significados, los ánimos y el objetivo mismo de la comunicación.\
-@fernandez_christlieb_espiritu_2004 [p. 46]
-
-## Convenciones "jeffersonianas"
-![](imagenes-cuali/Transcripcion.jpg)
-
-@lerner_glossary_2004 [p. 15]
-
-
-## Gestión de los datos {#gestion-datos-1}
->La inadecuada documentación y monitorización de las actividades relacionadas con los datos pueden [amenazar su integridad]{.fosforito}. Además, las prácticas inadecuadas de seguimiento pueden dificultar el análisis y aumentar la probabilidad de un [pandemónium]{.fosforito} de investigación.\
-@mclellan_beyond_2003 [p. 69]
-
-Ver: [UK · Data Archive: Create & Manage Data](http://www.data-archive.ac.uk/create-manage)\
-`http://www.data-archive.ac.uk/create-manage`{.figcaption}
-
-## Gestión de los datos {#gestion-datos-2}
->Una buena gestión de los datos es la base para una buena investigación. Si los datos están debidamente organizados, preservados y bien documentados, y su exactitud, vigencia e integridad es controlada en todo momento, el resultado es de datos de alta calidad, investigación eficiente, resultados basados en pruebas sólidas y ahorro de tiempo y recursos. (...) La gestión de datos debe planificarse desde el inicio de la investigación. Si se convierte en parte de la práctica de investigación estándar, entonces no implicará necesariamente mucho tiempo ni costos adicionales.\
-@uk_data_archive_managing_2009 [p. 2]
-
-
-## Control de versiones
-
-![https://www.ukdataservice.ac.uk/manage-data/format/versioning](imagenes-cuali/VersionControlTable.jpg)
 
 ## Y luego...
 
@@ -230,24 +149,6 @@ Ver: [UK · Data Archive: Create & Manage Data](http://www.data-archive.ac.uk/cr
  ![](imagenes/atlas-8/PantallaPrincipal-ConProyecto.png)
 -->
 
-## Estrategias trabajo en equipo
-
-![](imagenes-cuali/atlas-trabajo-equipo.png){.noshadow}
-
-::: notes
-Dos formas básicas de trabajo en equipo:
-
-- Todos los analistas trabajando con el conjunto de los documentos.
-- Diferentes analistas trabajan con diferentes documentos.
-
-En ambos casos, el resultado final es la unión de los diferentes proyectos
-:::
-
-## Unir proyectos
-
-![](imagenes-cuali/FusionarProyecto-8.png)
-
-
 ## Añadir documentos {#anadir-documentos}
 
 :::::: {.columns}
@@ -261,7 +162,7 @@ En ambos casos, el resultado final es la unión de los diferentes proyectos
 
 :::::: {.columns}
 ::: {.column width="100%"}
-Descargar y descomprimir [http://bit.ly/2oJUWCm]{.fosforito}
+Descargar y descomprimir [https://bit.ly/2jqpOp7]{.fosforito}
 
 >- Inicio > Agregar documentos > Agregar archivos
 - Gestor de documentos > Crear comentarios de documentos
@@ -284,10 +185,6 @@ Descargar y descomprimir [http://bit.ly/2oJUWCm]{.fosforito}
  -->
 
 # Memoing {.center data-background="imagenes-cuali/Memoing-01.jpg" data-background-transition=zoom data-state=opacidad}
-
-## Memoing
->Mediante el uso de memorandos, el investigador es capaz de sumergirse en los datos, explorar los significados que estos datos tienen, mantener la continuidad y mantener el impulso en la realización de la investigación. Como [crónica de un viaje de investigación]{.fosforito}, los memorandos permanecen como un registro, indeleble pero flexible, para retención personal o para difundir a otros.\
-@birks_memoing_2008 [p. 69]
 
 ## Memoing
 >Vemos la toma de notas como [crucial]{.fosforito} para todos los tipos y enfoques de análisis. Otras funciones, como la codificación, la búsqueda de texto, la codificación automática y la modelización pueden ser utilizadas por enfoques concretos, pero la anotación de los datos, documentos y material de apoyo es [indivisible del análisis general]{.fosforito}.\
@@ -333,12 +230,16 @@ Descargar y descomprimir [http://bit.ly/2oJUWCm]{.fosforito}
 
 ![](imagenes-cuali/AdministradorMemos-8-01.png)
 
- >* Crear una memo
- >     * Etiquetarla como "Proceso"
- >     * Describir los pasos dados hasta el momento
- >     * Guardar
- * Crear una memo "Objetivos"
-
+::: nonincremental
+* Crear una memo "Proceso"
+* Crear una memo "Plantilla pregunta de investigación"
+  - Típo: análisis
+  - Título
+  - Query
+  - Resultados
+  - Interpretación
+  - Citas ilustrativas
+:::
 
 # Segmentar y codificar {.center data-background="imagenes-cuali/Coding.jpg" data-background-transition=zoom data-state=opacidad}
 
@@ -463,10 +364,6 @@ Tenemos dos posibles respuestas (no incompatibles entre sí):
 ## Comparación constante {#comparacion-constante}
 ![](imagenes-cuali/comparacion-constante.png){.noshadow}
 
-## Codificación: "Depuración" {#codificacion-depuracion}
-
->While developing a code system and eventually themes, the researcher will constantly move back and forth between reading the data, re-reading coded segments, arranging codes, renaming, and re-ordering codes and recoding data segments.\
-@friese_carrying_2018 [p. 17]
 
 ## {transition=none}
 
@@ -524,6 +421,7 @@ Tenemos dos posibles respuestas (no incompatibles entre sí):
 
 ![](imagenes-cuali/atlas-8/Exportar.png){.border}
 
+
 # Estructurar {.center data-state=opacidad data-background="imagenes-cuali/hanging-files.jpg" data-background-transition=zoom}
 
 
@@ -533,8 +431,6 @@ Tenemos dos posibles respuestas (no incompatibles entre sí):
 Volver a informes. Queremos obtener informes de...
 (cuidado si antes se han visto las agrupaciones de códigos)
 -->
-
-
 
 ![](imagenes-cuali/Autocodificacion-8.png)
 
@@ -566,13 +462,12 @@ Volver a informes. Queremos obtener informes de...
 ![](imagenes-cuali/atlas-8/GruposDocumentos.png)
 <!--
 
-| Grupo    | Contenido        |
-|:---------|:-----------------|
-| Congreso | Control-Congreso |
-| Senado   | Control-Senado   |
-| IX LEG.  | -2011            |
-| X LEG.   | -2012            | -->
-
+| Grupo    | Contenido              |
+|:---------|:-----------------------|
+| Congreso | Control-Congreso       |
+| Senado   | Control-Senado         |
+| IX LEG.  | -2011                  |
+| X LEG.   | -2012            | --> |
 
 ## Grupos "inteligentes"
 

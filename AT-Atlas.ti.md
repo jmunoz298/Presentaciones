@@ -115,6 +115,17 @@ lateral-menu: 'True'
 >Un tema es un patrón que se encuentra en la información que, como mínimo, describe y organiza posibles observaciones o, como máximo, interpreta aspectos del fenómeno. Un tema puede identificarse a nivel [manifiesto]{.fosforito} (directamente observable en la información) o a nivel [latente]{.fosforito} (subyacente al fenómeno). Los temas pueden generarse inicialmente [inductivamente]{.fosforito} a partir de la información bruta o generarse [deductivamente]{.fosforito} a partir de la teoría y la investigación previa.\
 @boyatzis_transforming_1998 [p. vii]
 
+## Manifiesto vs. latente {#manifiesto-latente}
+
+<video width="850"   controls>
+ <source src="imagenes-cuali/TheCodes.mp4">
+</video>
+
+`The Codes of Gender`{.figcaption}
+
+`https://www.youtube.com/watch?v=Zxxvr0ex8MI`{.figcaption}
+
+
 ## Temas
 > Un tema capta algo importante sobre los datos en relación con la pregunta de investigación, y representa un cierto nivel de pauta de respuesta o significado en el conjunto de los datos.\
 @braun_using_2006 [p. 82]
@@ -210,7 +221,9 @@ F4:
 
 ## Pero...
 
-<iframe width="800" height="600" data-src="http://research.baidu.com/introducing-swiftscribe-breakthrough-ai-powered-transcription-software/"></iframe>
+<iframe width="700" height="400" data-src="https://swiftscribe.ai/"></iframe>
+
+[https://swiftscribe.ai/](https://swiftscribe.ai/)
 
 ## Convenciones
 >En una conversación lo más significativo es lo que no se dice entre lo que se está diciendo, como por ejemplo las pausas y silencios, las entonaciones y los gestos, porque ahí radican los dobles significados, los ánimos y el objetivo mismo de la comunicación.\
@@ -233,21 +246,20 @@ Ver: [UK · Data Archive: Create & Manage Data](http://www.data-archive.ac.uk/cr
 `http://www.data-archive.ac.uk/create-manage`{.figcaption}
 
 ## Gestión de los datos {#gestion-datos-2}
->Una buena gestión de los datos es la base para una buena investigación. Si los datos están debidamente organizados, preservados y bien documentados, y su exactitud, vigencia e integridad es controlada en todo momento, el resultado es de datos de alta calidad, investigación eficiente, resultados basados en pruebas sólidas y ahorro de tiempo y recursos. (...) La gestión de datos debe planificarse desde el inicio de la investigación. Si se convierte en parte de la práctica de investigación estándar, entonces no implicará necesariamente mucho tiempo ni costos adicionales.\
+>Una buena gestión de los datos es la base para una buena investigación. Si los datos están debidamente organizados, preservados y bien documentados, y su exactitud, vigencia e integridad es controlada en todo momento, el resultado es de datos de alta calidad, [investigación eficiente]{.fosforito}, resultados basados en pruebas sólidas y [ahorro de tiempo y recursos]{.fosforito}. (...) La gestión de datos debe [planificarse desde el inicio de la investigación]{.fosforito}. Si se convierte en parte de la práctica de investigación estándar, entonces no implicará necesariamente mucho tiempo ni costos adicionales.\
 @uk_data_archive_managing_2009 [p. 2]
 
 ## Control de versiones
 
 ![https://www.ukdataservice.ac.uk/manage-data/format/versioning](imagenes-cuali/VersionControlTable.jpg)
 
-
-## Ejercicio: gestión de datos
+<!-- ## Ejercicio: gestión de datos
 
 ![](img/working-03.png){.noshadow}
 
 * Formato documentos
 * Etiquetado archivos
-* Sistema de control
+* Sistema de control -->
 
 ## Y luego...
 
@@ -272,6 +284,14 @@ Dos formas básicas de trabajo en equipo:
 - Diferentes analistas trabajan con diferentes documentos.
 
 En ambos casos, el resultado final es la unión de los diferentes proyectos
+:::
+
+## Unir UHs
+
+![](imagenes-cuali/UH-Fusionar-2.png)
+
+::: notes
+Una vez que cada analista ha finalizado su trabajo (siguiendo alguna de las estrategias anteriores), podemos utilizar la herramienta de unión de UHs adaptando sus parámetros a nuestras necesidades.
 :::
 
 ##
@@ -319,8 +339,7 @@ En ambos casos, el resultado final es la unión de los diferentes proyectos
 
 Descargar / descomprimir
 
-https://www.dropbox.com/s/5hw8f921lwlj5s6/CursoAtlasCP.zip
-
+[https://bit.ly/2sryvne](https://bit.ly/2sryvne)
 
 ## Ejercicio memos: insertar PDF
 
@@ -376,7 +395,7 @@ O
 Documentos > Administrador de fuente de datos
    * Abrir Administrador de biblioteca
        * Fuentes de datos > Exportar
-   * Exportar documentos seleccionados   
+   * Exportar documentos seleccionados
 ```
 :::
 ::::::
@@ -411,12 +430,12 @@ Copiar carpeta donde estén UH y documentos
 
 : Estructura familias de documentos
 
-## Ejercicio: Superfamilias
+<!-- ## Ejercicio: Superfamilias
 
 >* Congreso **Y** IX legislatura
 * Congreso **Y** X legislatura
 * Senado **Y** IX legislatura
-* Senado **Y** X legislatura
+* Senado **Y** X legislatura -->
 
 ## Codificación estructural
 
@@ -424,7 +443,7 @@ Copiar carpeta donde estén UH y documentos
 
 ![](imagenes-cuali/Autocodificacion.png)
 
-## Ejercicio autocodificación
+## Ejercicio autocodificación {#ejercicio-autocodificacion}
 
 ![](img/working-03.png){.noshadow}
 
@@ -433,14 +452,14 @@ Códigos > Codificar > Codificación automática
 ```
 
 >* Autocodificar participantes
->     * Autocodficar Presidente-Zapatero
-     * Autocoficiar Presidente-Rajoy
+>     * Autocodificar Presidente-Zapatero
+      * Autocodificar Presidente-Rajoy
 >     * Otros políticos
 
 . . .
 
-* ¿Qué familias podemos crear?
-* ¿Otras posibilidades de autocodificación?
+[¿Qué familias podemos crear?]{.fosforito}
+
 
 ## Superfamilias
 
@@ -465,7 +484,7 @@ Códigos > Codificar > Codificación automática
 
 # Informes {.center data-background="imagenes-cuali/reports.jpg" data-background-transition=zoom data-state=opacidad}
 
-## Menús informes
+## Menús informes {#menu-informes}
 
  `Componentes con opciones de impresión`{.figcaption}
 
@@ -630,19 +649,19 @@ Por grupos, categorizar el aula
 
 @rasiah_framework_2010
  -->
-
+<!--
 ## Ejercicio
 
 * Crear códigos libres
 * Crear citas libres
-* Codificar: Pregunta, Respuesta, Réplica, Contrarréplica
+* Codificar: Pregunta, Respuesta, Réplica, Contrarréplica -->
 
-## Familias de códigos {familias-codigos}
+<!-- ## Familias de códigos {#familias-codigos}
 
 . . .
 
 * Crear familias de códigos de participantes por pertenencia a partido político (Convergència, PP, PSOE)
-* Crear familias de partidos políticos
+* Crear familias de partidos políticos -->
 
 
 # Relaciones {.center data-background="imagenes-cuali/network.jpg" data-background-transition=zoom data-state=opacidad}
@@ -806,9 +825,6 @@ Múltiples categorías
 
 ## Copiar/Restaurar UH
 
-## Unir UHs
-
-![](imagenes-cuali/UH-Fusionar-2.png)
 
 # Referencias{.center data-background="imagenes-cuali/books.jpg" data-background-transition=zoom data-state=opacidad}
 
