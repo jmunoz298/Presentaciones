@@ -65,6 +65,11 @@ $include-before$
 $endfor$
   <div class="reveal">
     <div class="slides">
+$if(video)$
+<section 
+data-background-video=$video$ data-background-video-loop>
+</section>
+$endif$
 $if(title)$
 <section data-state="no-toc-progress , show-github-ribbon">
     <h1 class="title .no-toc-progress">$title$</h1>
