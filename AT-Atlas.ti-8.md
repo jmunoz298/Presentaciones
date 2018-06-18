@@ -59,7 +59,7 @@ lateral-menu: 'True'
 
 ## La investigación cualitativa {#investigacion-cualitativa data-background="imagenes-cuali/AnalisisCotidiano.png" data-background-transition=zoom data-state=opacidad}
 
->Un enfoque cualitativo es uno en el que hay necesidad de interpretar los datos a través de la identificación y, posiblemente, la codificación de temas, conceptos, procesos, contextos, etc., con el fin de construir explicaciones o teorías o para probar o ampliar una teoría.\
+>Un enfoque cualitativo es uno en el que hay necesidad de [interpretar los datos]{.fosforito} a través de la identificación y, posiblemente, la [codificación]{.fosforito} de temas, conceptos, procesos, contextos, etc., con el fin de construir [explicaciones]{.fosforito} o teorías o para probar o ampliar una teoría.\
 @lewins_using_2007 [, p. 7]
 
 
@@ -74,13 +74,41 @@ lateral-menu: 'True'
 
 ## Manifiesto vs. latente {#manifiesto-latente}
 
-<video width="850"   controls>
+![Cumbre del G7, 9 de junio de 2018, Quebec (Canadá)](imagenes-cuali/merkel-trump-merkel.jpg){.noshadow}
+
+::: notes
+Reunión del G7 en Canadá 9 junio 2018
+Angel Merkel
+Donald Trump
+Justin Trudeau
+Emmanuel Macron
+Shinzō Abe
+:::
+
+## ¿Realidad? {#realidad}
+
+:::::: {.columns}
+::: {.column width="50%"}
+![](imagenes-cuali/merkel-trump-trump.jpg){width="375px" .noshadow}
+:::
+::: {.column width="50%"}
+![](imagenes-cuali/merkel-trump-trudeau.jpg){width="375px" .noshadow}
+:::
+::: {.column width="50%"}
+![](imagenes-cuali/merkel-trump-macron.jpg){ width="375px" .noshadow}
+:::
+::: {.column width="50%"}
+![](imagenes-cuali/merkel-trump-abe.jpg){ width="375px" .noshadow}
+:::
+::::::
+
+<!-- <video width="850"   controls>
  <source src="imagenes-cuali/TheCodes.mp4">
 </video>
 
 `The Codes of Gender`{.figcaption}
 
-`https://www.youtube.com/watch?v=Zxxvr0ex8MI`{.figcaption}
+`https://www.youtube.com/watch?v=Zxxvr0ex8MI`{.figcaption} -->
 
 
 ## Temas
@@ -161,10 +189,12 @@ F4:
 
 ## Pero...
 
-<iframe width="800" height="600" data-src="http://research.baidu.com/introducing-swiftscribe-breakthrough-ai-powered-transcription-software/"></iframe>
+<iframe width="800" height="400" data-src="http://swiftscribe.ai/"></iframe>
+
+[http://swiftscribe.ai/](http://swiftscribe.ai/)
 
 ## Convenciones
->En una conversación lo más significativo es lo que no se dice entre lo que se está diciendo, como por ejemplo las pausas y silencios, las entonaciones y los gestos, porque ahí radican los dobles significados, los ánimos y el objetivo mismo de la comunicación.\
+>En una conversación [lo más significativo es lo que no se dice entre lo que se está diciendo]{.fosforito}, como por ejemplo las pausas y silencios, las entonaciones y los gestos, porque ahí radican los dobles significados, los ánimos y el objetivo mismo de la comunicación.\
 @fernandez_christlieb_espiritu_2004 [p. 46]
 
 ## Convenciones "jeffersonianas"
@@ -177,12 +207,55 @@ F4:
 >La inadecuada documentación y monitorización de las actividades relacionadas con los datos pueden [amenazar su integridad]{.fosforito}. Además, las prácticas inadecuadas de seguimiento pueden dificultar el análisis y aumentar la probabilidad de un [pandemónium]{.fosforito} de investigación.\
 @mclellan_beyond_2003 [p. 69]
 
+Ver: [Processing Qualitative Data Files](http://www.fsd.uta.fi/aineistonhallinta/en/processing-qualitative-data-files.html)\
+`http://www.fsd.uta.fi/aineistonhallinta/en/processing-qualitative-data-files.html`{.figcaption}
+
 Ver: [UK · Data Archive: Create & Manage Data](http://www.data-archive.ac.uk/create-manage)\
 `http://www.data-archive.ac.uk/create-manage`{.figcaption}
 
-## Gestión de los datos {#gestion-datos-2}
+<!-- ##
+
+<section data-background-iframe="https://slides.com/news/make-better-presentations/embed?style=hidden&autoSlide=4000">
+</section>
+
+---
+<!-- .slide: data-background-iframe="https://www.youtube.com/VIDEO" -->
+--- -->
+
+<!-- ## Gestión de los datos {#gestion-datos-2}
 >Una buena gestión de los datos es la base para una buena investigación. Si los datos están debidamente organizados, preservados y bien documentados, y su exactitud, vigencia e integridad es controlada en todo momento, el resultado es de datos de alta calidad, investigación eficiente, resultados basados en pruebas sólidas y ahorro de tiempo y recursos. (...) La gestión de datos debe planificarse desde el inicio de la investigación. Si se convierte en parte de la práctica de investigación estándar, entonces no implicará necesariamente mucho tiempo ni costos adicionales.\
-@uk_data_archive_managing_2009 [p. 2]
+@uk_data_archive_managing_2009 [p. 2] -->
+
+<!-- ## Control {.medio}
+
+--------      -------------------------------------------
+   Title      Vission screening tests in Exxex nurseries
+
+File name     VisionScreenResults_00_05
+
+Description   Results data of 120 Vision Screen Tests carried out in 5 nurseries in Essex during June 2007
+
+Created by    Chris Wilkinson
+
+Maintained by Sally Wastley
+
+Created       04/07/2007
+
+Last modified 25/11/2007
+
+Based on      VisionScreenDataaseDesign_02_00
+--------      -------------------------------------------
+
+-------  ------------  --------------------------------------------   ----------
+Version  Responsable   Notes                                          Changed
+-------  ------------  --------------------------------------------   ----------
+00_05    Sally Wastley Version 00_03 and 00_04 compared and merged    25/11/2007
+
+00_04    Vani Yussu    Entries checked by VY, independent from SK     17/10/2007
+
+00_03    Karin Mills    Entries checked by SK                         17/10/2007
+-------  ---------------------------------------------------------    ---------- -->
+
 
 
 ## Control de versiones
@@ -261,7 +334,7 @@ En ambos casos, el resultado final es la unión de los diferentes proyectos
 
 :::::: {.columns}
 ::: {.column width="100%"}
-Descargar y descomprimir [http://bit.ly/2oJUWCm]{.fosforito}
+<!-- Descargar y descomprimir [http://bit.ly/2oJUWCm]{.fosforito} -->
 
 >- Inicio > Agregar documentos > Agregar archivos
 - Gestor de documentos > Crear comentarios de documentos
@@ -465,7 +538,7 @@ Tenemos dos posibles respuestas (no incompatibles entre sí):
 
 ## Codificación: "Depuración" {#codificacion-depuracion}
 
->While developing a code system and eventually themes, the researcher will constantly move back and forth between reading the data, re-reading coded segments, arranging codes, renaming, and re-ordering codes and recoding data segments.\
+>Durante el desarrollo de un sistema de códigos y eventualmente temas, el investigador va en constante ir y venir entre la lectura de los datos, la relectura de los segmentos codificados, la organización de los códigos, el cambio de nombre y el reordenamiento de los códigos y la recodificación de los segmentos de datos.\
 @friese_carrying_2018 [p. 17]
 
 ## {transition=none}
@@ -566,12 +639,12 @@ Volver a informes. Queremos obtener informes de...
 ![](imagenes-cuali/atlas-8/GruposDocumentos.png)
 <!--
 
-| Grupo    | Contenido        |
-|:---------|:-----------------|
-| Congreso | Control-Congreso |
-| Senado   | Control-Senado   |
-| IX LEG.  | -2011            |
-| X LEG.   | -2012            | -->
+| Grupo    | Contenido              |
+|:---------|:-----------------------|
+| Congreso | Control-Congreso       |
+| Senado   | Control-Senado         |
+| IX LEG.  | -2011                  |
+| X LEG.   | -2012            | --> |
 
 
 ## Grupos "inteligentes"
