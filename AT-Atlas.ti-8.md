@@ -188,8 +188,7 @@ F4:
 
 
 ## Pero...
-
-<iframe width="800" height="400" data-src="http://swiftscribe.ai/"></iframe>
+<iframe width="800" height="400" data-src="http://swiftscribe.ai"></iframe>
 
 [http://swiftscribe.ai/](http://swiftscribe.ai/)
 
@@ -334,7 +333,8 @@ En ambos casos, el resultado final es la unión de los diferentes proyectos
 
 :::::: {.columns}
 ::: {.column width="100%"}
-<!-- Descargar y descomprimir [http://bit.ly/2oJUWCm]{.fosforito} -->
+
+Descargar y descomprimir [https://bit.ly/2tboqvO]{.fosforito}
 
 >- Inicio > Agregar documentos > Agregar archivos
 - Gestor de documentos > Crear comentarios de documentos

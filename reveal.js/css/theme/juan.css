@@ -473,17 +473,3 @@ padding: 15px;
   }
 
 
-/* Video backgrounds */
-.reveal .slide-background video {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    max-width: 80%; 
-    min-height: 100%;
-  -o-object-fit: cover;
-     object-fit: cover; }
-
-.reveal .slide-background[data-background-size="contain"] video {
-  -o-object-fit: contain;
-     object-fit: contain; }
-}
