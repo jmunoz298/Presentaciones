@@ -313,7 +313,10 @@ html.laback .reveal section img {
 
 #toc-progress-footer {text-color: red;}
 
-.resaltar {color: #F08080;}
+.reveal .resaltar {
+  font-weight: 1000;
+  color: red;
+  }
 
 .fosforito {background-color: #FFFF00}
 
@@ -471,5 +474,3 @@ padding: 15px;
   margin-top: 0.8em;
   font-size: 0.7em;
   }
-
-

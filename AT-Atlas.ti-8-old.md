@@ -35,9 +35,10 @@ lateral-menu: 'True'
 
 ## ¿Qué permite? {#permite}
 
-::::: {.columns}
+
+:::::::::::::: {.columns}
 ::: {.column width="35%"}
-![](imagenes-atlas-8/atlas-que-permite.png){.noshadow}
+![](imagenes-cuali/atlas-que-permite.png){.noshadow}
 :::
 
 ::: {.column width="65%"}
@@ -211,21 +212,20 @@ Ver: [Processing Qualitative Data Files](http://www.fsd.uta.fi/aineistonhallinta
 Ver: [UK · Data Archive: Create & Manage Data](http://www.data-archive.ac.uk/create-manage)\
 `http://www.data-archive.ac.uk/create-manage`{.figcaption}
 
-<!--
-
-##
+<!-- ##
 
 <section data-background-iframe="https://slides.com/news/make-better-presentations/embed?style=hidden&autoSlide=4000">
 </section>
 
+---
+<!-- .slide: data-background-iframe="https://www.youtube.com/VIDEO" -->
+--- -->
+
 <!-- ## Gestión de los datos {#gestion-datos-2}
 >Una buena gestión de los datos es la base para una buena investigación. Si los datos están debidamente organizados, preservados y bien documentados, y su exactitud, vigencia e integridad es controlada en todo momento, el resultado es de datos de alta calidad, investigación eficiente, resultados basados en pruebas sólidas y ahorro de tiempo y recursos. (...) La gestión de datos debe planificarse desde el inicio de la investigación. Si se convierte en parte de la práctica de investigación estándar, entonces no implicará necesariamente mucho tiempo ni costos adicionales.\
-@uk_data_archive_managing_2009 [p. 2]
--->
+@uk_data_archive_managing_2009 [p. 2] -->
 
-<!--
-
-## Control {.medio}
+<!-- ## Control {.medio}
 
 --------      -------------------------------------------
    Title      Vission screening tests in Exxex nurseries
@@ -253,8 +253,9 @@ Version  Responsable   Notes                                          Changed
 00_04    Vani Yussu    Entries checked by VY, independent from SK     17/10/2007
 
 00_03    Karin Mills    Entries checked by SK                         17/10/2007
--------  ---------------------------------------------------------    ----------
--->
+-------  ---------------------------------------------------------    ---------- -->
+
+
 
 ## Control de versiones
 
@@ -272,9 +273,38 @@ Version  Responsable   Notes                                          Changed
 
 # Proyecto {.center data-background="imagenes-cuali/escriba.jpg" data-background-transition=zoom data-state=opacidad}
 
+<!--
+## Pantalla inicial
+
+ <div style="position:relative; margin:0 auto;">
+   <img class="fragment fade-out" data-fragment-index="0"  src="imagenes/atlas-8/PantallaInicial.png" style="position:absolute;top:0;left:0;" />
+   <img class="fragment fade-in" data-fragment-index="0" src="imagenes/atlas-8/PantallaInicial-b.png" style="position:absolute;top:0;left:0;" />
+ </div>
+
+ <!--![](imagenes/atlas-8/PantallaInicial.png) -->
+-->
+
+<!--
+## Pantalla principal
+
+ <div style="position:relative; margin:0 auto;">
+   <img class="fragment fade-out" data-fragment-index="0"  src="imagenes/atlas-8/PantallaPrincipal-01.png" style="position:absolute;top:0;left:0;" />
+   <img class="fragment fade-in" data-fragment-index="0" src="imagenes/atlas-8/PantallaPrincipal-02a.png" style="position:absolute;top:0;left:0;" />
+   <img class="fragment fade-in" data-fragment-index="1" src="imagenes/atlas-8/PantallaPrincipal-02b.png" style="position:absolute;top:0;left:0;" />
+   <img class="fragment fade-in" data-fragment-index="2" src="imagenes/atlas-8/PantallaPrincipal-03.png" style="position:absolute;top:0;left:0;" />
+   </div>
+
+![](imagenes/atlas-8/PantallaPrincipal.png)
+
+-->
+
+<!--
+ ![](imagenes/atlas-8/PantallaPrincipal-ConProyecto.png)
+-->
+
 ## Estrategias trabajo en equipo
 
-![](imagenes-atlas-8/atlas-trabajo-equipo.png){.noshadow}
+![](imagenes-cuali/atlas-trabajo-equipo.png){.noshadow}
 
 ::: notes
 Dos formas básicas de trabajo en equipo:
@@ -287,14 +317,14 @@ En ambos casos, el resultado final es la unión de los diferentes proyectos
 
 ## Unir proyectos
 
-![](imagenes-atlas-8/FusionarProyecto-8.png)
+![](imagenes-cuali/FusionarProyecto-8.png)
 
 
 ## Añadir documentos {#anadir-documentos}
 
 :::::: {.columns}
 ::: {.column width="50%"}
-![](imagenes-atlas-8/AgregarDocumentos-8-01.png){.border .noshadow}
+![](imagenes-cuali/AgregarDocumentos-8-01.png)
 :::
 ::: {.column width="50%"}
 ![](img/working-03.png){.noshadow}
@@ -311,6 +341,20 @@ Descargar y descomprimir [https://bit.ly/2tboqvO]{.fosforito}
 :::
 ::::::
 
+<!--
+## Pantalla principal con documentos
+
+ ![](imagenes/atlas-8/PantallaPrincipal-ConDocumento.png)
+
+## Gestor de documentos
+
+ ![](imagenes/atlas-8/DocumentManager-00.png)
+
+## Comentarios de documentos
+
+ ![](imagenes/atlas-8/DocumentManager-01.png)
+
+ -->
 
 # Memoing {.center data-background="imagenes-cuali/Memoing-01.jpg" data-background-transition=zoom data-state=opacidad}
 
@@ -339,9 +383,28 @@ Descargar y descomprimir [https://bit.ly/2tboqvO]{.fosforito}
 
 ###### @saldana_coding_2009 [pp. 34-40]{.autor}
 
+<!--
+## Crear Memos
+
+<div style="position:relative; width:789px; height:512px; margin:0 auto;">
+  <img class="fragment fade-out" data-fragment-index="0"  src="imagenes/atlas-8/MemoManager-00.png" style="position:absolute;top:0;left:0;" />
+  <img class="fragment fade-in" data-fragment-index="0" src="imagenes/atlas-8/MemoCreate.png" style="position:absolute;top:0;left:0;" />
+</div>
+ -->
+
+<!--
+## Gestor de memos {data-transition="fade-in none-out"}
+
+![](imagenes/atlas-8/MemoManager-00.png)
+
+## Crear memos {data-transition="none-in fade-out"}
+
+![](imagenes/atlas-8/MemoCreate.png)
+ -->
+
 ## Crear memos-anotaciones
 
-![](imagenes-atlas-8/AdministradorMemos-8-01.png)
+![](imagenes-cuali/AdministradorMemos-8-01.png)
 
  >* Crear una memo
  >     * Etiquetarla como "Proceso"
@@ -369,40 +432,13 @@ Descargar y descomprimir [https://bit.ly/2tboqvO]{.fosforito}
 
 ## Estrategias de codificación {#estrategias-codificacion }
 
-![](imagenes-atlas-8/EstrategiaCodificacion.png)
+![](imagenes/atlas-8/EstrategiaCodificacion.png)
 
 ::: notes
 Si la estrategia de trabajo es de tipo deductivo, se creará una lista de códigos que se intentará "aplicar" sobre los datos creando citas.
 
 Si la estrategia es inductiva, los códigos surgirán de la lectura de los datos y por lo tanto primero crearemos citas que se vincularán con códigos.
 :::
-
-## Ejercicio: Segmentación {#ejercicio-segmentacion}
-
-![](img/working-03.png){.noshadow}
-
->* Crear citas "libres" en varios documentos.
-* Eliminar citas.
-* Modificar tamaño de citas.
-* Explorar citas con el [Administrador de citas]{.resaltar} y con el [Navegador de citas]{.resaltar}.
-
-## Relaciones
-
-![](imagenes-atlas-8/TiposRelaciones-8.png)
-
-::: notes
-Existen pocas limitaciones en cuanto a cómo crear citas libres, pueden ser de cualquier extensión, pueden solaparse entre ellas... pero sí que tenemos la limitación de que una cita no puede ser "discontínua", es decir, no puede tener una primera parte, p.ej. de la línea 3 a 5, y una segunda parte de la 8 a la 10 sin que estén incluidas las líneas 6 y 7.
-Esto podría provocar que se pierda el significado si no se tiene en cuenta la primera parte, por lo que tendríamos que incluir todas las líneas. Pero si eso implica tener una cita excesivamente larga, otra opción sería crear dos citas y una relación entre ambas.
-:::
-
-## Ejercicio: Relaciones entre citas
-
-![](imagenes-atlas-8/menu-hyperlinks.png){.border}
-
->* Crear relaciones entre citas del mismo/diferente documento
-* "Navegar" entre citas
-* Explorar relaciones con el [Administrador de vínculos]{.resaltar}
-
 
 ## Categorización {#categorizacion}
 >Los animales se clasifican en a) pertenecientes al emperador, b) embalsamados, c) amaestrados, d) lechones, e) sirenas, f) fabulosos, g) perros sueltos, h) incluidos en esta clasificación, i) que se agitan como locos, j) innumerables, k) dibujados con un pincel finísimo de pelo de camello, l) etcétera, m) que acaban de romper el jarrón, n) que de lejos parecen moscas.\
@@ -446,16 +482,56 @@ Tenemos dos posibles respuestas (no incompatibles entre sí):
 
 ###### @macqueen_codebook_1998{.autor}
 
-## Ejercicio: Codificación {#ejercicio-codificacion}
+## Ejercicio: Segmentación / Codificación
 
-![](imagenes-atlas-8/ejercicio-codificacion.png){.noshadow  .border}
+![](img/working-03.png){.noshadow}
 
->* Crear códigos libres con [Nuevas entidades]{.resaltar}
-> Crear comentarios de códigos
-* Relacionar códigos libres con citas existentes utilizando el [Navegador de códigos]{.resaltar}
-* Utilizar la opción de [Codificación abierta]{.resaltar}
-* Desvincular código de cita
-* Explorar códigos con el [Administrador de códigos]{.resaltar}
+>* Crear citas libres
+* Crear códigos libres
+* Utilizar otras opciones de codificación
+
+<!--
+## Gestor de códigos {#gestor-codigos}
+
+![](imagenes/atlas-8/CodeManager-02.png)
+ -->
+
+<!--
+## Codificación Top-Down: Códigos libres {#codificacion-top-down}
+
+![](imagenes/atlas-8/NewEntities.png)
+
+. . .
+
+![](imagenes/atlas-8/CreateCodes.png)
+ -->
+
+<!--
+## Codificación Bottom-Up: Citas libres {#codificacion-bottom-up}
+
+![](imagenes/atlas-8/FreeQuotation-00.png){.border}
+
+. . .
+
+![](imagenes/atlas-8/FreeQuotation-01.png){.border}
+
+<!--
+##
+![](imagenes/atlas-8/FreeQuotation-02.png)
+-->
+
+<!--
+## Explorar Citas
+
+![](imagenes/atlas-8/QuotationManager-00.png)
+-->
+
+<!--
+## Codificación "mixta" {#codificacion-mixta}
+
+![](imagenes/atlas-8/FreeQuotation-00a.png)
+ -->
+
 
 ## Comparación constante {#comparacion-constante}
 ![](imagenes-cuali/comparacion-constante.png){.noshadow}
@@ -465,139 +541,75 @@ Tenemos dos posibles respuestas (no incompatibles entre sí):
 >Durante el desarrollo de un sistema de códigos y eventualmente temas, el investigador va en constante ir y venir entre la lectura de los datos, la relectura de los segmentos codificados, la organización de los códigos, el cambio de nombre y el reordenamiento de los códigos y la recodificación de los segmentos de datos.\
 @friese_carrying_2018 [p. 17]
 
-
 ## {transition=none}
 
-![](imagenes-atlas-8/Categorizacion01.png){.noshadow }
+![](imagenes-cuali/Categorizacion01.png){.noshadow }
 
 ###### @friese_using_2011 {.autor}
 
 ## {transition=none}
 
-![](imagenes-atlas-8/Categorizacion02.png){.noshadow}
+![](imagenes-cuali/Categorizacion02.png){.noshadow}
 
 ## {transition=none}
 
-![](imagenes-atlas-8/Categorizacion03.png){.noshadow}
+![](imagenes-cuali/Categorizacion03.png){.noshadow}
 
 ## {transition=none}
 
-![](imagenes-atlas-8/Categorizacion04.png){.noshadow}
+![](imagenes-cuali/Categorizacion04.png){.noshadow}
 
 ## {transition=none}
 
-![](imagenes-atlas-8/Categorizacion05.png){.noshadow}
+![](imagenes-cuali/Categorizacion05.png){.noshadow}
 
 ## {transition=none}
 
-![](imagenes-atlas-8/Categorizacion06.png){.noshadow}
+![](imagenes-cuali/Categorizacion06.png){.noshadow}
 
-## Ejercicio: Depurar códigos {#depurar-codigos}
+<!--
+## Visualización: Informes {#informes}
 
-![](imagenes-atlas-8/Menu-imprimir.png){.border}
+![](imagenes/atlas-8/CodeManager-Menu-Report.png)
 
->* Generar [Informe]{.resaltar} de todas las citas de un código
-* Generar informe de un conjunto de códigos
-* [Fusionar]{.resaltar} varios códigos
-* [Dividir]{.resaltar} un código en dos
+. . .
 
-## Agrupar
+![](imagenes/atlas-8/CodesReport.png)
+ -->
 
-![Tipos de Grupos](imagenes-atlas-8/Grupos.png)
+## Depurar códigos {#depurar-codigos}
 
-## Ejercicio: grupos de códigos {#ejercicio-grupos-codigos}
-
-![](imagenes-atlas-8/Menu-codigos.png){.noshadow .border}
-
->* Crear grupos de códigos
->   - Desde el [Administrador de códigos]{.resaltar}
->   - Con el [Administrador de grupos de códigos]{.resaltar}
+![](imagenes-cuali/atlas-8/Menu-imprimir.png){.border}
 
 # "Transportar" UH{.center data-background="imagenes/luggage.png"}
 
+<!--
+##1: Crear paquete de copia
+
+![](imagenes/atlas-8/MenuFile-Export.png)
+
+##2: Abrir paquete de copia
+
+![](imagenes/atlas-8/MenuFile-New.png)
+ -->
+
 ## Ejercicio: Crear/abrir copia
 
-:::::: {.columns}
-::: {.column width="50%"}
-![](imagenes-atlas-8/Importar-proyecto.png){.border}
-:::
-::: {.column width="50%"}
-![](imagenes-atlas-8/Exportar.png){.border}
-:::
-:::::
-
-# Preguntas {.center data-state=opacidad data-background="fondos/Research.jpg" data-background-transition=zoom}
-
-## Analizar
-
-![](imagenes-atlas-8/Analizar-8.png)
-
-
-## Pregunta 1a
-
-#### ¿Qué "actores" aparecen en las secciones estructurales utilizadas para captar la atención?
-
->* Identificar secciones
-* Identificar "actores"
-* Buscar co-ocurrencias
-
-## Co-ocurrencias {#coocurrencias-0 transition=none}
-
-![](imagenes-atlas-8/Cooc-Marquez-00.png){.border}
-
-::: notes
-Las coocurrencias son las citas (codificadas) que presentan algún grado de solapamiento entre sí, por lo tanto, las coocurrencias de códigos nos indican los códigos con los que están codificados esas citas. Cuando dos códigos presentan coocurrencias, significa que un significado (código) está en cierta forma relacionado con otro.
-:::
-
-## Co-ocurrencias {#coocurrencias-1 transition=none}
-
-![](imagenes-atlas-8/Cooc-Marquez-00-1.png){.border}
-
-## Co-ocurrencias {#coocurrencias-2 transition=none}
-
-![](imagenes-atlas-8/Cooc-Marquez-00-2.png){.border}
-
-## Tabla de co-coocurrencias
-
-![Resultados Tabla de co-ocurrencias](imagenes-atlas-8/Tabla-co-ocurrencias.png){.border .noshadow}
-
-::: notes
-Para llegar al resultado de la imagen, en primer lugar se ha añadido un identificador a las etiquetas de códigos, "es:" para los códigos "estructurales", y "ac:" a los códigos que identifican a los diferentes "actores". De esta forma, aparecerán juntos en el Administrador de códigos. Además, al acceder a la herramienta "Tabla de co-ocurrencias", podemos filtrar fácilmente "es:" en filas y "ac:" en columnas.
-:::
-
-## Pregunta 1b
-
-#### ¿Cómo presentan esa información los diferentes diarios?
-
->* Grupos de documentos
-* Grupos inteligentes de documentos
-* [Activar filtro global]{.resaltar}
-
-![](imagenes-atlas-8/GruposDocumentos.png)
-
-## Grupos de documentos
-
-
-## Grupos "inteligentes"
-
-![](img/working-03.png){.noshadow}
-
-|                | + Derechas | - Derechas |
-|:---------------|:----------:|:----------:|
-| Pre (15 marzo) |            |            |
-| Post           |            |            |
-
-
-## Ejemplo
-
-![](imagenes-atlas-8/GruposDocumentos-ej.png)
+![](imagenes-cuali/atlas-8/Exportar.png){.border}
 
 # Estructurar {.center data-state=opacidad data-background="imagenes-cuali/hanging-files.jpg" data-background-transition=zoom}
 
 
 ## Autocodificación {#autocodificacion}
 
-![](imagenes-atlas-8/Autocodificacion.png)
+<!--
+Volver a informes. Queremos obtener informes de...
+(cuidado si antes se han visto las agrupaciones de códigos)
+-->
+
+
+
+![](imagenes-cuali/Autocodificacion-8.png)
 
 ## Ejercicio autocodificación {#ejercicio-autocodificacion}
 
@@ -618,7 +630,52 @@ Para llegar al resultado de la imagen, en primer lugar se ha añadido un identif
 :::
 ::::::
 
-<!-- ## Agrupación de códigos{ #agrupacion-codigos .peque}
+## Agrupar
+
+![Tipos de Grupos](imagenes-cuali/Grupos.png)
+
+## Ejercicio: Grupos de documentos
+
+![](imagenes-cuali/atlas-8/GruposDocumentos.png)
+<!--
+
+| Grupo    | Contenido              |
+|:---------|:-----------------------|
+| Congreso | Control-Congreso       |
+| Senado   | Control-Senado         |
+| IX LEG.  | -2011                  |
+| X LEG.   | -2012            | --> |
+
+
+## Grupos "inteligentes"
+
+![](img/working-03.png){.noshadow}
+
+|         |       CONGRESO        |       SENADO        |
+|:--------|:---------------------:|:-------------------:|
+| IX LEG. | Control-Congreso-2011 | Control-Senado-2011 |
+| X LEG.  | Control-Congreso-2012 | Control-Senado-2012 |
+
+
+<!--
+## Gestor de grupos de códigos {#gestor-grupos-codigos}
+ ![](imagenes/atlas-8/CodeGroupManager-00.png)
+
+## Grupos de códigos {#grupos-codigos}
+ ![](imagenes/atlas-8/CodeGroupManager-01.png)
+
+
+## Grupos "inteligentes"
+
+ ![](imagenes/atlas-8/CodeGroupManager-Menu.png)
+
+## Editar grupos "inteligentes"
+
+ ![](imagenes/atlas-8/Code-SmartGroup-02.png)
+ -->
+
+
+## Agrupación de códigos{ #agrupacion-codigos .peque}
 
 ![](img/working-03.png){.noshadow}
 
@@ -630,8 +687,6 @@ Para llegar al resultado de la imagen, en primer lugar se ha añadido un identif
 
 >* Crear grupos de códigos
 * Crear "grupos "inteligentes"
-
--->
 
 ##
 
@@ -649,13 +704,26 @@ Para llegar al resultado de la imagen, en primer lugar se ha añadido un identif
 # Relaciones {.center data-background="imagenes-cuali/network.jpg" data-background-transition=zoom data-state=opacidad}
 
 
-<!-- ## Jerarquías de códigos {#jerarquias-codigos-1}
+## Tipos de Relaciones
 
-![](imagenes-cuali/JerarquiaCodificacion.jpg) -->
+ <!--
+|         | CITAS        | CÓDIGOS      | MEMOS    |
+|:--------|:-------------|:-------------|:---------|
+| CITAS   | Hypervínculo | Codificación | Relación |
+| CÓDIGOS |              | Relación     | Relación |
+| MEMOS   |              |              | Relación |
+
+. . . -->
+
+![](imagenes-cuali/TiposRelaciones-8.png)
+
+## Jerarquías de códigos {#jerarquias-codigos-1}
+
+![](imagenes-cuali/JerarquiaCodificacion.jpg)
 
 ## Jerarquías de códigos {#jerarquias-codigos-2}
 
-![](imagenes-atlas-8/JerarquiasCodigos.png)
+![](imagenes-cuali/JerarquiasCodigos1.png)
 
 # Vistas de red{.center data-background="imagenes-cuali/neurons.jpg" data-background-transition=zoom data-state=opacidad}
 
@@ -667,29 +735,19 @@ Para llegar al resultado de la imagen, en primer lugar se ha añadido un identif
 ## Redes temáticas {#redes-tematicas}
 ![Attride-Stirling, 2001. p. 388](imagenes-cuali/RedesTematicas.png)
 
-## Estructura: Grupos de códigos {#estructura-grupos-codigos}
+## Relaciones entre códigos {#relaciones-codigos-1}
 
-![](imagenes-atlas-8/Estructura-con-grupos.png)
+![](imagenes/atlas-8/network-coaccion.png)
 
-## Estructura: Relaciones entre códigos {#estructura-relaciones-codigos}
+## Relaciones entre códigos {#relaciones-codigos-2}
 
-![](imagenes-atlas-8/Estructura-con-relaciones.png)
-
-
-## Relaciones entre códigos {#relaciones-codigos-donacion}
-
-![](imagenes-atlas-8/red-donacion.png)
-
-## Relaciones entre códigos {#relaciones-codigos-iter}
-
-![](imagenes-atlas-8/red-iter.png)
+![](imagenes/atlas-8/network-ITER.png)
 
 <!--
 ##Editar Relaciones
 
 ![](imagenes-cuali/EditorRelaciones.png)
  -->
-
 
 # Herramientas de consulta{.center data-background="imagenes-cuali/query.jpg" data-background-transition=zoom data-state=opacidad}
 
@@ -733,60 +791,31 @@ Múltiples categorías
 
 ![](imagenes-cuali/Operadores-Booleanos-8.png)
 
+## Construcción de una consulta {#construccion-consulta}
+
+"Todas las citas codificadas como 'Economía', realizadas por Rajoy o por Zapatero"
+
+![](imagenes-cuali/VennEvasion.png){ width="350px"}
+
+. . .
+
+![](imagenes-cuali/EscrituraQuery-1.jpg){ height="150px"}
+
 ## Operadores Booleanos
 
-![](imagenes-atlas-8/VennBooleanos-00.png)
-
-## Construcción de una consulta {#construccion-booleana-1}
-
-Todas las citas codificadas como C1 y C2 o como C1 y C3
-
-:::::: {.columns}
-::: {.column width="40%"}
-![](imagenes-atlas-8/VennBooleanos-01.png){ width="300px"}
-:::
-::: {.column width="60%"}
-![](imagenes-atlas-8/Consulta-booleanos-01.png){ width="450px"}
-:::
-:::::
-
-## Construcción de una consulta {#construccion-booleana-2}
-
-Todas las citas codificadas como C1 y C2 o como C1 y C3
-
-:::::: {.columns}
-::: {.column width="40%"}
-![](imagenes-atlas-8/VennBooleanos-02.png){ width="300px"}
-:::
-::: {.column width="60%"}
-![](imagenes-atlas-8/Consulta-booleanos-02.png){ width="450px"}
-:::
-:::::
-
-## Construcción de una consulta {#construccion-booleana-3}
-
-Todas las citas codificadas como C1 y C2 o como C1 y C3
-
-:::::: {.columns}
-::: {.column width="40%"}
-![](imagenes-atlas-8/VennBooleanos-03.png){ width="300px"}
-:::
-::: {.column width="60%"}
-![](imagenes-atlas-8/Consulta-booleanos-03.png){ width="450px"}
-:::
-:::::
+![](imagenes-cuali/VennBooleanos-8.png)
 
 ## Operadores Semánticos {#operadores-semanticos}
 
-![](imagenes-atlas-8/Operadores-Semanticos-8.png)
+![](imagenes-cuali/Operadores-Semanticos-8.png)
 
-## Operadores Semánticos {#ejemplo-operadores-semanticos}
+##
 
-![](imagenes-atlas-8/RedSentimientos.png)
+![](imagenes-cuali/EscrituraQuery-2.jpg)
 
 ## Operadores de Proximidad
 
-![](imagenes-atlas-8/Operadores-Proximidad-8.png)
+![](imagenes-cuali/Operadores-Proximidad-8.png)
 
 ##
 ![](imagenes-cuali/Proximidad-8.png)
@@ -809,6 +838,25 @@ Todas las citas codificadas como C1 y C2 o como C1 y C3
 
 
 # Otras herramientas
+
+## Analizar
+
+![](imagenes-cuali/Analizar-8.png)
+
+
+## Co-ocurrencias {#coocurrencias-0 transition=none}
+
+![](imagenes-cuali/Cooc-Marquez-00.png){.border}
+
+## Co-ocurrencias {#coocurrencias-1 transition=none}
+
+![](imagenes-cuali/Cooc-Marquez-00-1.png){.border}
+
+## Co-ocurrencias {#coocurrencias-2 transition=none}
+
+![](imagenes-cuali/Cooc-Marquez-00-2.png){.border}
+
+
 
 
 # Referencias{.center data-background="imagenes-cuali/books.jpg" data-background-transition=zoom data-state=opacidad}
