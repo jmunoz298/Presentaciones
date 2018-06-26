@@ -379,7 +379,7 @@ Si la estrategia es inductiva, los códigos surgirán de la lectura de los datos
 
 ## Ejercicio: Segmentación {#ejercicio-segmentacion}
 
-![](img/working-03.png){.noshadow}
+![](imagenes-atlas-8/ejercicio-citas.png){.noshadow  .border}
 
 >* Crear citas "libres" en varios documentos.
 * Eliminar citas.
@@ -399,9 +399,9 @@ Esto podría provocar que se pierda el significado si no se tiene en cuenta la p
 
 ![](imagenes-atlas-8/menu-hyperlinks.png){.border}
 
->* Crear relaciones entre citas del mismo/diferente documento
-* "Navegar" entre citas
-* Explorar relaciones con el [Administrador de vínculos]{.resaltar}
+>* Crear relaciones entre citas del mismo/diferente documento.
+* "Navegar" entre citas.
+* Explorar relaciones con el [Administrador de vínculos]{.resaltar}.
 
 
 ## Categorización {#categorizacion}
@@ -450,12 +450,11 @@ Tenemos dos posibles respuestas (no incompatibles entre sí):
 
 ![](imagenes-atlas-8/ejercicio-codificacion.png){.noshadow  .border}
 
->* Crear códigos libres con [Nuevas entidades]{.resaltar}
-> Crear comentarios de códigos
-* Relacionar códigos libres con citas existentes utilizando el [Navegador de códigos]{.resaltar}
-* Utilizar la opción de [Codificación abierta]{.resaltar}
-* Desvincular código de cita
-* Explorar códigos con el [Administrador de códigos]{.resaltar}
+>* Crear códigos libres con [Nuevas entidades]{.resaltar} (y comentarios de códigos.
+* Relacionar códigos libres con citas existentes utilizando el [Navegador de códigos]{.resaltar}.
+* Utilizar la opción de [Codificación abierta]{.resaltar}.
+* Desvincular código de cita.
+* Explorar códigos con el [Administrador de códigos]{.resaltar}.
 
 ## Comparación constante {#comparacion-constante}
 ![](imagenes-cuali/comparacion-constante.png){.noshadow}
@@ -469,8 +468,6 @@ Tenemos dos posibles respuestas (no incompatibles entre sí):
 ## {transition=none}
 
 ![](imagenes-atlas-8/Categorizacion01.png){.noshadow }
-
-###### @friese_using_2011 {.autor}
 
 ## {transition=none}
 
@@ -492,14 +489,16 @@ Tenemos dos posibles respuestas (no incompatibles entre sí):
 
 ![](imagenes-atlas-8/Categorizacion06.png){.noshadow}
 
+###### @friese_using_2011 {.autor}
+
 ## Ejercicio: Depurar códigos {#depurar-codigos}
 
 ![](imagenes-atlas-8/Menu-imprimir.png){.border}
 
->* Generar [Informe]{.resaltar} de todas las citas de un código
-* Generar informe de un conjunto de códigos
-* [Fusionar]{.resaltar} varios códigos
-* [Dividir]{.resaltar} un código en dos
+>* Generar [Informe]{.resaltar} de todas las citas de un código.
+* Generar informe de un conjunto de códigos.
+* [Fusionar]{.resaltar} varios códigos.
+* [Dividir]{.resaltar} un código en dos.
 
 ## Agrupar
 
@@ -509,9 +508,9 @@ Tenemos dos posibles respuestas (no incompatibles entre sí):
 
 ![](imagenes-atlas-8/Menu-codigos.png){.noshadow .border}
 
->* Crear grupos de códigos
->   - Desde el [Administrador de códigos]{.resaltar}
->   - Con el [Administrador de grupos de códigos]{.resaltar}
+>* Crear grupos de códigos.
+>   - Desde el [Administrador de códigos]{.resaltar}.
+>   - Con el [Administrador de grupos de códigos]{.resaltar}.
 
 # "Transportar" UH{.center data-background="imagenes/luggage.png"}
 
@@ -535,11 +534,12 @@ Tenemos dos posibles respuestas (no incompatibles entre sí):
 
 ## Pregunta 1a
 
-#### ¿Qué "actores" aparecen en las secciones estructurales utilizadas para captar la atención?
+#### ¿Qué "actores" aparecen en las secciones utilizadas para captar la atención (títulos...)?
 
->* Identificar secciones
-* Identificar "actores"
-* Buscar co-ocurrencias
+>* [Escribir Memo]{.resaltar}.
+* Identificar secciones.
+* Identificar "actores".
+* Buscar co-ocurrencias.
 
 ## Co-ocurrencias {#coocurrencias-0 transition=none}
 
@@ -569,93 +569,67 @@ Para llegar al resultado de la imagen, en primer lugar se ha añadido un identif
 
 #### ¿Cómo presentan esa información los diferentes diarios?
 
->* Grupos de documentos
-* Grupos inteligentes de documentos
-* [Activar filtro global]{.resaltar}
+>* Grupos de documentos.
+* [Grupos inteligentes]{.resaltar} de documentos.
+* [Activar filtro global]{.resaltar}.
 
 ![](imagenes-atlas-8/GruposDocumentos.png)
 
-## Grupos de documentos
-
-
 ## Grupos "inteligentes"
-
-![](img/working-03.png){.noshadow}
 
 |                | + Derechas | - Derechas |
 |:---------------|:----------:|:----------:|
 | Pre (15 marzo) |            |            |
 | Post           |            |            |
 
+. . .
 
-## Ejemplo
+![](imagenes-atlas-8/GruposDocumentos-ej.png){.noshadow}
 
-![](imagenes-atlas-8/GruposDocumentos-ej.png)
 
-# Estructurar {.center data-state=opacidad data-background="imagenes-cuali/hanging-files.jpg" data-background-transition=zoom}
+<!-- # Estructurar {.center data-state=opacidad data-background="imagenes-cuali/hanging-files.jpg" data-background-transition=zoom} -->
 
+#
+
+## Pregunta 2
+
+#### ¿Qué características tienen los contenidos que son citas textuales?
+
+>* Codificar todos los fragmentos entre cualquier tipo de comillas.
+* Tabla de co-coocurrencias.
+* Ver memo "co:Citas literales".
+* Y... [Codificación de grupo focal]{.resaltar}.
+
+![](imagenes-cuali/Autocodificacion-menu-8-01.png)
 
 ## Autocodificación {#autocodificacion}
 
 ![](imagenes-atlas-8/Autocodificacion.png)
 
-## Ejercicio autocodificación {#ejercicio-autocodificacion}
-
-:::::: {.columns}
-::: {.column width="75%"}
-![](imagenes-cuali/Autocodificacion-menu-8-01.png)
-:::
-::: {.column width="25%"}
-![](img/working-03.png){.noshadow}
-:::
-::::::
-
-:::::: {.columns}
-::: {.column width="75%"}
->* Autocodificar participantes
->     * Autocodificar Rajoy-LO (líder de la oposición)
->     * Autocodificar Rajoy-PR (presidente)
-:::
-::::::
-
-<!-- ## Agrupación de códigos{ #agrupacion-codigos .peque}
-
-![](img/working-03.png){.noshadow}
-
-|           |    NACIONALES     |           AUTONÓMICOS           |
-|:----------|:-----------------:|:-------------------------------:|
-| IZQUIERDA | IU<br>PCE<br>PSOE | Amaiur<br>BNG<br>ERC<br>ICV PSC |
-| DERECHA   |     PP<br>UPD     |        CC<br>CiU<br>PNV         |
-
-
->* Crear grupos de códigos
-* Crear "grupos "inteligentes"
-
--->
-
-##
-
-![Adaptado de Saldaña, 2009, p. 12](imagenes-cuali/DatoATeoria.jpg)
-
-## Ejemplo: códigos-categorías-temas {#ejemplo-c-c-t-2}
-
-![](imagenes-cuali/Graneheim-Lundaman-Figura1-es.png)
-@graneheim_qualitative_2004 [p. 108]\
-`Narrativas sobre hipoglucemia`{.figcaption}
-
-
+>* Autocodificar siguiendo las instrucciones del memo.
+* Hacer codificación de grupo focal.
 
 
 # Relaciones {.center data-background="imagenes-cuali/network.jpg" data-background-transition=zoom data-state=opacidad}
 
+## Estructura: Grupos de códigos {#estructura-grupos-codigos}
 
-<!-- ## Jerarquías de códigos {#jerarquias-codigos-1}
+![](imagenes-atlas-8/Estructura-con-grupos.png)
 
-![](imagenes-cuali/JerarquiaCodificacion.jpg) -->
+## Estructura: Relaciones entre códigos {#estructura-relaciones-codigos}
+
+![](imagenes-atlas-8/Estructura-con-relaciones.png)
 
 ## Jerarquías de códigos {#jerarquias-codigos-2}
 
 ![](imagenes-atlas-8/JerarquiasCodigos.png)
+
+## Ejercicio: Relaciones entre códigos
+
+>* Crear relaciones "es una" entre códigos.
+* Crear otros tipos de relaciones.
+* Definir un nuevo tipo de relación.
+
 
 # Vistas de red{.center data-background="imagenes-cuali/neurons.jpg" data-background-transition=zoom data-state=opacidad}
 
@@ -667,22 +641,14 @@ Para llegar al resultado de la imagen, en primer lugar se ha añadido un identif
 ## Redes temáticas {#redes-tematicas}
 ![Attride-Stirling, 2001. p. 388](imagenes-cuali/RedesTematicas.png)
 
-## Estructura: Grupos de códigos {#estructura-grupos-codigos}
-
-![](imagenes-atlas-8/Estructura-con-grupos.png)
-
-## Estructura: Relaciones entre códigos {#estructura-relaciones-codigos}
-
-![](imagenes-atlas-8/Estructura-con-relaciones.png)
-
-
-## Relaciones entre códigos {#relaciones-codigos-donacion}
+## Redes {#relaciones-codigos-donacion}
 
 ![](imagenes-atlas-8/red-donacion.png)
 
-## Relaciones entre códigos {#relaciones-codigos-iter}
+## Redes {#relaciones-codigos-iter}
 
 ![](imagenes-atlas-8/red-iter.png)
+
 
 <!--
 ##Editar Relaciones
@@ -691,39 +657,7 @@ Para llegar al resultado de la imagen, en primer lugar se ha añadido un identif
  -->
 
 
-# Herramientas de consulta{.center data-background="imagenes-cuali/query.jpg" data-background-transition=zoom data-state=opacidad}
-
-## Buscar texto
-
-![](imagenes-cuali/Buscar-8.png)
-
- <!--
-Conjunto de términos
-  : `Jorquera|Pérez-Bouza`
-
-Categoría
-  : `BNG:=Jorquera|Pérez-Bouza`
-
-Múltiples categorías
-  : `AUTONOMICO:= $AMAIUR|$BNG|$CC|$CiU`
-
-
-## GREP
-
-  |  Operador   | Función                                                                        |
-  |:-----------:|:-------------------------------------------------------------------------------|
-  | ^*término*  | Limita la expresión de búsqueda que sigue al marcador al principio de la línea |
-  | *término*$  | Limita la expresión de búsqueda precedente al final de la línea                |
-  | \<*término* | Limita la expresión de búsqueda siguiente al inicio de una palabra             |
-  | *término*\> | Limita la expresión de búsqueda precedente al inicio de una palabra            |
-  |     \\B     | Limita la expresión de búsqueda siguiente a NO incio de palabra                |
-  |      .      | Localiza cualquier carácter                                                    |
-  |     \\w     | Localiza cualquier carácter alfanumérico                                       |
-  |      *      | Localiza cualquier cantidad (o su ausencia) de la expresión precedente         |
-  |      +      | Localiza al menos una ocurrencia de la expresión precedente                    |
-
--->
-
+# Consultas {.center data-background="imagenes-cuali/query.jpg" data-background-transition=zoom data-state=opacidad}
 
 ## Consultas
 
@@ -731,7 +665,7 @@ Múltiples categorías
 
 ## Consultas: Operadores Booleanos
 
-![](imagenes-cuali/Operadores-Booleanos-8.png)
+![](imagenes-atlas-8/Operadores-Booleanos-8.png)
 
 ## Operadores Booleanos
 
@@ -739,7 +673,7 @@ Múltiples categorías
 
 ## Construcción de una consulta {#construccion-booleana-1}
 
-Todas las citas codificadas como C1 y C2 o como C1 y C3
+Todas las citas codificadas como C1 **Y** C2 **O** como C1 y C3
 
 :::::: {.columns}
 ::: {.column width="40%"}
@@ -752,7 +686,7 @@ Todas las citas codificadas como C1 y C2 o como C1 y C3
 
 ## Construcción de una consulta {#construccion-booleana-2}
 
-Todas las citas codificadas como C1 y C2 o como C1 y C3
+Todas las citas codificadas como C1 **O** C2 pero **NO** como C3
 
 :::::: {.columns}
 ::: {.column width="40%"}
@@ -765,7 +699,7 @@ Todas las citas codificadas como C1 y C2 o como C1 y C3
 
 ## Construcción de una consulta {#construccion-booleana-3}
 
-Todas las citas codificadas como C1 y C2 o como C1 y C3
+Todas las citas codificadas como C1 **O** C2 **O** como C3 **Y** C4 **Y** **NO** como C1 **Y** C3
 
 :::::: {.columns}
 ::: {.column width="40%"}
@@ -791,7 +725,7 @@ Todas las citas codificadas como C1 y C2 o como C1 y C3
 ##
 ![](imagenes-cuali/Proximidad-8.png)
 
-## Ejemplo consulta
+<!-- ## Ejemplo consulta
 
 ![](imagenes-cuali/Consulta-8-ejemplo-01.png)
 
@@ -805,8 +739,38 @@ Todas las citas codificadas como C1 y C2 o como C1 y C3
 ## Consultas: Alcance
 
 ![](imagenes-cuali/ConsultasAlcance.png)
- -->
+--> -->
 
+## Buscar texto
+
+![](imagenes-cuali/Buscar-8.png)
+
+  <!--
+ Conjunto de términos
+   : `Jorquera|Pérez-Bouza`
+
+ Categoría
+   : `BNG:=Jorquera|Pérez-Bouza`
+
+ Múltiples categorías
+   : `AUTONOMICO:= $AMAIUR|$BNG|$CC|$CiU`
+
+
+ ## GREP
+
+   |  Operador   | Función                                                                        |
+   |:-----------:|:-------------------------------------------------------------------------------|
+   | ^*término*  | Limita la expresión de búsqueda que sigue al marcador al principio de la línea |
+   | *término*$  | Limita la expresión de búsqueda precedente al final de la línea                |
+   | \<*término* | Limita la expresión de búsqueda siguiente al inicio de una palabra             |
+   | *término*\> | Limita la expresión de búsqueda precedente al inicio de una palabra            |
+   |     \\B     | Limita la expresión de búsqueda siguiente a NO incio de palabra                |
+   |      .      | Localiza cualquier carácter                                                    |
+   |     \\w     | Localiza cualquier carácter alfanumérico                                       |
+   |      *      | Localiza cualquier cantidad (o su ausencia) de la expresión precedente         |
+   |      +      | Localiza al menos una ocurrencia de la expresión precedente                    |
+
+ -->
 
 # Otras herramientas
 
