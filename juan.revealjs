@@ -69,7 +69,7 @@ $if(video)$
 <section  data-background-video=$video$ data-background-video-loop data-background-size = contain> </section>
 $endif$
 $if(title)$
-<section data-state="no-toc-progress , show-github-ribbon">
+<section data-state="no-toc-progress">
     <h1 class="title .no-toc-progress">$title$</h1>
 $if(subtitle)$
   <h4 class="subtitle">$subtitle$</h4>
@@ -84,8 +84,8 @@ $for(author)$
 $endfor$
     <h4 class="date">$date$</h4>
     <h4 class="date">$url$</h4>
-<div style="position: fixed; bottom: 0px; margin-left: 0px; width: 100%; <center><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Llicència de Creative Commons" style="border-width:0; box-shadow: none" src="img/cc-by.png" /></a></center>
-</div>
+    <div style="position: absolute; bottom: -50px; margin-left: 0px; width: 100%; <center><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Llicència de Creative Commons" style="border-width:0" src="img/cc-by.png" /></a></center>
+    </div>
 </section>
 $endif$
 $if(toc)$
@@ -117,11 +117,10 @@ $endfor$
 
         //Opciones reveal
         controls: true,
-        // Help the user learn the controls by providing hints, for example by
-        // bouncing the down arrow when they first encounter a vertical slide
         controlsTutorial: true,
+        fragments: true,
         // Flags if speaker notes should be visible to all viewers
-      	showNotes: false,
+      	dshowNotes: false,
         rollingLinks: true,
         previewLinks: false,
         progress: true,
@@ -131,7 +130,32 @@ $endfor$
 
         theme: $if(theme)$'$theme$'$else$Reveal.getQueryHash().theme$endif$, // available themes are in /css/theme
         transition: $if(transition)$'$transition$'$else$Reveal.getQueryHash().transition || 'default'$endif$, // default/cube/page/concave/zoom/linear/fade/none
+	//Opciones spotlight
+	spotlight: {
 
+			// size of the spotlight
+			size: 45,
+
+			// toggle spotlight by holding down the mouse key
+			toggleSpotlightOnMouseDown: true,
+
+			// choose the cursor when spotlight is on. Maybe "crosshair", "none"?
+			presentingCursor: "arrow",
+
+			// true: cursor is always "none" except when spotlight is on.
+			presentingCursorOnlyVisibleWhenSpotlightVisible: true,
+	},
+	keyboard: {
+			// alternative to toggleSpotlightOnMouseDown:
+			// toggle spotlight by pressing key 'c = 67'
+			67: function() { RevealSpotlight.toggleSpotlight() },
+
+			// enter/leave presentation mode by pressing key 'Windows Menu/Right' (93)
+			93: function() {
+				RevealSpotlight.togglePresentationMode();
+			},
+	},
+	//Fin spotlight
         //Opciones coursemod
         coursemod: {
         enabled: false, //enable or disable the plugin, default to false
@@ -149,13 +173,17 @@ $endfor$
                   ]
           },
 
-          //Plugin chalkboard
+
           keyboard: {
+	//Plugin chalkboard
               67: function() { RevealChalkboard.toggleNotesCanvas() },	// toggle notes canvas when 'c' is pressed
               66: function() { RevealChalkboard.toggleChalkboard() },	// toggle chalkboard when 'b' is pressed
               46: function() { RevealChalkboard.clear() },	// clear chalkboard when 'DEL' is pressed
                8: function() { RevealChalkboard.reset() },	// reset chalkboard data on current slide when 'BACKSPACE' is pressed
               68: function() { RevealChalkboard.download() },	// downlad recorded chalkboard drawing when 'd' is pressed
+	//Opciones spotlight
+	//81: function() { RevealSpotlight.toggleSpotlight() }, //// toggle spotlight by pressing key 'q'
+	//87: function() { RevealSpotlight.togglePresentationMode() }, // enter/leave presentation mode by pressing key 'w' 'Windows Menu/Right' (93)
           },
           // fin chalckboard...
           // Inicio anything
@@ -197,6 +225,7 @@ $endfor$
           // fin anything
           // Optional libraries used to extend on reveal.js
         dependencies: [
+	  //{ src: '$revealjs-url$/plugin/spotlight/spotlight.js' }, //https://github.com/denniskniep/reveal.js-plugin-spotlight
           { src: '$revealjs-url$/plugin/coursemod/coursemod.js', async: true},
           { src: '$revealjs-url$/plugin/anything/anything.js' },
           { src: '$revealjs-url$/lib/js/classList.js', condition: function() { return !document.body.classList; } },
@@ -216,15 +245,12 @@ $endfor$
           });
 
     </script>
-    <div class="ribbon">
-    <a  href="https://github.com/jmunoz298/presentaciones"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/365986a132ccd6a44c23a9169022c0b5c890c387/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f7265645f6161303030302e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png"></a>
-    </div>
-<!--
-<div style="position: absolute; bottom: 0px; margin-left: 0px; width: 100%; background-color:#fff; padding: 20px;
-    filter:alpha(opacity=5); opacity:0.5; border-color:#000000;"><center><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Llicència de Creative Commons" style="border-width:0" src="img/cc-by.png" /></a>$for(author)$ $author.name$ $endfor$ $mitema$| $title$$if(tema)$ - <b>$tema$$else$$endif$</b></center>
+    /*<div class="ribbon">
+     <a  href="https://github.com/jmunoz298/presentaciones"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/365986a132ccd6a44c23a9169022c0b5c890c387/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f7265645f6161303030302e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png"></a>
 
-</div>
--->
+    <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Llicència de Creative Commons" style="position: absolute; left: 500px; bottom: 125px; border: 0;" src="img/cc-by.png"></a></center>    </div>
+    </div>*/
+
 
   </body>
 </html>

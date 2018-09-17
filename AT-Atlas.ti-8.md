@@ -15,19 +15,19 @@ lateral-menu: 'True'
 
 ## CAQDAS
 
->Programas para el análisis cualitativo de datos [ASISTIDO]{.fosforito} por ordenador
+>Programas para el análisis cualitativo de datos [ASISTIDO]{.fosforito} por ordenador.
 
 . . .
 
-**Unos enlaces**
+**Unos enlaces:**
 
-[CAQDAS Networking Project](http://www.surrey.ac.uk/sociology/research/researchcentres/caqdas/)
+[CAQDAS Networking Project](http://www.surrey.ac.uk/sociology/research/researchcentres/caqdas/ "CAQDAS Networking Project")
 
-[Online QDA](http://onlineqda.hud.ac.uk/)
+[Online QDA](http://onlineqda.hud.ac.uk/ "Online QDA")
 
-[Text Analysis Info – QDA Software](http://www.textanalysis.info/)
+[Text Analysis Info – QDA Software](http://www.textanalysis.info/ "Text Analysis Info – QDA Software")
 
-[UK Data Archive](http://www.data-archive.ac.uk/)
+[UK Data Archive](http://www.data-archive.ac.uk/ "UK Data Archive")
 
 ## Una advertencia
 >Recuerde siempre que un ordenador es sólo una máquina, [no pensará por usted]{.fosforito}, y puede incluso dificultarle progresar con su análisis. No olvide apagar el ordenador de vez en cuando. Lleve sus datos, resultados de búsquedas, esquemas de codificación, etc, a un lugar tranquilo, y luego [léalos y piense en ellos]{.fosforito}. Dé un largo paseo y despeje su mente. Será entonces cuando probablemente obtenga las mejores ideas.\
@@ -86,20 +86,7 @@ Shinzō Abe
 
 ## ¿Realidad? {#realidad}
 
-:::::: {.columns}
-::: {.column width="50%"}
-![](imagenes-cuali/merkel-trump-trump.jpg){width="375px" .noshadow}
-:::
-::: {.column width="50%"}
-![](imagenes-cuali/merkel-trump-trudeau.jpg){width="375px" .noshadow}
-:::
-::: {.column width="50%"}
-![](imagenes-cuali/merkel-trump-macron.jpg){ width="375px" .noshadow}
-:::
-::: {.column width="50%"}
-![](imagenes-cuali/merkel-trump-abe.jpg){ width="375px" .noshadow}
-:::
-::::::
+![](imagenes-cuali/merkel-trump-otros.jpg){.noshadow}
 
 <!-- <video width="850"   controls>
  <source src="imagenes-cuali/TheCodes.mp4">
@@ -108,7 +95,6 @@ Shinzō Abe
 `The Codes of Gender`{.figcaption}
 
 `https://www.youtube.com/watch?v=Zxxvr0ex8MI`{.figcaption} -->
-
 
 ## Temas
 > Un tema capta algo importante sobre los datos en relación con la pregunta de investigación, y representa un cierto nivel de pauta de respuesta o significado en el conjunto de los datos.\
@@ -135,7 +121,7 @@ En este esquema podemos ver cómo, el proceso de análisis temático implica una
 
 ![Adaptado de @seidel_qualitative_1998 [p. 2]](imagenes-cuali/Seidel-NCT.png)
 
-## Fases del análisis {#fases-analisis}
+<!-- ## Fases del análisis {#fases-analisis}
 
 >0. Gestión de datos
 1. Familiarizarse con los datos
@@ -145,7 +131,7 @@ En este esquema podemos ver cómo, el proceso de análisis temático implica una
 5. Definir y etiquetar temas
 6. Producir informe
 
-###### @braun_using_2006 [p. 87]{.autor}
+###### @braun_using_2006 [p. 87]{.autor} -->
 
 ## Fases del análisis (Atlas.ti) {#fases-analisis-atlas}
 ![](imagenes-cuali/proceso.png){.noshadow}
@@ -186,10 +172,10 @@ F4:
 [http://www.audiotranskription.de/english](http://www.audiotranskription.de/english)
 
 
-## Pero...
+<!-- ## Pero...
 <iframe width="800" height="400" data-src="http://swiftscribe.ai"></iframe>
 
-[http://swiftscribe.ai/](http://swiftscribe.ai/)
+[http://swiftscribe.ai/](http://swiftscribe.ai/) -->
 
 ## Convenciones
 >En una conversación [lo más significativo es lo que no se dice entre lo que se está diciendo]{.fosforito}, como por ejemplo las pausas y silencios, las entonaciones y los gestos, porque ahí radican los dobles significados, los ánimos y el objetivo mismo de la comunicación.\
@@ -325,7 +311,7 @@ Descargar y descomprimir [https://bit.ly/2tboqvO]{.fosforito}
 
 ## Memoing = Reflexionar sobre...
 
-* Relación con participantes y/o fenómeno
+>* Relación con participantes y/o fenómeno
 * Preguntas de investigación
 * Elección de códigos y sus definiciones
 * Categorías, temas y conceptos emergentes
@@ -334,8 +320,6 @@ Descargar y descomprimir [https://bit.ly/2tboqvO]{.fosforito}
 * Problemas de cualquier tipo de nuestra investigación
 * Problemas o dilemas éticos
 * Informe final
-
-. . .
 
 ###### @saldana_coding_2009 [pp. 34-40]{.autor}
 
@@ -450,7 +434,7 @@ Tenemos dos posibles respuestas (no incompatibles entre sí):
 
 ![](imagenes-atlas-8/ejercicio-codificacion.png){.noshadow  .border}
 
->* Crear códigos libres con [Nuevas entidades]{.resaltar} (y comentarios de códigos.
+>* Crear códigos libres con [Nuevas entidades]{.resaltar} (y comentarios de códigos).
 * Relacionar códigos libres con citas existentes utilizando el [Navegador de códigos]{.resaltar}.
 * Utilizar la opción de [Codificación abierta]{.resaltar}.
 * Desvincular código de cita.
@@ -778,6 +762,8 @@ Todas las citas codificadas como C1 **O** C2 **O** como C3 **Y** C4 **Y** **NO**
 # Referencias{.center data-background="imagenes-cuali/books.jpg" data-background-transition=zoom data-state=opacidad}
 
 ## {.scrollable .peque}
+
+
 
 
 <!--
