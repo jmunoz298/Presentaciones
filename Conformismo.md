@@ -15,10 +15,8 @@ lateral-menu: 'True'
 
 ::: nonincremental
 * Introducción
-* Normalización
-     * Influencia informacional
-* Conformismo
-     * Influencia normativa
+* Influencia informacional
+* Influencia normativa
 * Influencia informacional referente
 :::
 
@@ -43,19 +41,18 @@ lateral-menu: 'True'
 @stangor_social_2004 [p. 75]
 
 
-## Tipos de influencia {#tipos-influencia}
-
-Normalización
-:   Proceso de evitación del conflicto dentro del grupo mediante compromisos mutuos y convergencia gradual hacia los puntos de vista de los demás
-Conformismo
-:   Resolución del conflicto mediante el movimiento de los desviados hacia las posiciones de la mayoría
-Innovación
-:   Creación de conflicto dentro del grupo por una minoría de sus miembros y resolución mediante el movimiento de la mayoría hacia la minoría
-
-@moscovici_social_1985
 
 
-# Normalización { .center}
+# Influencia informacional { .center}
+
+## Influencia informacional {#influencia-informacional}
+
+>Una influencia social informacional puede definirse como una influencia para aceptar la información obtenida de otros como evidencia sobre la realidad.\
+@deutsch_study_1955 [p. 629]
+
+## Esquema influencia informacional {#esquema-influencia-informacional}
+![](imagenes-conformismo/InfluenciaInformativa.jpg)
+
 
 ## Normalización {#normalizacion data-background="imagenes-conformismo/Cebras.jpg" data-background-transition=zoom data-state=fondo}
 
@@ -74,8 +71,7 @@ Innovación
 
 :::::: {.columns}
 ::: {.column width="50%"}
-![Estimaciones individualmente](imagenes-conformismo/EfectoAutocinetico-1.svg)
-
+![Estimaciones individualmente](imagenes-conformismo/EfectoAutocinetico-1.png)
 :::
 ::: {.column width="50%"}
 ![Estimaciones en grupo](imagenes-conformismo/EfectoAutocinetico-2.png)
@@ -85,19 +81,7 @@ Innovación
 
 . . .
 
-![Estimaciones individualmente](imagenes-conformismo/EfectoAutocinetico-3.svg)
-
-## Normalización {#normalizacion-2}
-
-<object id="svg1"  data="imagenes-conformismo/Normalizacion.svg" type="image/svg+xml"></object>
-
-Desplazamiento en dirección de una posición intermedia
-
-## Influencia informacional {#influencia-informacional}
-
->Una influencia social informacional puede definirse como una influencia para aceptar la información obtenida de otros como evidencia sobre la realidad.\
-@deutsch_study_1955 [p. 629]
-
+![Estimaciones individualmente](imagenes-conformismo/EfectoAutocinetico-3.png)
 
 ## Dificultad y relevancia de la tarea {#dificultad-tarea}
 
@@ -108,19 +92,6 @@ Desplazamiento en dirección de una posición intermedia
 ## Baron et al. (1996) {#baron}
 
 ![Número medio de ensayos en los que hay conformismo](imagenes-conformismo/Baron-Vandello-Brunsman.jpg)
-
-## Esquema influencia informacional {#esquema-influencia-informacional}
-![](imagenes-conformismo/InfluenciaInformativa.jpg)
-
-<!-- ##
-
-<div data-svg-fragment="imagenes-conformismo/influencia-informativa.svg#[*|label=capa1]" class="svg">
-  <a class="fragment" title="[*|label=capa2]"></a>
-  <a class="fragment" title="[*|label=capa3]"></a>
-  <a class="fragment" title="[*|label=capa4]"></a>
-  <a class="fragment" title="[*|label=capa5]"></a>
-</div> -->
-
 
 ## Teorías relacionadas: Comparación social {#teorias-comparacion-social}
 
@@ -146,16 +117,18 @@ Desplazamiento en dirección de una posición intermedia
 :::
 ::::::
 
-## Ignorancia Pluralista {#ignorancia-pluralista}
+# Influencia normativa { .center}
 
-<video width="860" class="stretch" controls>
-  <source src="imagenes-conformismo/TheSmokeFilledRoomStudy.mp4" type="video/mp4">
-</video>
+## Influencia normativa
 
-[The smoke filled room]{.figcaption}
-<https://www.youtube.com/watch?v=vLZrBTqWLv8>
+>[Deutsh y Gerard] Entienden por influencia normativa la que se observa cuando el individuo se conforma con las expectativas positivas del otro (individuo o grupo), a fin de ganar de él una serie de refuerzos y sentimientos positivos, de establecer una solidaridad con él, y en definitiva no verse marginado y ridiculizado por él.\
+@perez_influencia_1999 [p. 261]
 
-# Conformismo { .center}
+
+<!-- ##
+
+>Es una forma de influencia en la que se ejerce presión para hacer que alguien se conforme a las expectativas y preferencias de los demás. Las expectativas y preferencias de los otros funcionan como norma de grupo de referencia que expresa cómo deben comportarse o qué decisión deben tomar las personas.\
+@kaplan_normative_2010 [p. 606] -->
 
 ## Conformismo
 
@@ -175,11 +148,11 @@ Desplazamiento en dirección de una posición intermedia
 
 . . .
 
-[![](imagenes-conformismo/Asch-1.svg)]{.noborder}
+[![](imagenes-conformismo/Asch-1.png)]{.noborder}
 
 ## El experimento de Asch {data-background="imagenes-conformismo/Asch-conformity.jpg" data-background-transition=zoom data-state=fondo}
 
-![](imagenes-conformismo/Asch-2.svg)
+![](imagenes-conformismo/Asch-2.png)
 
 ## Resultados
 
@@ -187,14 +160,6 @@ Desplazamiento en dirección de una posición intermedia
 - Personas que nunca ceden: 24%
 - Personas que siempre ceden: 5%
 - Personas que ceden entre 8 y 12 veces: 27%
-
-## Conformismo
-
-<object id="svg1"  data="imagenes-conformismo/Conformismo.svg" type="image/svg+xml"></object>
-
-[Desplazamiento en la dirección de la posición mayoritaria]{.figcaption}
-
-
 
 ## Diferencias de sexo
 ![](imagenes-conformismo/Mori-Arai.png)\
@@ -230,59 +195,21 @@ Desplazamiento en dirección de una posición intermedia
 ######@milgram_note_1969
 -->
 
-<!--
+<!--##Tamaño de la mayoría
 
-##Tamaño de la mayoría
+<object id="svg1"  data="imagenes-conformismo/TamañoMayoria.svg" type="image/svg+xml"></object> -->
 
-<object id="svg1"  data="imagenes-conformismo/TamañoMayoria.svg" type="image/svg+xml"></object>
 
-<!--
-<div data-svg-fragment="imagenes-conformismo/TamañoMayoria.svg#[*|label=base]" class="svg">
-  <a class="fragment" title="[*|label=segundo]"></a>
-  <a class="fragment" title="[*|label=circulos]"></a>
-</div>
--->
-
-## Influencia normativa
-
->[Deutsh y Gerard] Entienden por influencia normativa la que se observa cuando el individuo se conforma con las expectativas positivas del otro (individuo o grupo), a fin de ganar de él una serie de refuerzos y sentimientos positivos, de establecer una solidaridad con él, y en definitiva no verse marginado y ridiculizado por él.\
-@perez_influencia_1999 [p. 261]
-
-## Influencia normativa
-
-![](imagenes-conformismo/InfluenciaNormativa.jpg)
-
-<!--
-<div data-svg-fragment="imagenes-conformismo/influencia-normativa.svg#[*|label=capa1]" class="svg">
-  <a class="fragment" title="[*|label=capa2]"></a>
-  <a class="fragment" title="[*|label=capa3]"></a>
-  <a class="fragment" title="[*|label=capa4]"></a>
-</div>
--->
-
-<!--
-
-##
-
->Es una forma de influencia en la que se ejerce presión para hacer que alguien se conforme a las expectativas y preferencias de los demás. Las expectativas y preferencias de los otros funcionan como norma de grupo de referencia que expresa cómo deben comportarse o qué decisión deben tomar las personas.\
-@kaplan_normative_2010 [p. 606]
-
--->
-
-<!--
-##Conformismo: Factores
+<!--##Conformismo: Factores
 
 * Contexto histórico y cultural
 * Unanimidad
-* Anonimato
--->
+* Anonimato-->
 
-<!--
-##Normas en el "Bennington College" {data-background="imagenes-conformismo/Bennington.jpg" data-background-transition=zoom data-state=fondo}
+<!--##Normas en el "Bennington College" {data-background="imagenes-conformismo/Bennington.jpg" data-background-transition=zoom data-state=fondo}
 
 ![Theodore Newcomb\
-1903-1984](imagenes-conformismo/Newcomb.jpg)
--->
+1903-1984](imagenes-conformismo/Newcomb.jpg)-->
 
 ## "Miedo" a hablar
 
