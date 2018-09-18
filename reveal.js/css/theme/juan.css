@@ -300,6 +300,10 @@ background-color:  #d0dafd;
   box-shadow: none;
   border: 0 0 0px;}
 
+.reveal .noborder {
+  border: 0px;
+}
+
 html.laback .reveal section img {
   border: none;
   -webkit-box-shadow: none;

@@ -71,17 +71,17 @@ lateral-menu: 'True'
 
 :::::: {.columns}
 ::: {.column width="50%"}
-![Estimaciones individualmente](imagenes-conformismo/EfectoAutocinetico-1.png)
+![](imagenes-conformismo/EfectoAutocinetico-1.png){.noshadow .noborder}
 :::
 ::: {.column width="50%"}
-![Estimaciones en grupo](imagenes-conformismo/EfectoAutocinetico-2.png)
+![](imagenes-conformismo/EfectoAutocinetico-2.png){.noshadow .noborder}
 :::
 ::::::
 
 
 . . .
 
-![Estimaciones individualmente](imagenes-conformismo/EfectoAutocinetico-3.png)
+![](imagenes-conformismo/EfectoAutocinetico-3.png){.noshadow .noborder}
 
 ## Dificultad y relevancia de la tarea {#dificultad-tarea}
 
@@ -105,6 +105,7 @@ lateral-menu: 'True'
 :::
 ::::::
 
+
 ## Teorías relacionadas: Ignorancia pluralista {#teorias-ignorancia-pluralista}
 
 :::::: {.columns}
@@ -124,6 +125,9 @@ lateral-menu: 'True'
 >[Deutsh y Gerard] Entienden por influencia normativa la que se observa cuando el individuo se conforma con las expectativas positivas del otro (individuo o grupo), a fin de ganar de él una serie de refuerzos y sentimientos positivos, de establecer una solidaridad con él, y en definitiva no verse marginado y ridiculizado por él.\
 @perez_influencia_1999 [p. 261]
 
+## Esquema influencia normativa
+
+![](imagenes-conformismo/InfluenciaNormativa.jpg)
 
 <!-- ##
 
@@ -148,11 +152,11 @@ lateral-menu: 'True'
 
 . . .
 
-[![](imagenes-conformismo/Asch-1.png)]{.noborder}
+![](imagenes-conformismo/Asch-1.png){.noshadow}
 
 ## El experimento de Asch {data-background="imagenes-conformismo/Asch-conformity.jpg" data-background-transition=zoom data-state=fondo}
 
-![](imagenes-conformismo/Asch-2.png)
+![](imagenes-conformismo/Asch-2.png){.noshadow}
 
 ## Resultados
 
