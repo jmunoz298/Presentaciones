@@ -18,18 +18,18 @@ Archivos fuente en: [https://github.com/jmunoz298/Presentaciones](https://github
 Influencia social y grupos
 --------------------------
 
-- Conformismo (Septiembre 2017) ([HTML](Conformismo.html) | [PDF](Conformismo.pdf))
+- Conformismo (Septiembre 2018) ([HTML](Conformismo.html) | [PDF](Conformismo.pdf))
 - Obediencia (Septiembre 2017) ([HTML](Obediencia.html) | [PDF](Obediencia.pdf))
 - Desobediencia (Octubre 2017) ([HTML](Desobediencia.html) | [PDF](Desobediencia.pdf))
 
-Dinámicas
+<!-- Dinámicas
 ---------
 
 - Autopresentación (noviembre 2017) ([HTML](GestionImpresiones.html) | [PDF](GestionImpresiones.pdf))
 - Liderazgo (noviembre 2017) ([HTML](Liderazgo.html) | [PDF](Lideerazgo.pdf))
 - Decisiones (noviembre 2017) ([HTML](Decisiones.html) | [PDF](Decisiones.pdf))
 - Redes comunicación (diciembre 2017) ([HTML](RedesComunicacion.html) | [PDF](RedesComunicacion.pdf))
-- Conflicto (diciembre 2017) ([HTML](Conflicto.html) | [PDF](Conflicto.pdf))
+- Conflicto (diciembre 2017) ([HTML](Conflicto.html) | [PDF](Conflicto.pdf)) -->
 
 Acción Pública y cambio social
 ------------------------------
