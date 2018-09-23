@@ -105,7 +105,6 @@ lateral-menu: 'True'
 :::
 ::::::
 
-
 ## Teorías relacionadas: Ignorancia pluralista {#teorias-ignorancia-pluralista}
 
 :::::: {.columns}
@@ -165,7 +164,7 @@ lateral-menu: 'True'
 - Personas que siempre ceden: 5%
 - Personas que ceden entre 8 y 12 veces: 27%
 
-## Diferencias de sexo
+## Diferencias mujeres - hombres
 ![](imagenes-conformismo/Mori-Arai.png)\
 @mori_no_2010
 
