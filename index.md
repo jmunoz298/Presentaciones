@@ -19,7 +19,7 @@ Influencia social y grupos
 --------------------------
 
 - Conformismo (Septiembre 2018) ([HTML](Conformismo.html) | [PDF](Conformismo.pdf))
-- Obediencia (Septiembre 2017) ([HTML](Obediencia.html) | [PDF](Obediencia.pdf))
+- Obediencia (Septiembre 2018) ([HTML](Obediencia.html) | [PDF](Obediencia.pdf))
 - Desobediencia (Octubre 2017) ([HTML](Desobediencia.html) | [PDF](Desobediencia.pdf))
 
 <!-- Dinámicas
