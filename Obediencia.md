@@ -10,7 +10,16 @@ csl: apa.csl
 lateral-menu: 'True'
 ...
 
-##Índice
+
+## El "inspector" Milgram {#inspector-milgram}
+
+<video class="stretch" controls><source src="multimedia/LeyYOrden.mp4"></video>
+
+`Authority - Law & Order: Special Victims Unit (Temporada 9, episodio 17)`{.figcaption}
+
+##### [https://en.wikipedia.org/wiki/Authority_(Law_%26_Order:_Special_Victims_Unit)](https://en.wikipedia.org/wiki/Authority_(Law_%26_Order:_Special_Victims_Unit)) {.peque}
+
+## Índice
 
 >* Introducción
 * La banalidad del mal
@@ -23,7 +32,7 @@ lateral-menu: 'True'
 [The obedience song](https://www.youtube.com/watch?v=KKMSg_8aMoo)\
 `https://www.youtube.com/watch?v=KKMSg_8aMoo`{.peque}
 
-#Introducción { .center}
+# Introducción { .center}
 
 ## Obediencia {data-background="imagenes-isg/abraham-sacrifice-caravaggio.jpg" data-background-transition=zoom data-state=fondo}
 
@@ -32,7 +41,7 @@ lateral-menu: 'True'
 > (...) deberíamos saber que el instinto de sumisión, un ardiente deseo de obedecer y de ser dominado por un hombre fuerte, es por lo menos tan prominente en la psicología humana como el deseo de poder, y, políticamente, resulta quizá más relevante.\
 @arendt_sobre_1969 [p. 54]
 
-##Holocausto{data-background="imagenes-isg/abraham-sacrifice-caravaggio.jpg"   data-background-transition=zoom data-state=fondo}
+## Holocausto{data-background="imagenes-isg/abraham-sacrifice-caravaggio.jpg"   data-background-transition=zoom data-state=fondo}
 
 <div id="column1" style="float:left; margin:0; width:50%;">
 
@@ -46,7 +55,7 @@ lateral-menu: 'True'
 
 </div>
 
-##Otras matanzas{data-background="imagenes-isg/abraham-sacrifice-caravaggio.jpg"   data-background-transition=zoom data-state=fondo}
+## Otras matanzas{data-background="imagenes-isg/abraham-sacrifice-caravaggio.jpg"   data-background-transition=zoom data-state=fondo}
 
 <div id="column1" style="float:left; margin:0; width:50%;">
 
@@ -70,7 +79,7 @@ lateral-menu: 'True'
 
 </div>
 
-##Abu Ghraib (Irak, 2004) {data-background="imagenes-isg/abraham-sacrifice-caravaggio.jpg"   data-background-transition=zoom data-state=fondo}
+## Abu Ghraib (Irak, 2004) {data-background="imagenes-isg/abraham-sacrifice-caravaggio.jpg"   data-background-transition=zoom data-state=fondo}
 
 <div id="column1" style="float:left; margin:0; width:50%;">
 
@@ -96,16 +105,16 @@ lateral-menu: 'True'
 
 </div>
 
-#La banalidad del mal { .center}
+# La banalidad del mal { .center}
 
-##Disposicional vs. situacional
+## Disposicional vs. situacional
 
 > No pocas veces no es tanto el tipo de persona que es un hombre en concreto, cuanto más bien el tipo de situación en la que se encuentra, el que determina cómo va a actuar.\
 @milgram_obediencia_1974 [p. 194]
 
 
 
-##La prisión de Stanford
+## La prisión de Stanford
 
 
 <div id="column1" style="float:left; margin:0; width:33%;">
@@ -129,6 +138,8 @@ lateral-menu: 'True'
 
 ## Batallón 101 {data-background="imagenes-isg/Batallon101.jpg"   data-background-transition=zoom data-state=fondo}
 
+. . .
+
 <div id="column2" style="float:left; margin-top:150px; width:50%;">
 
 ![Adolf Eichmann (1906-1962)](imagenes-isg/AdolfEichmann.jpg)
@@ -146,7 +157,7 @@ lateral-menu: 'True'
 
 </div>
 
-#Stanley Milgram { .center}
+# Stanley Milgram { .center}
 
 ## El experimento {data-background="imagenes-isg/Milgram-maquina.jpg"   data-background-transition=zoom data-state=fondo}
 
@@ -198,33 +209,33 @@ lateral-menu: 'True'
 -->
 
 
-##Resultados: Niveles de obediencia {#resultados}
+## Resultados: Niveles de obediencia {#resultados}
 
 ![Resultados: Niveles de obediencia por diseño](imagenes-isg/Milgram-NivelesObediencia.jpg)
 
 # La explicación de Milgram { .center}
 
-##Explicación: El _Estado Agéntico_ {#explicacion}
+## Explicación: El _Estado Agéntico_ {#explicacion}
 
 >“[el estado agéntico es] la condición en que se encuentra una persona cuando se considera a sí misma como un agente que ejecuta los deseos de otra persona. Este término será empleado en oposición al de autonomía, es decir, cuando una persona se considera a sí misma como actuando por propia iniciativa."\
 @milgram_obediencia_1974 [p. 127]
 
-##El proceso de la obediencia
+## El proceso de la obediencia
 
 ![](imagenes-isg/ProcesoObediencia-1.jpg)
 
 
-##Legitimidad de la autoridad
+## Legitimidad de la autoridad
 
-![@hofling_experimental_1966](imagenes-isg/Astroten.jpg)
+![](imagenes-isg/Astroten.jpg)\
+@hofling_experimental_1966
 
-
-##El proceso de la obediencia
+## El proceso de la obediencia
 
 ![El proceso de la obediencia](imagenes-isg/ProcesoObediencia-2.jpg)
 
 
-##Consecuencias
+## Consecuencias
 
 ![Consecuencias](imagenes-isg/Milgram-consecuencias.jpg)
 
@@ -235,14 +246,14 @@ B = Factores mantenedores
 s = tensión
 r = resolución de la tensión
 ```
-#Críticas { .center}
+# Críticas { .center}
 
-##Tipos de críticas
+## Tipos de críticas
 >* Ética
 * Metodológica
 * Teórica
 
-##Críticas: Ética {#critica-etica}
+## Críticas: Ética {#critica-etica}
 
 >* Daño a los participantes [>>>](#mal-participantes)
 * Engaño - Consentimiento informado
@@ -268,31 +279,29 @@ Kohlberg, 1974, p. 607
 
 -->
 
-##Metodológica
+## Metodológica {#metodologica}
 
 Validez externa [>>](#generalizacion)
-
 :    Posibilidad de que los resultados de la investigación sean generalizables más allá de la investigación en la que se han realizado (entorno, muestra...)
 
 Validez interna
-
 :    Los resultados obtenidos son debidos única y exclusivamente a las manipulaciones experimentales realizadas
 
 
-##Generalización {#generalizacion}
+## Generalización {#generalizacion}
 
 >Yo diría, sobre la base de haber observado un millar de personas en el experimento y de mi propia intuición formada e informada por estos experimentos, que si se instalara en los Estados Unidos un sistema de campos de exterminio, del tipo de los que hemos visto en la Alemania Nazi, seriamos capaces de encontrar suficiente personal para esos campos en cualquier ciudad Americana de tamaño medio.\
 [Milgram, 1979, citado por @blass_milgram_1999, pp. 955-956]
 
 
-##Críticas: Teórica {#critica-teorica}
+## Críticas: Teórica {#critica-teorica}
 
 * Obediencia a la autoridad legítima\
 vs.\ Confianza en un experto.
 * Identificación con experimentador\
 vs. identificación con alumno.
 
-##Inicio de la desobediencia
+## Inicio de la desobediencia
 
 <div id="column1" style="float:left; margin:0; width:50%;">
 
@@ -307,17 +316,9 @@ vs. identificación con alumno.
 </div>
 
 
-#¿Obediencia en el siglo XXI? { .center}
+# ¿Obediencia en el siglo XXI? { .center}
 
-## El "inspector" Milgram
-
-<video class="stretch" controls><source src="multimedia/LeyYOrden.mp4"></video>
-
-`Authority - Law & Order: Special Victims Unit (Temporada 9, episodio 17)` {.figcaption}
-
-#####[https://en.wikipedia.org/wiki/Authority_(Law_%26_Order:_Special_Victims_Unit)](https://en.wikipedia.org/wiki/Authority_(Law_%26_Order:_Special_Victims_Unit)) {.peque}
-
-##Réplicas recientes: Jerry Burger
+## Réplicas recientes: Jerry Burger {#burger}
 
 . . .
 
@@ -344,24 +345,25 @@ vs. identificación con alumno.
 
 -->
 
-##Réplicas recientes: Beauvois
+## Réplicas recientes: Beauvois {#beauvois}
 
 . . .
 
-![@beauvois_prescriptive_2012](imagenes-isg/beauvois-res-01.jpg)
+![](imagenes-isg/beauvois-res-01.jpg)\
+@beauvois_prescriptive_2012
 
-##Beauvios: ¿El final de la autoridad?
+## Beauvios: ¿El final de la autoridad? {#beauvois-fin-autoridad}
 
 >Lo que encontramos aquí en el estudio de televisión es que la obediencia sigue siendo una realidad, en un momento en que muchos autores consideran que nuestras sociedades están evolucionando hacia una mayor permisividad, hacia más poderes "negociados", e incluso hacia el final de la autoridad por completo (…) Nuestras observaciones, como las de Burger, justifican por lo menos un cierto escepticismo sobre  tesis como la del final de la autoridad.\
 @beauvois_prescriptive_2012 [p. 119]
 
 
 
-##Réplicas recientes: Immersive Digital Realism
+## Réplicas recientes: Immersive Digital Realism
 
-![@haslam_shock_2015](imagenes-isg/Haslam-Reicher-Millard-2015.jpg)
-
+![](imagenes-isg/Haslam-Reicher-Millard-2015.jpg)\
+@haslam_shock_2015
 
 # Referencias {.center}
 
-## Referencias {.scrollable}
+## Referencias {.scrollable .peque}
