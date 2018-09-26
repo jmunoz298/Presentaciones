@@ -105,17 +105,14 @@ lateral-menu: 'True'
 :::
 ::::::
 
-## Teorías relacionadas: Ignorancia pluralista {#teorias-ignorancia-pluralista}
+## Ignorancia pluralista {#teorias-ignorancia-pluralista}
 
-:::::: {.columns}
-::: {.column width="35%"}
+
 ![Bibb Latané y John Darley](imagenes-conformismo/Latane-Darley.jpg)
-:::
-::: {.column width="65%"}
->en ocasiones, la mayoría de los miembros de un grupo no están de acuerdo con una norma, creencia o modo de actuar del grupo, en su interior o de forma privada, pero cada uno de los sujetos cree –incorrectamente–, que todos o la mayoría de los miembros del grupo sí que están de acuerdo con esa norma, creencia o modo de actuar.\
-`Katz y Allport, 1931`{.autor}
-:::
-::::::
+
+. . .
+
+>en ocasiones, la mayoría de los miembros de un grupo no están de acuerdo con una norma, creencia o modo de actuar del grupo, en su interior o de forma privada, pero cada uno de los sujetos cree –incorrectamente–, que todos o la mayoría de los miembros del grupo sí que están de acuerdo con esa norma, creencia o modo de actuar. `Katz y Allport, 1931`{.autor}
 
 # Influencia normativa { .center}
 
@@ -235,6 +232,11 @@ Espiral del silencio
 
 ![Elisabeth Noelle-Neumann](imagenes-conformismo/Noelle-Neumann.jpg)
 </div>
+
+## Bandwagon effect
+
+![](imagenes-conformismo/BandwagonEffect.png)\
+@dahlgaard_how_2017
 
 <!--
 ##Relevancia de la tarea (Kundu)

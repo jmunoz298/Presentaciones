@@ -10,7 +10,7 @@ csl: apa.csl
 lateral-menu: 'True'
 ...
 
-##Índice
+## Índice
 
 >* Sesgo de conformismo
 * Reactancia
@@ -20,19 +20,19 @@ lateral-menu: 'True'
 [Bongo Kanny - Civil Disobedience](https://youtu.be/qScsUOsh6qA?t=43)\
 `https://youtu.be/qScsUOsh6qA?t=43`{.peque}
 
-#Sesgo de conformismo { .center}
+# Sesgo de conformismo { .center}
 
 ## Sesgo de conformismo
 
-![@friend_puzzling_1990\
-Representación del experimento de Asch en libros de texto de Psicología Social](imagenes-isg/Friend-Asch.png)
+![Representación del experimento de Asch en libros de texto de Psicología Social](imagenes-isg/Friend-Asch.png)\
+@friend_puzzling_1990
 
 ## Independencia y resistencia
 
 >La lucha por la independencia y la resistencia a la usurpación son aspectos tan reales de las personas como la conformidad. Por lo tanto, es indebidamente limitado enfatizar la sumisión, el descuido de los poderes no despreciables que las personas demuestran en ocasiones para actuar de acuerdo a la convicción y elevándose por encima de la pasión del grupo.\
 @asch_studies_1956 [, p. 3]
 
-#Reactancia {data-background="imagenes-isg/AdanyEva.jpg"   data-background-transition=zoom data-state=fondo .center}
+# Reactancia {data-background="imagenes-isg/AdanyEva.jpg"   data-background-transition=zoom data-state=fondo .center}
 
 <!-- Adan y Eva, Rubens -->
 
@@ -53,7 +53,7 @@ Representación del experimento de Asch en libros de texto de Psicología Social
 
 # Desobediencia {data-background="imagenes-isg/Desobediencia.png"   data-background-transition=zoom data-state=fondo .center}
 
-##La banalidad del bien
+## La banalidad del bien
 
 . . .
 
@@ -77,7 +77,7 @@ Representación del experimento de Asch en libros de texto de Psicología Social
 </div>
 
 
-##Desobediencia civil
+## Desobediencia civil
 
 
 <div id="column1" style="float:left; margin:0; width:50%;">
@@ -109,7 +109,7 @@ Representación del experimento de Asch en libros de texto de Psicología Social
 
 -->
 
-##Legitimidad
+## Legitimidad
 
 
 <!--
