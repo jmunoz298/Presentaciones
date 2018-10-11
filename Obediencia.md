@@ -174,7 +174,7 @@ lateral-menu: 'True'
 
 </div>
 
-## "Réplica" Derren Brown
+<!-- ## "Réplica" Derren Brown
 
 <video width="800"  class="stretch" controls>
 <source src="multimedia/Milgram-Experiment-Brown.mp4">
@@ -182,7 +182,7 @@ lateral-menu: 'True'
 
 `Derren Brown: The Heist, 2006`{.figcaption}
 
-###### <http://www.youtube.com/watch?v=iUFN1eX2s6Q>
+###### <http://www.youtube.com/watch?v=iUFN1eX2s6Q> -->
 
 <!--
 
@@ -213,14 +213,14 @@ lateral-menu: 'True'
 
 ![Resultados: Niveles de obediencia por diseño](imagenes-isg/Milgram-NivelesObediencia.jpg)
 
-# La explicación de Milgram { .center}
+<!-- # La explicación de Milgram { .center} -->
 
 ## Explicación: El _Estado Agéntico_ {#explicacion}
 
->“[el estado agéntico es] la condición en que se encuentra una persona cuando se considera a sí misma como un agente que ejecuta los deseos de otra persona. Este término será empleado en oposición al de autonomía, es decir, cuando una persona se considera a sí misma como actuando por propia iniciativa."\
+>“[el estado agéntico es] la condición en que se encuentra una persona cuando se considera a sí misma como un [agente]{.fosforito} que ejecuta los deseos de otra persona. Este término será empleado en oposición al de [autonomía]{.fosforito}, es decir, cuando una persona se considera a sí misma como actuando por propia iniciativa."\
 @milgram_obediencia_1974 [p. 127]
 
-## El proceso de la obediencia
+<!-- ## El proceso de la obediencia
 
 ![](imagenes-isg/ProcesoObediencia-1.jpg)
 
@@ -228,14 +228,14 @@ lateral-menu: 'True'
 ## Legitimidad de la autoridad
 
 ![](imagenes-isg/Astroten.jpg)\
-@hofling_experimental_1966
+@hofling_experimental_1966 -->
 
 ## El proceso de la obediencia
 
 ![El proceso de la obediencia](imagenes-isg/ProcesoObediencia-2.jpg)
 
 
-## Consecuencias
+<!-- ## Consecuencias
 
 ![Consecuencias](imagenes-isg/Milgram-consecuencias.jpg)
 
@@ -245,29 +245,60 @@ D = Desobediencia
 B = Factores mantenedores
 s = tensión
 r = resolución de la tensión
-```
+``` -->
+
 # Críticas { .center}
 
-## Tipos de críticas
->* Ética
-* Metodológica
-* Teórica
+## Tipos de críticas {#tipos-criticas}
 
-## Críticas: Ética {#critica-etica}
+::: nonincremental
+* Ética
+   * Daño participantes
+   * Engaño - Consentimiento informado
+   * Derecho a retirarse
+   * Debriefing
+* Metodológica
+  - Validez interna
+  - Validez externa
+* Teórica
+:::
+
+<!-- ## Críticas: Ética {#critica-etica}
 
 >* Daño a los participantes [>>>](#mal-participantes)
 * Engaño - Consentimiento informado
 * Derecho a retirarse
-* Debriefing
+* Debriefing -->
 
 ## Daño a los participantes {#mal-participantes}
 
->Por desgracia, el sujeto no siempre es tratado con el respeto que se merece. Se ha convertido en algo común en los estudios de laboratorio sociopsicológicos manipular, avergonzar e incomodar a los sujetos. A veces, el insulto a la sensibilidad de los sujetos se extiende al lector de la revista cuando se presentan los resultados. El estudio de Milgram (1963) es un ejemplo de ello.\
-@baumrind_thoughts_1964 [p. 422]
+
+>[Un observador relató:] Observé un hombre de negocios maduro e inicialmente equilibrado entrar en el laboratorio sonriente y confiado. [A los 20 minutos se vio reducido a una ruina tartamudeante, que se acercaba rápidamente a un punto de colapso nervioso]{.fosforito}. Constantemente se estiraba el lóbulo de la oreja, y se retorcía las manos. En un momento, puso su puño en la frente y murmuró: "Oh, Dios, vamos a parar". Y sin embargo, siguió respondiendo a cada palabra del experimentador, y obedeció hasta el final.\
+@milgram_obediencia_1974  [p. 377]
+
+
+<!-- >Por desgracia, el sujeto no siempre es tratado con el respeto que se merece. Se ha convertido en algo común en los estudios de laboratorio sociopsicológicos manipular, avergonzar e incomodar a los sujetos. A veces, el insulto a la sensibilidad de los sujetos se extiende al lector de la revista cuando se presentan los resultados. El estudio de Milgram (1963) es un ejemplo de ello.\
+@baumrind_thoughts_1964 [p. 422] -->
+
+## Engaño {#enganyo}
+
+>El observador usó un prisma periscópico incrustado en una pila de libros tirados en el suelo del retrete. Un espacio de 11 pulgadas (28 cm.) entre el suelo  y la pared del retrete proporcionó una vista, a través del periscopio, de la parte inferior del torso del usuario y posibilitó observaciones visuales directas del chorro de orina. (p. 544)\
+
+#### Middlemist, R. D., Knowles, E. S., & Matter, C. F. (1976). Personal space invasions in the lavatory: Suggestive evidence for arousal. _Journal of Personality and Social Psychology_, _33_(5), 541-546.{.autor}
+
+## Debriefing
+
+Sujeto 711: “El experimento me produjo tal efecto que pasé toda la noche con sudores fríos y pesadillas por el miedo de haber podido matar al hombre allí sentado.”
+
+Sujeto 829: “Estuve considerablemente afectado durante unos días después del experimento. Me habría ayudado si me hubieran dicho la verdad justo después.”
+
+Sujeto 623: "Cuestiono seriamente la sensatez y la ética de no desengañar a cada sujeto inmediatamente después de la sesión..... Permitir que los sujetos permanezcan engañados no está justificado, en mi opinión, incluso si se considerara necesario continuar el engaño' para evitar la contaminación'"
+
+<!-- (Perry, 2013). -->
 
 <!--
 
-# Otras posibles citas de crítica a la ética
+## Otras posibles citas de crítica a la ética
 
 >Lo detesto, como detesto los experimentos de Zimbardo. Estos experimentos son tan viles, la intención con la que se han planificado es tan vil, que nada en ellos presenta ningún valor. . . Están en la línea de los experimentos con humanos de los nazis .. . . Habiendo sido una de las personas con las que experimentaron, no puedo ver ningún mérito en estos experimentos. Milgram y Zimbardo los realizaron para promover su propio progreso profesional.
 
@@ -293,6 +324,7 @@ Validez interna
 >Yo diría, sobre la base de haber observado un millar de personas en el experimento y de mi propia intuición formada e informada por estos experimentos, que si se instalara en los Estados Unidos un sistema de campos de exterminio, del tipo de los que hemos visto en la Alemania Nazi, seriamos capaces de encontrar suficiente personal para esos campos en cualquier ciudad Americana de tamaño medio.\
 [Milgram, 1979, citado por @blass_milgram_1999, pp. 955-956]
 
+[<<](#resultados)
 
 ## Críticas: Teórica {#critica-teorica}
 

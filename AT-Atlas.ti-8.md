@@ -171,11 +171,40 @@ Soundscriber:
 F4:
 [http://www.audiotranskription.de/english](http://www.audiotranskription.de/english)
 
+##
+
+<iframe  height="600" width="1200" data-src="https://otranscribe.com/"></iframe>
+
+https://otranscribe.com/
+
+##
+
+<iframe  height="600" width="1200" data-src="https://dictation.io/speech"></iframe>
+
+https://dictation.io/speech
 
 <!-- ## Pero...
 <iframe width="800" height="400" data-src="http://swiftscribe.ai"></iframe>
 
 [http://swiftscribe.ai/](http://swiftscribe.ai/) -->
+
+## Transcripción y ¿realidad? {#transcripcion-realidad}
+
+>Cualquier persona que transcriba o trabaje con transcripciones debería ser consciente de que [una transcripción nunca podrá representar una situación de entrevista en su totalidad]{.fosforito}. En la comunicación intervienen demasiados elementos y es imposible transcribirlos todos. Incluso una transcripción fonética ignora aspectos no verbales como el olor, configuración de espacio y tiempo, aspectos visuales, expresiones faciales y gestos.\
+@dresing_manual_2015 [p. 22]
+
+
+## ¿Realidad? {#realidad}
+
+![](imagenes-cuali/merkel-trump-otros.jpg){.noshadow}
+
+<!-- <video width="850"   controls>
+ <source src="imagenes-cuali/TheCodes.mp4">
+</video>
+
+`The Codes of Gender`{.figcaption}
+
+`https://www.youtube.com/watch?v=Zxxvr0ex8MI`{.figcaption} -->
 
 ## Convenciones
 >En una conversación [lo más significativo es lo que no se dice entre lo que se está diciendo]{.fosforito}, como por ejemplo las pausas y silencios, las entonaciones y los gestos, porque ahí radican los dobles significados, los ánimos y el objetivo mismo de la comunicación.\
@@ -208,6 +237,20 @@ Ver: [UK · Data Archive: Create & Manage Data](http://www.data-archive.ac.uk/cr
 >Una buena gestión de los datos es la base para una buena investigación. Si los datos están debidamente organizados, preservados y bien documentados, y su exactitud, vigencia e integridad es controlada en todo momento, el resultado es de datos de alta calidad, investigación eficiente, resultados basados en pruebas sólidas y ahorro de tiempo y recursos. (...) La gestión de datos debe planificarse desde el inicio de la investigación. Si se convierte en parte de la práctica de investigación estándar, entonces no implicará necesariamente mucho tiempo ni costos adicionales.\
 @uk_data_archive_managing_2009 [p. 2]
 -->
+
+## Plan de Gestión de Datos {#plan-gestion-datos}
+
+![Plan de Gestión de Datos](imagenes-cuali/PlanDeDatos.png){.noshadow width=650}
+
+[Ver](http://rebiun.xercode.es/xmlui/bitstream/handle/20.500.11967/71/ES_IIIPE_Linea2_SubgOA_Info9_resolucionmedia_2016.jpg?sequence=8&isAllowed=y)
+
+## {#dmp-csuc}
+
+![](imagenes-cuali/DMP-CSUC.png)
+
+[Pla de Gestió de Dades de Recerca](https://dmp.csuc.cat/)\
+
+`https://dmp.csuc.cat`{.figcaption}
 
 <!--
 

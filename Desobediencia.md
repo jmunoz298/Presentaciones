@@ -22,10 +22,10 @@ lateral-menu: 'True'
 
 # Sesgo de conformismo { .center}
 
-## Sesgo de conformismo
+<!-- ## Sesgo de conformismo
 
 ![Representación del experimento de Asch en libros de texto de Psicología Social](imagenes-isg/Friend-Asch.png)\
-@friend_puzzling_1990
+@friend_puzzling_1990 -->
 
 ## Independencia y resistencia
 
