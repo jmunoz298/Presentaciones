@@ -84,10 +84,6 @@ Emmanuel Macron
 Shinzō Abe
 :::
 
-## ¿Realidad? {#realidad}
-
-![](imagenes-cuali/merkel-trump-otros.jpg){.noshadow}
-
 <!-- <video width="850"   controls>
  <source src="imagenes-cuali/TheCodes.mp4">
 </video>
@@ -171,7 +167,7 @@ Soundscriber:
 F4:
 [http://www.audiotranskription.de/english](http://www.audiotranskription.de/english)
 
-##
+<!-- ##
 
 <iframe  height="600" width="1200" data-src="https://otranscribe.com/"></iframe>
 
@@ -181,7 +177,7 @@ https://otranscribe.com/
 
 <iframe  height="600" width="1200" data-src="https://dictation.io/speech"></iframe>
 
-https://dictation.io/speech
+https://dictation.io/speech -->
 
 <!-- ## Pero...
 <iframe width="800" height="400" data-src="http://swiftscribe.ai"></iframe>

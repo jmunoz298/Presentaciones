@@ -8,6 +8,22 @@ url: "http:/juan.psicologiasocial.eu"
 index: false
 ...
 
+## Objetivo {#objetivo}
+
+<br><br>
+
+### Diseñar un anuncio publicitario que desacredite la publicidad sexista. {.center}
+
+## El informe {#informe}
+
+>* **Fecha de entrega: 19 de noviembre**
+* Parte grupal: 70% calificación
+* Parte individual: 30% calificación
+* Total: 12.5% asignatura
+
+##
+
+![](imagenes-cp2/UnContenidoEsSexistaCuando.jpg)
 
 ## D&G 2007
 
@@ -19,33 +35,29 @@ index: false
 ![](imagenes-cp2/Dolce&Gabbana-2007b.jpg)
 </div>
 
-## Cervezas
+<!-- ## Cervezas
 <div id="column1" style="float:left; margin:0; width:50%;">
 <video width="420"  class="stretch" controls><source src="imagenes-cp2/CervezaBrahma.mp4"></video>
 </div>
 
 <div id="column1" style="float:left; margin:0; width:50%;">
 <video width="420"  class="stretch" controls><source src="imagenes-cp2/CervezaGuinness.mp4"></video>
-</div>
+</div> -->
 
 ## Perfumes
 
 <video class="stretch" controls><source src="imagenes-cp2/1Million-PacoRabanne.mp4"></video>
 `1Million-PacoRabanne`{.figcaption}
 
-## Axe: Excite
+<!-- ## Axe: Excite
 
 <video width="420"  class="stretch" controls><source src="imagenes-cp2/03-Axe-Excite.mp4"></video>
 
-`Premio a la efectividad creativa 2012 (Cannes)`{.figcaption}
+`Premio a la efectividad creativa 2012 (Cannes)`{.figcaption} -->
 
-## El sistema sexo-género {#sistema-sexo-genero}
+<!-- ## El sistema sexo-género {#sistema-sexo-genero}
 
-<video class="stretch" controls><source src="imagenes-cp2/AlwaysLikeAGirl.mp4"></video>
-
-##
-
-![](imagenes-cp2/UnContenidoEsSexistaCuando.jpg)
+<video class="stretch" controls><source src="imagenes-cp2/AlwaysLikeAGirl.mp4"></video> -->
 
 ## The codes of gender
 
@@ -60,20 +72,23 @@ index: false
 
 [Caroline Heldman](http://carolineheldman.me/2012/07/02/sexual-objectification-part-1-what-is-it/)
 
-##
+<!-- ##
 
 <div id="column1" style="float:center; margin:0;">
-<!-- ![](imagenes-cp2/Cosificacion-1-Durex-xxl-ad.jpg) -->
+![](imagenes-cp2/Cosificacion-1-Durex-xxl-ad.jpg)
 ![](imagenes-cp2/Cosificacion-1-Tom-Ford-1.jpg)
 ![](imagenes-cp2/Cosificacion-1-Colchon.png)
-<!-- ![](imagenes-cp2/Cosificacion-1-good.jpg) -->
-</div>
+[](imagenes-cp2/Cosificacion-1-good.jpg)
+<!--</div> -->
 
 ## Cosificación: Soporte para objetos {#cosificacion-soporte}
 
 <div id="column1" style="float:left; margin:0;">
 ![](imagenes-cp2/Cosificacion-2-soporte-2.jpg)
-![](imagenes-cp2/Cosificacion-2-soporte-3.jpg)
+<!-- ![](imagenes-cp2/Cosificacion-2-soporte-3.jpg)
+</div>
+<div id="column1" style="float:left; margin:0; width:50%;"> -->
+<video width="600"  class="stretch" controls><source src="imagenes-cp2/CervezaGuinness.mp4"></video>
 </div>
 
 ## Cosificación: Persona sexualizada intercambiable {#cosificacion-intercambiable}
@@ -92,7 +107,7 @@ index: false
 
 [http://www.stopfemaledeathinadvertising.com/](http://www.stopfemaledeathinadvertising.com/)
 
-## Cosificación: Disponibilidad sexual como característica {#cosificacion-disponibilidad}
+## Cosificación: Disponibilidad sexual {#cosificacion-disponibilidad}
 <div id="column1" style="float:left; margin:0;">
 ![](imagenes-cp2/Cosificacion-5-American-apparel-ad-amsterdam-nowopen-06.jpg)
 ![](imagenes-cp2/Cosificacion-5-el-efecto-axe-tc3banel-vagina.jpg)
@@ -101,7 +116,7 @@ index: false
 
 ## Cosificación: Cuerpo como lienzo {#cosificacion-lienzo}
 
-<div id="column1" style="float:left; margin:0;">
+<div id="column1" style="float:center; margin:0;">
 ![](imagenes-cp2/Cosificacion-7-CarnavalReus.png)
 ![](imagenes-cp2/Cosificacion-7-Pretty.png)
 </div>
@@ -119,7 +134,7 @@ index: false
 
 ![Modelo de comunicación de Lasswell](imagenes-cp2/ComunicacionLasswell.jpg)
 
-## Eslogan
+<!-- ## Eslogan
 
 <div id="column1" style="float:left; margin:0; ">
 ![](imagenes-cp2/Eslogan-Adidas.jpg)
@@ -131,7 +146,7 @@ index: false
 ![](imagenes-cp2/Eslogan-Heineken.jpg)
 ![](imagenes-cp2/Eslogan-LG.png)
 ![](imagenes-cp2/Eslogan-Obama.jpg)
-</div>
+</div> -->
 
 <!--
 ##
@@ -150,7 +165,7 @@ index: false
 ![](imagenes-cp2/Eslogan-KitKat.png)
 -->
 
-##
+## Eslogan
 
 ![](imagenes-cp2/Cartells-21-d-2017.png){.noshadow .noborder}
 
@@ -173,10 +188,3 @@ index: false
 <div id="column1" style="float:center; margin:0; ">
 ![](imagenes-cp2/Contra-ING.jpg)
 </div>
-
-## El informe {#informe}
-
->* **Fecha de entrega: 19 de noviembre**
-* Parte grupal: 70% calificación
-* Parte individual: 30% calificación
-* Total: 12.5% asignatura
