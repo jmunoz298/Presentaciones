@@ -66,7 +66,7 @@ lateral-menu: 'True'
  >El análisis temático es un método para identificar, analizar y reportar patrones (temas) dentro de los datos. Como mínimo [organiza y describe]{.fosforito} en detalle el conjunto de datos. Sin embargo, con frecuencia, va más allá e [interpreta]{.fosforito} diversos aspectos del tema de investigación.\
 @braun_using_2006 [p. 79]
 
-## Tema
+<!-- ## Tema
 
 >Un tema es un patrón que se encuentra en la información que, como mínimo, describe y organiza posibles observaciones o, como máximo, interpreta aspectos del fenómeno. Un tema puede identificarse a nivel [manifiesto]{.fosforito} (directamente observable en la información) o a nivel [latente]{.fosforito} (subyacente al fenómeno). Los temas pueden generarse inicialmente [inductivamente]{.fosforito} a partir de la información bruta o generarse [deductivamente]{.fosforito} a partir de la teoría y la investigación previa.\
 @boyatzis_transforming_1998 [p. vii]
@@ -82,7 +82,7 @@ Donald Trump
 Justin Trudeau
 Emmanuel Macron
 Shinzō Abe
-:::
+::: -->
 
 <!-- <video width="850"   controls>
  <source src="imagenes-cuali/TheCodes.mp4">
@@ -92,9 +92,9 @@ Shinzō Abe
 
 `https://www.youtube.com/watch?v=Zxxvr0ex8MI`{.figcaption} -->
 
-## Temas
+<!-- ## Temas
 > Un tema capta algo importante sobre los datos en relación con la pregunta de investigación, y representa un cierto nivel de pauta de respuesta o significado en el conjunto de los datos.\
-@braun_using_2006 [p. 82]
+@braun_using_2006 [p. 82] -->
 
 ##
 ![Adaptado de Saldaña, 2009, p. 12](imagenes-cuali/DatoATeoria.jpg)
@@ -108,6 +108,9 @@ En este esquema podemos ver cómo, el proceso de análisis temático implica una
 ![](imagenes-cuali/Graneheim-Lundaman-Figura1-es.png)
 @graneheim_qualitative_2004 [p. 108]\
 `Narrativas sobre hipoglucemia`{.figcaption}
+
+##
+![](imagenes-cuali/RedesTematicas-2.png)
 
 ## ¿Cómo? {#como}
 
@@ -167,7 +170,7 @@ Soundscriber:
 F4:
 [http://www.audiotranskription.de/english](http://www.audiotranskription.de/english)
 
-<!-- ##
+##
 
 <iframe  height="600" width="1200" data-src="https://otranscribe.com/"></iframe>
 
@@ -177,7 +180,7 @@ https://otranscribe.com/
 
 <iframe  height="600" width="1200" data-src="https://dictation.io/speech"></iframe>
 
-https://dictation.io/speech -->
+https://dictation.io/speech
 
 <!-- ## Pero...
 <iframe width="800" height="400" data-src="http://swiftscribe.ai"></iframe>
@@ -192,6 +195,18 @@ https://dictation.io/speech -->
 
 ## ¿Realidad? {#realidad}
 
+![Cumbre del G7, 9 de junio de 2018, Quebec (Canadá)](imagenes-cuali/merkel-trump-merkel.jpg){.noshadow}
+
+::: notes
+Reunión del G7 en Canadá 9 junio 2018
+Angela Merkel
+Donald Trump
+Justin Trudeau
+Emmanuel Macron
+Shinzō Abe
+:::
+
+##
 ![](imagenes-cuali/merkel-trump-otros.jpg){.noshadow}
 
 <!-- <video width="850"   controls>
@@ -234,19 +249,19 @@ Ver: [UK · Data Archive: Create & Manage Data](http://www.data-archive.ac.uk/cr
 @uk_data_archive_managing_2009 [p. 2]
 -->
 
-## Plan de Gestión de Datos {#plan-gestion-datos}
+<!-- ## Plan de Gestión de Datos {#plan-gestion-datos}
 
 ![Plan de Gestión de Datos](imagenes-cuali/PlanDeDatos.png){.noshadow width=650}
 
-[Ver](http://rebiun.xercode.es/xmlui/bitstream/handle/20.500.11967/71/ES_IIIPE_Linea2_SubgOA_Info9_resolucionmedia_2016.jpg?sequence=8&isAllowed=y)
+[Ver](http://rebiun.xercode.es/xmlui/bitstream/handle/20.500.11967/71/ES_IIIPE_Linea2_SubgOA_Info9_resolucionmedia_2016.jpg?sequence=8&isAllowed=y) -->
 
-## {#dmp-csuc}
+<!-- ## {#dmp-csuc}
 
 ![](imagenes-cuali/DMP-CSUC.png)
 
 [Pla de Gestió de Dades de Recerca](https://dmp.csuc.cat/)\
 
-`https://dmp.csuc.cat`{.figcaption}
+`https://dmp.csuc.cat`{.figcaption} -->
 
 <!--
 
@@ -479,13 +494,26 @@ Tenemos dos posibles respuestas (no incompatibles entre sí):
 * Desvincular código de cita.
 * Explorar códigos con el [Administrador de códigos]{.resaltar}.
 
-## Comparación constante {#comparacion-constante}
-![](imagenes-cuali/comparacion-constante.png){.noshadow}
+<!-- # "Transportar" UH{.center data-background="imagenes/luggage.png"} -->
+
+## Ejercicio: Crear/abrir copia
+
+:::::: {.columns}
+::: {.column width="50%"}
+![](imagenes-atlas-8/Importar-proyecto.png){.border}
+:::
+::: {.column width="50%"}
+![](imagenes-atlas-8/Exportar.png){.border}
+:::
+:::::
 
 ## Codificación: "Depuración" {#codificacion-depuracion}
 
 >Durante el desarrollo de un sistema de códigos y eventualmente temas, el investigador va en constante ir y venir entre la lectura de los datos, la relectura de los segmentos codificados, la organización de los códigos, el cambio de nombre y el reordenamiento de los códigos y la recodificación de los segmentos de datos.\
 @friese_carrying_2018 [p. 17]
+
+## Comparación constante {#comparacion-constante}
+![](imagenes-cuali/comparacion-constante.png){.noshadow}
 
 
 ## {transition=none}
@@ -520,33 +548,8 @@ Tenemos dos posibles respuestas (no incompatibles entre sí):
 
 >* Generar [Informe]{.resaltar} de todas las citas de un código.
 * Generar informe de un conjunto de códigos.
-* [Fusionar]{.resaltar} varios códigos.
 * [Dividir]{.resaltar} un código en dos.
-
-## Agrupar
-
-![Tipos de Grupos](imagenes-atlas-8/Grupos.png)
-
-## Ejercicio: grupos de códigos {#ejercicio-grupos-codigos}
-
-![](imagenes-atlas-8/Menu-codigos.png){.noshadow .border}
-
->* Crear grupos de códigos.
->   - Desde el [Administrador de códigos]{.resaltar}.
->   - Con el [Administrador de grupos de códigos]{.resaltar}.
-
-# "Transportar" UH{.center data-background="imagenes/luggage.png"}
-
-## Ejercicio: Crear/abrir copia
-
-:::::: {.columns}
-::: {.column width="50%"}
-![](imagenes-atlas-8/Importar-proyecto.png){.border}
-:::
-::: {.column width="50%"}
-![](imagenes-atlas-8/Exportar.png){.border}
-:::
-:::::
+* [Fusionar]{.resaltar} varios códigos.
 
 # Preguntas {.center data-state=opacidad data-background="fondos/Research.jpg" data-background-transition=zoom}
 
@@ -558,6 +561,8 @@ Tenemos dos posibles respuestas (no incompatibles entre sí):
 ## Pregunta 1a
 
 #### ¿Qué "actores" aparecen en las secciones utilizadas para captar la atención (títulos...)?
+
+. . .
 
 >* [Escribir Memo]{.resaltar}.
 * Identificar secciones.
@@ -588,11 +593,28 @@ Las coocurrencias son las citas (codificadas) que presentan algún grado de sola
 Para llegar al resultado de la imagen, en primer lugar se ha añadido un identificador a las etiquetas de códigos, "es:" para los códigos "estructurales", y "ac:" a los códigos que identifican a los diferentes "actores". De esta forma, aparecerán juntos en el Administrador de códigos. Además, al acceder a la herramienta "Tabla de co-ocurrencias", podemos filtrar fácilmente "es:" en filas y "ac:" en columnas.
 :::
 
+## Agrupar
+
+![Tipos de Grupos](imagenes-atlas-8/Grupos.png)
+
+## Ejercicio: grupos de códigos {#ejercicio-grupos-codigos}
+
+![](imagenes-atlas-8/Menu-codigos.png){.noshadow .border}
+
+>* Crear grupos de códigos.
+>   - Desde el [Administrador de códigos]{.resaltar}.
+>   - Con el [Administrador de grupos de códigos]{.resaltar}.
+
+
 ## Pregunta 1b
 
 #### ¿Cómo presentan esa información los diferentes diarios?
 
->* Grupos de documentos.
+. . .
+
+
+> * Escribir Memo
+* Grupos de documentos.
 * [Grupos inteligentes]{.resaltar} de documentos.
 * [Activar filtro global]{.resaltar}.
 
@@ -612,8 +634,6 @@ Para llegar al resultado de la imagen, en primer lugar se ha añadido un identif
 
 <!-- # Estructurar {.center data-state=opacidad data-background="imagenes-cuali/hanging-files.jpg" data-background-transition=zoom} -->
 
-#
-
 ## Pregunta 2
 
 #### ¿Qué características tienen los contenidos que son citas textuales?
@@ -621,7 +641,7 @@ Para llegar al resultado de la imagen, en primer lugar se ha añadido un identif
 >* Codificar todos los fragmentos entre cualquier tipo de comillas.
 * Tabla de co-coocurrencias.
 * Ver memo "co:Citas literales".
-* Y... [Codificación de grupo focal]{.resaltar}.
+* Y... [Autocodificar]{.resaltar}.
 
 ![](imagenes-cuali/Autocodificacion-menu-8-01.png)
 
@@ -630,22 +650,49 @@ Para llegar al resultado de la imagen, en primer lugar se ha añadido un identif
 ![](imagenes-atlas-8/Autocodificacion.png)
 
 >* Autocodificar siguiendo las instrucciones del memo.
-* Hacer codificación de grupo focal.
 
+## Codificación de grupo focal {#codificacion-grupo-focal}
+
+![](imagenes-atlas-8/CodificacionGrupoFocal-8.png)
+
+::: notes
+
+Se pueden introducir expresiones GREP. La etiqueta de código será lo que esté definido en la expresión. Si el primer carácter es @ o el último es ":", no se incluirán en la etiqueta de código.
+
+Por ejemplo:
+
+`@\S+:` creará etiquetas de código de cualquier carácter que no sea espacio `\S`, de cualquier longitud `+`, seguido de `:`
+
+`Ent-\d+:` Creará etiquetas con la raíz "Ent-" seguido de uno o más dígitos
+:::
 
 # Relaciones {.center data-background="imagenes-cuali/network.jpg" data-background-transition=zoom data-state=opacidad}
 
-## Estructura: Grupos de códigos {#estructura-grupos-codigos}
+## Tipos de relaciones
 
-![](imagenes-atlas-8/Estructura-con-grupos.png)
+![](imagenes-atlas-8/TiposRelaciones-8.png)
 
-## Estructura: Relaciones entre códigos {#estructura-relaciones-codigos}
+## Estructura: Grupos de códigos... {#estructura-grupos-codigos-1}
+
+![](imagenes-atlas-8/Sentimientos-01.png)
+
+## Estructura: Grupos de códigos {#estructura-grupos-codigos-2 transition=none}
+
+![](imagenes-atlas-8/Sentimientos-02.png)
+
+## Estructura: Relaciones entre códigos... {#estructura-relaciones-codigos-1 transition=none}
+![](imagenes-atlas-8/Sentimientos-03.png)
+
+## Estructura: Relaciones entre códigos... {#estructura-relaciones-codigos-2 transition=none}
+![](imagenes-atlas-8/Sentimientos-04.png)
+
+<!-- ## Estructura: Relaciones entre códigos {#estructura-relaciones-codigos}
 
 ![](imagenes-atlas-8/Estructura-con-relaciones.png)
 
 ## Jerarquías de códigos {#jerarquias-codigos-2}
 
-![](imagenes-atlas-8/JerarquiasCodigos.png)
+![](imagenes-atlas-8/JerarquiasCodigos.png) -->
 
 ## Ejercicio: Relaciones entre códigos
 
