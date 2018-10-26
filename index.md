@@ -43,7 +43,7 @@ Análisis temático / Atlas-ti
 
 - Análisis temático (Septiembre 2018) ([HTML](AnalisisTematico.html) | [PDF](AnalisisTematico.pdf))
 - Análisis con Atlas.ti 7 (Junio 2018) ([HTML](AT-Atlas.ti.html) | [PDF](AT-Atlas.ti.pdf))
-- Análisis con Atlas.ti 8 (Junio 2018) [HTML](AT-Atlas.ti-8.html) | [PDF](AT-Atlas.ti-8.pdf))
+- Análisis con Atlas.ti 8 (octubre 2018) [HTML](AT-Atlas.ti-8.html) | [PDF](AT-Atlas.ti-8.pdf))
 
 Cómo verlas
 ===========
