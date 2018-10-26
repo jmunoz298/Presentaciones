@@ -304,17 +304,17 @@ Version  Responsable   Notes                                          Changed
 
 . . .
 
-![para después...](imagenes-cuali/reader-4.png){.noshadow}
+![](imagenes-cuali/reader-4.png){.noshadow}
 
 . . .
 
-![](imagenes-cuali/readers.jpg){.noshadow}
+![](imagenes-cuali/readers.jpg){.noshadow width=80%}
 
 # Proyecto {.center data-background="imagenes-cuali/escriba.jpg" data-background-transition=zoom data-state=opacidad}
 
 ## Estrategias trabajo en equipo
 
-![](imagenes-atlas-8/atlas-trabajo-equipo.png){.noshadow}
+![](imagenes-atlas-8/atlas-trabajo-equipo.png){.noshadow width=55%}
 
 ::: notes
 Dos formas básicas de trabajo en equipo:
@@ -459,7 +459,7 @@ Esto podría provocar que se pierda el significado si no se tiene en cuenta la p
 
 ## "El gato"
 
-![](imagenes-cuali/Gato.jpg){.border}
+![](imagenes-cuali/Gato.jpg){.border width=70%}
 
 ::: notes
 Podemos pensar en la codificación como una forma de literatura definicional a la inversa, en la que nuestros datos (y citas) son la última transformación y los pasos previos son códigos.
@@ -571,7 +571,7 @@ Tenemos dos posibles respuestas (no incompatibles entre sí):
 
 ## Co-ocurrencias {#coocurrencias-0 transition=none}
 
-![](imagenes-atlas-8/Cooc-Marquez-00.png){.border}
+![](imagenes-atlas-8/Cooc-Marquez-00.png){.border width=75%}
 
 ::: notes
 Las coocurrencias son las citas (codificadas) que presentan algún grado de solapamiento entre sí, por lo tanto, las coocurrencias de códigos nos indican los códigos con los que están codificados esas citas. Cuando dos códigos presentan coocurrencias, significa que un significado (código) está en cierta forma relacionado con otro.
@@ -579,11 +579,11 @@ Las coocurrencias son las citas (codificadas) que presentan algún grado de sola
 
 ## Co-ocurrencias {#coocurrencias-1 transition=none}
 
-![](imagenes-atlas-8/Cooc-Marquez-00-1.png){.border}
+![](imagenes-atlas-8/Cooc-Marquez-00-1.png){.border width=75%}
 
 ## Co-ocurrencias {#coocurrencias-2 transition=none}
 
-![](imagenes-atlas-8/Cooc-Marquez-00-2.png){.border}
+![](imagenes-atlas-8/Cooc-Marquez-00-2.png){.border width=75%}
 
 ## Tabla de co-coocurrencias
 
@@ -612,11 +612,12 @@ Para llegar al resultado de la imagen, en primer lugar se ha añadido un identif
 
 . . .
 
-
-> * Escribir Memo
+::: nonincremental
+* Escribir Memo
 * Grupos de documentos.
 * [Grupos inteligentes]{.resaltar} de documentos.
 * [Activar filtro global]{.resaltar}.
+:::
 
 ![](imagenes-atlas-8/GruposDocumentos.png)
 
@@ -647,9 +648,11 @@ Para llegar al resultado de la imagen, en primer lugar se ha añadido un identif
 
 ## Autocodificación {#autocodificacion}
 
-![](imagenes-atlas-8/Autocodificacion.png)
+![](imagenes-atlas-8/Autocodificacion.png){.noshadow}
 
->* Autocodificar siguiendo las instrucciones del memo.
+[Autocodificar siguiendo las instrucciones del memo.]{.medio}
+
+[(Puedes hacer pruebas en https://regex101.com/)]{.peque}
 
 ## Codificación de grupo focal {#codificacion-grupo-focal}
 
@@ -713,11 +716,11 @@ Por ejemplo:
 
 ## Redes {#relaciones-codigos-donacion}
 
-![](imagenes-atlas-8/red-donacion.png)
+![](imagenes-atlas-8/red-donacion.png){ width=85% }
 
 ## Redes {#relaciones-codigos-iter}
 
-![](imagenes-atlas-8/red-iter.png)
+![](imagenes-atlas-8/red-iter.png){ width=80% }
 
 
 <!--
@@ -754,31 +757,36 @@ Todas las citas codificadas como C1 **Y** C2 **O** como C1 y C3
 :::
 :::::
 
-## Construcción de una consulta {#construccion-booleana-2}
+## Construcción de una consulta {#construccion-booleana-2 transition=none}
 
 Todas las citas codificadas como C1 **O** C2 pero **NO** como C3
 
-:::::: {.columns}
-::: {.column width="40%"}
-![](imagenes-atlas-8/VennBooleanos-02.png){ width="300px"}
-:::
-::: {.column width="60%"}
-![](imagenes-atlas-8/Consulta-booleanos-02.png){ width="450px"}
-:::
-:::::
+<div id="column1" style="float:left; margin:0; width:40%;">
 
-## Construcción de una consulta {#construccion-booleana-3}
+![](imagenes-atlas-8/VennBooleanos-02.png){ width="300px"}
+</div>
+. . .
+
+<div id="column1" style="float:left; margin:0; width:60%;">
+
+![](imagenes-atlas-8/Consulta-booleanos-02.png){ width="450px"}
+</div>
+
+## Construcción de una consulta {#construccion-booleana-3 transition=none}
 
 Todas las citas codificadas como C1 **O** C2 **O** como C3 **Y** C4 **Y** **NO** como C1 **Y** C3
 
-:::::: {.columns}
-::: {.column width="40%"}
+<div id="column1" style="float:left; margin:0; width:40%;">
+
 ![](imagenes-atlas-8/VennBooleanos-03.png){ width="300px"}
-:::
-::: {.column width="60%"}
+</div>
+. . .
+
+
+<div id="column1" style="float:left; margin:0; width:60%;">
 ![](imagenes-atlas-8/Consulta-booleanos-03.png){ width="450px"}
-:::
-:::::
+</div>
+
 
 ## Operadores Semánticos {#operadores-semanticos}
 
@@ -809,7 +817,7 @@ Todas las citas codificadas como C1 **O** C2 **O** como C3 **Y** C4 **Y** **NO**
 ## Consultas: Alcance
 
 ![](imagenes-cuali/ConsultasAlcance.png)
---> -->
+--> 
 
 ## Buscar texto
 

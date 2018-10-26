@@ -25,7 +25,7 @@
   var link = document.createElement( 'link' );
   link.rel = 'stylesheet';
   link.type = 'text/css';
-  link.href = window.location.search.match( /print-pdf/gi ) ? 'reveal.js/css/print/pdf.css' : 'reveal.jscss/print/paper.css';
+  link.href = window.location.search.match( /print-pdf/gi ) ? 'reveal.js/css/print/pdf.css' : 'reveal.js/css/print/paper.css';
   document.getElementsByTagName( 'head' )[0].appendChild( link );
 </script>
 
@@ -58,11 +58,7 @@
 <p><a href="https://youtu.be/qScsUOsh6qA?t=43">Bongo Kanny - Civil Disobedience</a><br />
 <code class="peque">https://youtu.be/qScsUOsh6qA?t=43</code></p>
 </section>
-<section><section id="sesgo-de-conformismo" class="title-slide slide level1 center"><h1>Sesgo de conformismo</h1></section><section id="sesgo-de-conformismo-1" class="slide level2">
-<h2>Sesgo de conformismo</h2>
-<p><img data-src="imagenes-isg/Friend-Asch.png" alt="Representación del experimento de Asch en libros de texto de Psicología Social" /><br />
-<span class="citation" data-cites="friend_puzzling_1990">Friend, Rafferty, &amp; Bramel (1990)</span></p>
-</section><section id="independencia-y-resistencia" class="slide level2">
+<section><section id="sesgo-de-conformismo" class="title-slide slide level1 center"><h1>Sesgo de conformismo</h1></section><section id="independencia-y-resistencia" class="slide level2">
 <h2>Independencia y resistencia</h2>
 <blockquote>
 <p>La lucha por la independencia y la resistencia a la usurpación son aspectos tan reales de las personas como la conformidad. Por lo tanto, es indebidamente limitado enfatizar la sumisión, el descuido de los poderes no despreciables que las personas demuestran en ocasiones para actuar de acuerdo a la convicción y elevándose por encima de la pasión del grupo.<br />
@@ -159,9 +155,6 @@ DESOBEDIENCIA CONSTRUCTIVA</p>
 <div id="ref-asch_studies_1956">
 <p>Asch, S. E. (1956). Studies of independence and conformity: I. A minority of one against a unanimous majority. <em>Psychological Monographs: General and Applied</em>, <em>70</em>(9), 1–70. Retrieved from <a href="http://www.psycontent.com/index/H128830K244141T6.pdf" class="uri">http://www.psycontent.com/index/H128830K244141T6.pdf</a></p>
 </div>
-<div id="ref-friend_puzzling_1990">
-<p>Friend, R., Rafferty, Y., &amp; Bramel, D. (1990). A puzzling misinterpretation of the Asch “conformity” study. <em>European Journal of Social Psychology</em>, <em>20</em>(1), 29–44. <a href="http://doi.org/10.1002/ejsp.2420200104" class="uri">http://doi.org/10.1002/ejsp.2420200104</a></p>
-</div>
 <div id="ref-haslam_beyond_2011">
 <p>Haslam, S. A., &amp; Reicher, S. (2011). Beyond Conformity. Revisiting Classic Studies and Exploring the Dynamics of Resistance. In J. Jetten &amp; M. J. Hornsey (Eds.), <em>Rebels in groups: Dissent, deviance, difference and defiance</em> (pp. 324–344). Chichester, West Sussex, U.K. ; Malden, MA: Wiley-Blackwell.</p>
 </div>
@@ -183,6 +176,7 @@ DESOBEDIENCIA CONSTRUCTIVA</p>
       Reveal.initialize({
 
         //Opciones reveal
+        pdfSeparateFragments: false,
         controls: true,
         controlsTutorial: true,
         fragments: true,
