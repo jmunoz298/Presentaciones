@@ -35,8 +35,8 @@ Acción Pública y cambio social
 ------------------------------
 
 - Primera parte (febrero 2018) ([HTML](APCS-1.html) | [PDF](APCS-1.pdf))
-- Segunda parte (febrero 2017) ([HTML](APCS-2.html) | [PDF](APCS-2.pdf))
-- Tercera parte (marzo 2017) ([HTML](APCS-3.html) | [PDF](APCS-3.pdf))
+- Segunda parte (febrero 2018) ([HTML](APCS-2.html) | [PDF](APCS-2.pdf))
+- Tercera parte (marzo 2018) ([HTML](APCS-3.html) | [PDF](APCS-3.pdf))
 
 Análisis temático / Atlas-ti
 -----------------
