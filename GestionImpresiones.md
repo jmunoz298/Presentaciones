@@ -12,12 +12,14 @@ lateral-menu: 'True'
 ...
 
 
-##La perspectiva dramatúrgica
-<video width="860" class="stretch" controls>
-<source src="imagenes-gestionimp/ErvingGoffmanAndThePerformedSelf-sub.mp4" type="video/mp4">
-</video>
+## La perspectiva dramatúrgica {#perspectiva-dramaturgica}
 
-## {data-background="imagenes-gestionimp/Mascaras.jpg" data-background-transition=zoom data-state=fondo}
+<video class="stretch" controls><source src="imagenes-gestionimp/ErvingGoffmanAndThePerformedSelf-sub.mp4"></video>
+
+[Erving Goffman and the Performed Self]{.autor}\
+[https://www.youtube.com/watch?v=ypJct91EnBY]{.peque}
+
+##  {data-background-image="imagenes-gestionimp/Mascaras.jpg" .transparencia}
 
 . . .
 
@@ -30,24 +32,25 @@ lateral-menu: 'True'
 ![](imagenes-gestionimp/Meetic.jpg)
 
 ## {data-background="imagenes-gestionimp/Mascaras.jpg" data-background-transition=zoom data-state=fondo}
+
 ![](imagenes-gestionimp/FirstDates.jpg)
 
 ## Aprendiendo a actuar
 <video width="860" class="stretch" controls>
 <source src="imagenes-gestionimp/GranTorinoThaoPeluqueria.mp4" type="video/mp4">
 </video>
-`Gran Torino: Tao en la peluquería` {.autor}\
+[Gran Torino: Tao en la peluquería]{.autor}\
 `http://www.dailymotion.com/video/x9i6tt`{.peque}
 
-##El escenario {data-background="imagenes-gestionimp/Backstage.jpg" data-background-transition=zoom data-state=fondo}
+## El escenario {data-background="imagenes-gestionimp/Backstage.jpg" data-background-transition=zoom data-state=fondo}
 
 . . .
 
 ### El frente o la región visible para el público (fachada, imagen) tiene la función de ofrecer esta actuación al público {.fondoblanco .transparencia}
 
-###El fondo o la región invisible para el público se utiliza para preparar la actuación de una rutina (rol) {.fondoblanco .transparencia}
+### El fondo o la región invisible para el público se utiliza para preparar la actuación de una rutina (rol) {.fondoblanco .transparencia}
 
-##Cibereespacio {data-background="imagenes-gestionimp/SocialMediaFakery.jpg" data-background-transition=zoom data-state=fondo}
+## Cibereespacio {data-background="imagenes-gestionimp/SocialMediaFakery.jpg" data-background-transition=zoom data-state=fondo}
 
 ## {data-background="imagenes-gestionimp/FaceSave.jpg" data-background-transition=zoom data-state=fondo}
 
@@ -61,14 +64,14 @@ lateral-menu: 'True'
 `Goffman, 1977, p. 22`{.autor}
 -->
 
-## Actuaciones fallidas: "salvar la cara"
+## Actuaciones fallidas: "salvar la cara" {#actuaciones-fallidas}
 
 <video width="860" class="stretch" controls>
 <source src="imagenes-gestionimp/PlayItAgainSamBlindDate.mp4" type="video/mp4">
 </video>
 
-`Sueños de un seductor - Allan intenta seducir a una mujer` {.autor}\
-`https://www.youtube.com/watch?v=BTOqNc1AaIA` {.peque}
+`Sueños de un seductor - Allan intenta seducir a una mujer`{.autor}\
+`https://www.youtube.com/watch?v=BTOqNc1AaIA`{.peque}
 
 
-##El "auténtico" yo {data-background="imagenes-gestionimp/NoFaceBehindMask.jpg" data-background-transition=zoom data-state=fondo}
+## El "auténtico" yo {#autentico-yo data-background="imagenes-gestionimp/NoFaceBehindMask.jpg" data-background-transition=zoom data-state=fondo}
