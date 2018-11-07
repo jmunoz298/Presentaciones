@@ -11,19 +11,23 @@ csl: apa.csl
 lateral-menu: 'True'
 ...
 
-##Liderazgo {data-background="imagenes-liderazgo/MovePeopleToAction.jpg" data-background-transition=zoom data-state=fondo}
+## Liderazgo {data-background="imagenes-liderazgo/MovePeopleToAction.jpg" data-background-transition=zoom data-state=fondo}
 
 >Un proceso de influencia social mediante el que las personas consiguen y movilizan la ayuda de otras para la consecución de metas colectivas.\
-`Chemers, 2001` {.autor}
+`Chemers, 2001`{.autor}
 
 
-##¿Quién puede ser líder? {data-background="imagenes-liderazgo/Lider-nacimiento.jpg" data-background-transition=zoom data-state=fondo}
+## ¿Quién puede ser líder? {#quien-puede-ser-lider data-background="imagenes-liderazgo/Lider-nacimiento.jpg" data-background-transition=zoom data-state=fondo}
+
 >Desde el momento de su nacimiento algunas personas están marcadas para la servidumbre y otras para el mando.\
-`Aristóteles` {.autor}
+`Aristóteles`{.autor}
 
 ## Teoría rasgos
 
-![](imagenes-liderazgo/TraitTheoryLeadership.jpg)
+>[Desde el momento de su nacimiento algunas personas están marcadas para la servidumbre y otras para el mando.]{.peque}
+`Aristóteles`{.autor}
+
+![](imagenes-liderazgo/TraitTheoryLeadership.jpg){ width=50%}
 
 ## Rasgos Liderazgo
 
@@ -31,7 +35,7 @@ lateral-menu: 'True'
 
 ## Teorías implícitas {data-background="imagenes-liderazgo/Puzzle.jpg" data-background-transition=zoom data-state=fondo}
 > Muchos miembros creen que sus líderes deben ser inteligentes, extrovertidos, masculinos, sensibles, dominantes, conservadores y equilibrados, de forma que esas serán las características que poseerán los líderes\
-`Lord et al. 1986` {.autor}
+`Lord et al. 1986`{.autor}
 
 ## Teoría de la categorización del líder {data-background="imagenes-liderazgo/Lider.jpg" data-background-transition=zoom data-state=fondo}
 
@@ -43,16 +47,18 @@ lateral-menu: 'True'
   <source src="imagenes-liderazgo/EstilosDeLiderazgo.mp4" type="video/mp4">
 </video>
 
-##Lewin, Lippit y White {.peque}
+[https://www.youtube.com/watch?v=xiUX7tuCUBI]{.figcaption}
 
-| Autoritatio                                                          | Democrático                                                                                        | _Laissez Faire_                                                                             |
-|:---------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|
-| Determina toda política                                              | Toda política es un tema de discusión y de decisión del grupo                                      | El grupo tiene completa libertad para decidir, con una mínima participación del líder       |
-| Dicta las técnicas y los pasos de la actividad                       | Sugiere técnicas y estrategias que se discuten en el grupo                                         | El líder proporciona diferentes materiales, y aclara que dará información cuando se le pida |
-| Dicta el trabajo que se ha de hacer y designa el compañero           | Los miembros son libres de trabajar con quien quieran y se deja al grupo la división de las tareas | El líder no participa en absoluto                                                           |
-| Personalizar las alabanzas y las críticas al trabajo de cada miembro | Al elogiar o criticar, el líder es objetivo y se basa en los hechos                                | Pocas veces hace comentarios, refuerza o critica                                            |
+<!-- ## Lewin, Lippit y White{.peque}
 
-## Estilos de liderazgo: Efectos {.listapeque}
+| Autoritatio                                                          | Democrático                                                                                        | _Laissez Faire_                                                                                   |
+|:---------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------|
+| Determina toda política                                              | Toda política es un tema de discusión y de decisión del grupo                                      | El grupo tiene completa libertad para decidir, con una mínima participación del líder             |
+| Dicta las técnicas y los pasos de la actividad                       | Sugiere técnicas y estrategias que se discuten en el grupo                                         | El líder proporciona diferentes materiales, y aclara que dará información cuando se le pida       |
+| Dicta el trabajo que se ha de hacer y designa el compañero           | Los miembros son libres de trabajar con quien quieran y se deja al grupo la división de las tareas | El líder no participa en absoluto                                                                 |
+| Personalizar las alabanzas y las críticas al trabajo de cada miembro | Al elogiar o criticar, el líder es objetivo y se basa en los hechos                                | Pocas veces hace comentarios, refuerza o critica                                            | --> |
+
+## Estilos de liderazgo: Efectos
 
 * El líder *autoritario* genera apatía y agresividad entre los miembros del grupo. Se produce un clima socioafectivo negativo y muy poca cohesión. En cuanto al trabajo o el rendimiento es bueno cuando el líder esta presente, pero decrece rápidamente en su ausencia.
 * El liderazgo *democrático* provoca en el grupo que el rendimiento sea elevado y estable, incluso cuando el líder esta ausente. Los miembros del grupo se sienten más satisfechos.
