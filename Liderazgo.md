@@ -17,17 +17,17 @@ lateral-menu: 'True'
 `Chemers, 2001`{.autor}
 
 
-## ¿Quién puede ser líder? {#quien-puede-ser-lider data-background="imagenes-liderazgo/Lider-nacimiento.jpg" data-background-transition=zoom data-state=fondo}
+<!-- ## ¿Quién puede ser líder? {#quien-puede-ser-lider data-background="imagenes-liderazgo/Lider-nacimiento.jpg" data-background-transition=zoom data-state=fondo}
 
 >Desde el momento de su nacimiento algunas personas están marcadas para la servidumbre y otras para el mando.\
-`Aristóteles`{.autor}
+`Aristóteles`{.autor} -->
 
 ## Teoría rasgos
 
 >[Desde el momento de su nacimiento algunas personas están marcadas para la servidumbre y otras para el mando.]{.peque}
 `Aristóteles`{.autor}
 
-![](imagenes-liderazgo/TraitTheoryLeadership.jpg){ width=50%}
+![](imagenes-liderazgo/TraitTheoryLeadership.jpg){ width=45%}
 
 ## Rasgos Liderazgo
 
@@ -60,19 +60,19 @@ lateral-menu: 'True'
 
 ## Estilos de liderazgo: Efectos
 
-* El líder *autoritario* genera apatía y agresividad entre los miembros del grupo. Se produce un clima socioafectivo negativo y muy poca cohesión. En cuanto al trabajo o el rendimiento es bueno cuando el líder esta presente, pero decrece rápidamente en su ausencia.
-* El liderazgo *democrático* provoca en el grupo que el rendimiento sea elevado y estable, incluso cuando el líder esta ausente. Los miembros del grupo se sienten más satisfechos.
-* El peor rendimiento lo tienen los grupos con un líder *liberal*. Son grupos que se pueden calificar de activos improductivos y tienen un clima socioafectivo negativo.
+* El líder [autoritario]{.fosforito} genera apatía y agresividad entre los miembros del grupo. Se produce un clima socioafectivo negativo y muy poca cohesión. En cuanto al trabajo o el rendimiento es bueno cuando el líder esta presente, pero decrece rápidamente en su ausencia.
+* El liderazgo [democrático]{.fosforito} provoca en el grupo que el rendimiento sea elevado y estable, incluso cuando el líder esta ausente. Los miembros del grupo se sienten más satisfechos.
+* El peor rendimiento lo tienen los grupos con un líder [liberal]{.fosforito}. Son grupos que se pueden calificar de activos improductivos y tienen un clima socioafectivo negativo.
 
 ## Tarea vs. relaciones
 
-![](imagenes-liderazgo/MotinBounty.jpg)
+![](imagenes-liderazgo/MotinBounty.jpg){width=600}
 
 ## Modelos interaccionistas {data-background="imagenes-liderazgo/Contingencia.png" data-background-transition=zoom data-state=fondo}
 
 >El éxito de un líder no depende de sus características, ni del estilo que domine, sino de la interacción entre sus características y las de la situación.
 
 
-## Teoría de la contingencia: Fiedler
+<!-- ## Teoría de la contingencia: Fiedler
 
-![](imagenes-liderazgo/FiedlerContingencia.png)
+![](imagenes-liderazgo/FiedlerContingencia.png){width=750} -->
