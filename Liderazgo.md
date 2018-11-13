@@ -68,11 +68,12 @@ lateral-menu: 'True'
 
 ![](imagenes-liderazgo/MotinBounty.jpg){width=600}
 
+## Rejilla de liderazgo (Blake y Mouton)
+
+![](imagenes-liderazgo/Rejilla-Liderazgo-explicacion.png){.noshadow width=550}
+
 ## Modelos interaccionistas {data-background="imagenes-liderazgo/Contingencia.png" data-background-transition=zoom data-state=fondo}
 
 >El éxito de un líder no depende de sus características, ni del estilo que domine, sino de la interacción entre sus características y las de la situación.
 
 
-<!-- ## Teoría de la contingencia: Fiedler
-
-![](imagenes-liderazgo/FiedlerContingencia.png){width=750} -->
