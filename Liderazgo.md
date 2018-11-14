@@ -76,4 +76,6 @@ lateral-menu: 'True'
 
 >El éxito de un líder no depende de sus características, ni del estilo que domine, sino de la interacción entre sus características y las de la situación.
 
+## Visión romántica {#vision-romantica data-background="imagenes-liderazgo/wooden-mannequin.jpg" data-background-transition=zoom }
 
+> Los "grandes líderes" son simplemente marionetas de fuerzas sociales que dan forma a los eventos y la historia, independientemente de quién ocupe puestos de liderazgo.
