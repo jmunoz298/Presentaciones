@@ -379,15 +379,14 @@ opacity:0.3;}
   opacity: 0.8;
 }
 
-
-section .peque {
+.section .peque, .reveal .peque {
   font-size: 0.7em;
   line-height: 1.7em;}
 
-section .medio{
+section .medio, .reveal .medio{
   font-size: 0.9em;}
 
-.reveal .fondoblanco{
+.reveal .fondoblanco, .reveal ul li  {
 background-color: white;
 }
 
