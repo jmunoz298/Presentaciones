@@ -69,18 +69,14 @@ csl: apa.csl
 
 ## {data-transition="fade"}
 
-![](imagenes-decisiones/Divergent-0.png)
+![](imagenes-decisiones/Divergent-1.png)
 
 [Kaner, S. (2014). *Facilitator’s guide to participatory decision-making*]{.autor .peque}
 
 ## {data-transition="fade"}
 
-![](imagenes-decisiones/Divergent-1.png)
-
-
-## {data-transition="fade"}
-
 ![](imagenes-decisiones/Divergent-2.png)
+
 
 ## {data-transition="fade"}
 
@@ -101,6 +97,10 @@ csl: apa.csl
 ## {data-transition="fade"}
 
 ![](imagenes-decisiones/Divergent-7.png)
+
+## {data-transition="fade"}
+
+![](imagenes-decisiones/Divergent-8.png)
 
 ## Mejorar las decisiones{.medio}
 
