@@ -21,7 +21,7 @@ csl: apa.csl
 * Propician un contexto cooperativo de trabajo que hace aumentar la cohesión, la motivación y la implicación..
 
 
-## ...pero {#pero data-background="imagenes-decisiones/Eleccion.jpg" data-background-transition=zoom}
+## ...pero {#pero}
 >(…) en tal caso, se supone que cada uno  de los participantes es un individuo  racional y moral. Juntos no hacen sino sopesar las ventajas e inconvenientes de cada solución. Para elegir, en definitiva, la que presente las mayores ventajas y los menores inconvenientes.\
 `Doise y Moscovici, 1984`{.autor}
 
