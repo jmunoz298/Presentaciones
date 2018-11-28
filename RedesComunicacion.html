@@ -10,15 +10,22 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <link rel="stylesheet" href="reveal.js/css/reveal.css"/>
  <link rel="stylesheet" href="reveal.js/plugin/toc-progress/toc-progress.css">
+ <style type="text/css">
+     code{white-space: pre-wrap;}
+     span.smallcaps{font-variant: small-caps;}
+     span.underline{text-decoration: underline;}
+     div.column{display: inline-block; vertical-align: top; width: 50%;}
+ </style>
   <!--  <style type="text/css">code{white-space: pre;}</style> -->
-    <link rel="stylesheet" href="reveal.js/css/theme/serif-mod.css" id="theme">
+    <link rel="stylesheet" href="reveal.js/css/theme/serif.css" id="theme">
+    <link rel="stylesheet" href="reveal.js/css/theme/juan.css" id="theme">
 
 <!-- If the query includes 'print-pdf', use the PDF print sheet -->
 <script>
   var link = document.createElement( 'link' );
   link.rel = 'stylesheet';
   link.type = 'text/css';
-  link.href = window.location.search.match( /print-pdf/gi ) ? 'reveal.js/css/print/pdf.css' : 'reveal.jscss/print/paper.css';
+  link.href = window.location.search.match( /print-pdf/gi ) ? 'reveal.js/css/print/pdf.css' : 'reveal.js/css/print/paper.css';
   document.getElementsByTagName( 'head' )[0].appendChild( link );
 </script>
 
@@ -29,25 +36,27 @@
 <body>
   <div class="reveal">
     <div class="slides">
-<section data-state="no-toc-progress , show-github-ribbon">
+<section data-state="no-toc-progress">
     <h1 class="title .no-toc-progress">Redes de comunicación</h1>
-<h2>Influencia Social y Grupos</h2>
+<h4 class="author">Influencia Social y Grupos</h4>
     <h4 class="author">Juan Muñoz</h4>
     <h6 class="author">Universitat Autònoma de Barcelona</h6>
     <h6 class="author"></h6>
     <h4 class="date"></h4>
     <h4 class="date">http:/juan.psicologiasocial.eu</h4>
-<div style="position: absolute; bottom: 0px; margin-left: 0px; width: 100%; <center><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Llicència de Creative Commons" style="border-width:0" src="img/cc-by.png" /></a></center>
-</div>
+    <div style="position: absolute; bottom: -50px; margin-left: 0px; width: 100%; <center><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Llicència de Creative Commons" style="border-width:0" src="img/cc-by.png" /></a></center>
+    </div>
 </section>
-<section id="comunicación" class="slide level2" data-background="imagenes-redes-com/comunicacion.jpg" data-background-transition="zoom" data-state="fondo">
-<h1>Comunicación</h1>
+<section id="comunicacion-redes" class="slide level2" data-background="imagenes-redes-com/red-comunicacion.jpg" data-background-transition="zoom" data-state="fondo">
+<h2>Comunicación: Redes</h2>
 <blockquote>
-<p>La comunicación es la base de toda interacción humana y del funcionamiento del grupo. Nuestra vida cotidiana está llena de una experiencia de comunicación tras otra. Es a través de la comunicación que interactúan los miembros del grupo, y una comunicación eficaz es un requisito previo para todos los aspectos de funcionamiento del grupo.<br />
-<span class="citation" data-cites="johnson_joining_2014">D. W. Johnson &amp; Johnson (2014, p. 116)</span></p>
+<p>¿Podría ocurrir que entre varios patrones de comunicación —todos lógicamente adecuados a completar con éxito una tarea especificada— uno permitiera mejor ejecución que otro? ¿Qué efectos tendrá el patrón, como tal, sobre el surgimiento del liderazgo, el desarrollo de la organización y el grado de resistencia a la ruptura del grupo?<br />
+<span class="citation" data-cites="bavelas_communication_1950">Bavelas (1950, p. 726)</span></p>
 </blockquote>
-<!--
-##Ejercicio {.references}
+<!-- ## Comunicación {#comunicacion data-background="imagenes-redes-com/comunicacion.jpg" data-background-transition=zoom data-state=fondo}
+>La comunicación es la base de toda interacción humana y del funcionamiento del grupo. Nuestra vida cotidiana está llena de una experiencia de comunicación tras otra. Es a través de la comunicación que interactúan los miembros del grupo, y una comunicación eficaz es un requisito previo para todos los aspectos de funcionamiento del grupo.\
+@johnson_joining_2014 [116] -->
+<!-- ## Ejercicio {.references}
 
 ![](img/GroupWork.jpg)
 
@@ -55,83 +64,45 @@
 
 Bavelas, A. (1950-1951). Patrones de comunicación en grupos orientados a la tarea. En A.D.Cartwright. y A.Zander (Eds.). (1968). *Dinámica de grupos. Investigación y teoría*  (Pp. 548-557). México: Trillas.
 
-Leavitt, H.J. (1951). Some effects of certain communication patterns on group performance. *Journal of Abnormal and Social Psychology*, 46: 38-50.
-
--->
-</section>
-<section id="comunicación-redes" class="slide level2" data-background="imagenes-redes-com/red-comunicacion.jpg" data-background-transition="zoom" data-state="fondo">
-<h1>Comunicación: Redes</h1>
-<blockquote>
-<p>¿Podría ocurrir que entre varios patrones de comunicación —todos lógicamente adecuados a completar con éxito una tarea especificada— uno permitiera mejor ejecución que otro? ¿Qué efectos tendrá el patrón, como tal, sobre el surgimiento del liderazgo, el desarrollo de la organización y el grado de resistencia a la ruptura del grupo?<br />
-<span class="citation" data-cites="bavelas_communication_1950">Bavelas (1950, p. 726)</span></p>
-</blockquote>
+Leavitt, H.J. (1951). Some effects of certain communication patterns on group performance. *Journal of Abnormal and Social Psychology*, 46, 38-50. -->
 </section>
 <section id="eficacia" class="slide level2">
-<h1>Eficacia</h1>
+<h2>Eficacia</h2>
 <figure>
-<img src="imagenes-redes-com/Redes-eficacia.jpg" alt="Niveles de eficacia en función del tipo de red" /><figcaption>Niveles de eficacia en función del tipo de red</figcaption>
+<img data-src="imagenes-redes-com/Redes-eficacia.jpg" alt="Niveles de eficacia en función del tipo de red" /><figcaption>Niveles de eficacia en función del tipo de red</figcaption>
 </figure>
 </section>
 <section id="liderazgo" class="slide level2">
-<h1>liderazgo</h1>
-<figure>
-<img src="imagenes-redes-com/Redes-Liderazgo.png" />
-</figure>
+<h2>Liderazgo</h2>
+<p><img data-src="imagenes-redes-com/Redes-Liderazgo.png" /></p>
 </section>
-<section id="satisfacción-con-la-tarea" class="slide level2">
-<h1>Satisfacción con la tarea</h1>
-<figure>
-<img src="imagenes-redes-com/Redes-Satisfaccion.png" />
-</figure>
-</section>
-<section id="efecto-del-tipo-de-tarea" class="slide level2">
-<h1>Efecto del tipo de tarea</h1>
-<table>
-<caption>Eficacia en función de la complejidad de la tarea</caption>
-<thead>
-<tr class="header">
-<th style="text-align: left;"></th>
-<th style="text-align: left;">Tareas simples</th>
-<th style="text-align: left;">Tareas complejas</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">Mensajes (-)</td>
-<td style="text-align: left;">Centralizada</td>
-<td style="text-align: left;">Centralizada</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Tiempo (-)</td>
-<td style="text-align: left;">Centralizada</td>
-<td style="text-align: left;">Descentralizada</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Errores (-)</td>
-<td style="text-align: left;">Centralizada</td>
-<td style="text-align: left;">Descentralizada</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Satisfacción (+)</td>
-<td style="text-align: left;">Descentralizada</td>
-<td style="text-align: left;">Descentralizada</td>
-</tr>
-</tbody>
-</table>
+<section id="satisfaccion" class="slide level2">
+<h2>Satisfacción con la tarea</h2>
+<p><img data-src="imagenes-redes-com/Redes-Satisfaccion.png" /></p>
+<!-- ## Efecto del tipo de tarea
+
+|                  | Tareas simples  | Tareas complejas |
+|:-----------------|:----------------|:-----------------|
+| Mensajes (-)     | Centralizada    | Centralizada     |
+| Tiempo (-)       | Centralizada    | Descentralizada  |
+| Errores (-)      | Centralizada    | Descentralizada  |
+| Satisfacción (+) | Descentralizada | Descentralizada  |
+: Eficacia en función de la complejidad de la tarea -->
 </section>
 <section id="conceptos-explicativos" class="slide level2">
-<h1>Conceptos explicativos</h1>
+<h2>Conceptos explicativos</h2>
 <div id="column2" style="float:left; margin:0; width:50%;">
 <figure>
-<img src="imagenes-redes-com/ajedrez-peones.jpg" alt="Independencia" /><figcaption>Independencia</figcaption>
+<img data-src="imagenes-redes-com/ajedrez-peones.jpg" alt="Independencia" /><figcaption>Independencia</figcaption>
 </figure>
 </div>
 <div class="fragment">
 <div id="column2" style="float:left; margin:0; width:50%;">
 <figure>
-<img src="imagenes-redes-com/saturacion-2.jpg" alt="Saturación" /><figcaption>Saturación</figcaption>
+<img data-src="imagenes-redes-com/saturacion-2.jpg" alt="Saturación" /><figcaption>Saturación</figcaption>
 </figure>
 </div>
+<h4 id="leavitt_effects_1951" class="peque"><span class="citation" data-cites="leavitt_effects_1951">Leavitt (1951)</span></h4>
 <!-- ## Conceptos explicativos: Saturación
 
 <div id="column2" style="float:left; margin:0; width:25%;">
@@ -155,57 +126,67 @@ Leavitt, H.J. (1951). Some effects of certain communication patterns on group pe
 </div>
 </section>
 <section id="redes-sociales" class="slide level2">
-<h1>Redes sociales</h1>
+<h2>Redes sociales</h2>
+<!--Desde el punto de vista del análisis de las redes sociales, el entorno social puede expresarse como patrones o regularidades en las relaciones entre las unidades que interactúan. Nos referiremos a la presencia de patrones regulares en la relación como estructura.\
+@wasserman_social_1994 [3]-->
 <blockquote>
-<p>Desde el punto de vista del análisis de las redes sociales, el entorno social puede expresarse como patrones o regularidades en las relaciones entre las unidades que interactúan. Nos referiremos a la presencia de patrones regulares en la relación como estructura.<br />
-<span class="citation" data-cites="wasserman_social_1994">Wasserman (1994, p. 3)</span></p>
+<p>La idea de red reside en el hecho de que cada individuo mantiene ligamenes con otros individuos, cada uno de los cuales está a su vez ligado a otros, y así sucesivamente. La estructura relacional de un grupo (…) consiste en las pautas de relaciones entre los actores.<br />
+<span class="citation" data-cites="rodriguez_alisis_1995">Rodríguez (1995, p. 11)</span></p>
 </blockquote>
-<!--
->La idea de red reside en el hecho de que cada individuo mantiene ligamenes con otros individuos, cada uno de los cuales está a su vez ligado a otros, y así sucesivamente.  La estructura relacional de un grupo (...) consiste en las pautas de relaciones entre los actores.\
-@rodriguez_alisis_1995 [11] -->
 </section>
-<section id="nodos-y-relaciones" class="slide level2" data-background="imagenes-redes-com/red.jpg" data-background-transition="zoom">
-<h1>Nodos y relaciones</h1>
-<div id="column1" style="float:left; margin:0; width:25%">
-<p><strong>Nodos</strong></p>
-<p>Personas</p>
-<p>Ordenadores</p>
-<p>Empresas</p>
+<section id="nodos-y-relaciones" class="slide level2" data-background="imagenes-redes-com/red.png" data-background-transition="zoom">
+<h2>Nodos y relaciones</h2>
+<div id="column1" style="float:left; margin:0; width:35%">
+<div>
+<ul>
+<li><strong>Nodos</strong>
+<ul>
+<li>Personas</li>
+<li>Ordenadores</li>
+<li>Empresas</li>
+<li>Aeropuertos</li>
+</ul></li>
+</ul>
 </div>
-<div id="column3" style="float:left; margin:0;">
-<!-- ![](imagenes-redes-com/Red.jpg) -->
 </div>
 <div id="column2" style="float:left; margin:0; width: 35%">
-<p><strong>Relaciones</strong></p>
-<p>Amistad</p>
-<p>Parentesco</p>
-<p>Colaboración</p>
-<p>Reconocimiento</p>
-<p>Intercambio</p>
+<div>
+<ul>
+<li><strong>Relaciones</strong>
+<ul>
+<li>Amistad</li>
+<li>Parentesco</li>
+<li>Colaboración</li>
+<li>Reconocimiento</li>
+<li>Intercambio</li>
+</ul></li>
+</ul>
+</div>
 </div>
 </section>
 <section id="ejemplo-western-electric" class="slide level2">
-<h1>Ejemplo: Western Electric</h1>
-<figure>
-<img src="imagenes-redes-com/ManagementAndTheWorkerNetwork.jpg" alt="507Roethlisberger &amp; Dickson (1939, p. 507)" /><figcaption><span class="citation" data-cites="roethlisberger_management_1939">Roethlisberger &amp; Dickson (1939, p. 507)</span></figcaption>
-</figure>
+<h2>Ejemplo: Western Electric</h2>
+<p><img data-src="imagenes-redes-com/ManagementAndTheWorkerNetwork.png" /></p>
+<h4 id="roethlisberger_management_1939-507" class="peque"><span class="citation" data-cites="roethlisberger_management_1939">Roethlisberger &amp; Dickson (1939, p. 507)</span></h4>
+<aside class="notes">
+<p>I = Inspector W = Wiremen S = Soldier</p>
+<p>De mayor a menor jerarquía</p>
+</aside>
+<!-- ## Ejemplo: Relaciones románticas {#relaciones-romanticas data-transition=fade}
+![](imagenes-redes-com/RomanticRelationships.jpg)
+
+#### @bearman_chains_2002 [58]{.peque} -->
 </section>
 <section id="ejemplo-relaciones-románticas" class="slide level2" data-transition="fade">
-<h1>Ejemplo: Relaciones románticas</h1>
-<figure>
-<img src="imagenes-redes-com/RomanticRelationships.jpg" alt="58Bearman, Moody, &amp; Stovel (2002, p. 58)" /><figcaption><span class="citation" data-cites="bearman_chains_2002">Bearman, Moody, &amp; Stovel (2002, p. 58)</span></figcaption>
-</figure>
-</section>
-<section id="ejemplo-relaciones-románticas-1" class="slide level2" data-transition="fade">
-<h1>Ejemplo: Relaciones románticas</h1>
-<figure>
-<img src="imagenes-redes-com/RomanticRelationships-2.png" alt="58Bearman et al. (2002, p. 58)" /><figcaption><span class="citation" data-cites="bearman_chains_2002">Bearman et al. (2002, p. 58)</span></figcaption>
-</figure>
+<h2>Ejemplo: Relaciones románticas</h2>
+<p><img data-src="imagenes-redes-com/RomanticRelationships-2.png" style="width:80.0%" /></p>
+<h4 id="bearman_chains_2002-58" class="peque"><span class="citation" data-cites="bearman_chains_2002">Bearman, Moody, &amp; Stovel (2002, p. 58)</span></h4>
 </section>
 <section id="section" class="slide level2" data-background="imagenes-redes-com/airports-world-network.png" data-background-transition="zoom">
-<h1></h1>
+<h2></h2>
+<h4 id="grandjean_connected_2016" class="peque"><span class="citation" data-cites="grandjean_connected_2016">Grandjean (2016)</span></h4>
 <!-- http://www.martingrandjean.ch/wp-content/uploads/2016/05/airports-world-network.png -->
-<p><span class="citation" data-cites="grandjean_connected_2016">Grandjean (2016)</span></p>
+<!-- @grandjean_connected_2016 -->
 <!--
 ## Ejemplo: Red de coautorías
 
@@ -213,107 +194,83 @@ Leavitt, H.J. (1951). Some effects of certain communication patterns on group pe
 <!--
 Co-authorship network map of 8,500 doctors and scientists publishing on hepatitis C between 2008 and 2012 and the almost 60,000 co-authorship relationships between them. Photo via Andy Lamb: https://www.flickr.com/photos/speedoflife/8273922515/
 -->
+<!-- ## Centralidad {.medio}
+
+Grado (Degree)
+:   Número de nodos de los cuales un determinado nodo es adyacente, con los que está en contacto directo.
+Cercanía (Closeness)
+:   Suma de las distancias entre el nodo y cada uno de los otros nodos.
+Intermediación (Betwenness)
+: Frecuencia con la que un punto está en el camino más corto entre otros pares de puntos.
+Eigenvector
+: Grado en que un nodo está conectado con otros nodos con alto grado (bien conectados). -->
 </section>
 <section id="centralidad" class="slide level2">
-<h1>Centralidad</h1>
-<dl>
-<dt class="fragment">Grado (Degree)</dt>
-<dd class="fragment"><p>Número de nodos de los cuales un determinado nodo es adyacente, con los que está en contacto directo.</p>
-</dd>
-<dt class="fragment">Cercanía (Closeness)</dt>
-<dd class="fragment"><p>Suma de las distancias entre el nodo y cada uno de los otros nodos.</p>
-</dd>
-<dt class="fragment">Intermediación (Betwenness)</dt>
-<dd class="fragment"><p>Frecuencia con la que un punto está en el camino más corto entre otros pares de puntos.</p>
-</dd>
-<dt class="fragment">Eigenvector</dt>
-<dd class="fragment"><p>Grado en que un nodo está conectado con otros nodos con alto grado (bien conectados).</p>
-</dd>
-</dl>
-</section>
-<section id="centralidad-1" class="slide level2">
-<h1>Centralidad</h1>
-<figure>
-<img src="imagenes-redes-com/Red-centralidad.jpg" alt="351Krackhardt (1990, p. 351)" /><figcaption><span class="citation" data-cites="krackhardt_assessing_1990">Krackhardt (1990, p. 351)</span></figcaption>
-</figure>
+<h2>Centralidad</h2>
+<div style="position:relative; width:900px; height:530px; margin:0 auto;">
+<p><img  src="imagenes-redes-com/kite-1.png" style="position:absolute;top:0;left:0;" /> <img class="fragment current-visible" data-fragment-index="1"  src="imagenes-redes-com/kite-2.png" style="position:absolute;top:0;left:0;" /> <img class="fragment current-visible" data-fragment-index="2" src="imagenes-redes-com/kite-3.png" style="position:absolute;top:0;left:0;" /> <img class="fragment current-visible" data-fragment-index="3" src="imagenes-redes-com/kite-4.png" style="position:absolute;top:0;left:0;" /></p>
+</div>
+<h4 id="krackhardt_assessing_1990-351" class="peque"><span class="citation" data-cites="krackhardt_assessing_1990">Krackhardt (1990, p. 351)</span></h4>
 </section>
 <section id="la-fuerza-de-los-lazos-débiles" class="slide level2">
-<h1>La fuerza de los lazos débiles</h1>
-<div id="column1" style="float:left; width: 100%">
-<figure>
-<img src="imagenes-redes-com/Red-lazos.jpg" />
-</figure>
-</div>
-<div class="fragment">
-<div id="column1" style="float:left; width: 100%">
-<blockquote>
-<p>Los lazos débiles proporcionan acceso a información y recursos que están más allá de los disponibles en los propios círculos sociales; pero los lazos fuertes tienen más motivación para proporcionar ayuda y normalmente están disponibles con más facilidad.<br />
-<span class="citation" data-cites="granovetter_fuerza_2003">Granovetter (2003, p. 205)</span></p>
-</blockquote>
-</div>
-</div>
+<h2>La fuerza de los lazos débiles</h2>
+<p><img data-src="imagenes-redes-com/Lazos-Debiles.png" /></p>
+<!-- <div id="column1" style="float:left; width: 100%">
+
+>Los lazos débiles proporcionan acceso a información y recursos que están más allá de los disponibles en los propios círculos sociales; pero los lazos fuertes tienen más motivación para proporcionar ayuda y normalmente están disponibles con más facilidad.\
+@granovetter_fuerza_2003 [205]
+</div> -->
 </section>
 <section id="el-mundo-es-un-pañuelo" class="slide level2">
-<h1>El mundo es un pañuelo</h1>
-<figure>
-<img src="imagenes-redes-com/Small-World.png" />
-</figure>
-<p><span class="citation" data-cites="milgram_small_1967">Milgram (1967)</span></p>
+<h2>El mundo es un pañuelo</h2>
+<p><img data-src="imagenes-redes-com/Small-World.png" /></p>
+<h4 id="milgram_small_1967" class="peque"><span class="citation" data-cites="milgram_small_1967">Milgram (1967)</span></h4>
 </section>
-<section id="seis-grados-de-separación" class="slide level2">
-<h1>Seis grados de separación</h1>
+<section id="seis-grados" class="slide level2">
+<h2>Seis grados de separación</h2>
 <div id="column1" style="float:left; margin:0; width: 55%">
 <figure>
-<img src="imagenes-redes-com/SixDegrees.jpg" alt="El oráculo de Bacon" /><figcaption><a href="http://www.oracleofbacon.org/">El oráculo de Bacon</a></figcaption>
+<img data-src="imagenes-redes-com/SixDegrees.jpg" alt="El oráculo de Bacon" /><figcaption><a href="http://www.oracleofbacon.org/">El oráculo de Bacon</a></figcaption>
 </figure>
 </div>
 <div class="fragment">
 <div id="column1" style="float:left; margin:0; width: 45%">
-<figure>
-<img src="imagenes-redes-com/KevinBacon.jpg" />
-</figure>
+<p><img data-src="imagenes-redes-com/KevinBacon.jpg" /></p>
 </div>
+<!-- ##
+
+[Eli Pariser:\
+Cuidado con la burbuja de filtros en la red](https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles?language=es)
+
+[https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles?language=es](https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles?language=es){.peque} -->
 </div>
 </section>
-<section id="section-1" class="slide level2">
-<h1></h1>
-<video width="860" class="stretch" controls>
-<source src="imagenes-redes-com/BewareOnlineFilterBubbles-2011.mp4" type="video/mp4">
-</video>
-<h4 id="pariser_cuidado_2011" class="autor"><span class="citation" data-cites="pariser_cuidado_2011">Pariser (2011)</span></h4>
-</section>
-<section><section id="referencias" class="titleslide slide level1 center"><h1>Referencias</h1></section><section id="section-2" class="slide level2 unnumbered scrollable peque">
-<h1></h1>
+<section><section id="referencias" class="title-slide slide level1 center"><h1>Referencias</h1></section><section id="section-1" class="slide level2 unnumbered scrollable peque">
+<h2></h2>
 <div id="refs" class="references">
 <div id="ref-bavelas_communication_1950">
 <p>Bavelas, A. (1950). Communication patterns in task-oriented groups. <em>The Journal of the Acoustical Society of America</em>, <em>22</em>(6), 725–730. Retrieved from <a href="http://pdfserv.aip.org/JASMAN/vol_22/iss_6/725_1.pdf" class="uri">http://pdfserv.aip.org/JASMAN/vol_22/iss_6/725_1.pdf</a></p>
 </div>
 <div id="ref-bearman_chains_2002">
-<p>Bearman, P. S., Moody, J., &amp; Stovel, K. (2002). Chains of Affection: The Structure of Adolescent Romantic and Sexual Networks. Retrieved from <a href="http://academiccommons.columbia.edu/catalog/ac:129217" class="uri">http://academiccommons.columbia.edu/catalog/ac:129217</a></p>
+<p>Bearman, P. S., Moody, J., &amp; Stovel, K. (2002). Chains of Affection: The Structure of Adolescent Romantic and Sexual Networks. <a href="http://doi.org/https://doi.org/10.7916/D83R10RS" class="uri">http://doi.org/https://doi.org/10.7916/D83R10RS</a></p>
 </div>
 <div id="ref-grandjean_connected_2016">
 <p>Grandjean, M. (2016, May). Connected World: Untangling the Air Traffic Network. <em>Martin Grandjean</em>. Retrieved from <a href="http://www.martingrandjean.ch/connected-world-air-traffic-network/" class="uri">http://www.martingrandjean.ch/connected-world-air-traffic-network/</a></p>
 </div>
-<div id="ref-granovetter_fuerza_2003">
-<p>Granovetter, M. S. (2003). La fuerza de los lazos débiles. Revisión de la teoría reticular. In <em>Análisis de redes sociales : orígenes, teorías y aplicaciones</em> (pp. 196–230). Alianza Editorial. Retrieved from <a href="https://dialnet.unirioja.es/servlet/articulo?codigo=846571" class="uri">https://dialnet.unirioja.es/servlet/articulo?codigo=846571</a></p>
-</div>
-<div id="ref-johnson_joining_2014">
-<p>Johnson, D. W., &amp; Johnson, F. P. (2014). <em>Joining Together: Group Theory and Group Skills</em> (11th ed.). Harlow: Pearson Education.</p>
-</div>
 <div id="ref-krackhardt_assessing_1990">
 <p>Krackhardt, D. (1990). Assessing the Political Landscape: Structure, Cognition, and Power in Organizations. <em>Administrative Science Quarterly</em>, <em>35</em>(2), 342–69.</p>
+</div>
+<div id="ref-leavitt_effects_1951">
+<p>Leavitt, H. J. (1951). Some effects of certain communication patterns on group performance. <em>Journal of Abnormal and Social Psychology</em>, <em>46</em>, 38–50.</p>
 </div>
 <div id="ref-milgram_small_1967">
 <p>Milgram, S. (1967). The small world problem. <em>Psychology Today</em>, <em>67</em>(1), 60–67.</p>
 </div>
-<div id="ref-pariser_cuidado_2011">
-<p>Pariser, E. (2011). Cuidado con la “burbuja de filtros” en la red. Retrieved from <a href="https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles?language=es" class="uri">https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles?language=es</a></p>
+<div id="ref-rodriguez_alisis_1995">
+<p>Rodríguez, J. A. (1995). <em>Análisis estructural y de redes</em>. Madrid: Centro de Investigaciones Sociológicas.</p>
 </div>
 <div id="ref-roethlisberger_management_1939">
 <p>Roethlisberger, F. J., &amp; Dickson, W. J. (1939). <em>Management and the worker</em>. Cambridge, Mass.: Harvard University Press. Retrieved from <a href="http://archive.org/details/managementworker00roet" class="uri">http://archive.org/details/managementworker00roet</a></p>
-</div>
-<div id="ref-wasserman_social_1994">
-<p>Wasserman, S. (1994). <em>Social network analysis : methods and applications</em>. Cambridge: Cambridge University Press.</p>
 </div>
 </div>
 </section></section>
@@ -330,39 +287,119 @@ Co-authorship network map of 8,500 doctors and scientists publishing on hepatiti
       Reveal.initialize({
 
         //Opciones reveal
+        pdfSeparateFragments: false,
         controls: true,
+        controlsTutorial: true,
+        fragments: true,
+        // Flags if speaker notes should be visible to all viewers
+      	dshowNotes: false,
         rollingLinks: true,
         previewLinks: false,
         progress: true,
         history: true,
         center: false,
 	      zoomKey: 'shift',
+
         theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
         transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
+	//Opciones spotlight
+	spotlight: {
 
+			// size of the spotlight
+			size: 45,
+
+			// toggle spotlight by holding down the mouse key
+			toggleSpotlightOnMouseDown: true,
+
+			// choose the cursor when spotlight is on. Maybe "crosshair", "none"?
+			presentingCursor: "arrow",
+
+			// true: cursor is always "none" except when spotlight is on.
+			presentingCursorOnlyVisibleWhenSpotlightVisible: true,
+	},
+	keyboard: {
+			// alternative to toggleSpotlightOnMouseDown:
+			// toggle spotlight by pressing key 'c = 67'
+			67: function() { RevealSpotlight.toggleSpotlight() },
+
+			// enter/leave presentation mode by pressing key 'Windows Menu/Right' (93)
+			93: function() {
+				RevealSpotlight.togglePresentationMode();
+			},
+	},
+	//Fin spotlight
+        //Opciones coursemod
+        coursemod: {
+        enabled: false, //enable or disable the plugin, default to false
+        shown: false //immediatly show the course notes view, this defaults to true if not present.
+        }, //Pueden mostrarse con ?show-notes=true
+        //fin opciones coursemod
 
         //Opciones plugin menu
         menu: {
           themes: false,
           markers: true,
-	        titleSelector: 'h1',
+	        titleSelector: 'h1, h2',
           custom: [
                       { title: 'About', icon: '<i class="fa fa-info">', content: '<p>Presentaciones con reveal.js</p></p>Algunos consejos<ul><li>Se ven mejor a pantalla completa (normalmente F11)</li><li>Para navegar por las diapositivas, lo mejor es que utilices la barra espaciadora, aunque también puedes utilizar los controles de abajo a la derecha.</li><li>Durante las presentaciones, encontrarás más ayuda si aprietas la tecla "?".</f1></ul><h1>Reconocimientos</h1><p>Para realizar estas presentaciones he utilizado varios programas de software libre</p><ul><li><a href="http://lab.hakim.se/reveal-js/#/" target="_blank">Reveal.js</a>: Es el programa base de las presentaciones.</li><li><a href="http://pandoc.org/" target="_blank">Pandoc</a>: El programa que genera el archivo html (con formato Reveal.js) a partir de un archivo markdown.</li><li><a href="https://atom.io/" target="_blank">Atom</a>: El editor de texto.</li><li><a href="https://github.com/denehyg/reveal.js-menu" target="_blank">Reveal.js-menu: Menú lateral.</a></li><li><a href="https://github.com/rajgoel/reveal.js-plugins/tree/master/chalkboard" target="_blank">Reveal.js-chalkboard: Pizarra</a></li><li>GitHub: Donde está alojada la página</li><li>Inkscape: Parte de los gráficos (animados) en formato SVG.</li></ul> ' }
                   ]
           },
 
-          //Plugin chalkboard
+
           keyboard: {
+	//Plugin chalkboard
               67: function() { RevealChalkboard.toggleNotesCanvas() },	// toggle notes canvas when 'c' is pressed
               66: function() { RevealChalkboard.toggleChalkboard() },	// toggle chalkboard when 'b' is pressed
               46: function() { RevealChalkboard.clear() },	// clear chalkboard when 'DEL' is pressed
                8: function() { RevealChalkboard.reset() },	// reset chalkboard data on current slide when 'BACKSPACE' is pressed
               68: function() { RevealChalkboard.download() },	// downlad recorded chalkboard drawing when 'd' is pressed
+	//Opciones spotlight
+	//81: function() { RevealSpotlight.toggleSpotlight() }, //// toggle spotlight by pressing key 'q'
+	//87: function() { RevealSpotlight.togglePresentationMode() }, // enter/leave presentation mode by pressing key 'w' 'Windows Menu/Right' (93)
           },
           // fin chalckboard...
-
+          // Inicio anything
+          anything: [
+          	{className: "animate",  initialize: (function(container, options){
+          		Reveal.addEventListener( 'fragmentshown', function( event ) {
+          			if (typeof event.fragment.beginElement === "function" ) {
+          				event.fragment.beginElement();
+          			}
+          		});
+          		Reveal.addEventListener( 'fragmenthidden', function( event ) {
+          			if (event.fragment.hasAttribute('data-reverse') ) {
+          				var reverse = event.fragment.parentElement.querySelector('[id=\"' + event.fragment.getAttribute('data-reverse') + '\"]');
+          				if ( reverse && typeof reverse.beginElement === "function" ) {
+          					reverse.beginElement();
+          				}
+          			}
+          		});
+          		if ( container.getAttribute("data-svg-src") ) {
+          			var xhr = new XMLHttpRequest();
+          			xhr.onload = function() {
+          				if (xhr.readyState === 4) {
+          					var svg = container.querySelector('svg');
+          					container.removeChild( svg );
+          					container.innerHTML = xhr.responseText + container.innerHTML;
+          					if ( svg ) {
+          						container.querySelector('svg').innerHTML = container.querySelector('svg').innerHTML + svg.innerHTML;
+          					}
+          				}
+          				else {
+          					console.warn( "Failed to get file. ReadyState: " + xhr.readyState + ", Status: " + xhr.status);
+          				}
+          			};
+          			xhr.open( 'GET', container.getAttribute("data-svg-src"), true );
+          			xhr.send();
+          		}
+          	}) }
+          ],
+          // fin anything
           // Optional libraries used to extend on reveal.js
         dependencies: [
+	  //{ src: 'reveal.js/plugin/spotlight/spotlight.js' }, //https://github.com/denniskniep/reveal.js-plugin-spotlight
+          { src: 'reveal.js/plugin/coursemod/coursemod.js', async: true},
+          { src: 'reveal.js/plugin/anything/anything.js' },
           { src: 'reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
           { src: 'reveal.js/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
           { src: 'reveal.js/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } },
@@ -378,15 +415,12 @@ Co-authorship network map of 8,500 doctors and scientists publishing on hepatiti
           });
 
     </script>
-    <div class="ribbon">
-    <a  href="https://github.com/jmunoz298/presentaciones"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/365986a132ccd6a44c23a9169022c0b5c890c387/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f7265645f6161303030302e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png"></a>
-    </div>
-<!--
-<div style="position: absolute; bottom: 0px; margin-left: 0px; width: 100%; background-color:#fff; padding: 20px;
-    filter:alpha(opacity=5); opacity:0.5; border-color:#000000;"><center><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Llicència de Creative Commons" style="border-width:0" src="img/cc-by.png" /></a> Juan Muñoz  | Redes de comunicación - <b>Influencia Social y Grupos</b></center>
+    /*<div class="ribbon">
+     <a  href="https://github.com/jmunoz298/presentaciones"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/365986a132ccd6a44c23a9169022c0b5c890c387/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f7265645f6161303030302e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png"></a>
 
-</div>
--->
+    <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Llicència de Creative Commons" style="position: absolute; left: 500px; bottom: 125px; border: 0;" src="img/cc-by.png"></a></center>    </div>
+    </div>*/
+
 
   </body>
 </html>
