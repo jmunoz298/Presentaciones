@@ -11,14 +11,14 @@ csl: apa.csl
 lateral-menu: 'True'
 ...
 
-##¿Qué es un conflicto? {data-background="imagenes-conflicto/conflicto.jpg" data-background-transition=zoom data-state=fondo}
+## ¿Qué es un conflicto? {#que-es data-background="imagenes-conflicto/conflicto.jpg" data-background-transition=zoom data-state=fondo}
 
 >Se calificará de "conflicto" una relación social en la medida en que la acción dentro de ella esté orientada intencionalmente a llevar a cabo la voluntad del actor contra la resistencia de la otra parte o partes.\
 @weber_economy_1978 [p. 38]
 
 # La lucha por los recursos  {.center}
 
-##Teoría realista del conflicto
+## Teoría realista del conflicto
 
 * El conflicto se basa en una situación objetiva.
 * El conflicto aparece cuando dos grupos tienen intereses y metas mutuamente incompatibles: cuando un grupo alcanza su meta, el otro no puede alcanzarla.
@@ -26,7 +26,7 @@ lateral-menu: 'True'
 ![Muzafer Sheriff\
 (1906-1988)](imagenes-conflicto/Sherif.jpg)
 
-##Robber's Cave {data-background="imagenes-conflicto/RobbersCave.jpg" data-background-transition=zoom data-state=fondo }
+## Robber's Cave {data-background="imagenes-conflicto/RobbersCave.jpg" data-background-transition=zoom data-state=fondo }
 
 . . .
 
@@ -57,38 +57,35 @@ lateral-menu: 'True'
 >El proceso de comparación social transforma las simples discriminaciones perceptivas o cognitivas en actitudes y acciones diferenciales que favorecen al propio grupo sobre el grupo externo. Motiva el aumento competitivo de criterios de diferenciación entre los grupos y otras estrategias además de la discriminación directa para conseguir una distintividad positiva"\
 @turner_experimental_1981 [p. 82]
 
-## Categorización - conflicto {data-background="imagenes-conflicto/categorizacion.jpg" data-background-transition=zoom}
+## Categorización - conflicto {#categorizacion-conflicto data-background="imagenes-conflicto/categorizacion.jpg" data-background-transition=zoom}
 
 #### El conflicto aparece cuando se categoriza a las partes como representantes de diferentes grupos o identidades sociales. {.fondoblanco}
 
-##Efectos de la categorización
+## Efectos de la categorización {#efectos-categorizacion}
 
 La categorización genera...
 
 Favoritismo endogrupal
-
 :   Asumimos que los argumentos de nuestro propio grupo son mejores. Argumentamos de acuerdo con la identidad endogrupal.
-
 Hostilidad exogrupal
-
 :   Asumimos que los argumentos del otro grupo son peores.  Interpretamos su significado de acuerdo a la identidad exogrupal.
 
-##Klee - Kandisnly
+## Klee - Kandisnly
 
 ![](imagenes-conflicto/Klee-Kandinsky.png)
 
-##Grupo mínimo
+## Grupo mínimo {#grupo-minimo}
 
 ![](imagenes-conflicto/MatrizGrupoMinimo.png)
 
 
-##Reducción del conflicto
+## Reducción del conflicto {#reduccion-conflicto}
 
 * Decategorización
 * Recategorización
 * Diferenciación intergrupal mutua
 
-#### @turner_mutual_2010 {.autor}
+#### @turner_mutual_2010 {.peque}
 
 ## Strangers
 
