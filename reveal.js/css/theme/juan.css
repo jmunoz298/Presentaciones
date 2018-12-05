@@ -296,6 +296,13 @@ background-color:  #d0dafd;
   box-shadow: none;
 }
 
+.reveal .border-strong{
+  border: .2em solid black;
+  box-shadow: none;
+  padding: 0px;
+  margin: 0px;
+}
+
 .reveal .noshadow {
   box-shadow: none;
   border: 0 0 0px;}
@@ -377,6 +384,10 @@ opacity:0.3;}
 
 .reveal .transparencia {
   opacity: 0.8;
+}
+
+html.transparencia .slide-background {
+	opacity: 0.6 !important;
 }
 
 .section .peque, .reveal .peque {

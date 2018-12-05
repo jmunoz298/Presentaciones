@@ -26,19 +26,19 @@ lateral-menu: 'True'
 ![Muzafer Sheriff\
 (1906-1988)](imagenes-conflicto/Sherif.jpg)
 
-## Robber's Cave {data-background="imagenes-conflicto/RobbersCave.jpg" data-background-transition=zoom data-state=fondo }
+## Robber's Cave {data-background="imagenes-conflicto/RobbersCave.jpg" data-background-transition=zoom data-state="transparencia" }
 
 . . .
 
 <div id="column1" style="float:left; margin:0; width:50%;">
-![Competición](imagenes-conflicto/RobbersCave-1.jpg)
+![Competición](imagenes-conflicto/RobbersCave-1.jpg){.border-strong .fondo}
 </div>
 
 <div id="column1" style="float:left; margin:0; width:50%;">
-![Interdependencia](imagenes-conflicto/RobbersCave-2.jpg)
+![Interdependencia](imagenes-conflicto/RobbersCave-2.jpg){.border-strong .fondo}
 </div>
 
-#### @sherif_experiments_1956 {.autor}
+#### @sherif_experiments_1956 {.peque}
 
 <!--
 ## Tyerman y Spencer (1983)
@@ -76,14 +76,21 @@ Hostilidad exogrupal
 
 ## Grupo mínimo {#grupo-minimo}
 
-![](imagenes-conflicto/MatrizGrupoMinimo.png)
-
+<div style="position:relative; width:4050px; height:700px; margin:500 auto;">
+  <img  src="imagenes-conflicto/MatrizGrupoMinimo-01.png" style="position:absolute;top:0;left:0;" />
+  <img class="fragment current-visible" data-fragment-index="1"  src="imagenes-conflicto/MatrizGrupoMinimo-02.png" style="position:absolute;top:0;left:0;" />
+  <img class="fragment current-visible" data-fragment-index="2" src="imagenes-conflicto/MatrizGrupoMinimo-03.png" style="position:absolute;top:0;left:0;" />
+  <img class="fragment current-visible" data-fragment-index="3" src="imagenes-conflicto/MatrizGrupoMinimo-04.png" style="position:absolute;top:0;left:0;" />
+  <img class="fragment current-visible" data-fragment-index="4" src="imagenes-conflicto/MatrizGrupoMinimo-05.png" style="position:absolute;top:0;left:0;" />
+</div>
 
 ## Reducción del conflicto {#reduccion-conflicto}
 
+:::nonincremental
 * Decategorización
 * Recategorización
 * Diferenciación intergrupal mutua
+:::
 
 #### @turner_mutual_2010 {.peque}
 
