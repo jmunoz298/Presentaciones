@@ -1,0 +1,479 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <title>Organizational Network Analysis</title>
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <link rel="stylesheet" href="reveal.js/css/reveal.css"/>
+ <link rel="stylesheet" href="reveal.js/plugin/toc-progress/toc-progress.css">
+ <style type="text/css">
+     code{white-space: pre-wrap;}
+     span.smallcaps{font-variant: small-caps;}
+     span.underline{text-decoration: underline;}
+     div.column{display: inline-block; vertical-align: top; width: 50%;}
+ </style>
+  <!--  <style type="text/css">code{white-space: pre;}</style> -->
+    <link rel="stylesheet" href="reveal.js/css/theme/serif.css" id="theme">
+    <link rel="stylesheet" href="reveal.js/css/theme/juan.css" id="theme">
+
+<!-- If the query includes 'print-pdf', use the PDF print sheet -->
+<script>
+  var link = document.createElement( 'link' );
+  link.rel = 'stylesheet';
+  link.type = 'text/css';
+  link.href = window.location.search.match( /print-pdf/gi ) ? 'reveal.js/css/print/pdf.css' : 'reveal.js/css/print/paper.css';
+  document.getElementsByTagName( 'head' )[0].appendChild( link );
+</script>
+
+  <!--[if lt IE 9]>
+  <script src="reveal.js/lib/js/html5shiv.js"></script>
+  <![endif]-->
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+<section data-state="no-toc-progress">
+    <h1 class="title .no-toc-progress">Organizational Network Analysis</h1>
+<h4 class="author">Aspectos Psicosociales…</h4>
+    <h4 class="author">Juan Muñoz</h4>
+    <h6 class="author">Universitat Autònoma de Barcelona</h6>
+    <h6 class="author"></h6>
+    <h4 class="date"></h4>
+    <h4 class="date">http:/juan.psicologiasocial.eu</h4>
+    <div style="position: absolute; bottom: -50px; margin-left: 0px; width: 100%; <center><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Llicència de Creative Commons" style="border-width:0" src="img/cc-by.png" /></a></center>
+    </div>
+</section>
+<section id="comunicacion-redes" class="slide level2" data-background="imagenes-ONA/red-comunicacion.jpg" data-background-transition="zoom" data-state="fondo">
+<h2>El Análisis de Redes Sociales</h2>
+<blockquote>
+<p>La idea de red reside en el hecho de que cada individuo mantiene ligamenes con otros individuos, cada uno de los cuales está a su vez ligado a otros, y así sucesivamente. La estructura relacional de un grupo (…) consiste en las pautas de relaciones entre los actores.<br />
+<span class="citation" data-cites="rodriguez_alisis_1995">Rodríguez (1995, p. 11)</span></p>
+</blockquote>
+</section>
+<section id="section" class="slide level2">
+<h2></h2>
+<blockquote>
+<p>La estructura de relaciones entre actores y la ubicación en la red de actores individuales tiene importantes consecuencias conductuales, perceptivas y actitudinales tanto para las unidades individuales como para el sistema en su conjunto.<br />
+<span class="citation" data-cites="knoke_network_1982">Knoke &amp; Kuklinsky (1982, p. 13)</span></p>
+</blockquote>
+</section>
+<section id="orígenes-j.l.-moreno" class="slide level2">
+<h2>Orígenes: J.L. Moreno</h2>
+<figure>
+<img data-src="imagenes-ONA/Moreno-01.png" alt="p, 36Moreno (1934 p, 36)" /><figcaption><span class="citation" data-cites="moreno_who_1934">Moreno (1934 p, 36)</span></figcaption>
+</figure>
+<aside class="notes">
+<p>¿Con quién quieres sentarte? Estructura de la clase de 2º grado. Triángulos chicos, círculos chicas.</p>
+</aside>
+</section>
+<section id="redes-de-comunicación" class="slide level2">
+<h2>Redes de comunicación</h2>
+<figure>
+<img data-src="imagenes-redes-com/Redes-eficacia.jpg" alt="Bavelas (1950)" /><figcaption><span class="citation" data-cites="bavelas_communication_1950">Bavelas (1950)</span></figcaption>
+</figure>
+</section>
+<section id="el-mundo-es-un-pañuelo" class="slide level2">
+<h2>El mundo es un pañuelo</h2>
+<figure>
+<img data-src="imagenes-ONA/Small-World.png" alt="Milgram (1967)" /><figcaption><span class="citation" data-cites="milgram_small_1967">Milgram (1967)</span></figcaption>
+</figure>
+</section>
+<section id="western-electric" class="slide level2">
+<h2>Western Electric</h2>
+<figure>
+<img data-src="imagenes-ONA/ManagementAndTheWorkerNetwork.png" alt="p. 507Roethlisberger &amp; Dickson (1939, p. 507)" /><figcaption><span class="citation" data-cites="roethlisberger_management_1939">Roethlisberger &amp; Dickson (1939, p. 507)</span></figcaption>
+</figure>
+<aside class="notes">
+<p>I = Inspector W = Wiremen S = Soldier</p>
+<p>De mayor a menor jerarquía</p>
+</aside>
+</section>
+<section id="nodos-y-relaciones" class="slide level2" data-background="imagenes-ONA/red.png" data-background-transition="zoom">
+<h2>Nodos y relaciones</h2>
+<div id="column1" style="float:left; margin:0; width:35%">
+<div>
+<ul>
+<li><strong>Nodos</strong>
+<ul>
+<li>Personas</li>
+<li>Ordenadores</li>
+<li>Empresas</li>
+<li>Aeropuertos</li>
+</ul></li>
+</ul>
+</div>
+</div>
+<div id="column2" style="float:left; margin:0; width: 35%">
+<div>
+<ul>
+<li><strong>Relaciones</strong>
+<ul>
+<li>Amistad</li>
+<li>Parentesco</li>
+<li>Colaboración</li>
+<li>Reconocimiento</li>
+<li>Intercambio</li>
+</ul></li>
+</ul>
+</div>
+</div>
+<aside class="notes">
+<ul>
+<li><p>Relaciones entre personas ** Parentesco: madre de, esposo de ** Roles: jefa de, profesor de, amigo de ** Cognitivo-perceptual: conoce… ** Afectivo: le gusta, confía ** Interacción: da consejo, habla con, compite con, tiene relaciones sexuales con ** Afiliación: pertenece a mismo club, está cerca físicamente</p></li>
+<li>Relaciones entre organizaciones ** Como entidades corporativas: compra, vende, alquila subcontrata, posee acciones, filial de, alianza con, acuerdo comercial con… ** A través de sus miembros: amistad personal, consejo de administración…</li>
+</ul>
+</aside>
+</section>
+<section id="ejemplo-relaciones-románticas" class="slide level2" data-transition="fade">
+<h2>Ejemplo: Relaciones románticas</h2>
+<figure>
+<img data-src="imagenes-redes-com/RomanticRelationships-2.png" alt="58Bearman, Moody, &amp; Stovel (2002, p. 58)" style="width:80.0%" /><figcaption><span class="citation" data-cites="bearman_chains_2002">Bearman, Moody, &amp; Stovel (2002, p. 58)</span></figcaption>
+</figure>
+</section>
+<section id="ejemplo-red-de-coautorías" class="slide level2">
+<h2>Ejemplo: Red de coautorías</h2>
+<figure>
+<img data-src="imagenes-redes-com/BigNetwork.jpg" alt="Red de coautorías de 8.500 nodos y 60.000 relaciones" /><figcaption>Red de coautorías de 8.500 nodos y 60.000 relaciones</figcaption>
+</figure>
+<aside class="notes">
+<p>Co-authorship network map of 8,500 doctors and scientists publishing on hepatitis C between 2008 and 2012 and the almost 60,000 co-authorship relationships between them. Photo via Andy Lamb: https://www.flickr.com/photos/speedoflife/8273922515/</p>
+</aside>
+</section>
+<section id="section-1" class="slide level2" data-background="imagenes-ONA/airports-world-network.png" data-background-transition="zoom">
+<h2></h2>
+<h4 id="grandjean_connected_2016" class="peque"><span class="citation" data-cites="grandjean_connected_2016">Grandjean (2016)</span></h4>
+<!-- http://www.martingrandjean.ch/wp-content/uploads/2016/05/airports-map.png -->
+</section>
+<section id="descubrir-la-estructura-oculta" class="slide level2">
+<h2>Descubrir la estructura oculta</h2>
+<blockquote>
+<p>Si la organización formal es el esqueleto de una empresa, el informal es el sistema nervioso central que impulsa los procesos de pensamiento colectivo, las acciones y las reacciones de sus unidades de negocio.<br />
+<span class="citation" data-cites="krackhardt_informal_1993">Krackhardt &amp; Hanson (1993, p. 104)</span></p>
+</blockquote>
+</section>
+<section id="section-2" class="slide level2">
+<h2></h2>
+<p><img data-src="imagenes-ONA/Cross-01.png" /></p>
+</section>
+<section id="section-3" class="slide level2">
+<h2></h2>
+<p><img data-src="imagenes-ONA/Cross-02.png" /></p>
+</section>
+<section id="escuelas-secundaria-holandesas" class="slide level2">
+<h2>Escuelas secundaria holandesas</h2>
+<p><img data-src="imagenes-ONA/Zwijze-Koning.png" /></p>
+</section>
+<section id="centralidad" class="slide level2 medio">
+<h2>Centralidad</h2>
+<dl>
+<dt class="fragment">Grado (Degree)</dt>
+<dd class="fragment">Número de nodos de los cuales un determinado nodo es adyacente, con los que está en contacto directo.
+</dd>
+<dt class="fragment">Cercanía (Closeness)</dt>
+<dd class="fragment">Suma de las distancias entre el nodo y cada uno de los otros nodos.
+</dd>
+<dt class="fragment">Intermediación (Betwenness)</dt>
+<dd class="fragment">Frecuencia con la que un punto está en el camino más corto entre otros pares de puntos.
+</dd>
+<dt class="fragment">Vector propio (Eigenvector)</dt>
+<dd class="fragment">Grado en que un nodo está conectado con otros nodos con alto grado (bien conectados).
+</dd>
+</dl>
+</section>
+<section id="centralidad-1" class="slide level2">
+<h2>Centralidad</h2>
+<div style="position:relative; width:900px; height:530px; margin:0 auto;">
+<p><img  src="imagenes-ONA/kite-1.png" style="position:absolute;top:0;left:0;" /> <img class="fragment current-visible" data-fragment-index="1"  src="imagenes-ONA/kite-2.png" style="position:absolute;top:0;left:0;" /> <img class="fragment current-visible" data-fragment-index="2" src="imagenes-ONA/kite-3.png" style="position:absolute;top:0;left:0;" /> <img class="fragment current-visible" data-fragment-index="3" src="imagenes-ONA/kite-4.png" style="position:absolute;top:0;left:0;" /></p>
+</div>
+<h4 id="krackhardt_assessing_1990-351" class="peque"><span class="citation" data-cites="krackhardt_assessing_1990">Krackhardt (1990, p. 351)</span></h4>
+</section>
+<section id="la-fuerza-de-los-lazos-débiles" class="slide level2">
+<h2>La fuerza de los lazos débiles</h2>
+<p><img data-src="imagenes-ONA/Lazos-Debiles.png" /></p>
+<!-- <div id="column1" style="float:left; width: 100%">
+
+>Los lazos débiles proporcionan acceso a información y recursos que están más allá de los disponibles en los propios círculos sociales; pero los lazos fuertes tienen más motivación para proporcionar ayuda y normalmente están disponibles con más facilidad.\
+@granovetter_fuerza_2003 [205]
+</div> -->
+</section>
+<section id="roles" class="slide level2">
+<h2>Roles</h2>
+<p><img data-src="imagenes-ONA/roles-deloitte.png" /></p>
+</section>
+<section id="turnover" class="slide level2">
+<h2>Turnover</h2>
+<p><img data-src="imagenes-ONA/Parise-5a.png" /></p>
+</section>
+<section id="turnover-1" class="slide level2">
+<h2>Turnover</h2>
+<p><img data-src="imagenes-ONA/Parise-5b.png" /></p>
+</section>
+<section id="section-4" class="slide level2">
+<h2></h2>
+<figure>
+<img data-src="imagenes-ONA/Ramco-01.png" alt="Red interna" /><figcaption>Red interna</figcaption>
+</figure>
+</section>
+<section id="section-5" class="slide level2">
+<h2></h2>
+<figure>
+<img data-src="imagenes-ONA/Ramco-02.png" alt="Redundancia" /><figcaption>Redundancia</figcaption>
+</figure>
+</section>
+<section id="inclusividad" class="slide level2">
+<h2>Inclusividad</h2>
+<figure>
+<img data-src="imagenes-ONA/Yamkovenko-01.png" alt="Yamkovenko &amp; Tavares (2017)" /><figcaption><span class="citation" data-cites="yamkovenko_understand_2017">Yamkovenko &amp; Tavares (2017)</span></figcaption>
+</figure>
+</section>
+<section id="section-6" class="slide level2">
+<h2></h2>
+<p><img data-src="imagenes-ONA/Yamkovenko-02.png" /></p>
+</section>
+<section id="section-7" class="slide level2">
+<h2></h2>
+<p><img data-src="imagenes-ONA/Yamkovenko-03.png" /></p>
+</section>
+<section id="section-8" class="slide level2">
+<h2></h2>
+<figure>
+<img data-src="imagenes-ONA/Krachardt-01.png" alt="Organigrama formal" /><figcaption>Organigrama formal</figcaption>
+</figure>
+</section>
+<section id="section-9" class="slide level2">
+<h2></h2>
+<figure>
+<img data-src="imagenes-ONA/Krachardt-advice-02.png" alt="Red de asesoramiento" /><figcaption>Red de asesoramiento</figcaption>
+</figure>
+</section>
+<section id="ramco" class="slide level2">
+<h2>Ramco</h2>
+<p><img data-src="imagenes-ONA/Ramco-2018-01.png" /></p>
+</section>
+<section id="section-10" class="slide level2">
+<h2></h2>
+<p><img data-src="imagenes-ONA/Ramco-2018-02.png" /></p>
+</section>
+<section id="section-11" class="slide level2">
+<h2></h2>
+<p><img data-src="imagenes-ONA/Ramco-2018-03.png" /></p>
+</section>
+<section id="section-12" class="slide level2">
+<h2></h2>
+<p><img data-src="imagenes-ONA/Ramco-2018-04.png" /></p>
+</section>
+<section id="section-13" class="slide level2">
+<h2></h2>
+<p><img data-src="imagenes-ONA/Ramco-2018-05.png" /></p>
+</section>
+<section id="section-14" class="slide level2">
+<h2></h2>
+<p><img data-src="imagenes-ONA/Ramco-2018-06.png" /></p>
+</section>
+<section id="ética" class="slide level2">
+<h2>Ética</h2>
+<ul>
+<li class="fragment">Anonimato</li>
+<li class="fragment">Datos perdidos</li>
+<li class="fragment">Participación voluntaria</li>
+<li class="fragment">Tipo de preguntas relacionales</li>
+</ul>
+</section>
+<section id="section-15" class="slide level2">
+<h2></h2>
+<div style="position:relative; width:900px; height:530px; margin:0 auto;">
+<p><img  src="imagenes-ONA/missing-data-01.png" style="position:absolute;top:0;left:0;" /> <img class="fragment current-visible" data-fragment-index="1"  src="imagenes-ONA/missing-data-02.png" style="position:absolute;top:0;left:0;" /> <img class="fragment current-visible" data-fragment-index="2" src="imagenes-ONA/missing-data-03.png" style="position:absolute;top:0;left:0;" /></p>
+</div>
+</section>
+<section><section id="referencias" class="title-slide slide level1 center"><h1>Referencias</h1></section><section id="section-16" class="slide level2 unnumbered scrollable peque">
+<h2></h2>
+<div id="refs" class="references">
+<div id="ref-bavelas_communication_1950">
+<p>Bavelas, A. (1950). Communication patterns in task-oriented groups. <em>The Journal of the Acoustical Society of America</em>, <em>22</em>(6), 725–730. Retrieved from <a href="http://pdfserv.aip.org/JASMAN/vol_22/iss_6/725_1.pdf" class="uri">http://pdfserv.aip.org/JASMAN/vol_22/iss_6/725_1.pdf</a></p>
+</div>
+<div id="ref-bearman_chains_2002">
+<p>Bearman, P. S., Moody, J., &amp; Stovel, K. (2002). Chains of Affection: The Structure of Adolescent Romantic and Sexual Networks. <a href="http://doi.org/https://doi.org/10.7916/D83R10RS" class="uri">http://doi.org/https://doi.org/10.7916/D83R10RS</a></p>
+</div>
+<div id="ref-grandjean_connected_2016">
+<p>Grandjean, M. (2016, May). Connected World: Untangling the Air Traffic Network. <em>Martin Grandjean</em>. Retrieved from <a href="http://www.martingrandjean.ch/connected-world-air-traffic-network/" class="uri">http://www.martingrandjean.ch/connected-world-air-traffic-network/</a></p>
+</div>
+<div id="ref-knoke_network_1982">
+<p>Knoke, D., &amp; Kuklinsky, J. H. (1982). <em>Network analysis</em> (Vol. 28). London: Sage.</p>
+</div>
+<div id="ref-krackhardt_assessing_1990">
+<p>Krackhardt, D. (1990). Assessing the Political Landscape: Structure, Cognition, and Power in Organizations. <em>Administrative Science Quarterly</em>, <em>35</em>(2), 342–69.</p>
+</div>
+<div id="ref-krackhardt_informal_1993">
+<p>Krackhardt, D., &amp; Hanson, J. R. (1993). Informal networks: The company behind the chart. <em>Harvard Business Review</em>, <em>71</em>, 104–111.</p>
+</div>
+<div id="ref-milgram_small_1967">
+<p>Milgram, S. (1967). The small world problem. <em>Psychology Today</em>, <em>67</em>(1), 60–67.</p>
+</div>
+<div id="ref-moreno_who_1934">
+<p>Moreno, J. L. (1934). <em>Who Shall Survive: A New Approach to the Problem of Human Interrelations</em>. Washington DC: Nervous; Mental Disease Publishing Co. Retrieved from <a href="http://archive.org/details/whoshallsurviven00jlmo" class="uri">http://archive.org/details/whoshallsurviven00jlmo</a></p>
+</div>
+<div id="ref-rodriguez_alisis_1995">
+<p>Rodríguez, J. A. (1995). <em>Análisis estructural y de redes</em>. Madrid: Centro de Investigaciones Sociológicas.</p>
+</div>
+<div id="ref-roethlisberger_management_1939">
+<p>Roethlisberger, F. J., &amp; Dickson, W. J. (1939). <em>Management and the worker</em>. Cambridge, Mass.: Harvard University Press. Retrieved from <a href="http://archive.org/details/managementworker00roet" class="uri">http://archive.org/details/managementworker00roet</a></p>
+</div>
+<div id="ref-yamkovenko_understand_2017">
+<p>Yamkovenko, B., &amp; Tavares, S. (2017). To Understand Whether Your Company Is Inclusive, Map How Your Employees Interact. <em>Harvard Business Review</em>. Retrieved from <a href="https://hbr.org/2017/07/to-understand-whether-your-company-is-inclusive-map-how-your-employees-interact" class="uri">https://hbr.org/2017/07/to-understand-whether-your-company-is-inclusive-map-how-your-employees-interact</a></p>
+</div>
+</div>
+</section></section>
+    </div>
+  </div>
+
+  <script src="reveal.js/lib/js/head.min.js"></script>
+  <script src="reveal.js/js/reveal.js"></script>
+
+  <script>
+
+      // Full list of configuration options available here:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+
+        //Opciones reveal
+        pdfSeparateFragments: false,
+        controls: true,
+        controlsTutorial: true,
+        fragments: true,
+        // Flags if speaker notes should be visible to all viewers
+      	dshowNotes: false,
+        rollingLinks: true,
+        previewLinks: false,
+        progress: true,
+        history: true,
+        center: false,
+	      zoomKey: 'shift',
+
+        theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+        transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
+	//Opciones spotlight
+	spotlight: {
+
+			// size of the spotlight
+			size: 45,
+
+			// toggle spotlight by holding down the mouse key
+			toggleSpotlightOnMouseDown: true,
+
+			// choose the cursor when spotlight is on. Maybe "crosshair", "none"?
+			presentingCursor: "arrow",
+
+			// true: cursor is always "none" except when spotlight is on.
+			presentingCursorOnlyVisibleWhenSpotlightVisible: true,
+	},
+	keyboard: {
+			// alternative to toggleSpotlightOnMouseDown:
+			// toggle spotlight by pressing key 'c = 67'
+			67: function() { RevealSpotlight.toggleSpotlight() },
+
+			// enter/leave presentation mode by pressing key 'Windows Menu/Right' (93)
+			93: function() {
+				RevealSpotlight.togglePresentationMode();
+			},
+	},
+	//Fin spotlight
+        //Opciones coursemod
+        coursemod: {
+        enabled: false, //enable or disable the plugin, default to false
+        shown: false //immediatly show the course notes view, this defaults to true if not present.
+        }, //Pueden mostrarse con ?show-notes=true
+        //fin opciones coursemod
+
+        //Opciones plugin menu
+        menu: {
+          themes: false,
+          markers: true,
+	        titleSelector: 'h1, h2',
+          custom: [
+                      { title: 'About', icon: '<i class="fa fa-info">', content: '<p>Presentaciones con reveal.js</p></p>Algunos consejos<ul><li>Se ven mejor a pantalla completa (normalmente F11)</li><li>Para navegar por las diapositivas, lo mejor es que utilices la barra espaciadora, aunque también puedes utilizar los controles de abajo a la derecha.</li><li>Durante las presentaciones, encontrarás más ayuda si aprietas la tecla "?".</f1></ul><h1>Reconocimientos</h1><p>Para realizar estas presentaciones he utilizado varios programas de software libre</p><ul><li><a href="http://lab.hakim.se/reveal-js/#/" target="_blank">Reveal.js</a>: Es el programa base de las presentaciones.</li><li><a href="http://pandoc.org/" target="_blank">Pandoc</a>: El programa que genera el archivo html (con formato Reveal.js) a partir de un archivo markdown.</li><li><a href="https://atom.io/" target="_blank">Atom</a>: El editor de texto.</li><li><a href="https://github.com/denehyg/reveal.js-menu" target="_blank">Reveal.js-menu: Menú lateral.</a></li><li><a href="https://github.com/rajgoel/reveal.js-plugins/tree/master/chalkboard" target="_blank">Reveal.js-chalkboard: Pizarra</a></li><li>GitHub: Donde está alojada la página</li><li>Inkscape: Parte de los gráficos (animados) en formato SVG.</li></ul> ' }
+                  ]
+          },
+
+
+          keyboard: {
+	//Plugin chalkboard
+              67: function() { RevealChalkboard.toggleNotesCanvas() },	// toggle notes canvas when 'c' is pressed
+              66: function() { RevealChalkboard.toggleChalkboard() },	// toggle chalkboard when 'b' is pressed
+              46: function() { RevealChalkboard.clear() },	// clear chalkboard when 'DEL' is pressed
+               8: function() { RevealChalkboard.reset() },	// reset chalkboard data on current slide when 'BACKSPACE' is pressed
+              68: function() { RevealChalkboard.download() },	// downlad recorded chalkboard drawing when 'd' is pressed
+	//Opciones spotlight
+	//81: function() { RevealSpotlight.toggleSpotlight() }, //// toggle spotlight by pressing key 'q'
+	//87: function() { RevealSpotlight.togglePresentationMode() }, // enter/leave presentation mode by pressing key 'w' 'Windows Menu/Right' (93)
+          },
+          // fin chalckboard...
+          // Inicio anything
+          anything: [
+          	{className: "animate",  initialize: (function(container, options){
+          		Reveal.addEventListener( 'fragmentshown', function( event ) {
+          			if (typeof event.fragment.beginElement === "function" ) {
+          				event.fragment.beginElement();
+          			}
+          		});
+          		Reveal.addEventListener( 'fragmenthidden', function( event ) {
+          			if (event.fragment.hasAttribute('data-reverse') ) {
+          				var reverse = event.fragment.parentElement.querySelector('[id=\"' + event.fragment.getAttribute('data-reverse') + '\"]');
+          				if ( reverse && typeof reverse.beginElement === "function" ) {
+          					reverse.beginElement();
+          				}
+          			}
+          		});
+          		if ( container.getAttribute("data-svg-src") ) {
+          			var xhr = new XMLHttpRequest();
+          			xhr.onload = function() {
+          				if (xhr.readyState === 4) {
+          					var svg = container.querySelector('svg');
+          					container.removeChild( svg );
+          					container.innerHTML = xhr.responseText + container.innerHTML;
+          					if ( svg ) {
+          						container.querySelector('svg').innerHTML = container.querySelector('svg').innerHTML + svg.innerHTML;
+          					}
+          				}
+          				else {
+          					console.warn( "Failed to get file. ReadyState: " + xhr.readyState + ", Status: " + xhr.status);
+          				}
+          			};
+          			xhr.open( 'GET', container.getAttribute("data-svg-src"), true );
+          			xhr.send();
+          		}
+          	}) }
+          ],
+          // fin anything
+          // Optional libraries used to extend on reveal.js
+        dependencies: [
+	  //{ src: 'reveal.js/plugin/spotlight/spotlight.js' }, //https://github.com/denniskniep/reveal.js-plugin-spotlight
+          { src: 'reveal.js/plugin/coursemod/coursemod.js', async: true},
+          { src: 'reveal.js/plugin/anything/anything.js' },
+          { src: 'reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+          { src: 'reveal.js/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+          { src: 'reveal.js/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } },
+                    { src: 'reveal.js/plugin/reveal.js-menu-master/menu.js' },
+                    { src: 'reveal.js/plugin/chalkboard/chalkboard.js' },
+          // Muestra la tabla de contenido a pie de página
+          //	  { src: 'reveal.js/plugin/toc-progress/toc-progress.js', async: true, callback: function()
+          //		{ toc_progress.initialize(); toc_progress.create(); }},
+          { src: 'reveal.js/plugin/reveal-svg-fragment.js', condition: function() { return !!document.querySelector( '[data-svg-fragment]' ); } },
+          // { src: 'reveal.js/plugin/search/search.js', async: true, condition: function() { return !!document.body.classList; }, }
+          // { src: 'reveal.js/plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }
+          ]
+          });
+
+    </script>
+    /*<div class="ribbon">
+     <a  href="https://github.com/jmunoz298/presentaciones"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/365986a132ccd6a44c23a9169022c0b5c890c387/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f7265645f6161303030302e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png"></a>
+
+    <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Llicència de Creative Commons" style="position: absolute; left: 500px; bottom: 125px; border: 0;" src="img/cc-by.png"></a></center>    </div>
+    </div>*/
+
+
+  </body>
+</html>
