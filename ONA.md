@@ -98,15 +98,17 @@ De mayor a menor jerarquía
 ** A través de sus miembros: amistad personal, consejo de administración...
 :::
 
-## Ejemplo: Relaciones románticas {data-transition=fade}
-![ @bearman_chains_2002 [58]](imagenes-redes-com/RomanticRelationships-2.png){width=80%}
+##  {#relaciones-romanticas data-background="imagenes-ONA/RomanticRelationships.jpg" data-transition=fade}
 
-## Ejemplo: Red de coautorías
+<!-- ![Relaciones románticas @bearman_chains_2002 [58]](imagenes-redes-com/RomanticRelationships-2.png){width=90%} -->
 
-![Red de coautorías de 8.500 nodos y 60.000 relaciones](imagenes-redes-com/BigNetwork.jpg)
+## {#coautorias data-background="imagenes-ONA/Coautorias.jpg"}
+
+<!-- ![Red de coautorías de 8.500 nodos y 60.000 relaciones](imagenes-ONA/Coautorias.jpg) -->
 
 ::: notes
-Co-authorship network map of 8,500 doctors and scientists publishing on hepatitis C between 2008 and 2012 and the almost 60,000 co-authorship relationships between them. Photo via Andy Lamb: https://www.flickr.com/photos/speedoflife/8273922515/
+Co-authorship network map of 8,500 doctors and scientists publishing on hepatitis C between 2008 and 2012 and the almost 60,000 co-authorship relationships between them. Photo via Andy Lamb:
+https://www.flickr.com/photos/speedoflife/8273922515/
 :::
 
 ##  {data-background="imagenes-ONA/airports-world-network.png" data-background-transition=zoom}
@@ -115,21 +117,20 @@ Co-authorship network map of 8,500 doctors and scientists publishing on hepatiti
 
 <!-- http://www.martingrandjean.ch/wp-content/uploads/2016/05/airports-map.png -->
 
+## ¿Qué es?
+
+>ONA consiste en el uso del análisis de redes sociales (SNA) para comprender e intervenir en los fenómenos organizativos. Se diferencia de las otras herramientas existentes en que se centra y analiza las interacciones entre los actores, los recursos que transitan dentro de estas interacciones y la estructura social formada por estas interacciones".\
+@ribeiro_social_2017 [243-244]
+
+
 ## Descubrir la estructura oculta
 
->Si la organización formal es el esqueleto de una empresa, el informal es el sistema nervioso central que impulsa los procesos de pensamiento colectivo, las acciones y las reacciones de sus unidades de negocio.\
+>Si la organización formal es el esqueleto de una empresa, la informal es el sistema nervioso central que impulsa los procesos de pensamiento colectivo, las acciones y las reacciones de sus unidades de negocio.\
 @krackhardt_informal_1993[104]
 
-##
-![](imagenes-ONA/Cross-01.png)
+## Capital social
 
-##
-
-![](imagenes-ONA/Cross-02.png)
-
-## Escuelas secundaria holandesas
-
-![](imagenes-ONA/Zwijze-Koning.png)
+![ @newman_retain_2017](imagenes-ONA/CapitalSocial.png)
 
 ## Centralidad {.medio}
 
@@ -145,18 +146,28 @@ Vector propio (Eigenvector)
 ## Centralidad
 
 <div style="position:relative; width:900px; height:530px; margin:0 auto;">
-  <img  src="imagenes-ONA/kite-1.png" style="position:absolute;top:0;left:0;" />
-  <img class="fragment current-visible" data-fragment-index="1"  src="imagenes-ONA/kite-2.png" style="position:absolute;top:0;left:0;" />
-  <img class="fragment current-visible" data-fragment-index="2" src="imagenes-ONA/kite-3.png" style="position:absolute;top:0;left:0;" />
-  <img class="fragment current-visible" data-fragment-index="3" src="imagenes-ONA/kite-4.png" style="position:absolute;top:0;left:0;" />
+<img  src="imagenes-ONA/kite-1.png" style="position:absolute;top:0;left:0;" />
+<img class="fragment current-visible" data-fragment-index="1"  src="imagenes-ONA/kite-2.png" style="position:absolute;top:0;left:0;" />
+<img class="fragment current-visible" data-fragment-index="2" src="imagenes-ONA/kite-3.png" style="position:absolute;top:0;left:0;" />
+<img class="fragment current-visible" data-fragment-index="3" src="imagenes-ONA/kite-4.png" style="position:absolute;top:0;left:0;" />
 </div>
 
 #### @krackhardt_assessing_1990 [351]{.peque}
 
-
 ## Roles
 
-![](imagenes-ONA/roles-deloitte.png)
+![ @mcgregor_organizational_nodate](imagenes-ONA/roles-deloitte.png)
+
+##
+![ @cross_knowing_2001](imagenes-ONA/Cross-01.png)
+
+##
+
+![](imagenes-ONA/Cross-02.png)
+
+## Escuelas secundaria holandesas
+
+![ @zwijze-koning_network_2015](imagenes-ONA/Zwijze-Koning.png)
 
 ## La fuerza de los lazos débiles
 
@@ -169,18 +180,13 @@ Vector propio (Eigenvector)
 </div> -->
 
 
-## Turnover
+## Desvinculación
 
-
-![](imagenes-ONA/Parise-5a.png)
-
-## Turnover
-
-![](imagenes-ONA/Parise-5b.png)
+![ @parise_its_2005](imagenes-ONA/Parise-5a.png)
 
 ##
 
-![Red interna](imagenes-ONA/Ramco-01.png)
+![ @chakrabarti_ramco_2018](imagenes-ONA/Ramco-01.png)
 
 ##
 
@@ -198,13 +204,13 @@ Vector propio (Eigenvector)
 ##
 ![](imagenes-ONA/Yamkovenko-03.png)
 
-##
+<!-- ##
 ![Organigrama formal](imagenes-ONA/Krachardt-01.png)
 
 ##
-![Red de asesoramiento](imagenes-ONA/Krachardt-advice-02.png)
+![Red de asesoramiento](imagenes-ONA/Krachardt-advice-02.png) -->
 
-## Ramco
+<!-- ## Ramco
 
 ![](imagenes-ONA/Ramco-2018-01.png)
 
@@ -226,15 +232,21 @@ Vector propio (Eigenvector)
 
 ##
 
-![](imagenes-ONA/Ramco-2018-06.png)
+![](imagenes-ONA/Ramco-2018-06.png) -->
 
 
-## Ética
+## Ética {#etica}
 
+::: nonincremental
 - Anonimato
 - Datos perdidos
 - Participación voluntaria
 - Tipo de preguntas relacionales
+:::
+
+<br>
+
+###### @borgatti_ethical_2003 {.figcaption}
 
 ##
 
@@ -243,6 +255,11 @@ Vector propio (Eigenvector)
   <img class="fragment current-visible" data-fragment-index="1"  src="imagenes-ONA/missing-data-02.png" style="position:absolute;top:0;left:0;" />
   <img class="fragment current-visible" data-fragment-index="2" src="imagenes-ONA/missing-data-03.png" style="position:absolute;top:0;left:0;" />
 </div>
+
+<!-- ##
+
+![Organigrama formal](imagenes-ONA/Krachardt-01.png)
+ -->
 
 
 # Referencias {.center}
