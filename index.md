@@ -22,14 +22,14 @@ Influencia social y grupos
 - Obediencia (Septiembre 2018) ([HTML](Obediencia.html) | [PDF](Obediencia.pdf))
 - Desobediencia (Octubre 2017) ([HTML](Desobediencia.html) | [PDF](Desobediencia.pdf))
 
-<!-- Dinámicas
+Dinámicas
 ---------
 
-- Autopresentación (noviembre 2017) ([HTML](GestionImpresiones.html) | [PDF](GestionImpresiones.pdf))
-- Liderazgo (noviembre 2017) ([HTML](Liderazgo.html) | [PDF](Lideerazgo.pdf))
-- Decisiones (noviembre 2017) ([HTML](Decisiones.html) | [PDF](Decisiones.pdf))
-- Redes comunicación (diciembre 2017) ([HTML](RedesComunicacion.html) | [PDF](RedesComunicacion.pdf))
-- Conflicto (diciembre 2017) ([HTML](Conflicto.html) | [PDF](Conflicto.pdf)) -->
+- Autopresentación (2018) ([HTML](GestionImpresiones.html) | [PDF](GestionImpresiones.pdf))
+- Conflicto (2018) ([HTML](Conflicto.html) | [PDF](Conflicto.pdf)) -->
+- Decisiones (2018) ([HTML](Decisiones.html) | [PDF](Decisiones.pdf))
+- Liderazgo (2018) ([HTML](Liderazgo.html) | [PDF](Lideerazgo.pdf))
+- Redes comunicación (2018) ([HTML](RedesComunicacion.html) | [PDF](RedesComunicacion.pdf))
 
 Acción Pública y cambio social
 ------------------------------
@@ -44,6 +44,12 @@ Análisis temático / Atlas-ti
 - Análisis temático (Septiembre 2018) ([HTML](AnalisisTematico.html) | [PDF](AnalisisTematico.pdf))
 - Análisis con Atlas.ti 7 (Junio 2018) ([HTML](AT-Atlas.ti.html) | [PDF](AT-Atlas.ti.pdf))
 - Análisis con Atlas.ti 8 (octubre 2018) [HTML](AT-Atlas.ti-8.html) | [PDF](AT-Atlas.ti-8.pdf))
+
+Otros
+-----
+
+- Organizational Network Analysis (Diciembre 2019) ([HTML](ONA.html) | [PDF](ONA.pdf))
+
 
 Cómo verlas
 ===========
