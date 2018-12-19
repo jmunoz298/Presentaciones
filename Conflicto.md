@@ -96,7 +96,7 @@ Hostilidad exogrupal
 
 ## Strangers
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RZLmxxz8VAU" frameborder="0" allowfullscreen></iframe>
+<video width="420"  class="stretch" controls><source src="imagenes-conflicto/Strangers.mp4"></video>
 
 #### @tadmor_strangers_2003 {.autor}
 

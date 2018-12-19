@@ -26,7 +26,7 @@ Dinámicas
 ---------
 
 - Autopresentación (2018) ([HTML](GestionImpresiones.html) | [PDF](GestionImpresiones.pdf))
-- Conflicto (2018) ([HTML](Conflicto.html) | [PDF](Conflicto.pdf)) -->
+- Conflicto (2018) ([HTML](Conflicto.html) | [PDF](Conflicto.pdf)) 
 - Decisiones (2018) ([HTML](Decisiones.html) | [PDF](Decisiones.pdf))
 - Liderazgo (2018) ([HTML](Liderazgo.html) | [PDF](Lideerazgo.pdf))
 - Redes comunicación (2018) ([HTML](RedesComunicacion.html) | [PDF](RedesComunicacion.pdf))

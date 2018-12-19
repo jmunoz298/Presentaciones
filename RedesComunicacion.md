@@ -145,9 +145,7 @@ De mayor a menor jerarquía
 #### @bearman_chains_2002 [58]{.peque} -->
 
 ## Ejemplo: Relaciones románticas {data-transition=fade}
-![](imagenes-redes-com/RomanticRelationships-2.png){width=80%}
-
-#### @bearman_chains_2002 [58]{.peque}
+![ @bearman_chains_2002 [58]](imagenes-redes-com/RomanticRelationships-2.png){width=80%}
 
 ##  {data-background="imagenes-redes-com/airports-world-network.png" data-background-transition=zoom}
 
@@ -174,7 +172,7 @@ Cercanía (Closeness)
 :   Suma de las distancias entre el nodo y cada uno de los otros nodos.
 Intermediación (Betwenness)
 : Frecuencia con la que un punto está en el camino más corto entre otros pares de puntos.
-Eigenvector
+Vector propio (Eigenvector)
 : Grado en que un nodo está conectado con otros nodos con alto grado (bien conectados). -->
 
 ## Centralidad
