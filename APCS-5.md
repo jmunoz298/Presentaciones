@@ -79,6 +79,6 @@ lateral-menu: 'True'
 [http://stoprumores.com/rumores/](http://stoprumores.com/rumores/)
 
 
-# Referencias{.center data-background="imagenes/Books.jpg" data-background-transition=zoom data-state=opacidad}
+# Referencias{.center data-background="fondos/Books.jpg" data-background-transition=zoom data-state=opacidad}
 
 ## {.scrollable .peque}

@@ -27,7 +27,7 @@ lateral-menu: 'True'
 
 La Tragedia de los Comunes es el agotamiento  de un recurso compartido por las personas, actuando de forma independiente y racional de acuerdo con el propio interés, a pesar de su conocimiento de que agotar el recurso común es contrario al interés a largo plazo del grupo.
 
-![](imagenes/TragedyOfTheCommons.png)
+![](imagenes-bienes-comunes/TragedyOfTheCommons.png)
 
 ##Egoísmo
 
@@ -46,14 +46,14 @@ La Tragedia de los Comunes es el agotamiento  de un recurso compartido por las p
 
 ##El dilema del prisionero
 
-![Dilema del prisionero](imagenes/DilemaPrisionero.jpg)
+![Dilema del prisionero](imagenes-bienes-comunes/DilemaPrisionero.jpg)
 
 ##¿Egoísmo?
 
 <div id="column1" style="float:left; margin:0; width:20%;">
 
 ![Piotr Kropotkin\
-1902](imagenes/Kropotkin.jpg)
+1902](imagenes-bienes-comunes/Kropotkin.jpg)
 
 </div>
 
@@ -73,7 +73,7 @@ La Tragedia de los Comunes es el agotamiento  de un recurso compartido por las p
 | Rivalidad    | Bienes privados | Recursos comunes<br>(Common-Pool Resources) |
 | No rivalidad |      Clubs      |               Bienes públicos               |
 
-![Elinor Ostrom](imagenes/Ostrom.jpg)
+![Elinor Ostrom](imagenes-bienes-comunes/Ostrom.jpg)
 
 #Bienes comunes culturales {}
 
@@ -105,27 +105,27 @@ La Tragedia de los Comunes es el agotamiento  de un recurso compartido por las p
 
 ##
 
-![Xerox 9700 Electronic Printing System](imagenes/Impresora.png)
+![Xerox 9700 Electronic Printing System](imagenes-bienes-comunes/Impresora.png)
 
 ##
 
-![Cuatro libertades](imagenes/CuatroLibertades.jpg)
+![Cuatro libertades](imagenes-bienes-comunes/CuatroLibertades.jpg)
 
 ##
 
-![Steamboat Willie, 18 de noviembre de 1928](imagenes/Mickey.jpg)
+![Steamboat Willie, 18 de noviembre de 1928](imagenes-bienes-comunes/Mickey.jpg)
 
 ##
 
-![](imagenes/Disney.jpg)
+![](imagenes-bienes-comunes/Disney.jpg)
 
 ## Compartir
-![](imagenes/Compartir.jpg)
+![](imagenes-bienes-comunes/Compartir.jpg)
 
 ##
 
-![CEDRO vs. UAB](imagenes/CEDRO-UAB.jpg)
+![CEDRO vs. UAB](imagenes-bienes-comunes/CEDRO-UAB.jpg)
 
 ##
 
-![Licencias](imagenes/CreativeCommons.jpg)
+![Licencias](imagenes-bienes-comunes/CreativeCommons.jpg)

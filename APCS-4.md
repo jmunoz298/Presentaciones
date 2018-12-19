@@ -125,6 +125,6 @@ El *modelo de afiliación* defiende que muchas de las conductas que en ocasiones
 
 
 
-# Referencias{.center data-background="imagenes/Books.jpg" data-background-transition=zoom data-state=opacidad}
+# Referencias{.center data-background="fondos/Books.jpg" data-background-transition=zoom data-state=opacidad}
 
 ## {.scrollable .peque}
