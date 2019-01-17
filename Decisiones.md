@@ -20,6 +20,19 @@ csl: apa.csl
 * Facilitan la generación de ideas y alternativas y la posibilidad de detectar errores o incorrecciones, así como de recordar más cantidad de información.
 * Propician un contexto cooperativo de trabajo que hace aumentar la cohesión, la motivación y la implicación..
 
+## Ventajas y desventajas
+
+Ventajas
+: Mayor concentración de conocimientos, ideas, experiencias e información.
+: Variedad de puntos de vista, más estrategias y alternativas.
+: Decisiones más complejas.
+: Propicia un contexto que aumenta cohesión, motivación e implicación
+
+Desventajas
+: Mayor dedicación de tiempo.
+: Minorías vs mayorías y presiones a la uniformidad
+: Manipulación del compromiso para llegar a una decisión más rápidamente.
+: Propósitos ocultos (!) que influyen en la opinión
 
 ## ...pero {#pero}
 >(…) en tal caso, se supone que cada uno  de los participantes es un individuo  racional y moral. Juntos no hacen sino sopesar las ventajas e inconvenientes de cada solución. Para elegir, en definitiva, la que presente las mayores ventajas y los menores inconvenientes.\

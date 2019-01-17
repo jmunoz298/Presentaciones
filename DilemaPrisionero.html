@@ -10,15 +10,22 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <link rel="stylesheet" href="reveal.js/css/reveal.css"/>
  <link rel="stylesheet" href="reveal.js/plugin/toc-progress/toc-progress.css">
+ <style type="text/css">
+     code{white-space: pre-wrap;}
+     span.smallcaps{font-variant: small-caps;}
+     span.underline{text-decoration: underline;}
+     div.column{display: inline-block; vertical-align: top; width: 50%;}
+ </style>
   <!--  <style type="text/css">code{white-space: pre;}</style> -->
-    <link rel="stylesheet" href="reveal.js/css/theme/serif-mod.css" id="theme">
+    <link rel="stylesheet" href="reveal.js/css/theme/serif.css" id="theme">
+    <link rel="stylesheet" href="reveal.js/css/theme/juan.css" id="theme">
 
 <!-- If the query includes 'print-pdf', use the PDF print sheet -->
 <script>
   var link = document.createElement( 'link' );
   link.rel = 'stylesheet';
   link.type = 'text/css';
-  link.href = window.location.search.match( /print-pdf/gi ) ? 'reveal.js/css/print/pdf.css' : 'reveal.jscss/print/paper.css';
+  link.href = window.location.search.match( /print-pdf/gi ) ? 'reveal.js/css/print/pdf.css' : 'reveal.js/css/print/paper.css';
   document.getElementsByTagName( 'head' )[0].appendChild( link );
 </script>
 
@@ -29,46 +36,41 @@
 <body>
   <div class="reveal">
     <div class="slides">
-<section data-state="no-toc-progress , show-github-ribbon">
+<section data-state="no-toc-progress">
     <h1 class="title .no-toc-progress">Influencia Social y Grupos</h1>
-<h2>Dilema del prisionero</h2>
+<h4 class="author">Dilema del prisionero</h4>
     <h4 class="author">Juan Muñoz</h4>
     <h6 class="author">Universitat Autònoma de Barcelona</h6>
     <h6 class="author"></h6>
     <h4 class="date"></h4>
     <h4 class="date">http:/juan.psicologiasocial.eu</h4>
-<div style="position: absolute; bottom: 0px; margin-left: 0px; width: 100%; <center><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Llicència de Creative Commons" style="border-width:0" src="img/cc-by.png" /></a></center>
-</div>
+    <div style="position: absolute; bottom: -50px; margin-left: 0px; width: 100%; <center><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Llicència de Creative Commons" style="border-width:0" src="img/cc-by.png" /></a></center>
+    </div>
 </section>
 <section id="dilema-del-prisionero" class="slide level2">
-<h1>Dilema del prisionero</h1>
+<h2>Dilema del prisionero</h2>
 <blockquote>
 <p>Dada la enorme recompensa ofrecida y el pleno perdón que se concede por toda declaración probatoria, no cabe imaginar un solo instante que algún miembro de una pandilla de miserables criminales —o de cualquier pandilla— no haya traicionado hace rato a sus cómplices. En una pandilla colocada en esa situación, cada uno de sus miembros no está tan ansioso de recompensa o de impunidad, como temeroso de ser traicionado. Se apresura a delatar lo antes posible, a fin de no ser delatado a su turno.<br />
 <code class="autor">Edgard Allan Poe, El misterio de Marie Rogêt</code></p>
 </blockquote>
 </section>
 <section id="dilema-del-prisionero-1" class="slide level2" data-background="imagenes-prisionero/prision.jpg" data-background-transition="zoom">
-<h1>Dilema del prisionero</h1>
-<figure>
-<img src="imagenes-prisionero/DilemaDelPrisionero.png" />
-</figure>
+<h2>Dilema del prisionero</h2>
+<p><img data-src="imagenes-prisionero/DilemaDelPrisionero.png" /></p>
 </section>
 <section id="section" class="slide level2" data-background="imagenes-prisionero/kropotkin.jpg" data-background-transition="zoom">
-<h1></h1>
+<h2></h2>
 <blockquote>
 <p>“Si preguntamos a la naturaleza, ¿Quiénes son los más aptos?, ¿son aquellos que se encuentran continuamente enzarzados en guerra mutua, o son aquellos que se sostienen mutuamente?, de inmediato vemos que aquellos animales que adquieren hábitos de ayuda mutua son indudablemente los más aptos. Tienen más probabilidades de sobrevivir y alcanzar, en sus clases respectivas, el mayor desarrollo de la inteligencia y organización corporal”.<br />
-<code class="autor">Piotr Kropotkin (1842-1921), Apoyo Mutuo (1907)</code></p>
+<code>Piotr Kropotkin (1842-1921), Apoyo Mutuo (1907)</code> {.autor}</p>
 </blockquote>
 </section>
 <section id="graduated-and-reciprocated-initiatives-in-tension-reduction" class="slide level2">
-<h1>Graduated and Reciprocated Initiatives in Tension Reduction</h1>
+<h2>Graduated and Reciprocated Initiatives in Tension Reduction</h2>
 <p>un planteamiento de las relaciones internacionales desarrollado por Charles Osgood que tiene por finalidad reducir las tensiones mediante la reducción gradual de las tensiones mediante pequeños pasos y el fomento de la confianza</p>
 </section>
-<section><section id="referencias" class="titleslide slide level1"><h1>Referencias</h1></section><section id="section-1" class="slide level2 unnumbered scrollable">
-<h1></h1>
-<div id="refs" class="references">
-
-</div>
+<section><section id="referencias" class="title-slide slide level1"><h1>Referencias</h1></section><section id="section-1" class="slide level2 scrollable">
+<h2></h2>
 </section></section>
     </div>
   </div>
@@ -83,39 +85,119 @@
       Reveal.initialize({
 
         //Opciones reveal
+        pdfSeparateFragments: false,
         controls: true,
+        controlsTutorial: true,
+        fragments: true,
+        // Flags if speaker notes should be visible to all viewers
+      	dshowNotes: false,
         rollingLinks: true,
         previewLinks: false,
         progress: true,
         history: true,
         center: false,
 	      zoomKey: 'shift',
+
         theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
         transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
+	//Opciones spotlight
+	spotlight: {
 
+			// size of the spotlight
+			size: 45,
+
+			// toggle spotlight by holding down the mouse key
+			toggleSpotlightOnMouseDown: true,
+
+			// choose the cursor when spotlight is on. Maybe "crosshair", "none"?
+			presentingCursor: "arrow",
+
+			// true: cursor is always "none" except when spotlight is on.
+			presentingCursorOnlyVisibleWhenSpotlightVisible: true,
+	},
+	keyboard: {
+			// alternative to toggleSpotlightOnMouseDown:
+			// toggle spotlight by pressing key 'c = 67'
+			67: function() { RevealSpotlight.toggleSpotlight() },
+
+			// enter/leave presentation mode by pressing key 'Windows Menu/Right' (93)
+			93: function() {
+				RevealSpotlight.togglePresentationMode();
+			},
+	},
+	//Fin spotlight
+        //Opciones coursemod
+        coursemod: {
+        enabled: false, //enable or disable the plugin, default to false
+        shown: false //immediatly show the course notes view, this defaults to true if not present.
+        }, //Pueden mostrarse con ?show-notes=true
+        //fin opciones coursemod
 
         //Opciones plugin menu
         menu: {
           themes: false,
           markers: true,
-	        titleSelector: 'h1',
+	        titleSelector: 'h1, h2',
           custom: [
                       { title: 'About', icon: '<i class="fa fa-info">', content: '<p>Presentaciones con reveal.js</p></p>Algunos consejos<ul><li>Se ven mejor a pantalla completa (normalmente F11)</li><li>Para navegar por las diapositivas, lo mejor es que utilices la barra espaciadora, aunque también puedes utilizar los controles de abajo a la derecha.</li><li>Durante las presentaciones, encontrarás más ayuda si aprietas la tecla "?".</f1></ul><h1>Reconocimientos</h1><p>Para realizar estas presentaciones he utilizado varios programas de software libre</p><ul><li><a href="http://lab.hakim.se/reveal-js/#/" target="_blank">Reveal.js</a>: Es el programa base de las presentaciones.</li><li><a href="http://pandoc.org/" target="_blank">Pandoc</a>: El programa que genera el archivo html (con formato Reveal.js) a partir de un archivo markdown.</li><li><a href="https://atom.io/" target="_blank">Atom</a>: El editor de texto.</li><li><a href="https://github.com/denehyg/reveal.js-menu" target="_blank">Reveal.js-menu: Menú lateral.</a></li><li><a href="https://github.com/rajgoel/reveal.js-plugins/tree/master/chalkboard" target="_blank">Reveal.js-chalkboard: Pizarra</a></li><li>GitHub: Donde está alojada la página</li><li>Inkscape: Parte de los gráficos (animados) en formato SVG.</li></ul> ' }
                   ]
           },
 
-          //Plugin chalkboard
+
           keyboard: {
+	//Plugin chalkboard
               67: function() { RevealChalkboard.toggleNotesCanvas() },	// toggle notes canvas when 'c' is pressed
               66: function() { RevealChalkboard.toggleChalkboard() },	// toggle chalkboard when 'b' is pressed
               46: function() { RevealChalkboard.clear() },	// clear chalkboard when 'DEL' is pressed
                8: function() { RevealChalkboard.reset() },	// reset chalkboard data on current slide when 'BACKSPACE' is pressed
               68: function() { RevealChalkboard.download() },	// downlad recorded chalkboard drawing when 'd' is pressed
+	//Opciones spotlight
+	//81: function() { RevealSpotlight.toggleSpotlight() }, //// toggle spotlight by pressing key 'q'
+	//87: function() { RevealSpotlight.togglePresentationMode() }, // enter/leave presentation mode by pressing key 'w' 'Windows Menu/Right' (93)
           },
           // fin chalckboard...
-
+          // Inicio anything
+          anything: [
+          	{className: "animate",  initialize: (function(container, options){
+          		Reveal.addEventListener( 'fragmentshown', function( event ) {
+          			if (typeof event.fragment.beginElement === "function" ) {
+          				event.fragment.beginElement();
+          			}
+          		});
+          		Reveal.addEventListener( 'fragmenthidden', function( event ) {
+          			if (event.fragment.hasAttribute('data-reverse') ) {
+          				var reverse = event.fragment.parentElement.querySelector('[id=\"' + event.fragment.getAttribute('data-reverse') + '\"]');
+          				if ( reverse && typeof reverse.beginElement === "function" ) {
+          					reverse.beginElement();
+          				}
+          			}
+          		});
+          		if ( container.getAttribute("data-svg-src") ) {
+          			var xhr = new XMLHttpRequest();
+          			xhr.onload = function() {
+          				if (xhr.readyState === 4) {
+          					var svg = container.querySelector('svg');
+          					container.removeChild( svg );
+          					container.innerHTML = xhr.responseText + container.innerHTML;
+          					if ( svg ) {
+          						container.querySelector('svg').innerHTML = container.querySelector('svg').innerHTML + svg.innerHTML;
+          					}
+          				}
+          				else {
+          					console.warn( "Failed to get file. ReadyState: " + xhr.readyState + ", Status: " + xhr.status);
+          				}
+          			};
+          			xhr.open( 'GET', container.getAttribute("data-svg-src"), true );
+          			xhr.send();
+          		}
+          	}) }
+          ],
+          // fin anything
           // Optional libraries used to extend on reveal.js
         dependencies: [
+	  //{ src: 'reveal.js/plugin/spotlight/spotlight.js' }, //https://github.com/denniskniep/reveal.js-plugin-spotlight
+          { src: 'reveal.js/plugin/coursemod/coursemod.js', async: true},
+          { src: 'reveal.js/plugin/anything/anything.js' },
           { src: 'reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
           { src: 'reveal.js/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
           { src: 'reveal.js/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } },
@@ -131,15 +213,12 @@
           });
 
     </script>
-    <div class="ribbon">
-    <a  href="https://github.com/jmunoz298/presentaciones"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/365986a132ccd6a44c23a9169022c0b5c890c387/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f7265645f6161303030302e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png"></a>
-    </div>
-<!--
-<div style="position: absolute; bottom: 0px; margin-left: 0px; width: 100%; background-color:#fff; padding: 20px;
-    filter:alpha(opacity=5); opacity:0.5; border-color:#000000;"><center><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Llicència de Creative Commons" style="border-width:0" src="img/cc-by.png" /></a> Juan Muñoz  | Influencia Social y Grupos - <b>Dilema del prisionero</b></center>
+    /*<div class="ribbon">
+     <a  href="https://github.com/jmunoz298/presentaciones"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/365986a132ccd6a44c23a9169022c0b5c890c387/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f7265645f6161303030302e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png"></a>
 
-</div>
--->
+    <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Llicència de Creative Commons" style="position: absolute; left: 500px; bottom: 125px; border: 0;" src="img/cc-by.png"></a></center>    </div>
+    </div>*/
+
 
   </body>
 </html>

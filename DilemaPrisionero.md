@@ -28,6 +28,6 @@ lateral-menu: 'True'
 
 un planteamiento de las relaciones internacionales desarrollado por Charles Osgood que tiene por finalidad reducir las tensiones mediante la reducción gradual de las tensiones mediante pequeños pasos y el fomento de la confianza
 
-#Referencias
+# Referencias
 
 ## {.scrollable}
