@@ -21,7 +21,7 @@ lateral-menu: 'True'
 
 **Unos enlaces:**
 
-[CAQDAS Networking Project](http://www.surrey.ac.uk/sociology/research/researchcentres/caqdas/ "CAQDAS Networking Project")
+[CAQDAS Networking Project](https://www.surrey.ac.uk/computer-assisted-qualitative-data-analysis/ "CAQDAS Networking Project")
 
 [Online QDA](http://onlineqda.hud.ac.uk/ "Online QDA")
 
@@ -54,6 +54,12 @@ lateral-menu: 'True'
 :::
 ::::::::::::::
 
+::: notes
+"Weitzman and Miles (1995) identified three basic types of qualitative software: text retrievers, code-and-retrieve packages, and theorybuilding software." (Bulloch et al 2017:382)
+
+"Silver and Lewins (2014) discuss how CAQDAS packages support key analytic activities that cut across qualitative methodologies, specifically the activities of integrating, organizing, exploring, reflecting upon, and interrogating qualitative data." (Bulloch et al 2017:383)
+:::
+
 # Definiciones {.center data-background="imagenes-cuali/Definicion.jpg" data-background-transition=zoom data-state=fondo}
 
 ## La investigación cualitativa {#investigacion-cualitativa data-background="imagenes-cuali/AnalisisCotidiano.png" data-background-transition=zoom data-state=opacidad}
@@ -66,7 +72,7 @@ lateral-menu: 'True'
  >El análisis temático es un método para identificar, analizar y reportar patrones (temas) dentro de los datos. Como mínimo [organiza y describe]{.fosforito} en detalle el conjunto de datos. Sin embargo, con frecuencia, va más allá e [interpreta]{.fosforito} diversos aspectos del tema de investigación.\
 @braun_using_2006 [p. 79]
 
-<!-- ## Tema
+## Tema
 
 >Un tema es un patrón que se encuentra en la información que, como mínimo, describe y organiza posibles observaciones o, como máximo, interpreta aspectos del fenómeno. Un tema puede identificarse a nivel [manifiesto]{.fosforito} (directamente observable en la información) o a nivel [latente]{.fosforito} (subyacente al fenómeno). Los temas pueden generarse inicialmente [inductivamente]{.fosforito} a partir de la información bruta o generarse [deductivamente]{.fosforito} a partir de la teoría y la investigación previa.\
 @boyatzis_transforming_1998 [p. vii]
@@ -77,12 +83,12 @@ lateral-menu: 'True'
 
 ::: notes
 Reunión del G7 en Canadá 9 junio 2018
-Angel Merkel
+Angela Merkel
 Donald Trump
 Justin Trudeau
 Emmanuel Macron
 Shinzō Abe
-::: -->
+:::
 
 <!-- <video width="850"   controls>
  <source src="imagenes-cuali/TheCodes.mp4">
@@ -311,6 +317,12 @@ Version  Responsable   Notes                                          Changed
 ![](imagenes-cuali/readers.jpg){.noshadow width=80%}
 
 # Proyecto {.center data-background="imagenes-cuali/escriba.jpg" data-background-transition=zoom data-state=opacidad}
+
+
+##
+
+### https://bit.ly/2SN6RjE
+
 
 ## Estrategias trabajo en equipo
 
@@ -544,6 +556,8 @@ Tenemos dos posibles respuestas (no incompatibles entre sí):
 
 ## Ejercicio: Depurar códigos {#depurar-codigos}
 
+Descargar: [https://bit.ly/2TKfOaX]{.fosforito}
+
 ![](imagenes-atlas-8/Menu-imprimir.png){.border}
 
 >* Generar [Informe]{.resaltar} de todas las citas de un código.
@@ -569,6 +583,7 @@ Tenemos dos posibles respuestas (no incompatibles entre sí):
 * Identificar "actores".
 * Buscar co-ocurrencias.
 
+
 ## Co-ocurrencias {#coocurrencias-0 transition=none}
 
 ![](imagenes-atlas-8/Cooc-Marquez-00.png){.border width=75%}
@@ -589,9 +604,14 @@ Las coocurrencias son las citas (codificadas) que presentan algún grado de sola
 
 ![Resultados Tabla de co-ocurrencias](imagenes-atlas-8/Tabla-co-ocurrencias.png){.border .noshadow}
 
+
 ::: notes
 Para llegar al resultado de la imagen, en primer lugar se ha añadido un identificador a las etiquetas de códigos, "es:" para los códigos "estructurales", y "ac:" a los códigos que identifican a los diferentes "actores". De esta forma, aparecerán juntos en el Administrador de códigos. Además, al acceder a la herramienta "Tabla de co-ocurrencias", podemos filtrar fácilmente "es:" en filas y "ac:" en columnas.
 :::
+
+##
+
+### Descargar: [https://bit.ly/2WWDY3T]{.fosforito}
 
 ## Agrupar
 
@@ -703,6 +723,7 @@ Por ejemplo:
 * Crear otros tipos de relaciones.
 * Definir un nuevo tipo de relación.
 
+Descargar: [https://bit.ly/2BvAw76]{.fosforito}
 
 # Vistas de red{.center data-background="imagenes-cuali/neurons.jpg" data-background-transition=zoom data-state=opacidad}
 
@@ -817,7 +838,7 @@ Todas las citas codificadas como C1 **O** C2 **O** como C3 **Y** C4 **Y** **NO**
 ## Consultas: Alcance
 
 ![](imagenes-cuali/ConsultasAlcance.png)
---> 
+-->
 
 ## Buscar texto
 
