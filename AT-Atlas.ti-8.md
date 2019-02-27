@@ -778,6 +778,8 @@ Todas las citas codificadas como C1 **Y** C2 **O** como C1 y C3
 :::
 :::::
 
+### https://bit.ly/2SD7368
+
 ## Construcción de una consulta {#construccion-booleana-2 transition=none}
 
 Todas las citas codificadas como C1 **O** C2 pero **NO** como C3

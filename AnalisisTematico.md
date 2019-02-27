@@ -18,6 +18,7 @@ lateral-menu: 'True'
 * Memoing
 * Codificación
 
+admonition
 
 # Definiciones {.center data-background="imagenes-cuali/Definicion.jpg" data-background-transition=zoom data-state=fondo}
 
