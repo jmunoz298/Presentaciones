@@ -109,19 +109,19 @@ Es decir, podemos plantear a las "conductas colectivas" como un "concepto paragu
 
 ##
 
-![](imagenes-APCS-1/ejemplo-rumor.png)
-
-##
-
-![](imagenes-APCS-1/ejemplo-histeria.png)
-
-##
-
 ![](imagenes-APCS-1/ejemplo-moda.png)
 
 ##
 
 ![](imagenes-APCS-1/ejemplo-fans.png)
+
+##
+
+![](imagenes-APCS-1/ejemplo-rumor.png)
+
+##
+
+![](imagenes-APCS-1/ejemplo-histeria.png)
 
 
 
@@ -143,7 +143,7 @@ Es decir, podemos plantear a las "conductas colectivas" como un "concepto paragu
 
 ## Primavera de los pueblos
 
-![](imagenes-APCS-1/Europe_1848_map_en-lt.png)
+[![](imagenes-APCS-1/Europe_1848_map_en-lt.png)](https://es.wikipedia.org/wiki/Revoluciones_de_1848){target="_blank"}
 
 ::: notes
 Durante el siglo XVIII se inicia en Inglaterra la Revolución Industrial, que supone uno de los momentos históricos que según algunos da origen a la era de las masas, debido a los cambios que se producen en la sociedad: de una sociedad rural con una rígida división social entre clases, la fuerte migración a las ciudades da lugar a la aparición de nuevas clases sociales (industriales y comerciantes). Se producen también cambios en las formas de conflicto; se pasa de conflictos y protestas por las necesidades cotidianas a conflictos y protestas de tipo ideológico. Las masas empiezan a tener posturas políticas y quieren tomar parte en las decisiones.
@@ -181,10 +181,11 @@ O, en junio (23 a 26) de ese mismo año la revuelta protagonizada por miles de t
 :::
 ::::::
 
+<div>
 <audio width="100"  class="stretch"  controls data-autoplay>
-<source src="imagenes-APCS-1/ElTempsDeLesCireres.mp3">
+<source src="multimedia/ElTempsDeLesCireres.mp3">
 </audio>
-
+</div>
 
 #### @gine_temps_1978 {.autor}
 
