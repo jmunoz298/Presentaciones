@@ -29,6 +29,16 @@ lateral-menu: 'True'
 > Las acciones de un grupo de personas que responden de manera similar a un evento o situación, incluyendo personas que ocupan el mismo lugar (una multitud), así como fenómenos de masas en los que los individuos están dispersos en una amplia área (Movimientos colectivos).\
 @forsyth_group_2010 [, p. 502]
 
+## Elementos de la definición
+
+::: nonincremental
+- Tamaño
+- Espacio
+- Uniformidad
+- Estructura
+- Duración
+:::
+
 ## Clasificación{#clasificacion .medio}
 
 Multitud ocasional (casual)
@@ -93,6 +103,10 @@ Es decir, podemos plantear a las "conductas colectivas" como un "concepto paragu
 
 ##
 
+![](imagenes-APCS-1/LinchamientoArrimadas.png)
+
+##
+
 ![](imagenes-APCS-1/ejemplo-disturbios-2.png)
 
 ##
@@ -121,7 +135,7 @@ Es decir, podemos plantear a las "conductas colectivas" como un "concepto paragu
 
 ##
 
-![](imagenes-APCS-1/ejemplo-histeria.png)
+[![](imagenes-APCS-1/ejemplo-histeria.png)](https://es.wikipedia.org/wiki/Epidemia_de_baile_de_1518){target="_blank"}
 
 
 
