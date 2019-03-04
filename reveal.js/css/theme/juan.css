@@ -305,9 +305,9 @@ background-color:  #d0dafd;
 
 .reveal .noshadow {
   box-shadow: none;
-  border: 0 0 0px;
+  border: 1px;
   margin: 0px;
-  padding: 0px;
+  padding: 5px;
 }
 
 .reveal .noborder {
