@@ -143,11 +143,11 @@ El contagio mental funciona de forma similar al contagio de una enfermedad infec
 El tercer y más importante mecanismo que da lugar al comportamiento de la muchedumbre, es la susceptibilidad, la aceptación acrítica de una persona de las exigencias que se le solicitan, lo que le lleva a realizar conductas que no realizaría de no ser miembro de la masa. El contagio no sería sino un efecto de la sugestibilidad.
 :::
 
-## El "filósofo español" {#ortega data-background="imagenes-APCS-2/Ortega-ElSol-1922-2-4.jpg" data-background-transition=zoom data-state=opacidad}
+## El "filósofo español" {#ortega data-background="imagenes-APCS-2/Ortega-ElSol-1922-2-4.jpg" data-background-transition=zoom data-state=opacidad .medio}
 
 . . .
 
->Resulta completamente ocioso discutir si una sociedad debe ser o no debe ser constituida con la intervención de una aristocracia. La cuestión está resuelta desde el primer día de la historia humana; una sociedad sin aristocracia, sin minoría egregia, no es una sociedad.\
+>Resulta completamente ocioso discutir si una sociedad debe ser o no debe ser constituida con la intervención de una aristocracia. La cuestión está resuelta desde el primer día de la historia humana; una sociedad sin aristocracia, sin minoría egregia, no es una sociedad.
 
 > ¿Cuál es, pues, la condición suma? El reconocimiento de que la misión de las masas no es otra que seguir a los mejores, en vez de pretender suplantarlos. Y esto en todo orden y porción de la vida.\
 @ortega_y_gasset_espaninvertebrada:_1922
