@@ -305,10 +305,15 @@ background-color:  #d0dafd;
 
 .reveal .noshadow {
   box-shadow: none;
-  border: 0 0 0px;}
+  border: 0 0 0px;
+  margin: 0px;
+  padding: 0px;
+}
 
 .reveal .noborder {
   border: 0px;
+  margin: 0px;
+  padding: 0px;
 }
 
 html.laback .reveal section img {

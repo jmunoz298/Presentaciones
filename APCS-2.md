@@ -52,22 +52,22 @@ Según Moscovici (1985), desde esta perspectiva se equipara a las multitudes con
 
 :::::: {.columns}
 ::: {.column width="25%"}
-![Sighele (1892)](imagenes-APCS-2/Sighele-Portada.jpg "Sighele")
+![Sighele (1892)](imagenes-APCS-2/Sighele-Portada.jpg "Sighele"){.noshadow}
 :::
 ::: {.column width="25%"}
-![Le Bon (1895)](imagenes-APCS-2/LeBon-Portada.jpg "")
+![Le Bon (1895)](imagenes-APCS-2/LeBon-Portada.jpg ""){.noshadow}
 :::
 ::: {.column width="25%"}
-![Tarde (1901)](imagenes-APCS-2/Tarde-Portada.jpg "")
+![Tarde (1901)](imagenes-APCS-2/Tarde-Portada.jpg ""){.noshadow}
 :::
 ::: {.column width="25%"}
-![Freud (1921)](imagenes-APCS-2/Freud-Portada.jpg "")
+![Freud (1921)](imagenes-APCS-2/Freud-Portada.jpg ""){.noshadow}
 :::
 ::::::
 
 . . .
 
-![Ortega (1930)](imagenes-APCS-2/Ortega-Portada.jpg "")
+![Ortega (1930)](imagenes-APCS-2/Ortega-Portada.jpg ""){.noshadow}
 
 
 ::: notes
