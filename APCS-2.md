@@ -33,21 +33,6 @@ Los orígenes del término “conducta colectiva” se remontan a finales del S.
 
 # Las teorías: Contagio  {#teorias-contagio .center data-background="imagenes-APCS-2/Virus.jpg" data-background-transition=zoom data-state=opacidad}
 
-## Teorías del contagio {#teoria-contagio  data-background="imagenes-APCS-2/Zombis.jpg" data-background-transition=fade data-state=fondo}
-
-. . .
-
-> (...) difusión del afecto o de la conducta de un participante de la multitud a otro; una persona sirve como estímulo para las acciones imitativas de otra.\
-@milgram_collective_1969 [, p. 550]
-
-::: notes
-Explican el comportamiento colectivo y la homogeneidad de la multitud en base a procesos de interacción e influencia interpersonal: la sugestión y el contagio.
-
-Básicamente se plantea que entre los miembros de la multitud se produce una difusión de unos a otros de las conductas, actitudes y emociones.
-
-Según Moscovici (1985), desde esta perspectiva se equipara a las multitudes con *animales salvajes, en las que ha desaparecido el freno de la moral y que están carentes de capacidad de raciocinio*. En la multitud se exteriorizan sueños y pasiones, generalmente de forma violenta, aunque su irracionalidad permite que sean capaces tanto de actos brutales y de destrucción como de conductas heróicas
-:::
-
 ## Algunos representantes
 
 :::::: {.columns}
@@ -65,13 +50,26 @@ Según Moscovici (1985), desde esta perspectiva se equipara a las multitudes con
 :::
 ::::::
 
-. . .
-
 ![Ortega (1930)](imagenes-APCS-2/Ortega-Portada.jpg ""){.noshadow}
 
 
 ::: notes
 Una gran parte de estos autores, si no todos, podemos etiquetarlos no sólo como “del contagio”, sino también como “irracionalistas”, puesto que defienden que ese contagio lleva a que las masas se caractericen por la irracionalidad.
+:::
+
+## Teorías del contagio {#teoria-contagio  data-background="imagenes-APCS-2/Zombis.jpg" data-background-transition=fade data-state=fondo}
+
+. . .
+
+> (...) difusión del afecto o de la conducta de un participante de la multitud a otro; una persona sirve como estímulo para las acciones imitativas de otra.\
+@milgram_collective_1969 [, p. 550]
+
+::: notes
+Explican el comportamiento colectivo y la homogeneidad de la multitud en base a procesos de interacción e influencia interpersonal: la sugestión y el contagio.
+
+Básicamente se plantea que entre los miembros de la multitud se produce una difusión de unos a otros de las conductas, actitudes y emociones.
+
+Según Moscovici (1985), desde esta perspectiva se equipara a las multitudes con *animales salvajes, en las que ha desaparecido el freno de la moral y que están carentes de capacidad de raciocinio*. En la multitud se exteriorizan sueños y pasiones, generalmente de forma violenta, aunque su irracionalidad permite que sean capaces tanto de actos brutales y de destrucción como de conductas heróicas
 :::
 
 ## Irracionales y malvadas
@@ -90,8 +88,8 @@ En su obra *La masa delincuente* (1892), Sighele desarrolla algunos de los princ
 ## Sighele: Leyes
 
 * Ley de la unidad o uniformidad
-  * Ley del número
-  * Ley de la predisposición al mal
+* Ley del número
+* Ley de la predisposición al mal
 * Ley del guía o instigador
 * Ley de la composición de la multitud
 * Ley de la no deducibilidad del carácter de la multitud a partir de sus miembros
@@ -216,35 +214,6 @@ Maupassant, G. (1888). _Sur l'eau_. París: P. Ollendorff. Obtenido de http://ar
 
 # Convergencia {.center   data-background="imagenes-APCS-2/Crowd.jpg" data-background-transition=zoom data-state=opacidad}
 
-
-##  {data-background="imagenes-APCS-2/ClaudeNeal.jpg" data-background-transition=zoom data-state=opacidad}
-
-. . .
-
-<video width="800"  clas s="stretch" controls>
-<source src="imagenes-APCS-2/StrangeFruit-BillieHoliday-sub.mp4">
-</video>
-
-###### [http://bit.ly/2FTXcSc](http://bit.ly/2FTXcSc){.fondoblanco}
-
-## Linchamientos
-
-![](imagenes-APCS-2/Linchamientos-1.png){.noshadow height="500"}
-
-## Linchamientos
-
-![](imagenes-APCS-2/Linchamientos-3.png)
-
-## ¿Por qué? {#por-que}
-
-Milgram i Toch (1969), estudian episodios de linchamientos en pequeñas ciudades de EEUU. La respuesta al porqué no participan en ellos toda la población es que quienes lo hacen son personas propensas a la violencia.
-
-:::notes
-Frente a las perspectivas anteriores también nos encontramos con otra según la cual, cualquier fenómeno, incluso grupal, debe explicarse en función de las características de los individuos que están implicados.
-
-Si la difusión de una enfermedad infecciosa puede ser utilizada como analogía para ilustrar los planteamientos de las teorías del contagio, para caracterizar a las teorías de la convergencia se podría utilizar la analogía de las personas de un pabellón hospitalario dedicado al tratamiento de alguna enfermedad no infecciosa. Aunque comparten algo, aunque tienen similitudes entre sí, no obedecen al contagio. Convergen en el pabellón por el hecho de tener previamente similitudes (Milgram & Toch, 1969)
-:::
-
 ## Individualismo
 
 >No hay psicología de los grupos que no sea esencialmente y por completo una psicología de los individuos.
@@ -269,6 +238,34 @@ Lo que se produce en la masa es un fenómeno de interestimulación recíproca, e
 
 ![](imagenes-APCS-2/Miller-Dollard-2.png){.noshadow} -->
 
+##  {data-background="imagenes-APCS-2/ClaudeNeal.jpg" data-background-transition=zoom data-state=opacidad}
+
+. . .
+
+<video width="800"  class="stretch" controls>
+<source src="imagenes-APCS-2/StrangeFruit-BillieHoliday-sub.mp4">
+</video>
+
+
+###### [http://bit.ly/2FTXcSc](http://bit.ly/2FTXcSc){.fondoblanco}
+
+## Linchamientos
+
+![](imagenes-APCS-2/Linchamientos-1.png){.noshadow height="500"}
+
+## Linchamientos
+
+![](imagenes-APCS-2/Linchamientos-3.png)
+
+## ¿Por qué? {#por-que}
+
+Milgram i Toch (1969), estudian episodios de linchamientos en pequeñas ciudades de EEUU. La respuesta al porqué no participan en ellos toda la población es que quienes lo hacen son personas propensas a la violencia.
+
+:::notes
+Frente a las perspectivas anteriores también nos encontramos con otra según la cual, cualquier fenómeno, incluso grupal, debe explicarse en función de las características de los individuos que están implicados.
+
+Si la difusión de una enfermedad infecciosa puede ser utilizada como analogía para ilustrar los planteamientos de las teorías del contagio, para caracterizar a las teorías de la convergencia se podría utilizar la analogía de las personas de un pabellón hospitalario dedicado al tratamiento de alguna enfermedad no infecciosa. Aunque comparten algo, aunque tienen similitudes entre sí, no obedecen al contagio. Convergen en el pabellón por el hecho de tener previamente similitudes (Milgram & Toch, 1969)
+:::
 
 # Críticas {#criticas .center }
 
@@ -303,10 +300,10 @@ Esta perspectiva, evidentemente, ha recibido críticas, principalmente de tipo i
 
 :::::: {.columns}
 ::: {.column width="50%"}
-![Hamburgo, 8 de julio de 2017 (G20)](imagenes-APCS-2/Disturbios-1.jpg)
+![Hamburgo, 8 de julio de 2017 (G20)](imagenes-APCS-2/Disturbios-1.jpg){.noshadow}
 :::
 ::: {.column width="50%"}
-![Boston, 17 de agosto de 2017](imagenes-APCS-2/Disturbios-2.jpg)
+![Boston, 17 de agosto de 2017](imagenes-APCS-2/Disturbios-2.jpg){.noshadow}
 
 <!-- Thousands of Counter-Protesters March Against White Nationalism in Boston a Week After Charlottesville. En respuesta a “Unite the Right” rally of white nationalists opposing the removal of a Confederate general Robert E. Lee statue.-->
 :::
@@ -314,10 +311,17 @@ Esta perspectiva, evidentemente, ha recibido críticas, principalmente de tipo i
 
 :::::: {.columns}
 ::: {.column width="50%"}
-![Murcia, 16 de septiembre de 2017](imagenes-APCS-2/Disturbios-3.jpg)
+![París, enero 2019 (Gilets jaunes)](imagenes-APCS-2/Disturbios-5.jpg){.noshadow}
+
+<!-- La Unión Europea (UE) se negó a comentar el uso desproporcionado de la fuerza policial contra los chalecos amarillos en Francia. -->
 :::
 ::: {.column width="50%"}
-![Barcelona, 1 de octubre de 2017](imagenes-APCS-2/Disturbios-4.jpg)
+![Argelia, 1 de marzo de 2019](imagenes-APCS-2/Disturbios-6a-Argelia-2019.jpg){.noshadow}
+
+<!-- Disturbios en Argelia: miles de personas protestaron contra el Gobierno y chocaron con la policía
+Reclaman la caída de Abdelaziz Buteflika, quien está en el poder desde 1999 y aspira a un quinto mandato. Hay decenas de heridos y detenidos
+
+En Argel se registró una violenta represión a los manifestantes en las proximidades del Palacio de gobierno, donde la policía utilizó bombas de gas lacrimógeno y chorros de agua para dispersar a la multitud. -->
 :::
 ::::::
 
@@ -332,16 +336,16 @@ Esta perspectiva, evidentemente, ha recibido críticas, principalmente de tipo i
 
 :::
 ::: {.column width="50%"}
-![](imagenes-APCS-2/Ferguson-2.jpg)
+![](imagenes-APCS-2/Ferguson-2.jpg){.noborder}
 :::
 ::::::
 
 :::::: {.columns}
 ::: {.column width="50%"}
-![](imagenes-APCS-2/Ferguson-3.jpg)
+![](imagenes-APCS-2/Ferguson-3.jpg){.noborder}
 :::
 ::: {.column width="50%"}
-![](imagenes-APCS-2/Ferguson-4.jpg)
+![](imagenes-APCS-2/Ferguson-4.jpg){.noborder}
 :::
 ::::::
 
@@ -353,13 +357,13 @@ http://internacional.elpais.com/internacional/2014/08/12/actualidad/1407812545_4
 
 # Teorías de la Crisis {#teorias-crisis .center data-background="imagenes-APCS-2/Crisis.jpg" data-background-transition=zoom data-state=opacidad}
 
-## Privación relativa
+<!-- ## Privación relativa
 
 >Cuando van creciendo a la par la satisfacción real de necesidades y la satisfacción esperada, no se produce violencia (aun cuando exista un ligero desnivel entre ambas que genera una insatisfacción tolerable), pero cuando la satisfacción real queda bloqueada y las expectativas continúan creciendo, el desnivel entre lo que se tiene realmente y lo que se esperaba tener puede hacerse muy grande, convirtiéndose en intolerable, produciéndose entonces la situación de curva J característica de las revoluciones.\
 @javaloy_comportamiento_2003 [, p. 180]
 
 ::: notes
-A partir de los años 60 se inició el desarrollo de teorías en las que se centró el interés en el papel jugado por un tipo especial de tensión en el desencadenamiento de actos de protesta y el desarrollo de movimientos sociales: la privación relativa.
+A partir de los años 60 se inició el desarrollo de teorías en las que se centró el interés en el papel jugado por un tipo especial de tensión en el desencadenamiento de actos de protesta y el desarrollo de movimientos sociales: la privación relativa. -->
 :::
 
 ## La Teoría de la "Curva en J" {#teoria-curva-j}

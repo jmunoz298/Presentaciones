@@ -395,9 +395,11 @@ html.transparencia .slide-background {
 	opacity: 0.6 !important;
 }
 
-.section .peque, .reveal .peque {
+
+section .peque, .reveal .peque {
   font-size: 0.7em;
-  line-height: 1.7em;}
+  line-height: 1.7em;
+  text-align: left;}
 
 section .medio, .reveal .medio{
   font-size: 0.9em;}
