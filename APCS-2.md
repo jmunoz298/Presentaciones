@@ -355,60 +355,6 @@ En Argel se registró una violenta represión a los manifestantes en las proximi
 http://internacional.elpais.com/internacional/2014/08/12/actualidad/1407812545_405305.html
 :::
 
-# Teorías de la Crisis {#teorias-crisis .center data-background="imagenes-APCS-2/Crisis.jpg" data-background-transition=zoom data-state=opacidad}
-
-<!-- ## Privación relativa
-
->Cuando van creciendo a la par la satisfacción real de necesidades y la satisfacción esperada, no se produce violencia (aun cuando exista un ligero desnivel entre ambas que genera una insatisfacción tolerable), pero cuando la satisfacción real queda bloqueada y las expectativas continúan creciendo, el desnivel entre lo que se tiene realmente y lo que se esperaba tener puede hacerse muy grande, convirtiéndose en intolerable, produciéndose entonces la situación de curva J característica de las revoluciones.\
-@javaloy_comportamiento_2003 [, p. 180]
-
-::: notes
-A partir de los años 60 se inició el desarrollo de teorías en las que se centró el interés en el papel jugado por un tipo especial de tensión en el desencadenamiento de actos de protesta y el desarrollo de movimientos sociales: la privación relativa. -->
-:::
-
-## La Teoría de la "Curva en J" {#teoria-curva-j}
-
-![](imagenes-APCS-2/JCurveDavies.jpg)
-
-###### @davies_toward_1962
-
-::: notes
-James Davies plantea su hipótesis de la “curva en J”, en la que plantea que es más probable que se produzcan revoluciones cuando tras periodos de crecimiento económico y social prolongado y objetivo siguen periodos cortos de retrocesos agudos causados, por ejemplo, por descenso en la producción, incremento de impuestos...
-
-La pobreza severa y la impotencia extrema conducirían a la apatía y la desesperanza, no a la movilización.
-:::
-
-
-## Teoría del Valor Añadido {#teoria-valor-anadido}
-
-:::::: {.columns}
-::: {.column width="50%"}
-![Neil J. Smelser\
-1930-2017](imagenes-APCS-2/Smelser.jpg)
-:::
-::: {.column width="50%"}
-![Teoría de la Acción Colectiva\
-1962](imagenes-APCS-2/SmelserPortada.jpg)
-:::
-::::::
-
-## Determinantes
-
->* Conductividad estructural
-* Tensión estructural
-* Creencia generalizada
-* Suceso precipitador
-* Movilización activa
-* Control social
-
-## Un ejemplo: Universidad de Kent
-
-<video width="800"  class="stretch" controls>
-<source src="imagenes-APCS-2/KentState-sub.mp4">
-</video>
-
-@lewis_study_1972 y @rudwick_kent_1972
-
 # Referencias {.center}
 
 ## {.peque .scrollable }

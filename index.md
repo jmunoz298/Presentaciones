@@ -26,7 +26,7 @@ Dinámicas
 ---------
 
 - Autopresentación (2018) ([HTML](GestionImpresiones.html) | [PDF](GestionImpresiones.pdf))
-- Conflicto (2018) ([HTML](Conflicto.html) | [PDF](Conflicto.pdf)) 
+- Conflicto (2018) ([HTML](Conflicto.html) | [PDF](Conflicto.pdf))
 - Decisiones (2018) ([HTML](Decisiones.html) | [PDF](Decisiones.pdf))
 - Liderazgo (2018) ([HTML](Liderazgo.html) | [PDF](Lideerazgo.pdf))
 - Redes comunicación (2018) ([HTML](RedesComunicacion.html) | [PDF](RedesComunicacion.pdf))
@@ -34,8 +34,8 @@ Dinámicas
 Acción Pública y cambio social
 ------------------------------
 
-- Primera parte (febrero 2018) ([HTML](APCS-1.html) | [PDF](APCS-1.pdf))
-- Segunda parte (febrero 2018) ([HTML](APCS-2.html) | [PDF](APCS-2.pdf))
+- Primera parte (febrero 2019) ([HTML](APCS-1.html) | [PDF](APCS-1.pdf))
+- Segunda parte (marzo 2019) ([HTML](APCS-2.html) | [PDF](APCS-2.pdf))
 - Tercera parte (marzo 2018) ([HTML](APCS-3.html) | [PDF](APCS-3.pdf))
 
 Análisis temático / Atlas-ti
