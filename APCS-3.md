@@ -73,9 +73,11 @@ Operación de **control social** que previenen la ocurrencia del episodio o, si 
 
 ## Un ejemplo: Universidad de Kent
 
-<video width="800"  class="stretch" controls>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TRE9vMBBe10" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!-- <video width="800"  class="stretch" controls>
 <source src="imagenes-APCS-2/KentState-sub.mp4">
-</video>
+</video> -->
 
 @lewis_study_1972 y @rudwick_kent_1972
 
@@ -87,9 +89,11 @@ Operación de **control social** que previenen la ocurrencia del episodio o, si 
 :::::: {.columns}
 ::: {.column width="70%"}
 
- <video width="600"  class="stretch" controls>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZH26l0tlrpM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+ <!-- <video width="600"  class="stretch" controls>
  <source src="imagenes-APCS-3/BloodySunday-sub-1.mp4">
- </video>
+ </video> -->
 
 `https://www.youtube.com/watch?v=Yv5U0A10hrI`{.fondoblanco}
 :::
