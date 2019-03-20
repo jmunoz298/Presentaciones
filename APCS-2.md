@@ -141,6 +141,8 @@ El contagio mental funciona de forma similar al contagio de una enfermedad infec
 El tercer y más importante mecanismo que da lugar al comportamiento de la muchedumbre, es la susceptibilidad, la aceptación acrítica de una persona de las exigencias que se le solicitan, lo que le lleva a realizar conductas que no realizaría de no ser miembro de la masa. El contagio no sería sino un efecto de la sugestibilidad.
 :::
 
+<!-- ## Rajoy-plasma -->
+
 ## El "filósofo español" {#ortega data-background="imagenes-APCS-2/Ortega-ElSol-1922-2-4.jpg" data-background-transition=zoom data-state=opacidad .medio}
 
 . . .

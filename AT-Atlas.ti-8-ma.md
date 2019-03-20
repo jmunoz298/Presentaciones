@@ -318,53 +318,16 @@ Version  Responsable   Notes                                          Changed
 
 # Proyecto {.center data-background="imagenes-cuali/escriba.jpg" data-background-transition=zoom data-state=opacidad}
 
-
-##
-
-### https://bit.ly/2SN6RjE
-
-
-## Estrategias trabajo en equipo
-
-![](imagenes-atlas-8/atlas-trabajo-equipo.png){.noshadow width=55%}
-
-::: notes
-Dos formas básicas de trabajo en equipo:
-
-- Todos los analistas trabajando con el conjunto de los documentos.
-- Diferentes analistas trabajan con diferentes documentos.
-
-En ambos casos, el resultado final es la unión de los diferentes proyectos
-:::
-
-## Unir proyectos
-
-![](imagenes-atlas-8/FusionarProyecto-8.png)
-
 ## Crear nuevo proyecto {#nuevo-proyecto}
 
 ![](imagenes-atlas-8/NuevoProyecto.png)
 
 ## Añadir documentos {#anadir-documentos}
 
-:::::: {.columns}
-::: {.column width="50%"}
 ![](imagenes-atlas-8/AgregarDocumentos-8-01.png){.border .noshadow}
-:::
-::: {.column width="50%"}
-![](img/working-03.png){.noshadow}
-:::
-::::::
-
-:::::: {.columns}
-::: {.column width="100%"}
-
-Descargar y descomprimir [https://bit.ly/2tboqvO]{.fosforito}
 
 >- Inicio > Agregar documentos > Agregar archivos
 - Gestor de documentos > Crear comentarios de documentos
-:::
-::::::
 
 
 # Memoing {.center data-background="imagenes-cuali/Memoing-01.jpg" data-background-transition=zoom data-state=opacidad}
@@ -372,11 +335,6 @@ Descargar y descomprimir [https://bit.ly/2tboqvO]{.fosforito}
 ## Memoing
 >Mediante el uso de memorandos, el investigador es capaz de sumergirse en los datos, explorar los significados que estos datos tienen, mantener la continuidad y mantener el impulso en la realización de la investigación. Como [crónica de un viaje de investigación]{.fosforito}, los memorandos permanecen como un registro, indeleble pero flexible, para retención personal o para difundir a otros.\
 @birks_memoing_2008 [p. 69]
-
-## Memoing
->Vemos la toma de notas como [crucial]{.fosforito} para todos los tipos y enfoques de análisis. Otras funciones, como la codificación, la búsqueda de texto, la codificación automática y la modelización pueden ser utilizadas por enfoques concretos, pero la anotación de los datos, documentos y material de apoyo es [indivisible del análisis general]{.fosforito}.\
-@lewins_using_2007 [p. 59]
-
 
 ## Memoing = Reflexionar sobre...
 
@@ -412,13 +370,6 @@ Descargar y descomprimir [https://bit.ly/2tboqvO]{.fosforito}
 . . .
 
 ![](imagenes-cuali/Reduccion.png){ width="370px"}
-
-
-## Codificación {#codificacion}
-
->La indexación (o codificación) es la actividad en la que el investigador aplica significado a los datos en bruto mediante la asignación de palabras clave o frases. Estas palabras clave actúan como indicadores de temas en los datos. La indexación es una actividad por la que los datos se descomponen, conceptualizan y posteriormente son reformulados.\
-@bloor_keywords_2006 [p.201]
-
 
 ## Estrategias de codificación {#estrategias-codificacion }
 
@@ -456,49 +407,6 @@ Esto podría provocar que se pierda el significado si no se tiene en cuenta la p
 * "Navegar" entre citas.
 * Explorar relaciones con el [Administrador de vínculos]{.resaltar}.
 
-
-## Categorización {#categorizacion}
->Los animales se clasifican en a) pertenecientes al emperador, b) embalsamados, c) amaestrados, d) lechones, e) sirenas, f) fabulosos, g) perros sueltos, h) incluidos en esta clasificación, i) que se agitan como locos, j) innumerables, k) dibujados con un pincel finísimo de pelo de camello, l) etcétera, m) que acaban de romper el jarrón, n) que de lejos parecen moscas.\
-`J.L.Borges (1952). El idioma analítico de John Wilkins.`{.autor}
-
-
-## Literatura definicional
-
-| Origen            | El gato ha bebido la leche                                                                                                                                                                                                                                                                                                               |
-|:------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1ª Transformación | El mamífero carnívoro digitígrado doméstico<br>ha tragado un líquido blanco, de sabor dulce producido<br>por las hembras de los mamíferos.                                                                                                                                                                                               |
-| 2ª Transformación | Quien tiene tetas, come carne, camina sobre<br>la extremidad de sus dedos y pertenece a la casa<br>ha hecho descender por el gaznate al estómago<br>un estado de la materia sin forma propia,<br>del color de la leche, de impresión<br>agradable al órgano del gusto y procurado por<br>los animales de sexo femenino que tienen tetas. |
-
-`Raymond Queneau`{.autor}
-
-
-## "El gato"
-
-![](imagenes-cuali/Gato.jpg){.border width=70%}
-
-::: notes
-Podemos pensar en la codificación como una forma de literatura definicional a la inversa, en la que nuestros datos (y citas) son la última transformación y los pasos previos son códigos.
-
-La duda que se nos puede plantear es sobre el nivel de codificación que realizaremos (Mamífero, Carnívoro... frente a Gato, Bebe...).
-
-Tenemos dos posibles respuestas (no incompatibles entre sí):
-
-- El nivel adecuado viene definido por los objetivos
-- Podemos utilizar diferentes niveles (códigos, categorías...)
-:::
-
-## Comentarios de códigos {#comentarios-codigos .medio}
-
-| Código              | MARGPROB                                                                                                                                                                                                                                                        |
-|:--------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Definición breve    | Problemas propios de comunidades marginales                                                                                                                                                                                                                     |
-| Definición completa | Situaciones sociales que son vividas exclusivamente por aquellas personas que llevan un estilo de vida marginal, con carencia fundamentalmente de bienes y servicios que sí están presentes en personas con nivel socioeconómico medio.                         |
-| Cuándo se usa       | Cuando las personas señalan alguna dificultad que denote un problema social instrumental, como falta de alimento, abrigo, techo, salud, servicios sanitarios. Debe tener carácter grave o impedir el desarrollo adecuado de su vida familiar, social o laboral. |
-| Cuándo no se usa    | No se aplica a problemas propios de una conducta condicionada por cultura marginal, como violencia doméstica, alcoholismo, abandono de hogar, delincuencia, prostitución                                                                                        |
-| Ejemplo             | “Como aquí no hay agua ni alcantarillado, la suciedad que hay aquí en las calles es terrible, ahí se puede ver... ¿se fija?, los niños se enferman a cada rato.”                                                                                                |
-
-###### @macqueen_codebook_1998{.autor}
-
 ## Ejercicio: Codificación {#ejercicio-codificacion}
 
 ![](imagenes-atlas-8/ejercicio-codificacion.png){.noshadow  .border}
@@ -511,16 +419,17 @@ Tenemos dos posibles respuestas (no incompatibles entre sí):
 
 <!-- # "Transportar" UH{.center data-background="imagenes/luggage.png"} -->
 
-## Ejercicio: Crear/abrir copia
+## Comentarios de códigos {#comentarios-codigos .medio}
 
-:::::: {.columns}
-::: {.column width="50%"}
-![](imagenes-atlas-8/Importar-proyecto.png){.border}
-:::
-::: {.column width="50%"}
-![](imagenes-atlas-8/Exportar.png){.border}
-:::
-:::::
+| Código              | MARGPROB                                                                                                                                                                                                                                                        |
+|:--------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Definición breve    | Problemas propios de comunidades marginales                                                                                                                                                                                                                     |
+| Definición completa | Situaciones sociales que son vividas exclusivamente por aquellas personas que llevan un estilo de vida marginal, con carencia fundamentalmente de bienes y servicios que sí están presentes en personas con nivel socioeconómico medio.                         |
+| Cuándo se usa       | Cuando las personas señalan alguna dificultad que denote un problema social instrumental, como falta de alimento, abrigo, techo, salud, servicios sanitarios. Debe tener carácter grave o impedir el desarrollo adecuado de su vida familiar, social o laboral. |
+| Cuándo no se usa    | No se aplica a problemas propios de una conducta condicionada por cultura marginal, como violencia doméstica, alcoholismo, abandono de hogar, delincuencia, prostitución                                                                                        |
+| Ejemplo             | “Como aquí no hay agua ni alcantarillado, la suciedad que hay aquí en las calles es terrible, ahí se puede ver... ¿se fija?, los niños se enferman a cada rato.”                                                                                                |
+
+###### @macqueen_codebook_1998{.autor}
 
 ## Codificación: "Depuración" {#codificacion-depuracion}
 
@@ -558,8 +467,6 @@ Tenemos dos posibles respuestas (no incompatibles entre sí):
 ###### @friese_using_2011 {.autor}
 
 ## Ejercicio: Depurar códigos {#depurar-codigos}
-
-Descargar: [https://bit.ly/2TKfOaX]{.fosforito}
 
 ![](imagenes-atlas-8/Menu-imprimir.png){.border}
 
@@ -612,10 +519,6 @@ Las coocurrencias son las citas (codificadas) que presentan algún grado de sola
 Para llegar al resultado de la imagen, en primer lugar se ha añadido un identificador a las etiquetas de códigos, "es:" para los códigos "estructurales", y "ac:" a los códigos que identifican a los diferentes "actores". De esta forma, aparecerán juntos en el Administrador de códigos. Además, al acceder a la herramienta "Tabla de co-ocurrencias", podemos filtrar fácilmente "es:" en filas y "ac:" en columnas.
 :::
 
-##
-
-### Descargar: [https://bit.ly/2WWDY3T]{.fosforito}
-
 ## Agrupar
 
 ![Tipos de Grupos](imagenes-atlas-8/Grupos.png)
@@ -657,25 +560,6 @@ Para llegar al resultado de la imagen, en primer lugar se ha añadido un identif
 
 
 <!-- # Estructurar {.center data-state=opacidad data-background="imagenes-cuali/hanging-files.jpg" data-background-transition=zoom} -->
-
-## Pregunta 2
-
-#### ¿Qué características tienen los contenidos que son citas textuales?
-
->* Codificar todos los fragmentos entre cualquier tipo de comillas.
-* Tabla de co-coocurrencias.
-* Ver memo "co:Citas literales".
-* Y... [Autocodificar]{.resaltar}.
-
-![](imagenes-cuali/Autocodificacion-menu-8-01.png)
-
-## Autocodificación {#autocodificacion}
-
-![](imagenes-atlas-8/Autocodificacion.png){.noshadow}
-
-[Autocodificar siguiendo las instrucciones del memo.]{.medio}
-
-[(Puedes hacer pruebas en https://regex101.com/)]{.peque}
 
 ## Codificación de grupo focal {#codificacion-grupo-focal}
 
@@ -724,9 +608,6 @@ Por ejemplo:
 
 >* Crear relaciones "es una" entre códigos.
 * Crear otros tipos de relaciones.
-* Definir un nuevo tipo de relación.
-
-Descargar: [https://bit.ly/2BvAw76]{.fosforito}
 
 # Vistas de red{.center data-background="imagenes-cuali/neurons.jpg" data-background-transition=zoom data-state=opacidad}
 
