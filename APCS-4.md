@@ -3,128 +3,369 @@ title:  'Acción Pública y Cambio Social'
 author:
 - name: Juan Muñoz
   affiliation: Universitat Autònoma de Barcelona
-  email: juan.munoz@uab.cat
 tags: [Conductas colectivas]
-tema: "El Pánico"
+tema: "Normas e identidades"
 url: "http:/juan.psicologiasocial.eu"
 bibliography: diapos.bib
 csl: apa.csl
 lateral-menu: 'True'
 ...
 
-## Desastres
+# Teoría de la Norma Emergente {.center data-background="imagenes-APCS-3b/Confused.jpg" data-background-transition=fade data-state=fondo}
 
-<!-- ![](imagenes-APCS-4/Titanic.jpg) -->
+
+## Influencias: Interaccionismo simbólico {#influencias}
+
+>* El ser humano orienta sus actos hacia las cosas en función de lo que significan para él.
+* El significado de estas cosas es consecuencia de la interacción social.
+* Los significados se manipulan y modifican mediante la interpretación que la persona realiza al enfrentarse con el mundo.
+
+###### @blumer_interaccionismo_1969 [p, 2] {.autor}
+
+<!--
+## Influencias: Park y Blumer
+
+:::::: {.columns}
+::: {.column width="30%"}
+![Robert E. Park (1864-1944)](imagenes-APCS-3b/Park.png)
+:::
+::: {.column width="30%"}
+Reacción circular
+
+“Milling”
+
+Excitación colectiva
+:::
+::: {.column width="35%"}
+![Herbert Blumer (1900-1987)](imagenes-APCS-3b/Blumer.jpg)
+:::
+::::::
+
+-->
+
+
+## Excitación colectiva {#excitacion-colectiva}
+
+>Cuando entra en relación con otros miembros de la masa, un individuo pierde su habitual comprensión crítica y auto-control y queda afectado por la excitación colectiva que la domina. Responde de forma inmediata y directa a los comentarios y conductas de los otros en vez de interpretarlos, como haría en su conducta ordinaria.\
+@blumer_collective_1939[, p. 180]
+
+## Interacción no interpretativa {#reaccion-circular}
+
+![Reacción circular](imagenes-APCS-3b/ReaccionCircular.png)
+
+::: notes
+Para la explicación de las conductas colectivas, Park y Blumer diferencian entre dos tipos de interacciones:
+
+La **“interacción interpretativa”**, típica de la conducta rutinaria, en el que la interacción está guiada por los significados y expectativas compartidos, en los que la respuestas ante la actuación de los otros dependen de la interpretación que se realiza de dichas conductas, más que de la conducta en sí misma.
+
+La **interacción no interpretativa, no simbólica** puede producirse cuando ocurren condiciones de *malestar social* como las que se dan cuando hay cambios significativos en las formas de vida, «cuando la gente tiene impulsos, deseos o disposiciones que no se pueden satisfacer». En esas condiciones, el tipo de interacción es no interpretativa, no simbólica, una forma de interacción que designa como
+
+*reacción circular*: «un tipo de interestimulación de la conducta en la que la respuesta de un individuo reproduce el estímulo que le llega de otro y, al dirigirse otra vez a dicho individuo, refuerza el estímulo anterior» (1939: 224). Esta forma de interacción se denomina circular porque la acción de un individuo tiene un efecto reflejo sobre él, sin que sea mediada por otros elementos de carácter simbólico o cultural. Cada individuo refleja sobre el otro sus sentimientos de pánico, agresividad o irritación, y al hacerlo retornan a él intensificados. (Laraña, 1996, p. 29)
+:::
+
+<!--
+## Modelo de "inquietud social" de Blumer
+
+Colapso del orden social normativo
+Inquietud social
+Milling: Comportamiento errático y sin objetivo preciso
+
+-->
+
+<!--
+## El comportamiento colectivo...
+
+* No es una patología, sino un componente funcional de la sociedad: favorece el cambio
+* Es una situación no-estructurada (no normativizada)
+
+-->
+
+<!--
+## Cambio
+
+> Para que un individuo pueda efectuar nuevos ajustes y establecer nuevos hábitos, es inevitable que los viejos hábitos sean liquidados, y para que la sociedad pueda reformar el orden social existente, un cierto grado de desorganización es inevitable. El desasosiego social puede ser, por lo tanto, un síntoma saludable. Es sólo cuando el proceso de desorganización tiene lugar rápidamente y cobra una dimensión tal que la estructura social existente se deteriora, y cuando la sociedad se muestra incapaz por esta razón de reajustarse a sí misma, que la inquietud social se convierte en un síntoma patológico. \
+Park y Burges, 1921, p. 865
+
+-->
+
+## Norma emergente: Principios
+
+:::::: {.columns}
+::: {.column width="35%"}
+![](imagenes-APCS-3b/PortadaTurnerKillian.jpg)
+:::
+::: {.column width="35%"}
+@turner_collective_1957
+:::
+::: {.column width="30%"}
+:::
+::::::
+
+<!--
+* Una apuesta por la diferenciación interna de las multitudes, que invalida las teorías del contagio y de la convergencia
+-->
+
+. . .
+
+>* La conducta de masa no es asocial ni irracional, está regulada por normas que emergen en la propia situación.
+* La multitud es un espacio de interacción social en el que se desarrollan normas sociales.
+
+
+<!--
+## Norma emergente: Idea central
+
+>...la conducta de las multitudes (…) está regulada por normas que no vienen de fuera, que no están institucionalizadas, sino que surgen precisamente al hilo del desarrollo de la propia dinámica del comportamiento de la multitud (...); emergen de la propia situación y son vinculantes para los individuos participantes (...) cuando la situación es inicialmente ambigua, surgen definiciones nuevas durante el discurso de la interacción social.\
+@ovejero_bernal_individuo_1997 [, p. 218]
+-->
+
+<!--
+## Proceso
+
+* La actuación de las persona depende de la percepción sobre las normas que rigen la situación.
+* En una situación ambigua, las normas son creadas en el transcurso de la interacción.
+* La homogeneidad no obedece al contagio, sino a conformidad normativa.
+* Las normas derivan de la conducta de personas prominentes (líderes).
+* La conducta colectiva no es especialmente irracional.
+-->
+
+## El proceso
+
+![](imagenes-APCS-3b/NormaEmergente-proceso.png){.noshadow}
+
+# Identidad Social {.center data-background="imagenes-APCS-3b/Group.jpg" data-background-transition=fade data-state=fondo}
+
+## Teoría de la Identidad Social {#teoria-identidad-social}
 
 :::::: {.columns}
 ::: {.column width="50%"}
-![Cocoanut Grove](imagenes-APCS-4/Cocoanut-grove-fire.jpg)
+![Stephen Reicher](imagenes-APCS-3b/Reicher.jpg)
 :::
 ::: {.column width="50%"}
-![Ciclón Bhola](imagenes-APCS-4/BholaCiclon-01.jpg)
+![](imagenes-APCS-3b/Turner-Portada.jpg)
+:::
+::::::
+
+## La propuesta de Steve Reicher
+
+>Si se deja de lado el exogrupo, no puede comprenderse que la violencia surja de un proceso de conflicto intergrupal. En su lugar se atribuye a la masa misma.\
+@reicher_conducta_1987 [, p. 240]
+
+
+* Los miembros de la masa actúan en términos de una identidad social común.
+* El contenido de la conducta de la masa estará limitado por la naturaleza de la categoría a la que pertenecen.
+
+::: notes
+Reicher señala que una de las limitaciones de las teorías clásicas es que no tiene en cuenta el carácter social de la misma, algo que queda patente si se tiene en cuenta que la conducta de masas no puede reducirse a un tipo de conductas concretas (destructivas y violentas) y que incluso cuando se produce tal violencia los acontecimientos son selectivos y muestran un patrón que toma sentido cuando se analiza en términos de las ideologías asociadas con los colectivos implicados.
+:::
+
+## Los disturbios de St. Pauls {data-background="imagenes-APCS-3b/SaintPauls-back.jpg" data-background-transition=fade data-state=fondo}
+
+<video   class="stretch" controls data-autoplay>
+  <source src="imagenes-APCS-3b/St_Pauls_Uprising_Bristol_1980.mp4">
+</video>
+
+[https://www.youtube.com/watch?v=Wdyo16VMhIQ](https://www.youtube.com/watch?v=Wdyo16VMhIQ){.peque .fondoblanco target="_blank"}
+
+#### Ver: @reicher_st._1984 {.autor .fondoblanco}
+
+::: notes
+En su estudio de los disturbios de St. Pauls, se muestran los límites de la acción tanto geográficamente como hacia quién va dirigida.
+:::
+
+## Despersonalización {#despersonalizacion}
+
+>La despersonalización se refiere a los procesos de autoestereotipación por los que las personas se perciben a sí mismas más como casos intercambiables de una categoría social que como personalidades únicas definidas por sus diferencias individuales respecto a los demás.\
+@turner_rediscovering_1987 [, p. 50]
+
+::: notes
+Hay que entenderla de una forma totalmente diferente al concpeto de desindividuación de teorías anteriores, puesto que no se trata de una inmersión del yo en el grupo, y tampoco una regresión a una forma de identidad más primitiva o inconsciente, sino que lo que realmente implica es el paso del funcionamiento en términos de una identidad personal a hacerlo en función de una identidad social.
+
+Al sentirse miembros de un grupo, se incrementa entre ellos la atracción y la empatía, y como resultado de ello, aumenta la cohesión, entendida como atracción mutua entre el conjunto de miembros del grupo, la cual a su vez tiende a producir unidad de creencias y cooperación.
+
+:::
+
+## Críticas a la teoría de la norma emergente {#critica-norma-emergente}
+
+* Su explicación de cómo emergen las normas es inadecuada para explicar las situaciones en las que la masa actúa y cambia rápidamente.
+* Énfasis que ponen en el papel de los individuos prominentes en la emergencia de la norma.
+
+
+## Diferencias con Norma Emergente
+
+* Las normas se obtienen observando cómo actúan otros, pero esos otros tienen que ser miembros de la categoría.
+* No se trata de un proceso de creación, sino de inferencia, lo que permite explicar que las normas “surjan” rápidamente.
+* De una multitud no puede surgir cualquier tipo de norma, sólo aquellas que están delimitadas por el contenido categorial.
+
+<!--
+## Bases
+
+:::::: {.columns}
+::: {.column width="50%"}
+Teoría de la Identidad, categorización y comparación social
+
+![Henri Tajfel\
+1919-1982](imagenes-APCS-3b/Tajfel.jpg)
+:::
+::: {.column width="50%"}
+Teoría de la autocategorización
+
+![John C. Turner\
+1947-2011](imagenes-APCS-3b/TurnerJ.jpg)
+:::
+::::::
+
+-->
+
+## Teoría de la autocategorización del yo {#teoria-autocategorizacion}
+
+- Tiende a darse una relación inversa entre la saliencia de los niveles personal y social de categorización del yo
+- Cuando nos vemos como miembros intercambiables de una categoría social, nos despersonalizamos
+- La despersonalización de la percepción del yo es el proceso básico que subyace a los fenómenos de grupo
+
+<!--
+## Construcción de identidad {#construccion-identidad}
+>El proceso de construcción de la identidad puede resumirse del siguiente modo: se da una identificación inmediata con una categoría supraordenada que define un campo de posibles identidades; los miembros de la masa tienen que construir entonces una identidad situacional específica que determine las normas de conducta adecuadas, y los medios a través de los cuales lo hacen son el aspecto inductivo de la categorización del yo.\
+@reicher_conducta_1987 [, p. 250]
+-->
+
+
+# Modelo elaborado de identidad social {.center}
+
+## Reformulación {#reformulacion}
+
+>* La identidad social de los miembros de la masa, y por lo tanto sus actuaciones, dependen de las dinámicas intergrupales.
+
+. . .
+
+>* Cuando una multitud hetereogénea es tratada de forma homogénea como una totalidad, se produce un cambio, una reconceptualización de los miembros redefiniéndose como una categoría común.
+
+::: notes
+El Modelo Elaborado de la Identidad Social se formula para tener en cuenta el contexto, entendido como constituido para un grupo por las acciones del otro y viceversa. Esta reformulación también intenta responder cómo la actuación en términos de una posición determinada (como miembro de una categoría) puede llevar a cambios en esa posición y a cambios en la autocomprensión (autoconcepto).
+:::
+
+## Protesta ambiental
+
+![](imagenes-APCS-3b/George_Green_chestnut_tree.jpg)
+
+## La batalla de Westminster (24-11-1998) {data-background="imagenes-APCS-3b/BattleOfWestminster.jpg" data-background-transition=fade data-state=opacidad}
+
+. . .
+
+<!-- :::::: {.columns}
+::: {.column width="50%"}
+![](imagenes-APCS-3b/Westminster-1998-1.jpg)
+:::
+:::::: -->
+
+:::::: {.columns}
+::: {.column width="70%"}
+ <video data-autoplay width="450"  class="stretch" controls>
+   <source src="imagenes-APCS-3b/Westminster-Student-Demonstration-1988.mkv">
+ </video>
+ [https://www.youtube.com/watch?v=S1hOoM_93Bo](https://www.youtube.com/watch?v=S1hOoM_93Bo){.peque .fondoblanco target="_blank"}
+:::
+::: {.column width="30%"}
+ ![](imagenes-APCS-3b/Westminster-1998-3.jpg)
 :::
 ::::::
 
 ::: notes
-Entre los "acontecimientos extraordinarios" característicos de las conductas colectivas, se encuentran desastres: accidentes, incendios, tragedias naturales, terrorismo...
-
-Como por ejemplo el incendio en la sala de fiestas *Cocoanut Grove* (Boston, 28 nov. 1942) que provocó 492 muertes (32 más que el aforo del local) o el ciclón tropical *Bhola* (Bangladés y Bengala 12 de nov. de 1970), que provocó 500000 víctimas aproximadamente.
-
-Ante casos como estos, estamos acostumbrados a escuchar relatos sobre el "pánico" que sufren sus víctimas.
-
-Pero ¿qué es el pánico?
+La "creación de identidades" se relaciona con datos que sugieren que las autoridades tienden a considerar las grandes multitudes, por su número, como una amenaza potencial al orden público. La policía, que tiene esa concepción, también tiene el poder de actuar en función de ella utilizando su poder coercitivo, pero lo hacen de forma indiscriminada sobre el colectivo como algo único. Esas tácticas provocan, por lo tanto, que todos los manifestantes compartan la misma experiencia, lo que favorece la formación de grupo y explica cómo una masa fragmentada puede llegar a convertirse en una homogénea.
 :::
 
-## ¿Qué es el pánico? {#que-es-panico}
+## Poll Tax Riots (31-3-1990)
 
->Miedo colectivo intenso, experimentado simultáneamente por todos los miembros de una población, caracterizado por la [regresión de las conciencias a un nivel arcaico, impulsivo y gregario]{.fosforito}, y que se traduce en [reacciones primitivas]{.fosforito} de huida, de agitación desordenada, de violencia o de suicidio colectivo.\
-[Crocq et al., 1987. Citado por @dupuy_panico_1999, pág. 25]
-
-::: notes
-Miedo colectivo intenso, **desproporcionado** con respecto al peligro real. En el que las emociones superan al razonamiento y domina el terror, lo que lleva a actuar de forma *contraria a los valores* y normas civilizadas. Se traduce en reacciones de huida, de agitación desordenada, de violencia, puesto que dominan los instintos primitivos de luchar o huir. Frecuentemente el resultado será un *comportamiento no coordinado y competitivo*, una actuación egoísta, preocupándose sólo de su seguridad personal desatendiendo incluso a sus familiares más cercanos y por supuesto no cooperando con los que no lo son.
-
-Evidentemente, esta definición podría ser suscrita por las *teorías irracionalistas*, pues caracteriza al ser humano no sólo como irracional (en la lína de Le Bon), sino también como egoista. Pero también, en parte, por la Teoría de la Norma Emergente, pues afirma que los contextos en los que es necesaria una redefinición de la situación, como en el caso de los desasteres, pueden darse en un contexto de existencia o no de relaciones sociales previas.
-
-En los casos en que no existen relaciones sociales previas, en los que las personas implicadas son desconocidas entre sí o no tienen lazos fuertes, "El comportamiento puede entonces volverse altamente egoísta y agresivo, no como resultado del pánico irracional, sino de definiciones emergentes de la situación como una en la cual las normas de civilidad ya no se aplican, y competir por la ventaja individual es legítimo." (Johnson 1987:173)
+<!-- :::::: {.columns}
+::: {.column width="50%"}
+![](imagenes-APCS-3b/Poll_tax_1990-1.jpg)
 :::
-
-## Egoísmo: Tragedia de los comunes {#tragedia}
-
->Pero, ¿qué significa libertad? Cuando los hombres mutuamente acordaron instaurar leyes contra los robos, la humanidad se volvió más libre, no menos. Los individuos encerrados en la lógica de los recursos comunes son libres únicamente para traer la ruina universal; una vez que ven la necesidad de la coerción mutua, quedan libres para perseguir nuevas metas.\
-`Hardin, 1968`{.autor}
-
-::: notes
-Una visión compartida desde otros campos de estudio. Por ejemplo Garret Hardin defiende, dado el egosimo humano, la necesidad de control de los bienes comunes por parte del Estado o su paso a propiedad privada.
+::: {.column width="50%"}
+![](imagenes-APCS-3b/Poll_tax_1990-2.jpg)
 :::
-
-## ¿Egoísmo? {#apoyo-mutuo}
+:::::: -->
 
 :::::: {.columns}
-::: {.column width="20%"}
-![](imagenes/Kropotkin.jpg)
+::: {.column width="50%"}
+![](imagenes-APCS-3b/Poll_tax_1990-3.jpg )
 :::
-::: {.column width="80%"}
->Afirmamos que la sociabilidad es la ventaja más grande en la lucha por la existencia en todas las circunstancias naturales, sean cuales fueran. Las especies que voluntaria o involuntariamente reniegan de ella, están condenadas a la extinción, mientras que los animales que saben unirse del mejor modo, tienen mayores oportunidades para subsistir y para un desarrollo máximo (…)  Los vertebrados superiores, y en especial el género humano, sirven como la mejor demostración de esta afirmación.\
-@kropotkin_apoyo_1902
+::: {.column width="50%"}
+ <video data-autoplay width="400"  class="stretch" controls>
+  <source src="imagenes-APCS-3b/PollTaxRiot1990.mkv">
+ </video>
+
+[https://www.youtube.com/watch?v=R3nYGoppmoA](https://www.youtube.com/watch?v=R3nYGoppmoA){.peque target="_blank"}
 :::
 ::::::
 
-## El mito
 
->50 años de evidencia sobre el pánico, y la conclusión es clara: la gente raramente entra en pánico, al menos en el sentido usual en que se usa esa palabra. Incluso cuando la gente siente un "miedo excesivo" -una sensación de abrumadora perdición- por lo general evitan los "esfuerzos imprudentes" y el "caos". En particular, es improbable que causen daño a los demás en su búsqueda de seguridad e incluso pueden poner sus propias vidas en peligro para ayudar a los demás.\
-@clarke_panic:_2002 [p. 21]
 
-::: notes
-Pero contrario al mito, las víctimas de desastres generalmente no entran en pánico. Aunque es cierto que lo pueden experimentar algunas de las personas implicadas, y que efectivamente tras un desastre puede observarse conductas de pánico, la respuesta más generalizada es de calma y conductas de busca de solución de problemas. Hay numerosos ejemplos de que hay bastante compostura, casi frialdad y que las personas se ayudan unas a otras, con actos casi heróicos.
-:::
+## ¿Responsabilidad?
 
-## Pánico en la prensa {#panico-prensa1}
+>Las teorías de la multitud que explican la acción colectiva y la conducta colectiva en términos de patología de la masa, sirven para eliminar cualquier responsabilidad posible del Estado y sus fuerzas. Igualmente, en los relatos de nuestros entrevistados no hay lugar para abordar el papel de la policía en la producción de conflicto. La naturaleza de la multitud y sus dinámicas internas son en sí mismas explicaciones suficientes. En ningún momento en las entrevistas, ninguno de los oficiales sugieren que deben mirarse a sí mismos para una explicación de la violencia.\
+@stott_crowd_1998 [, p. 519]
 
-![](imagenes-APCS-4/Panico-Prensa-00.png)
 
-::: notes
-Aún así, podemos ver que es cierto que se transmite esa imagen de irracionalidad simplemente analizando las informaciones en prensa sobre los desastres.
-:::
+<!--
+## La visión de la policía {#vision-policia}
 
-## {#panico-prensa2}
+![Diagrama de relación entre variables. @drury_role_2003](imagenes-APCS-3b/Drury-Role-PathDiagram.png) -->
 
-![](imagenes-APCS-4/Panico-Prensa-07.png)
 
-## La Guerra de los Mundos
-
-![](imagenes-APCS-4/WarOfWorlds.jpg)
-
-::: notes
-Un ejemplo de informaciones de prensa en el que se destaca el pánico de la población, es el famoso caso de la emisión radiofónica (dirigida por Orson Wells) de la *Guerra de los mundos* (30 de octubre de 1938), que llevó a miles de personas a creer que efectivamente los marcianos habían invadido la prensa.
-
-Las portadas de los diarios de los siguientes días enfatizaban el pánico sufrido por la población, aunque algunos análistas descartan que el pánico (que seguro que se produjo) fuera realmente tan generalizado como se pretendía.
-:::
+<!--
 
 ##
 
->Antes de que terminara el radiograma, en todo el territorio de la Unión la gente rezaba, lloraba y huía despavorida ante el avance de los marcianos. Algunos corrían para socorrer a sus seres queridos. otros de despedían o hacían advertencias por teléfono, se apresuraban a informar a los vecinos, buscaban informes en los diarios o en las estaciones de radio, y pedían ambulancias a los hospitales y automóviles a la Policía. Se calcula que unos seis millones de personas oyeron el radiodrama y que, por lo menos, un millón de ellas se asustaron o se inquietaron.\
-@cantril_hadley_invasion_1942 [p. 63]
+|    |          |                                                                                                   |
+|:--:|:---------|:--------------------------------------------------------------------------------------------------|
+| T1 | Multitud | Contexto comparativo: Impuesto injusto                                                            |
+| T1 | Multitud | Conducta prototípica: Actividad legítima de protesta                                              |
+| T1 | Policía  | Contexto comparativo: La multitud supone una amenaza                                              |
+| T1 | Policía  | Conducta: Utilización de la fuerza                                                                |
+| T2 | Multitud | Cambio en el contexto comparativo: De "impuesto injusto",<br> a actuación ilegítima de la policía |
+| T2 | Multitud | Cambios en identidad y poder: El conflicto hacia<br> la policía es legítimo                       |
+| T2 | Multitud | Cambios en las normas: Conflicto con la policía                                                   |
+| T3 | Policía  | Contexto comparativo: Incremento de la amenaza<br> de la multitud                                 |
 
-## Modelo de afiliación de A.R. Mawson {#modelo-mawson}
+:Cambios en las relaciones intergrupales y\
+ consecuencias para la conducta prototípica.
 
->- Frente a la amenaza, estamos motivados a buscar lo familiar en lugar de simplemente huir.
-- La presencia de familiares o allegados tiene un efecto calmante.
-- El peligro físico parece ser mucho menos perturbador o estresante que la separación de sus semejantes y su entorno.
-- Los individuos se calman por la presencia de objetos de unión, mientras que lo contrario es cierto si están solos, con extraños, o en un entorno desconocido.
+###### T1, T2 y T3 = Fases temporales de la relación intergrupal
 
-###### @mawson_understanding_2005 {.autor}
+###### Adaptado de @stott_crowds_2000
 
-::: notes
-El *modelo de afiliación* defiende que muchas de las conductas que en ocasiones son interpretadas como pánico, son básicamente conductas de tipo afiliativo, intentos de contactar con personas allegadas o incluso necesidad de acceder a "lugares familiares"
-:::
+-->
 
-## Identidad social y resiliencia
+## ¿Y qué pasa con los hooligans? {#que-pasa-hooligans}
 
->Mientras que el modelo de afiliación pone su énfasis teórico en los lazos sociales preexistentes. Lo que se necesita es un modelo de socialidad emergente masiva, es decir, una explicación que permita entender el surgimiento de lazos sociales en una multitud de extraños. En resumen, si bien el enfoque del 'pánico masivo' enfatiza la disolución de los lazos sociales, y los enfoques normativos y de afiliación enfatizan su mantenimiento, también debemos considerar la posibilidad de la creación de tales vínculos.\
-@drury_everyone_2009 [p, 488]
+![](imagenes-APCS-3b/ViolenciaFutbol.jpg)
+
+## Violencia fútbol {#violencia-futbol}
+
+[![Tragedia de Heysel - 29 de mayo de 1985](imagenes-APCS-3b/Heysel.jpg)](https://www.youtube.com/watch?v=3AD9XBdV7c4){target="_blank"}
+
+[Tragedia de Heysel - 29 de mayo de 1985](https://www.youtube.com/watch?v=3AD9XBdV7c4){target="_blank"}
 
 
+## Port Said (1-2-2012)
 
-# Referencias{.center data-background="fondos/Books.jpg" data-background-transition=zoom data-state=opacidad}
+<video  data-autoplay class="stretch" controls>
+<source src="imagenes-APCS-3b/EgyptPortSaid.mp4">
+</video>
+
+[https://www.youtube.com/watch?v=1mUd9vW4NnU](https://www.youtube.com/watch?v=1mUd9vW4NnU){.peque target="_blank"}
+
+## Hillsborough (15-4-1989)
+
+<video  class="stretch" controls>
+<source src="imagenes-APCS-3b/FiebreMaldiniLaTragediaDeHillsborough.mp4">
+</video>
+
+[https://www.youtube.com/watch?v=iORjkuClnMo](https://www.youtube.com/watch?v=iORjkuClnMo){.peque target="_blank"}
+
+## Crowd action
+
+![Stott, C., & Reicher, S. (1998). Crowd action as intergroup process](imagenes-APCS-3b/EsquemaCrowdAction.png)
+
+# Referencias {.center}
 
 ## {.scrollable .peque}
