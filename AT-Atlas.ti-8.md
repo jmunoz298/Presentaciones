@@ -622,7 +622,7 @@ Para llegar al resultado de la imagen, en primer lugar se ha añadido un identif
 
 ## Ejercicio: grupos de códigos {#ejercicio-grupos-codigos}
 
-![](imagenes-atlas-8/Menu-codigos.png){.noshadow .border}
+![](imagenes-atlas-8/Menu-codigos.png)
 
 >* Crear grupos de códigos.
 >   - Desde el [Administrador de códigos]{.resaltar}.
