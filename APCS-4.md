@@ -11,7 +11,11 @@ csl: apa.csl
 lateral-menu: 'True'
 ...
 
-# Teoría de la Norma Emergente {.center data-background="imagenes-APCS-3b/Confused.jpg" data-background-transition=fade data-state=fondo}
+<video   class="stretch" controls data-autoplay>
+  <source src="imagenes-APCS-4/WhiteRiot.mp4">
+</video>
+
+# Teoría de la Norma Emergente {.center data-background="imagenes-APCS-4/Confused.jpg" data-background-transition=fade data-state=fondo}
 
 
 ## Influencias: Interaccionismo simbólico {#influencias}
@@ -27,7 +31,7 @@ lateral-menu: 'True'
 
 :::::: {.columns}
 ::: {.column width="30%"}
-![Robert E. Park (1864-1944)](imagenes-APCS-3b/Park.png)
+![Robert E. Park (1864-1944)](imagenes-APCS-4/Park.png)
 :::
 ::: {.column width="30%"}
 Reacción circular
@@ -37,7 +41,7 @@ Reacción circular
 Excitación colectiva
 :::
 ::: {.column width="35%"}
-![Herbert Blumer (1900-1987)](imagenes-APCS-3b/Blumer.jpg)
+![Herbert Blumer (1900-1987)](imagenes-APCS-4/Blumer.jpg)
 :::
 ::::::
 
@@ -51,7 +55,7 @@ Excitación colectiva
 
 ## Interacción no interpretativa {#reaccion-circular}
 
-![Reacción circular](imagenes-APCS-3b/ReaccionCircular.png)
+![Reacción circular](imagenes-APCS-4/ReaccionCircular.png)
 
 ::: notes
 Para la explicación de las conductas colectivas, Park y Blumer diferencian entre dos tipos de interacciones:
@@ -92,7 +96,7 @@ Park y Burges, 1921, p. 865
 
 :::::: {.columns}
 ::: {.column width="35%"}
-![](imagenes-APCS-3b/PortadaTurnerKillian.jpg)
+![](imagenes-APCS-4/PortadaTurnerKillian.jpg)
 :::
 ::: {.column width="35%"}
 @turner_collective_1957
@@ -130,18 +134,18 @@ Park y Burges, 1921, p. 865
 
 ## El proceso
 
-![](imagenes-APCS-3b/NormaEmergente-proceso.png){.noshadow}
+![](imagenes-APCS-4/NormaEmergente-proceso.png){.noshadow}
 
-# Identidad Social {.center data-background="imagenes-APCS-3b/Group.jpg" data-background-transition=fade data-state=fondo}
+# Identidad Social {.center data-background="imagenes-APCS-4/Group.jpg" data-background-transition=fade data-state=fondo}
 
 ## Teoría de la Identidad Social {#teoria-identidad-social}
 
 :::::: {.columns}
 ::: {.column width="50%"}
-![Stephen Reicher](imagenes-APCS-3b/Reicher.jpg)
+![Stephen Reicher](imagenes-APCS-4/Reicher.jpg)
 :::
 ::: {.column width="50%"}
-![](imagenes-APCS-3b/Turner-Portada.jpg)
+![](imagenes-APCS-4/Turner-Portada.jpg)
 :::
 ::::::
 
@@ -158,10 +162,10 @@ Park y Burges, 1921, p. 865
 Reicher señala que una de las limitaciones de las teorías clásicas es que no tiene en cuenta el carácter social de la misma, algo que queda patente si se tiene en cuenta que la conducta de masas no puede reducirse a un tipo de conductas concretas (destructivas y violentas) y que incluso cuando se produce tal violencia los acontecimientos son selectivos y muestran un patrón que toma sentido cuando se analiza en términos de las ideologías asociadas con los colectivos implicados.
 :::
 
-## Los disturbios de St. Pauls {data-background="imagenes-APCS-3b/SaintPauls-back.jpg" data-background-transition=fade data-state=fondo}
+## Los disturbios de St. Pauls {data-background="imagenes-APCS-4/SaintPauls-back.jpg" data-background-transition=fade data-state=fondo}
 
 <video   class="stretch" controls data-autoplay>
-  <source src="imagenes-APCS-3b/St_Pauls_Uprising_Bristol_1980.mp4">
+  <source src="imagenes-APCS-4/St_Pauls_Uprising_Bristol_1980.mp4">
 </video>
 
 [https://www.youtube.com/watch?v=Wdyo16VMhIQ](https://www.youtube.com/watch?v=Wdyo16VMhIQ){.peque .fondoblanco target="_blank"}
@@ -204,13 +208,13 @@ Al sentirse miembros de un grupo, se incrementa entre ellos la atracción y la e
 Teoría de la Identidad, categorización y comparación social
 
 ![Henri Tajfel\
-1919-1982](imagenes-APCS-3b/Tajfel.jpg)
+1919-1982](imagenes-APCS-4/Tajfel.jpg)
 :::
 ::: {.column width="50%"}
 Teoría de la autocategorización
 
 ![John C. Turner\
-1947-2011](imagenes-APCS-3b/TurnerJ.jpg)
+1947-2011](imagenes-APCS-4/TurnerJ.jpg)
 :::
 ::::::
 
@@ -245,27 +249,27 @@ El Modelo Elaborado de la Identidad Social se formula para tener en cuenta el co
 
 ## Protesta ambiental
 
-![](imagenes-APCS-3b/George_Green_chestnut_tree.jpg)
+![](imagenes-APCS-4/George_Green_chestnut_tree.jpg)
 
-## La batalla de Westminster (24-11-1998) {data-background="imagenes-APCS-3b/BattleOfWestminster.jpg" data-background-transition=fade data-state=opacidad}
+## La batalla de Westminster (24-11-1998) {data-background="imagenes-APCS-4/BattleOfWestminster.jpg" data-background-transition=fade data-state=opacidad}
 
 . . .
 
 <!-- :::::: {.columns}
 ::: {.column width="50%"}
-![](imagenes-APCS-3b/Westminster-1998-1.jpg)
+![](imagenes-APCS-4/Westminster-1998-1.jpg)
 :::
 :::::: -->
 
 :::::: {.columns}
 ::: {.column width="70%"}
  <video data-autoplay width="450"  class="stretch" controls>
-   <source src="imagenes-APCS-3b/Westminster-Student-Demonstration-1988.mkv">
+   <source src="imagenes-APCS-4/Westminster-Student-Demonstration-1988.mkv">
  </video>
  [https://www.youtube.com/watch?v=S1hOoM_93Bo](https://www.youtube.com/watch?v=S1hOoM_93Bo){.peque .fondoblanco target="_blank"}
 :::
 ::: {.column width="30%"}
- ![](imagenes-APCS-3b/Westminster-1998-3.jpg)
+ ![](imagenes-APCS-4/Westminster-1998-3.jpg)
 :::
 ::::::
 
@@ -277,20 +281,20 @@ La "creación de identidades" se relaciona con datos que sugieren que las autori
 
 <!-- :::::: {.columns}
 ::: {.column width="50%"}
-![](imagenes-APCS-3b/Poll_tax_1990-1.jpg)
+![](imagenes-APCS-4/Poll_tax_1990-1.jpg)
 :::
 ::: {.column width="50%"}
-![](imagenes-APCS-3b/Poll_tax_1990-2.jpg)
+![](imagenes-APCS-4/Poll_tax_1990-2.jpg)
 :::
 :::::: -->
 
 :::::: {.columns}
 ::: {.column width="50%"}
-![](imagenes-APCS-3b/Poll_tax_1990-3.jpg )
+![](imagenes-APCS-4/Poll_tax_1990-3.jpg )
 :::
 ::: {.column width="50%"}
  <video data-autoplay width="400"  class="stretch" controls>
-  <source src="imagenes-APCS-3b/PollTaxRiot1990.mkv">
+  <source src="imagenes-APCS-4/PollTaxRiot1990.mkv">
  </video>
 
 [https://www.youtube.com/watch?v=R3nYGoppmoA](https://www.youtube.com/watch?v=R3nYGoppmoA){.peque target="_blank"}
@@ -308,7 +312,7 @@ La "creación de identidades" se relaciona con datos que sugieren que las autori
 <!--
 ## La visión de la policía {#vision-policia}
 
-![Diagrama de relación entre variables. @drury_role_2003](imagenes-APCS-3b/Drury-Role-PathDiagram.png) -->
+![Diagrama de relación entre variables. @drury_role_2003](imagenes-APCS-4/Drury-Role-PathDiagram.png) -->
 
 
 <!--
@@ -337,11 +341,11 @@ La "creación de identidades" se relaciona con datos que sugieren que las autori
 
 ## ¿Y qué pasa con los hooligans? {#que-pasa-hooligans}
 
-![](imagenes-APCS-3b/ViolenciaFutbol.jpg)
+![](imagenes-APCS-4/ViolenciaFutbol.jpg)
 
 ## Violencia fútbol {#violencia-futbol}
 
-[![Tragedia de Heysel - 29 de mayo de 1985](imagenes-APCS-3b/Heysel.jpg)](https://www.youtube.com/watch?v=3AD9XBdV7c4){target="_blank"}
+[![Tragedia de Heysel - 29 de mayo de 1985](imagenes-APCS-4/Heysel.jpg)](https://www.youtube.com/watch?v=3AD9XBdV7c4){target="_blank"}
 
 [Tragedia de Heysel - 29 de mayo de 1985](https://www.youtube.com/watch?v=3AD9XBdV7c4){target="_blank"}
 
@@ -349,7 +353,7 @@ La "creación de identidades" se relaciona con datos que sugieren que las autori
 ## Port Said (1-2-2012)
 
 <video  data-autoplay class="stretch" controls>
-<source src="imagenes-APCS-3b/EgyptPortSaid.mp4">
+<source src="imagenes-APCS-4/EgyptPortSaid.mp4">
 </video>
 
 [https://www.youtube.com/watch?v=1mUd9vW4NnU](https://www.youtube.com/watch?v=1mUd9vW4NnU){.peque target="_blank"}
@@ -357,14 +361,14 @@ La "creación de identidades" se relaciona con datos que sugieren que las autori
 ## Hillsborough (15-4-1989)
 
 <video  class="stretch" controls>
-<source src="imagenes-APCS-3b/FiebreMaldiniLaTragediaDeHillsborough.mp4">
+<source src="imagenes-APCS-4/FiebreMaldiniLaTragediaDeHillsborough.mp4">
 </video>
 
 [https://www.youtube.com/watch?v=iORjkuClnMo](https://www.youtube.com/watch?v=iORjkuClnMo){.peque target="_blank"}
 
 ## Crowd action
 
-![Stott, C., & Reicher, S. (1998). Crowd action as intergroup process](imagenes-APCS-3b/EsquemaCrowdAction.png)
+![Stott, C., & Reicher, S. (1998). Crowd action as intergroup process](imagenes-APCS-4/EsquemaCrowdAction.png)
 
 # Referencias {.center}
 
