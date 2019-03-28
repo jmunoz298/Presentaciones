@@ -257,7 +257,7 @@ Ver: [UK · Data Archive: Create & Manage Data](http://www.data-archive.ac.uk/cr
 
 <!-- ## Plan de Gestión de Datos {#plan-gestion-datos}
 
-![Plan de Gestión de Datos](imagenes-cuali/PlanDeDatos.png){.noshadow width=650}
+![Plan de Gestión de Datos](imagenes-cuali/PlanDeDatos.png){.noshadow height=650}
 
 [Ver](http://rebiun.xercode.es/xmlui/bitstream/handle/20.500.11967/71/ES_IIIPE_Linea2_SubgOA_Info9_resolucionmedia_2016.jpg?sequence=8&isAllowed=y) -->
 

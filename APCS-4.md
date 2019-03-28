@@ -307,7 +307,7 @@ La "creación de identidades" se relaciona con datos que sugieren que las autori
 
 ## Crowd action
 
-![Stott, C., & Reicher, S. (1998). Crowd action as intergroup process](imagenes-APCS-4/EsquemaCrowdAction.png)
+![Stott, C., & Reicher, S. (1998). Crowd action as intergroup process](imagenes-APCS-4/EsquemaCrowdAction.png){height=450}
 
 
 
@@ -352,21 +352,21 @@ La "creación de identidades" se relaciona con datos que sugieren que las autori
 [Tragedia de Heysel - 29 de mayo de 1985](https://www.youtube.com/watch?v=3AD9XBdV7c4){target="_blank"}
 
 
-## Port Said (1-2-2012)
+## Port Said (1-2-2012){data-background="imagenes-APCS-4/PortSaid.jpg"}
 
 <video  data-autoplay class="stretch" controls>
 <source src="imagenes-APCS-4/EgyptPortSaid.mp4">
 </video>
 
-[https://www.youtube.com/watch?v=1mUd9vW4NnU](https://www.youtube.com/watch?v=1mUd9vW4NnU){.peque target="_blank"}
+[https://www.youtube.com/watch?v=1mUd9vW4NnU](https://www.youtube.com/watch?v=1mUd9vW4NnU){.peque .fondoblanco target="_blank"}
 
-## Hillsborough (15-4-1989)
+## Hillsborough (15-4-1989) {data-background="imagenes-APCS-4/Hillsborough.jpg"}
 
 <video  class="stretch" controls>
 <source src="imagenes-APCS-4/FiebreMaldiniLaTragediaDeHillsborough.mp4">
 </video>
 
-[https://www.youtube.com/watch?v=iORjkuClnMo](https://www.youtube.com/watch?v=iORjkuClnMo){.peque target="_blank"}
+[https://www.youtube.com/watch?v=iORjkuClnMo](https://www.youtube.com/watch?v=iORjkuClnMo){.peque .fondoblanco target="_blank"}
 
 # Referencias {.center}
 

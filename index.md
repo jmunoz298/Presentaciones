@@ -44,12 +44,12 @@ Análisis temático / Atlas-ti
 
 - Análisis temático (Septiembre 2018) ([HTML](AnalisisTematico.html) | [PDF](AnalisisTematico.pdf))
 - Análisis con Atlas.ti 7 (Junio 2018) ([HTML](AT-Atlas.ti.html) | [PDF](AT-Atlas.ti.pdf))
-- Análisis con Atlas.ti 8 (octubre 2018) [HTML](AT-Atlas.ti-8.html) | [PDF](AT-Atlas.ti-8.pdf))
+- Análisis con Atlas.ti 8 (febrero 2019) [HTML](AT-Atlas.ti-8.html) | [PDF](AT-Atlas.ti-8.pdf))
 
 Otros
 -----
 
-- Organizational Network Analysis (Diciembre 2019) ([HTML](ONA.html) | [PDF](ONA.pdf))
+- Organizational Network Analysis (Diciembre 2018) ([HTML](ONA.html) | [PDF](ONA.pdf))
 
 
 Cómo verlas
