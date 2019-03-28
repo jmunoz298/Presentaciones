@@ -11,20 +11,22 @@ csl: apa.csl
 lateral-menu: 'True'
 ...
 
+##
+
 <video   class="stretch" controls data-autoplay>
   <source src="imagenes-APCS-4/WhiteRiot.mp4">
 </video>
 
 # Teoría de la Norma Emergente {.center data-background="imagenes-APCS-4/Confused.jpg" data-background-transition=fade data-state=fondo}
 
-
+<!--
 ## Influencias: Interaccionismo simbólico {#influencias}
 
 >* El ser humano orienta sus actos hacia las cosas en función de lo que significan para él.
 * El significado de estas cosas es consecuencia de la interacción social.
 * Los significados se manipulan y modifican mediante la interpretación que la persona realiza al enfrentarse con el mundo.
 
-###### @blumer_interaccionismo_1969 [p, 2] {.autor}
+###### @blumer_interaccionismo_1969 [p, 2] {.autor} -->
 
 <!--
 ## Influencias: Park y Blumer
@@ -48,7 +50,7 @@ Excitación colectiva
 -->
 
 
-## Excitación colectiva {#excitacion-colectiva}
+<!-- ## Excitación colectiva {#excitacion-colectiva}
 
 >Cuando entra en relación con otros miembros de la masa, un individuo pierde su habitual comprensión crítica y auto-control y queda afectado por la excitación colectiva que la domina. Responde de forma inmediata y directa a los comentarios y conductas de los otros en vez de interpretarlos, como haría en su conducta ordinaria.\
 @blumer_collective_1939[, p. 180]
@@ -65,7 +67,7 @@ La **“interacción interpretativa”**, típica de la conducta rutinaria, en e
 La **interacción no interpretativa, no simbólica** puede producirse cuando ocurren condiciones de *malestar social* como las que se dan cuando hay cambios significativos en las formas de vida, «cuando la gente tiene impulsos, deseos o disposiciones que no se pueden satisfacer». En esas condiciones, el tipo de interacción es no interpretativa, no simbólica, una forma de interacción que designa como
 
 *reacción circular*: «un tipo de interestimulación de la conducta en la que la respuesta de un individuo reproduce el estímulo que le llega de otro y, al dirigirse otra vez a dicho individuo, refuerza el estímulo anterior» (1939: 224). Esta forma de interacción se denomina circular porque la acción de un individuo tiene un efecto reflejo sobre él, sin que sea mediada por otros elementos de carácter simbólico o cultural. Cada individuo refleja sobre el otro sus sentimientos de pánico, agresividad o irritación, y al hacerlo retornan a él intensificados. (Laraña, 1996, p. 29)
-:::
+::: -->
 
 <!--
 ## Modelo de "inquietud social" de Blumer
@@ -92,35 +94,30 @@ Park y Burges, 1921, p. 865
 
 -->
 
-## Norma emergente: Principios
+## Norma emergente: Principios {#norma-emergente-principios}
 
 :::::: {.columns}
-::: {.column width="35%"}
+::: {.column width="25%"}
 ![](imagenes-APCS-4/PortadaTurnerKillian.jpg)
 :::
-::: {.column width="35%"}
-@turner_collective_1957
-:::
-::: {.column width="30%"}
+::: {.column width="75%"}
+>* La conducta de masa no es asocial ni irracional, está regulada por normas que emergen en la propia situación.
+* La multitud es un espacio de interacción social en el que se desarrollan normas sociales.
 :::
 ::::::
 
+@turner_collective_1957
 <!--
 * Una apuesta por la diferenciación interna de las multitudes, que invalida las teorías del contagio y de la convergencia
 -->
 
 . . .
 
->* La conducta de masa no es asocial ni irracional, está regulada por normas que emergen en la propia situación.
-* La multitud es un espacio de interacción social en el que se desarrollan normas sociales.
+## Norma emergente: Idea central {#norma-emergente-idea-central}
 
-
-<!--
-## Norma emergente: Idea central
-
->...la conducta de las multitudes (…) está regulada por normas que no vienen de fuera, que no están institucionalizadas, sino que surgen precisamente al hilo del desarrollo de la propia dinámica del comportamiento de la multitud (...); emergen de la propia situación y son vinculantes para los individuos participantes (...) cuando la situación es inicialmente ambigua, surgen definiciones nuevas durante el discurso de la interacción social.\
+>...la conducta de las multitudes (…) está regulada por normas que no vienen de fuera, que no están institucionalizadas, sino que surgen precisamente al hilo del desarrollo de la propia dinámica del comportamiento de la multitud (...); [emergen de la propia situación]{.fosforito} y son vinculantes para los individuos participantes (...) cuando la [situación es inicialmente ambigua]{.fosforito}, surgen definiciones nuevas durante el transcurso de la interacción social.\
 @ovejero_bernal_individuo_1997 [, p. 218]
--->
+
 
 <!--
 ## Proceso
@@ -219,12 +216,12 @@ Teoría de la autocategorización
 ::::::
 
 -->
-
+<!--
 ## Teoría de la autocategorización del yo {#teoria-autocategorizacion}
 
 - Tiende a darse una relación inversa entre la saliencia de los niveles personal y social de categorización del yo
 - Cuando nos vemos como miembros intercambiables de una categoría social, nos despersonalizamos
-- La despersonalización de la percepción del yo es el proceso básico que subyace a los fenómenos de grupo
+- La despersonalización de la percepción del yo es el proceso básico que subyace a los fenómenos de grupo -->
 
 <!--
 ## Construcción de identidad {#construccion-identidad}
@@ -308,6 +305,11 @@ La "creación de identidades" se relaciona con datos que sugieren que las autori
 >Las teorías de la multitud que explican la acción colectiva y la conducta colectiva en términos de patología de la masa, sirven para eliminar cualquier responsabilidad posible del Estado y sus fuerzas. Igualmente, en los relatos de nuestros entrevistados no hay lugar para abordar el papel de la policía en la producción de conflicto. La naturaleza de la multitud y sus dinámicas internas son en sí mismas explicaciones suficientes. En ningún momento en las entrevistas, ninguno de los oficiales sugieren que deben mirarse a sí mismos para una explicación de la violencia.\
 @stott_crowd_1998 [, p. 519]
 
+## Crowd action
+
+![Stott, C., & Reicher, S. (1998). Crowd action as intergroup process](imagenes-APCS-4/EsquemaCrowdAction.png)
+
+
 
 <!--
 ## La visión de la policía {#vision-policia}
@@ -365,10 +367,6 @@ La "creación de identidades" se relaciona con datos que sugieren que las autori
 </video>
 
 [https://www.youtube.com/watch?v=iORjkuClnMo](https://www.youtube.com/watch?v=iORjkuClnMo){.peque target="_blank"}
-
-## Crowd action
-
-![Stott, C., & Reicher, S. (1998). Crowd action as intergroup process](imagenes-APCS-4/EsquemaCrowdAction.png)
 
 # Referencias {.center}
 
