@@ -244,9 +244,9 @@ Teoría de la autocategorización
 El Modelo Elaborado de la Identidad Social se formula para tener en cuenta el contexto, entendido como constituido para un grupo por las acciones del otro y viceversa. Esta reformulación también intenta responder cómo la actuación en términos de una posición determinada (como miembro de una categoría) puede llevar a cambios en esa posición y a cambios en la autocomprensión (autoconcepto).
 :::
 
-## Protesta ambiental
+## Protesta ambiental{data-background="imagenes-APCS-4/George_Green_chestnut_tree.jpg"}
 
-![](imagenes-APCS-4/George_Green_chestnut_tree.jpg)
+#### @drury-Collectiveaction-2000{.autor .fondoblanco}
 
 ## La batalla de Westminster (24-11-1998) {data-background="imagenes-APCS-4/BattleOfWestminster.jpg" data-background-transition=fade data-state=opacidad}
 
