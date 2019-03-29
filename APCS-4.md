@@ -6,7 +6,7 @@ author:
 tags: [Conductas colectivas]
 tema: "Normas e identidades"
 url: "http:/juan.psicologiasocial.eu"
-bibliography: diapos.bib
+bibliography: bilio-APCS.bib
 csl: apa.csl
 lateral-menu: 'True'
 ...
@@ -53,7 +53,7 @@ Excitación colectiva
 <!-- ## Excitación colectiva {#excitacion-colectiva}
 
 >Cuando entra en relación con otros miembros de la masa, un individuo pierde su habitual comprensión crítica y auto-control y queda afectado por la excitación colectiva que la domina. Responde de forma inmediata y directa a los comentarios y conductas de los otros en vez de interpretarlos, como haría en su conducta ordinaria.\
-@blumer_collective_1939[, p. 180]
+@blumer-CollectiveBehavior-1939[, p. 180]
 
 ## Interacción no interpretativa {#reaccion-circular}
 
@@ -106,7 +106,7 @@ Park y Burges, 1921, p. 865
 :::
 ::::::
 
-@turner_collective_1957
+@turner-CollectiveBehavior-1957
 <!--
 * Una apuesta por la diferenciación interna de las multitudes, que invalida las teorías del contagio y de la convergencia
 -->
@@ -116,7 +116,7 @@ Park y Burges, 1921, p. 865
 ## Norma emergente: Idea central {#norma-emergente-idea-central}
 
 >...la conducta de las multitudes (…) está regulada por normas que no vienen de fuera, que no están institucionalizadas, sino que surgen precisamente al hilo del desarrollo de la propia dinámica del comportamiento de la multitud (...); [emergen de la propia situación]{.fosforito} y son vinculantes para los individuos participantes (...) cuando la [situación es inicialmente ambigua]{.fosforito}, surgen definiciones nuevas durante el transcurso de la interacción social.\
-@ovejero_bernal_individuo_1997 [, p. 218]
+@ovejerobernal-Individuomasa-1997 [, p. 218]
 
 
 <!--
@@ -149,7 +149,7 @@ Park y Burges, 1921, p. 865
 ## La propuesta de Steve Reicher
 
 >Si se deja de lado el exogrupo, no puede comprenderse que la violencia surja de un proceso de conflicto intergrupal. En su lugar se atribuye a la masa misma.\
-@reicher_conducta_1987 [, p. 240]
+@reicher-Conductamasa-1987 [, p. 240]
 
 
 * Los miembros de la masa actúan en términos de una identidad social común.
@@ -167,7 +167,7 @@ Reicher señala que una de las limitaciones de las teorías clásicas es que no 
 
 [https://www.youtube.com/watch?v=Wdyo16VMhIQ](https://www.youtube.com/watch?v=Wdyo16VMhIQ){.peque .fondoblanco target="_blank"}
 
-#### Ver: @reicher_st._1984 {.autor .fondoblanco}
+#### Ver: @reicher-StPauls-1984 {.autor .fondoblanco}
 
 ::: notes
 En su estudio de los disturbios de St. Pauls, se muestran los límites de la acción tanto geográficamente como hacia quién va dirigida.
@@ -176,7 +176,7 @@ En su estudio de los disturbios de St. Pauls, se muestran los límites de la acc
 ## Despersonalización {#despersonalizacion}
 
 >La despersonalización se refiere a los procesos de autoestereotipación por los que las personas se perciben a sí mismas más como casos intercambiables de una categoría social que como personalidades únicas definidas por sus diferencias individuales respecto a los demás.\
-@turner_rediscovering_1987 [, p. 50]
+@turner-Rediscoveringsocial-1987 [, p. 50]
 
 ::: notes
 Hay que entenderla de una forma totalmente diferente al concpeto de desindividuación de teorías anteriores, puesto que no se trata de una inmersión del yo en el grupo, y tampoco una regresión a una forma de identidad más primitiva o inconsciente, sino que lo que realmente implica es el paso del funcionamiento en términos de una identidad personal a hacerlo en función de una identidad social.
@@ -226,7 +226,7 @@ Teoría de la autocategorización
 <!--
 ## Construcción de identidad {#construccion-identidad}
 >El proceso de construcción de la identidad puede resumirse del siguiente modo: se da una identificación inmediata con una categoría supraordenada que define un campo de posibles identidades; los miembros de la masa tienen que construir entonces una identidad situacional específica que determine las normas de conducta adecuadas, y los medios a través de los cuales lo hacen son el aspecto inductivo de la categorización del yo.\
-@reicher_conducta_1987 [, p. 250]
+@reicher-Conductamasa-1987 [, p. 250]
 -->
 
 
@@ -270,6 +270,8 @@ El Modelo Elaborado de la Identidad Social se formula para tener en cuenta el co
 :::
 ::::::
 
+#### @reicher-BattleWestminster-1996{.autor}
+
 ::: notes
 La "creación de identidades" se relaciona con datos que sugieren que las autoridades tienden a considerar las grandes multitudes, por su número, como una amenaza potencial al orden público. La policía, que tiene esa concepción, también tiene el poder de actuar en función de ella utilizando su poder coercitivo, pero lo hacen de forma indiscriminada sobre el colectivo como algo único. Esas tácticas provocan, por lo tanto, que todos los manifestantes compartan la misma experiencia, lo que favorece la formación de grupo y explica cómo una masa fragmentada puede llegar a convertirse en una homogénea.
 :::
@@ -295,15 +297,17 @@ La "creación de identidades" se relaciona con datos que sugieren que las autori
  </video>
 
 [https://www.youtube.com/watch?v=R3nYGoppmoA](https://www.youtube.com/watch?v=R3nYGoppmoA){.peque target="_blank"}
+
 :::
 ::::::
 
+#### @stott-Crowdscontext-2000{.autor}
 
 
 ## ¿Responsabilidad?
 
 >Las teorías de la multitud que explican la acción colectiva y la conducta colectiva en términos de patología de la masa, sirven para eliminar cualquier responsabilidad posible del Estado y sus fuerzas. Igualmente, en los relatos de nuestros entrevistados no hay lugar para abordar el papel de la policía en la producción de conflicto. La naturaleza de la multitud y sus dinámicas internas son en sí mismas explicaciones suficientes. En ningún momento en las entrevistas, ninguno de los oficiales sugieren que deben mirarse a sí mismos para una explicación de la violencia.\
-@stott_crowd_1998 [, p. 519]
+@stott-Crowdaction-1998 [, p. 519]
 
 ## Crowd action
 
@@ -314,7 +318,7 @@ La "creación de identidades" se relaciona con datos que sugieren que las autori
 <!--
 ## La visión de la policía {#vision-policia}
 
-![Diagrama de relación entre variables. @drury_role_2003](imagenes-APCS-4/Drury-Role-PathDiagram.png) -->
+![Diagrama de relación entre variables. @drury-RolePolice-2003](imagenes-APCS-4/Drury-Role-PathDiagram.png) -->
 
 
 <!--
@@ -337,7 +341,7 @@ La "creación de identidades" se relaciona con datos que sugieren que las autori
 
 ###### T1, T2 y T3 = Fases temporales de la relación intergrupal
 
-###### Adaptado de @stott_crowds_2000
+###### Adaptado de @stott-Crowdscontext-2000
 
 -->
 
