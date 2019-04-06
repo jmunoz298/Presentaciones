@@ -40,6 +40,7 @@ Como por ejemplo el incendio en la sala de fiestas *Cocoanut Grove* (Boston, 28 
 
 Ante casos como estos, estamos acostumbrados a escuchar relatos sobre el "pánico" que sufren sus víctimas.
 
+Pero ¿qué es el pánico?
 :::
 
 ## ¿Qué es el pánico? {#que-es-panico}
@@ -55,6 +56,35 @@ Evidentemente, esta definición podría ser suscrita por las *teorías irraciona
 En los casos en que no existen relaciones sociales previas, en los que las personas implicadas son desconocidas entre sí o no tienen lazos fuertes, "El comportamiento puede entonces volverse altamente egoísta y agresivo, no como resultado del pánico irracional, sino de definiciones emergentes de la situación como una en la cual las normas de civilidad ya no se aplican, y competir por la ventaja individual es legítimo." (Johnson 1987:173)
 :::
 
+##
+
+<video   class="stretch" controls data-autoplay>
+  <source src="imagenes-APCS-5/AtaqueDePanicoSNAKE.mkv">
+</video>
+
+[https://www.youtube.com/watch?v=r8F9Qvror6g](https://www.youtube.com/watch?v=r8F9Qvror6g){.peque .fondoblanco target="_blank"}
+
+## Egoísmo: Tragedia de los comunes {#tragedia}
+
+>Pero, ¿qué significa libertad? Cuando los hombres mutuamente acordaron instaurar leyes contra los robos, la humanidad se volvió más libre, no menos. Los individuos encerrados en la lógica de los recursos comunes son libres únicamente para traer la ruina universal; una vez que ven la necesidad de la coerción mutua, quedan libres para perseguir nuevas metas.\
+`Hardin, 1968`{.autor}
+
+::: notes
+Una visión compartida desde otros campos de estudio. Por ejemplo Garret Hardin defiende, dado el egosimo humano, la necesidad de control de los bienes comunes por parte del Estado o su paso a propiedad privada.
+:::
+
+## ¿Egoísmo? {#apoyo-mutuo}
+
+:::::: {.columns}
+::: {.column width="20%"}
+![](imagenes-APCS-5/Kropotkin.jpg)
+:::
+::: {.column width="80%"}
+>Afirmamos que la sociabilidad es la ventaja más grande en la lucha por la existencia en todas las circunstancias naturales, sean cuales fueran. Las especies que voluntaria o involuntariamente reniegan de ella, están condenadas a la extinción, mientras que los animales que saben unirse del mejor modo, tienen mayores oportunidades para subsistir y para un desarrollo máximo (…)  Los vertebrados superiores, y en especial el género humano, sirven como la mejor demostración de esta afirmación.\
+@kropotkin-Apoyo-1902
+:::
+::::::
+
 ## El mito
 
 >50 años de evidencia sobre el pánico, y la conclusión es clara: [la gente raramente entra en pánico]{.fosforito}, al menos en el sentido usual en que se usa esa palabra. Incluso cuando la gente siente un "miedo excesivo" -una sensación de abrumadora perdición- por lo general evitan los "esfuerzos imprudentes" y el "caos". En particular, es improbable que causen daño a los demás en su búsqueda de seguridad e [incluso pueden poner sus propias vidas en peligro para ayudar a los demás]{.fosforito}.\
@@ -63,6 +93,18 @@ En los casos en que no existen relaciones sociales previas, en los que las perso
 ::: notes
 Pero contrario al mito, las víctimas de desastres generalmente no entran en pánico. Aunque es cierto que lo pueden experimentar algunas de las personas implicadas, y que efectivamente tras un desastre puede observarse conductas de pánico, la respuesta más generalizada es de calma y conductas de busca de solución de problemas. Hay numerosos ejemplos de que hay bastante compostura, casi frialdad y que las personas se ayudan unas a otras, con actos casi heróicos.
 :::
+
+<!-- ## Pánico en la prensa {#panico-prensa1}
+
+![](imagenes-APCS-5/Panico-Prensa-00.png)
+
+::: notes
+Aún así, podemos ver que es cierto que se transmite esa imagen de irracionalidad simplemente analizando las informaciones en prensa sobre los desastres.
+:::
+
+## {#panico-prensa2}
+
+![](imagenes-APCS-5/Panico-Prensa-07.png) -->
 
 ## Pánico en la prensa {#panico-prensa3}
 

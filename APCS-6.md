@@ -13,7 +13,7 @@ lateral-menu: 'True'
 ...
 
 
-# El rumor{.center data-background="imagenes-APCS-4/Rumor-01.jpg" data-background-transition=fade data-state=opacidad}
+# El rumor{.center data-background="imagenes-APCS-6/Rumor-01.jpg" data-background-transition=fade data-state=opacidad}
 
 ## Definición {#definicion}
 
@@ -23,11 +23,11 @@ lateral-menu: 'True'
 <!--
 ## Ejemplos
 
-![](imagenes-APCS-4/Rumor-whatsap.jpg)
+![](imagenes-APCS-6/Rumor-whatsap.jpg)
 
 ##
 
-![](imagenes-APCS-4/Rumor-telefono.png)
+![](imagenes-APCS-6/Rumor-telefono.png)
  -->
 
 ## Tipos de rumor
@@ -44,15 +44,15 @@ lateral-menu: 'True'
 
 ## Procter & Gamble
 
-![](imagenes-APCS-4/ProcterGamble.png)
+![](imagenes-APCS-6/ProcterGamble.png)
 
 ## Panfleto de Villejuif
 
-![](imagenes-APCS-4/Villejuif.jpg)
+![](imagenes-APCS-6/Villejuif.jpg)
 
 ## Allport y Postman: Transmisión serial {#transmision-serial}
 
-![](imagenes-APCS-4/AllportPostman.jpg)
+![](imagenes-APCS-6/AllportPostman.jpg)
 
 ##
 
@@ -69,12 +69,12 @@ lateral-menu: 'True'
 
 ## Transmisión: Serie vs. red {#transmision-red}
 
-![](imagenes-APCS-4/Rumor-red.png)
+![](imagenes-APCS-6/Rumor-red.png)
 
 
 ## Contra los rumores
 
-![](imagenes-APCS-4/StopRumores.png)
+![](imagenes-APCS-6/StopRumores.png)
 
 [http://stoprumores.com/rumores/](http://stoprumores.com/rumores/)
 

@@ -11,6 +11,32 @@ csl: apa.csl
 lateral-menu: 'True'
 ...
 
+## Memoing
+>Vemos la toma de notas como [crucial]{.fosforito} para todos los tipos y enfoques de análisis. Otras funciones, como la codificación, la búsqueda de texto, la codificación automática y la modelización pueden ser utilizadas por enfoques concretos, pero la anotación de los datos, documentos y material de apoyo es [indivisible del análisis general]{.fosforito}.\
+@lewins_using_2007 [p. 59]
+
+
+## Memoing = Reflexionar sobre...
+
+>* Relación con participantes y/o fenómeno
+* Preguntas de investigación
+* Elección de códigos y sus definiciones
+* Categorías, temas y conceptos emergentes
+* Posibles conexiones entre elementos
+* Teoría emergente
+* Problemas de cualquier tipo de nuestra investigación
+* Problemas o dilemas éticos
+* Informe final
+
+###### @saldana_coding_2009 [pp. 34-40]{.autor}
+
+## Crear memos-anotaciones
+
+![](imagenes-atlas-8/AdministradorMemos-8-01.png)
+
+* Crear una memo "Objetivos"
+* "Duplicar" (copiar y pegar) el memo "Pregunta de investigación"
+
 ## Codificación: "Depuración" {#codificacion-depuracion}
 
 >Durante el desarrollo de un sistema de códigos y eventualmente temas, el investigador va en constante ir y venir entre la lectura de los datos, la relectura de los segmentos codificados, la organización de los códigos, el cambio de nombre y el reordenamiento de los códigos y la recodificación de los segmentos de datos.\
@@ -64,35 +90,7 @@ lateral-menu: 'True'
 >* [Escribir Memo]{.resaltar}.
 * Identificar secciones.
 * Identificar "actores".
-* Buscar co-ocurrencias.
-
-![](imagenes-atlas-8/Analizar-8.png)
-
-## Memoing
->Vemos la toma de notas como [crucial]{.fosforito} para todos los tipos y enfoques de análisis. Otras funciones, como la codificación, la búsqueda de texto, la codificación automática y la modelización pueden ser utilizadas por enfoques concretos, pero la anotación de los datos, documentos y material de apoyo es [indivisible del análisis general]{.fosforito}.\
-@lewins_using_2007 [p. 59]
-
-
-## Memoing = Reflexionar sobre...
-
->* Relación con participantes y/o fenómeno
-* Preguntas de investigación
-* Elección de códigos y sus definiciones
-* Categorías, temas y conceptos emergentes
-* Posibles conexiones entre elementos
-* Teoría emergente
-* Problemas de cualquier tipo de nuestra investigación
-* Problemas o dilemas éticos
-* Informe final
-
-###### @saldana_coding_2009 [pp. 34-40]{.autor}
-
-## Crear memos-anotaciones
-
-![](imagenes-atlas-8/AdministradorMemos-8-01.png)
-
-* Crear una memo "Objetivos"
-* "Duplicar" (copiar y pegar) el memo "Pregunta de investigación"
+* ...
 
 ##
 
@@ -102,6 +100,8 @@ lateral-menu: 'True'
 * Identificar secciones.
 * Identificar "actores".
 * [Buscar co-ocurrencias.]{.resaltar}.
+
+![](imagenes-atlas-8/Analizar-8.png)
 
 ## Co-ocurrencias {#coocurrencias-0 transition=none}
 

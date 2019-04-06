@@ -6,7 +6,7 @@ author:
 tags: [Conductas colectivas]
 tema: "Normas e identidades"
 url: "http:/juan.psicologiasocial.eu"
-bibliography: bilio-APCS.bib
+bibliography: biblio-APCS.bib
 csl: apa.csl
 lateral-menu: 'True'
 ...
@@ -363,6 +363,15 @@ La "creación de identidades" se relaciona con datos que sugieren que las autori
 </video>
 
 [https://www.youtube.com/watch?v=1mUd9vW4NnU](https://www.youtube.com/watch?v=1mUd9vW4NnU){.peque .fondoblanco target="_blank"}
+
+
+## Hillsborough (15-4-1989) {data-background="imagenes-APCS-4/Hillsborough-Tragedy.jpg"}
+
+. . .
+
+![](imagenes-APCS-4/Hillsborough_disaster_Sun.jpg)
+
+[The Sun, 19 de abril de 1989]{.autor .fondoblanco}
 
 ## Hillsborough (15-4-1989) {data-background="imagenes-APCS-4/Hillsborough.jpg"}
 
