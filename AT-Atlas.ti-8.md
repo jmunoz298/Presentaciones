@@ -584,8 +584,18 @@ Descargar: [https://bit.ly/2TKfOaX]{.fosforito}
 >* [Escribir Memo]{.resaltar}.
 * Identificar secciones.
 * Identificar "actores".
-* Buscar co-ocurrencias.
+* ...
 
+##
+
+##### ¿Qué "actores" aparecen en las secciones utilizadas para captar la atención (títulos...)?
+
+>* Escribir Memo
+* Identificar secciones.
+* Identificar "actores".
+* [Buscar co-ocurrencias.]{.resaltar}.
+
+![](imagenes-atlas-8/Analizar-8.png)
 
 ## Co-ocurrencias {#coocurrencias-0 transition=none}
 
@@ -660,12 +670,11 @@ Para llegar al resultado de la imagen, en primer lugar se ha añadido un identif
 
 ## Pregunta 2
 
-#### ¿Qué características tienen los contenidos que son citas textuales?
+#### ¿En qué contextos aparecen las víctimas?
 
->* Codificar todos los fragmentos entre cualquier tipo de comillas.
-* Tabla de co-coocurrencias.
-* Ver memo "co:Citas literales".
-* Y... [Autocodificar]{.resaltar}.
+. . .
+
+>* [Autocodificar]{.resaltar} Cruz, Quer...
 
 ![](imagenes-cuali/Autocodificacion-menu-8-01.png)
 
@@ -673,7 +682,14 @@ Para llegar al resultado de la imagen, en primer lugar se ha añadido un identif
 
 ![](imagenes-atlas-8/Autocodificacion.png){.noshadow}
 
-[Autocodificar siguiendo las instrucciones del memo.]{.medio}
+## Pregunta 3
+
+#### ¿Qué características tienen los contenidos que son citas textuales?
+
+>* Codificar todos los fragmentos entre cualquier tipo de comillas.
+* Tabla de co-coocurrencias.
+* Ver memo "co:Citas literales".
+* Autocodificar.
 
 [(Puedes hacer pruebas en https://regex101.com/)]{.peque}
 
