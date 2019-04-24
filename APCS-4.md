@@ -1,12 +1,12 @@
 ---
-title:  'Acción Pública y Cambio Social'
+title:  'El Fraude científico'
 author:
 - name: Juan Muñoz
   affiliation: Universitat Autònoma de Barcelona
-tags: [Conductas colectivas]
-tema: "Normas e identidades"
+tags: [fraude, malas prácticas]
+tema: ""
 url: "http:/juan.psicologiasocial.eu"
-bibliography: biblio-APCS.bib
+bibliography: .bib
 csl: apa.csl
 lateral-menu: 'True'
 ...
