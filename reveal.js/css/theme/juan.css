@@ -495,3 +495,10 @@ padding: 15px;
   margin-top: 0.8em;
   font-size: 0.7em;
   }
+.reveal .big{
+  font-size: 3em;
+}
+
+.reveal .medium{
+  font-size: 1.5em;
+}
