@@ -5,7 +5,7 @@ author:
   affiliation: Universitat Autònoma de Barcelona
 tags: [OJS]
 tema: ""
-url: "http:/juan.psicologiasocial.eu"
+url: "http:/presentaciones.psicologiasocial.eu/OJS3.html"
 bibliography: .bib
 csl: apa.csl
 lateral-menu: 'false'
@@ -51,6 +51,21 @@ lateral-menu: 'false'
 - Discusiones editoriales: dentro de cada una de las fases del workflow se incrustan hilos de discusión en los que se mantiene comunicación con los implicados en cada una de ella y van quedando archivadas todas estas informaciones para su consulta.
 - Editor de contenido enriquecido y edición multilingüe: OJS incluye un editor de contenido (para formularios, módulos, páginas, etc.) visual bajo la filosofía WYSIWYG que permite una edición de textos muy completa y enriquecida, permitiendo además la inserción de imágenes, enlaces, etc.). Como complemento además incorpora la opción de poder trabajar directamente con HTML, de manera que se puede insertar código para, por ejemplo, incrustar contenido de otros sitios web, o bien transformar el aspecto con el que se muestra el contenido incluido en cada apartado. Además es posible la edición multilingüe sin necesidad de cambiar de idioma.
 :::
+
+## Errores web de las revistas académicas
+
+- Dar a los lectores una pobre experiencia de lectura
+- No dar a los lectores una forma de seguir nuestro contenido en línea
+- Navegación amigable en dispositivos móviles
+
+:::notes
+- Navegar sólo a partir del índice de la revista. No disponer de forma de navegar por categorías ni de realizar búsquedas (por palabras clave)
+- rss y lista de correo para informar de novedades
+:::
+
+<br>
+
+https://blog.scholasticahq.com/post/does-your-academic-journal-website-make-these-mistakes/
 
 # Interfaz
 
@@ -217,6 +232,63 @@ En todos, correo electrónico editor##@nomail.mx
   - Como revisor externo en revista##
 :::
 
+#
+
 ##
 
 ![](imagenes-ojs3/ProcesoRegistro.png)
+
+
+##
+
+[Metrics toolkit](https://www.metrics-toolkit.org)
+
+https://www.metrics-toolkit.org/
+
+## Conceptos
+
+Portales
+: Plataformas de acceso a un conjunto de revistas (p.ej. portal revistas aguascalientes)
+Bases de datos
+: Contienen registros bibliográficos: referencias bibliográficas, resúmenes, palabras clave, etc. Pueden incluir el texto completo de los contenidos o enlaces al texto completo.
+Índices
+: Base de datos que contiene registros bibliográficos con algún valor agregado (por ejemplo, el cumplimiento de cierto tipo de requisitos y criterios). P.ej. Latindex.
+
+## Pasos (1)
+
+:::nonincremental
+- Motores de búsqueda primarios
+  - Google [https://www.google.com/webmasters/](https://www.google.com/webmasters/)
+- Motores de búsqueda académicos
+  - Google Scholar [https://scholar.google.com/intl/en/scholar/inclusion.html](https://scholar.google.com/intl/en/scholar/inclusion.html)
+  - Microsoft Academic [https://academic.microsoft.com/FAQ](https://academic.microsoft.com/FAQ)
+:::
+
+## Pasos (y 2)
+
+:::nonincremental
+- Índices académicos generales
+  - DOAJ
+  - EBSCO - Fuente Académica
+  - Dialnet
+  - Latindex
+  - Redalyc
+  - Scielo
+  - Scopus
+  - Web of Science
+- Específicos de disciplina
+
+[https://en.wikipedia.org/wiki/List_of_academic_databases_and_search_engines](https://en.wikipedia.org/wiki/List_of_academic_databases_and_search_engines)
+
+:::
+
+## Claves
+
+>"The success of a journal is based on adherence to publication ethics, reputation of editorial board, transparent editorial policies, quality of peer review and the number of citations"\
+[https://twitter.com/fake_journals/status/1155146590174269441?s=09]{.autor}
+
+[calidad editorial + paciencia + alto umbral de fustración]{.medium}
+
+##
+
+[https://ddd.uab.cat/record/165798?ln=ca](https://ddd.uab.cat/record/165798?ln=ca)
