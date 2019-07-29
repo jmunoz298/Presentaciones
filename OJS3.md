@@ -11,6 +11,8 @@ csl: apa.csl
 lateral-menu: 'false'
 ...
 
+#   {.center data-background="imagenes-ojs3/ojs-logo.png" }
+
 ## Sistemas de gestión de revistas electrónicas
 
 - Gestionar un sitio web de una o varias revistas electrónicas.
@@ -20,8 +22,6 @@ lateral-menu: 'false'
 - Llevar a cabo el proceso de edición y corrección de galeradas
 - Publicar los artículos (en distintos formatos).
 - Permitir la interoperabilidad con otros sistemas y estándares.
-
-#   {.center data-background="imagenes-ojs3/ojs-logo.png" }
 
 ##
 
@@ -34,13 +34,13 @@ lateral-menu: 'false'
 
 ## Mejoras en OJS 3
 
-- Interfaz.
-- Flujo de trabajo.
-- Roles flexibles.
-- Acceso a funciones y tareas.
-- Discusiones editoriales.
-- Editor multilingüe.
-- Múltiples archivos por envío.
+- Interfaz
+- Flujo de trabajo
+- Roles flexibles
+- Acceso a funciones y tareas
+- Discusiones editoriales
+- Editor multilingüe
+- Múltiples archivos por envío
 
 :::notes
 - Interfaz personalizable y temas: ahora es posible separar el modo de visualización de la interfaz de lectura y la de administración de modo que, mientras la primera es perfectamente personalizable a través de plantillas y temas, la segunda permanece invariable, de manera que cualquier usuario de OJS 3 sabrá cómo manejarse independientemente de la revista en la que se encuentre. Además, gracias al uso de estos temas es posible que la interfaz se adapte al uso de distintos dispositivos y tamaños de pantalla.
@@ -54,9 +54,11 @@ lateral-menu: 'false'
 
 ## Errores web de las revistas académicas
 
+:::nonincremental
 - Dar a los lectores una pobre experiencia de lectura
 - No dar a los lectores una forma de seguir nuestro contenido en línea
 - Navegación amigable en dispositivos móviles
+:::
 
 :::notes
 - Navegar sólo a partir del índice de la revista. No disponer de forma de navegar por categorías ni de realizar búsquedas (por palabras clave)
@@ -65,9 +67,9 @@ lateral-menu: 'false'
 
 <br>
 
-https://blog.scholasticahq.com/post/does-your-academic-journal-website-make-these-mistakes/
+[https://blog.scholasticahq.com/post/does-your-academic-journal-website-make-these-mistakes/](https://blog.scholasticahq.com/post/does-your-academic-journal-website-make-these-mistakes/){target="_blank"}
 
-# Interfaz
+# OJS3: Interfaz {.center data-background="imagenes-ojs3/Interfaz.jpg" data-background-transition=zoom data-state=opacidad}
 
 ## {data-background="imagenes-ojs3/PantallaPrincipal.png" }
 
@@ -81,11 +83,13 @@ https://blog.scholasticahq.com/post/does-your-academic-journal-website-make-thes
 
 ![](imagenes-ojs3/PanelControl.png) -->
 
-# Configuración {.center data-background="imagenes-ojs3/configuracion.jpg" data-background-transition=fade data-state=fondo}
+# Configuración {.center data-background="imagenes-ojs3/configuracion.jpg" data-background-transition=fade data-state=opacidad}
 
-##
+## Revistas UAA
 
-[http://ojs3.uaa.mx]{.big}
+![](imagenes-ojs3/logo-revistas-uaa.png)
+
+[http://ojs3.uaa.mx](http://ojs3.uaa.mx){.big target="_blank"}
 
 
 ## Edición multilingüe
@@ -160,12 +164,20 @@ Sin información
 
 ![](imagenes-ojs3/Editor-WYSWYG-01.png)
 
-##
+## Roles editoriales {#roles-editoriales}
 
-[www.mdpi.com/editors]{.medium}
+[Roles en OJS3](imagenes-ojs3/OJS3-roles.pdf){.medium target="_blank"}
+
+<hr />
+
+Algunas ideas
+
+[www.mdpi.com/editors](http://www.mdpi.com/editors){.medium target="_blank"}
+
+[elsevier.com/es-mx/editors](http://elsevier.com/es-mx/editors){.medium target="_blank"}
 
 
-[elsevier.com/es-mx/editors]{.medium}
+
 <!--
 ##
 
@@ -198,15 +210,15 @@ Sin información
 <p>Nombre consejo editorial 4</p>
 ``` -->
 
-##
+## Idiomas
 
 ![](imagenes-ojs3/Idiomas-Default.png)
 
-## Formularios de revisión
+## Formularios de revisión {#formularios-revision}
 
-[https://blog.scholasticahq.com/post/how-to-create-effective-peer-review-feedback-form/]{.medium}
+[Cómo crear un formulario de revisión efectivo](https://blog.scholasticahq.com/post/how-to-create-effective-peer-review-feedback-form/){.medium target="_blank"}
 
-## Usuarios y roles
+## Usuarios y roles {#usuarios-roles}
 ![](imagenes-ojs3/Admin-04-Usuarios-Menu.png)
 
 ## Crear Usuarios
@@ -232,16 +244,16 @@ En todos, correo electrónico editor##@nomail.mx
   - Como revisor externo en revista##
 :::
 
-#
-
 ##
 
 ![](imagenes-ojs3/ProcesoRegistro.png)
 
+# Indexación {#indexacion .center data-background="imagenes-ojs3/indexing.jpg" data-background-transition=fade data-state=opacidad}
 
-##
 
-[Metrics toolkit](https://www.metrics-toolkit.org)
+## Diferentes métricas {#diferentes-metricas}
+
+[Metrics toolkit](https://www.metrics-toolkit.org){target="_blank"}
 
 https://www.metrics-toolkit.org/
 
@@ -258,10 +270,10 @@ Bases de datos
 
 :::nonincremental
 - Motores de búsqueda primarios
-  - Google [https://www.google.com/webmasters/](https://www.google.com/webmasters/)
+  - Google [https://www.google.com/webmasters/](https://www.google.com/webmasters/){target="_blank"}
 - Motores de búsqueda académicos
-  - Google Scholar [https://scholar.google.com/intl/en/scholar/inclusion.html](https://scholar.google.com/intl/en/scholar/inclusion.html)
-  - Microsoft Academic [https://academic.microsoft.com/FAQ](https://academic.microsoft.com/FAQ)
+  - Google Scholar [https://scholar.google.com/intl/en/scholar/inclusion.html](https://scholar.google.com/intl/en/scholar/inclusion.html){target="_blank"}
+  - Microsoft Academic [https://academic.microsoft.com/FAQ](https://academic.microsoft.com/FAQ){target="_blank"}
 :::
 
 ## Pasos (y 2)
@@ -278,7 +290,7 @@ Bases de datos
   - Web of Science
 - Específicos de disciplina
 
-[https://en.wikipedia.org/wiki/List_of_academic_databases_and_search_engines](https://en.wikipedia.org/wiki/List_of_academic_databases_and_search_engines)
+[https://en.wikipedia.org/wiki/List_of_academic_databases_and_search_engines](https://en.wikipedia.org/wiki/List_of_academic_databases_and_search_engines){target="_blank"}
 
 :::
 
