@@ -275,16 +275,6 @@ En todos, correo electrónico editor##@nomail.mx
 :::
 ::::::
 
-##
-
-![PKP](imagenes-ojs3/logo-vert-pkp.png) https://pkp.sfu.ca/ojs/
-
-![](imagenes-ojs3/logo-pkp-school.png) https://pkpschool.sfu.ca/
-
-![](imagenes-ojs3/logo-pkp-docs.png) https://docs.pkp.sfu.ca/#appojs3
-
-![](imagenes-ojs3/logo-pkp-forum.png) https://forum.pkp.sfu.ca/
-
 # Indexación {#indexacion .center data-background="imagenes-ojs3/indexing.jpg" data-background-transition=fade data-state=opacidad}
 
 
