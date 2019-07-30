@@ -294,13 +294,15 @@ Bases de datos
 
 :::
 
-## Claves
+## Cómo tener éxito {#como-tener-exito}
 
 >"The success of a journal is based on adherence to publication ethics, reputation of editorial board, transparent editorial policies, quality of peer review and the number of citations"\
-[https://twitter.com/fake_journals/status/1155146590174269441?s=09]{.autor}
+[https://twitter.com/fake_journals/status/1155146590174269441?s=09](https://twitter.com/fake_journals/status/1155146590174269441?s=09){.autor target="_blank"}
 
-[calidad editorial + paciencia + alto umbral de fustración]{.medium}
+## Las claves
+
+![](imagenes-ojs3/claves.png){.noshadow .noborder}
 
 ##
 
-[https://ddd.uab.cat/record/165798?ln=ca](https://ddd.uab.cat/record/165798?ln=ca)
+[Pla d'indexació. Revistes científiques de la UAB ](https://ddd.uab.cat/record/165798?ln=ca){.medium target="_blank"}
