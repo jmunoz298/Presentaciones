@@ -15,6 +15,7 @@ lateral-menu: 'false'
 
 ## Sistemas de gestión de revistas electrónicas
 
+:::nonincremental
 - Gestionar un sitio web de una o varias revistas electrónicas.
 - Permitir el registro y gestión de usuarios con distintos roles.
 - Enviar y recibir originales para su publicación.
@@ -22,6 +23,7 @@ lateral-menu: 'false'
 - Llevar a cabo el proceso de edición y corrección de galeradas
 - Publicar los artículos (en distintos formatos).
 - Permitir la interoperabilidad con otros sistemas y estándares.
+:::
 
 ##
 
@@ -34,6 +36,7 @@ lateral-menu: 'false'
 
 ## Mejoras en OJS 3
 
+:::nonincremental
 - Interfaz
 - Flujo de trabajo
 - Roles flexibles
@@ -41,6 +44,7 @@ lateral-menu: 'false'
 - Discusiones editoriales
 - Editor multilingüe
 - Múltiples archivos por envío
+:::
 
 :::notes
 - Interfaz personalizable y temas: ahora es posible separar el modo de visualización de la interfaz de lectura y la de administración de modo que, mientras la primera es perfectamente personalizable a través de plantillas y temas, la segunda permanece invariable, de manera que cualquier usuario de OJS 3 sabrá cómo manejarse independientemente de la revista en la que se encuentre. Además, gracias al uso de estos temas es posible que la interfaz se adapte al uso de distintos dispositivos y tamaños de pantalla.
@@ -248,6 +252,39 @@ En todos, correo electrónico editor##@nomail.mx
 
 ![](imagenes-ojs3/ProcesoRegistro.png)
 
+
+##
+
+
+:::::: {.columns}
+::: {.column width="20%"}
+![[https://pkp.sfu.ca/ojs/](https://pkp.sfu.ca/ojs/){target="_blank"}](imagenes-ojs3/logo-pkp-vert.png)
+
+:::
+::: {.column width="80%"}
+
+![[https://pkpschool.sfu.ca/](https://pkpschool.sfu.ca/){target="_blank"}](imagenes-ojs3/logo-pkp-school.png)
+
+<br>
+
+![[https://docs.pkp.sfu.ca/#appojs3](https://docs.pkp.sfu.ca/#appojs3){target="_blank"}](imagenes-ojs3/logo-pkp-docs.png)
+
+<br>
+
+![[https://forum.pkp.sfu.ca/](https://forum.pkp.sfu.ca/){target="_blank"}](imagenes-ojs3/logo-pkp-forum.png)
+:::
+::::::
+
+##
+
+![PKP](imagenes-ojs3/logo-vert-pkp.png) https://pkp.sfu.ca/ojs/
+
+![](imagenes-ojs3/logo-pkp-school.png) https://pkpschool.sfu.ca/
+
+![](imagenes-ojs3/logo-pkp-docs.png) https://docs.pkp.sfu.ca/#appojs3
+
+![](imagenes-ojs3/logo-pkp-forum.png) https://forum.pkp.sfu.ca/
+
 # Indexación {#indexacion .center data-background="imagenes-ojs3/indexing.jpg" data-background-transition=fade data-state=opacidad}
 
 
@@ -259,12 +296,14 @@ https://www.metrics-toolkit.org/
 
 ## Conceptos
 
+:::nonincremental
 Portales
 : Plataformas de acceso a un conjunto de revistas (p.ej. portal revistas aguascalientes)
 Bases de datos
 : Contienen registros bibliográficos: referencias bibliográficas, resúmenes, palabras clave, etc. Pueden incluir el texto completo de los contenidos o enlaces al texto completo.
 Índices
 : Base de datos que contiene registros bibliográficos con algún valor agregado (por ejemplo, el cumplimiento de cierto tipo de requisitos y criterios). P.ej. Latindex.
+:::
 
 ## Pasos (1)
 
@@ -306,3 +345,7 @@ Bases de datos
 ##
 
 [Pla d'indexació. Revistes científiques de la UAB ](https://ddd.uab.cat/record/165798?ln=ca){.medium target="_blank"}
+
+##
+
+¡Hasta luego!
