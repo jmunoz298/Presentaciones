@@ -11,7 +11,7 @@ csl: apa.csl
 lateral-menu: 'false'
 ...
 
-#   {.center data-background="imagenes-ojs3/ojs-logo.png" }
+#   {.nobackground .center data-background="imagenes-ojs3/ojs-logo.png" }
 
 ## Sistemas de gestión de revistas electrónicas
 
@@ -336,6 +336,4 @@ Bases de datos
 
 [Pla d'indexació. Revistes científiques de la UAB ](https://ddd.uab.cat/record/165798?ln=ca){.medium target="_blank"}
 
-##
-
-¡Hasta luego!
+# {.center data-background="imagenes-ojs3/goodbye.jpg" }
