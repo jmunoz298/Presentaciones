@@ -336,4 +336,6 @@ Bases de datos
 
 [Pla d'indexació. Revistes científiques de la UAB ](https://ddd.uab.cat/record/165798?ln=ca){.medium target="_blank"}
 
+[Plan de indexación para revistas científicas - UOC](http://biblioteca.uoc.edu/sites/default/files/plan-indexacion-revistas-uoc.pdf){.medium target="_blank"}
+
 # {.center data-background="imagenes-ojs3/goodbye.jpg" }
