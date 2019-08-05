@@ -1,4 +1,4 @@
-@import url(../../lib/font/quicksand/quicksand.css);
+^^@import url(../../lib/font/quicksand/quicksand.css);
 
 @import url(http://fonts.googleapis.com/css?family=Quicksand);
 /* @import url(http://fonts.googleapis.com/css?family=Open+Sans); */
@@ -502,3 +502,4 @@ padding: 15px;
 .reveal .medium{
   font-size: 1.5em;
 }
+
