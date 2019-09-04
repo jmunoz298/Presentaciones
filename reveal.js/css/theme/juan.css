@@ -503,3 +503,6 @@ padding: 15px;
   font-size: 1.5em;
 }
 
+#section h1{
+  background: none;
+}
