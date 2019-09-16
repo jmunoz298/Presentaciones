@@ -11,14 +11,14 @@ csl: apa.csl
 lateral-menu: 'True'
 ...
 
-## Índice {#indice}
+##
 
-::: nonincremental
+<!-- ::: nonincremental
 * Introducción
-* Influencia informacional
+* Influencia informativa
 * Influencia normativa
 * Influencia informacional referente
-:::
+::: -->
 
 <br><br>
 “The opposite of courage in our society is not cowardice, it is… **conformity**”
@@ -32,27 +32,28 @@ lateral-menu: 'True'
 `https://soundcloud.com/insideinfo/conformity`{.peque}
 -->
 
-
-
-# Introducción {#introduccion .center}
-
 ## Influencia {#influencia}
 > Proceso a través del cual las personas o los grupos cambian los pensamientos, sentimientos, y conductas de otros.\
 @stangor_social_2004 [p. 75]
 
+##
+![](imagenes-conformismo/Ovejas-0.png)
 
+## Bases de la influencia social {#bases-influencia}
 
+:::nonincremental
+- Influencia informativa
+- Influencia normativa
+- Influencia informativa referente
+:::
 
-# Influencia informacional { .center}
-
-## Influencia informacional {#influencia-informacional}
-
->Una influencia social informacional puede definirse como una influencia para aceptar la información obtenida de otros como evidencia sobre la realidad.\
-@deutsch_study_1955 [p. 629]
-
-## Esquema influencia informacional {#esquema-influencia-informacional}
+## Esquema influencia informativa {#esquema-influencia-informativa}
 ![](imagenes-conformismo/InfluenciaInformativa.jpg)
 
+## Influencia informativa {#influencia-informativa}
+
+>Una influencia social informativa puede definirse como una influencia para aceptar la información obtenida de otros como evidencia sobre la realidad.\
+@deutsch_study_1955 [p. 629]
 
 ## Normalización {#normalizacion data-background="imagenes-conformismo/Cebras.jpg" data-background-transition=zoom data-state=fondo}
 
@@ -83,43 +84,6 @@ lateral-menu: 'True'
 
 ![](imagenes-conformismo/EfectoAutocinetico-3.png){.noshadow .noborder}
 
-## Dificultad y relevancia de la tarea {#dificultad-tarea}
-
-![](imagenes-conformismo/Asch-RelevanciaTarea.jpg)
-
-@baron_forgotten_1996
-
-## Baron et al. (1996) {#baron}
-
-![Número medio de ensayos en los que hay conformismo](imagenes-conformismo/Baron-Vandello-Brunsman.jpg)
-
-## Teorías relacionadas: Comparación social {#teorias-comparacion-social}
-
-:::::: {.columns}
-::: {.column width="25%"}
-![Leon Festinger](imagenes-conformismo/Festinger.jpg)
-:::
-::: {.column width="75%"}
-![](imagenes-conformismo/A61MillionVote.jpg)\
-@bond_61-million-person_2012
-:::
-::::::
-
-## Ignorancia pluralista {#teorias-ignorancia-pluralista}
-
-
-![Bibb Latané y John Darley](imagenes-conformismo/Latane-Darley.jpg)
-
-. . .
-
->en ocasiones, la mayoría de los miembros de un grupo no están de acuerdo con una norma, creencia o modo de actuar del grupo, en su interior o de forma privada, pero cada uno de los sujetos cree –incorrectamente–, que todos o la mayoría de los miembros del grupo sí que están de acuerdo con esa norma, creencia o modo de actuar. `Katz y Allport, 1931`{.autor}
-
-# Influencia normativa { .center}
-
-## Influencia normativa
-
->[Deutsh y Gerard] Entienden por influencia normativa la que se observa cuando el individuo se conforma con las expectativas positivas del otro (individuo o grupo), a fin de ganar de él una serie de refuerzos y sentimientos positivos, de establecer una solidaridad con él, y en definitiva no verse marginado y ridiculizado por él.\
-@perez_influencia_1999 [p. 261]
 
 ## Esquema influencia normativa
 
@@ -130,7 +94,12 @@ lateral-menu: 'True'
 >Es una forma de influencia en la que se ejerce presión para hacer que alguien se conforme a las expectativas y preferencias de los demás. Las expectativas y preferencias de los otros funcionan como norma de grupo de referencia que expresa cómo deben comportarse o qué decisión deben tomar las personas.\
 @kaplan_normative_2010 [p. 606] -->
 
-## Conformismo
+## Influencia normativa
+
+>[Deutsh y Gerard] Entienden por influencia normativa la que se observa cuando el individuo se conforma con las expectativas positivas del otro (individuo o grupo), a fin de ganar de él una serie de refuerzos y sentimientos positivos, de establecer una solidaridad con él, y en definitiva no verse marginado y ridiculizado por él.\
+@perez_influencia_1999 [p. 261]
+
+<!-- ## Conformismo
 
 :::::: {.columns}
 ::: {.column width="67%"}
@@ -141,7 +110,7 @@ lateral-menu: 'True'
 ![Solomon Asch\
 (1907-1996)](imagenes-conformismo/Asch.jpg)
 :::
-::::::
+:::::: -->
 
 
 ## El experimento de Asch {data-background="imagenes-conformismo/Asch-conformity.jpg" data-background-transition=zoom data-state=fondo}
@@ -161,6 +130,38 @@ lateral-menu: 'True'
 - Personas que siempre ceden: 5%
 - Personas que ceden entre 8 y 12 veces: 27%
 
+## Tamaño de la mayoría
+
+![](imagenes-conformismo/Ovejas-3.png)
+<!-- ![](imagenes-conformismo/Asch-EfectoMayoria.jpg) -->
+
+
+<!-- ## Tamaño de la mayoría
+
+<video width="420"  class="stretch" controls><source src="imagenes-conformismo/Stanley Milgram - Conformity and Independence.mp4"></video>
+
+###### <https://www.youtube.com/watch?v=P0e6zG8IbE8>
+
+###### @milgram_note_1969 -->
+
+
+## Unanimidad
+
+<div id="column1" style="float:left; margin:0; width:50%;">
+![](imagenes-conformismo/Ovejas-1.png)
+</div>
+
+. . .
+
+<div id="column1" style="float:left; margin:0; width:50%;">
+![](imagenes-conformismo/Ovejas-2.png)
+</div>
+
+## Anonimato
+![](imagenes-conformismo/Ovejas-4.png)
+
+<!-- ![Kota-Ezawa](imagenes-conformismo/Kota-Ezawa-handvote.jpg) -->
+
 ## Diferencias mujeres - hombres
 ![](imagenes-conformismo/Mori-Arai.png)\
 @mori_no_2010
@@ -170,35 +171,15 @@ lateral-menu: 'True'
 ![](imagenes-conformismo/Mori-Koyama.png)\
 @mori_boys_2014
 
-## Unanimidad
+## Dificultad y relevancia de la tarea {#dificultad-tarea}
 
-![](imagenes-conformismo/BlackSheep.png)
+![](imagenes-conformismo/Asch-RelevanciaTarea.jpg)
 
-## Anonimato
+@baron_forgotten_1996
 
-![Kota-Ezawa](imagenes-conformismo/Kota-Ezawa-handvote.jpg)
+## Baron et al. (1996) {#baron}
 
-
-<!--
-##Tamaño de la mayoría
-
-. . .
-
-![](imagenes-conformismo/Asch-EfectoMayoria.jpg)
-
-##Tamaño de la mayoría
-
-<video width="420"  class="stretch" controls><source src="imagenes-conformismo/Stanley Milgram - Conformity and Independence.mp4"></video>
-
-###### <https://www.youtube.com/watch?v=P0e6zG8IbE8>
-
-######@milgram_note_1969
--->
-
-<!--##Tamaño de la mayoría
-
-<object id="svg1"  data="imagenes-conformismo/TamañoMayoria.svg" type="image/svg+xml"></object> -->
-
+![Número medio de ensayos en los que hay conformismo](imagenes-conformismo/Baron-Vandello-Brunsman.jpg)
 
 <!--##Conformismo: Factores
 
@@ -210,6 +191,15 @@ lateral-menu: 'True'
 
 ![Theodore Newcomb\
 1903-1984](imagenes-conformismo/Newcomb.jpg)-->
+
+## Ignorancia pluralista {#teorias-ignorancia-pluralista}
+
+
+![Bibb Latané y John Darley](imagenes-conformismo/Latane-Darley.jpg)
+
+. . .
+
+>en ocasiones, la mayoría de los miembros de un grupo no están de acuerdo con una norma, creencia o modo de actuar del grupo, en su interior o de forma privada, pero cada uno de los sujetos cree –incorrectamente–, que todos o la mayoría de los miembros del grupo sí que están de acuerdo con esa norma, creencia o modo de actuar. `Katz y Allport, 1931`{.autor}
 
 ## "Miedo" a hablar
 
@@ -251,14 +241,14 @@ Tu bebé empieza a llorar a gritos. Le cubres la boca para amortiguar el sonido.
 -->
 
 
-# Influencia informativa referente {.center}
+## La importancia de los grupos {#importancia-grupos}
 
-## La importancia de los grupos
+![](imagenes-conformismo/A61MillionVote-2.jpg)
 
-![](imagenes-conformismo/A61MillionVote.jpg)
+@bond_61-million-person_2012
 
 
-## Influencia informativa referente
+## Influencia informativa referente {#influencia-informativa-referente}
 
 >Consideramos que tanto las comparaciones sociales para reducir la incertidumbre como la existencia de una presión normativa para conformarse dependen de percibir que la fuente de influencia pertenece a la propia categoría.\
 @abrams_knowing_1990 [p. 97]
