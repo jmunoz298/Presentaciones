@@ -36,6 +36,9 @@ lateral-menu: 'True'
 > Proceso a través del cual las personas o los grupos cambian los pensamientos, sentimientos, y conductas de otros.\
 @stangor_social_2004 [p. 75]
 
+##
+![](imagenes-conformismo/Ovejas-0.png)
+
 ## Bases de la influencia social {#bases-influencia}
 
 :::nonincremental
@@ -131,9 +134,6 @@ lateral-menu: 'True'
 - Personas que nunca ceden: 24%
 - Personas que siempre ceden: 5%
 - Personas que ceden entre 8 y 12 veces: 27%
-
-##
-![](imagenes-conformismo/Ovejas-0.png)
 
 ## Tamaño de la mayoría
 
