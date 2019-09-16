@@ -11,14 +11,14 @@ csl: apa.csl
 lateral-menu: 'True'
 ...
 
-## Índice {#indice }
+##
 
-::: nonincremental
+<!-- ::: nonincremental
 * Introducción
 * Influencia informativa
 * Influencia normativa
 * Influencia informacional referente
-:::
+::: -->
 
 <br><br>
 “The opposite of courage in our society is not cowardice, it is… **conformity**”
@@ -83,11 +83,6 @@ lateral-menu: 'True'
 . . .
 
 ![](imagenes-conformismo/EfectoAutocinetico-3.png){.noshadow .noborder}
-
-## Facebook como fuente de información {#teorias-comparacion-social}
-
-![](imagenes-conformismo/A61MillionVote.jpg)\
-@bond_61-million-person_2012
 
 
 ## Esquema influencia normativa
@@ -248,7 +243,9 @@ Tu bebé empieza a llorar a gritos. Le cubres la boca para amortiguar el sonido.
 
 ## La importancia de los grupos {#importancia-grupos}
 
-![](imagenes-conformismo/A61MillionVote.jpg)
+![](imagenes-conformismo/A61MillionVote-2.jpg)
+
+@bond_61-million-person_2012
 
 
 ## Influencia informativa referente {#influencia-informativa-referente}
