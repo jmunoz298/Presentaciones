@@ -34,44 +34,44 @@ lateral-menu: 'True'
 
 # Introducción { .center}
 
-## Obediencia {data-background="imagenes-isg/abraham-sacrifice-caravaggio.jpg" data-background-transition=zoom data-state=fondo}
+## Obediencia {data-background="imagenes-obediencia/abraham-sacrifice-caravaggio.jpg" data-background-transition=zoom data-state=fondo}
 
 . . .
 
 > (...) deberíamos saber que el instinto de sumisión, un ardiente deseo de obedecer y de ser dominado por un hombre fuerte, es por lo menos tan prominente en la psicología humana como el deseo de poder, y, políticamente, resulta quizá más relevante.\
 @arendt_sobre_1969 [p. 54]
 
-## Holocausto{data-background="imagenes-isg/abraham-sacrifice-caravaggio.jpg"   data-background-transition=zoom data-state=fondo}
+## Holocausto{data-background="imagenes-obediencia/abraham-sacrifice-caravaggio.jpg"   data-background-transition=zoom data-state=fondo}
 
 <div id="column1" style="float:left; margin:0; width:50%;">
 
-![](imagenes-isg/Auschwitz.jpg)
+![](imagenes-obediencia/Auschwitz.jpg)
 
 </div>
 
 <div id="column1" style="float:left; margin:0; width:50%;">
 
-![](imagenes-isg/Holocausto.jpg)
+![](imagenes-obediencia/Holocausto.jpg)
 
 </div>
 
-## Otras matanzas{data-background="imagenes-isg/abraham-sacrifice-caravaggio.jpg"   data-background-transition=zoom data-state=fondo}
+## Otras matanzas{data-background="imagenes-obediencia/abraham-sacrifice-caravaggio.jpg"   data-background-transition=zoom data-state=fondo}
 
 <div id="column1" style="float:left; margin:0; width:50%;">
 
-![May Lay (Vietnam), 1968](imagenes-isg/MayLay.jpg)
-
-</div>
-
-<div id="column1" style="float:left; margin:0; width:50%;">
-
-![Ruanda, 1994](imagenes-isg/Ruanda.jpg)
+![May Lay (Vietnam), 1968](imagenes-obediencia/MayLay.jpg)
 
 </div>
 
 <div id="column1" style="float:left; margin:0; width:50%;">
 
-![Matanza de croatas. Srebrenica, 1995](imagenes-isg/Srebrenica.jpg)
+![Ruanda, 1994](imagenes-obediencia/Ruanda.jpg)
+
+</div>
+
+<div id="column1" style="float:left; margin:0; width:50%;">
+
+![Matanza de croatas. Srebrenica, 1995](imagenes-obediencia/Srebrenica.jpg)
 
 </div>
 
@@ -79,29 +79,29 @@ lateral-menu: 'True'
 
 </div>
 
-## Abu Ghraib (Irak, 2004) {data-background="imagenes-isg/abraham-sacrifice-caravaggio.jpg"   data-background-transition=zoom data-state=fondo}
+## Abu Ghraib (Irak, 2004) {data-background="imagenes-obediencia/abraham-sacrifice-caravaggio.jpg"   data-background-transition=zoom data-state=fondo}
 
 <div id="column1" style="float:left; margin:0; width:50%;">
 
-![](imagenes-isg/AbuGhraib-1.jpg)
+![](imagenes-obediencia/AbuGhraib-1.jpg)
 
 </div>
 
 <div id="column1" style="float:left; margin:0; width:50%;">
 
-![](imagenes-isg/AbuGhraib-2.jpg)
+![](imagenes-obediencia/AbuGhraib-2.jpg)
 
 </div>
 
 <div id="column1" style="float:left; margin:0; width:50%;">
 
-![](imagenes-isg/AbuGhraib-3.jpg)
+![](imagenes-obediencia/AbuGhraib-3.jpg)
 
 </div>
 
 <div id="column1" style="float:left; margin:0; width:50%;">
 
-![](imagenes-isg/AbuGhraib-4.jpg)
+![](imagenes-obediencia/AbuGhraib-4.jpg)
 
 </div>
 
@@ -120,7 +120,7 @@ lateral-menu: 'True'
 <div id="column1" style="float:left; margin:0; width:33%;">
 
 ![Philip Zimbardo\
-1933-](imagenes-isg/Zimbardo.jpg)
+1933-](imagenes-obediencia/Zimbardo.jpg)
 
 </div>
 
@@ -136,13 +136,13 @@ lateral-menu: 'True'
 </div>
 
 
-## Batallón 101 {data-background="imagenes-isg/Batallon101.jpg"   data-background-transition=zoom data-state=fondo}
+## Batallón 101 {data-background="imagenes-obediencia/Batallon101.jpg"   data-background-transition=zoom data-state=fondo}
 
 . . .
 
 <div id="column2" style="float:left; margin-top:150px; width:50%;">
 
-![Adolf Eichmann (1906-1962)](imagenes-isg/AdolfEichmann.jpg)
+![Adolf Eichmann (1906-1962)](imagenes-obediencia/AdolfEichmann.jpg)
 
 </div>
 
@@ -150,7 +150,7 @@ lateral-menu: 'True'
 
 <div id="column1" style="float:left; margin-top:150px; width:50%;">
 
-![Hanna Arendt (1906-1975)](imagenes-isg/HannaArendt.jpg)
+![Hanna Arendt (1906-1975)](imagenes-obediencia/HannaArendt.jpg)
 
 ##### @arendt_eichmann_1963 {.fondo}
 
@@ -159,18 +159,18 @@ lateral-menu: 'True'
 
 # Stanley Milgram { .center}
 
-## El experimento {data-background="imagenes-isg/Milgram-maquina.jpg"   data-background-transition=zoom data-state=fondo}
+## El experimento {data-background="imagenes-obediencia/Milgram-maquina.jpg"   data-background-transition=zoom data-state=fondo}
 
 <div id="column1" style="float:left; margin:0; width:50%;">
 
-![Solicitud participantes](imagenes-isg/Milgram-anuncio.jpg)
+![Solicitud participantes](imagenes-obediencia/Milgram-anuncio.jpg)
 
 </div>
 
 <div id="column2" style="float:left; margin:0; width:50%;">
 
 ![Stanley Milgram\
- (1933-1984)](imagenes-isg/Milgram.jpg)
+ (1933-1984)](imagenes-obediencia/Milgram.jpg)
 
 </div>
 
@@ -203,7 +203,7 @@ lateral-menu: 'True'
 <!--
 ##Predicciones de psiquiatras
 
-![](imagenes-isg/Milgram-predicciones.jpg)\
+![](imagenes-obediencia/Milgram-predicciones.jpg)\
 @milgram_conditions_1965 [, p. 73]
 
 -->
@@ -211,7 +211,7 @@ lateral-menu: 'True'
 
 ## Resultados: Niveles de obediencia {#resultados}
 
-![Resultados: Niveles de obediencia por diseño](imagenes-isg/Milgram-NivelesObediencia.jpg)
+![Resultados: Niveles de obediencia por diseño](imagenes-obediencia/Milgram-NivelesObediencia.jpg)
 
 <!-- # La explicación de Milgram { .center} -->
 
@@ -222,22 +222,22 @@ lateral-menu: 'True'
 
 <!-- ## El proceso de la obediencia
 
-![](imagenes-isg/ProcesoObediencia-1.jpg)
+![](imagenes-obediencia/ProcesoObediencia-1.jpg)
 
 
 ## Legitimidad de la autoridad
 
-![](imagenes-isg/Astroten.jpg)\
+![](imagenes-obediencia/Astroten.jpg)\
 @hofling_experimental_1966 -->
 
 ## El proceso de la obediencia
 
-![El proceso de la obediencia](imagenes-isg/ProcesoObediencia-2.jpg)
+![El proceso de la obediencia](imagenes-obediencia/ProcesoObediencia-2.jpg)
 
 
 <!-- ## Consecuencias
 
-![Consecuencias](imagenes-isg/Milgram-consecuencias.jpg)
+![Consecuencias](imagenes-obediencia/Milgram-consecuencias.jpg)
 
 ```{.left}
 O = Obediencia
@@ -337,13 +337,13 @@ vs. identificación con alumno.
 
 <div id="column1" style="float:left; margin:0; width:50%;">
 
-![Resultados (Experimento nº 1)](imagenes-isg/Milgram-experimento-1.jpg)
+![Resultados (Experimento nº 1)](imagenes-obediencia/Milgram-experimento-1.jpg)
 
 </div>
 
 <div id="column1" style="float:left; margin:0; width:50%;">
 
-![Resultados (Experimento nº 2)](imagenes-isg/Milgram-experimento-2.jpg)
+![Resultados (Experimento nº 2)](imagenes-obediencia/Milgram-experimento-2.jpg)
 
 </div> -->
 
@@ -377,7 +377,7 @@ vs. identificación con alumno.
 
 ## Réplicas recientes: Beauvois {#beauvois}
 
-![](imagenes-isg/beauvois-res-01.jpg)\
+![](imagenes-obediencia/beauvois-res-01.jpg)\
 @beauvois_prescriptive_2012
 
 <!-- ## Beauvios: ¿El final de la autoridad? {#beauvois-fin-autoridad}
@@ -389,7 +389,7 @@ vs. identificación con alumno.
 
 ## Réplicas recientes: Immersive Digital Realism
 
-![](imagenes-isg/Haslam-Reicher-Millard-2015.jpg)\
+![](imagenes-obediencia/Haslam-Reicher-Millard-2015.jpg)\
 @haslam_shock_2015
 
 # Desobediencia
@@ -399,11 +399,11 @@ vs. identificación con alumno.
 >La lucha por la independencia y la resistencia a la usurpación son aspectos tan reales de las personas como la conformidad. Por lo tanto, es indebidamente limitado enfatizar la sumisión, el descuido de los poderes no despreciables que las personas demuestran en ocasiones para actuar de acuerdo a la convicción y elevándose por encima de la pasión del grupo.\
 @asch_studies_1956 [, p. 3]
 
-## Reactancia {data-background="imagenes-isg/AdanyEva.jpg"   data-background-transition=zoom data-state=fondo .center}
+## Reactancia {data-background="imagenes-obediencia/AdanyEva.jpg"   data-background-transition=zoom data-state=fondo .center}
 
 <!-- Adan y Eva, Rubens -->
 
-<!-- ![](imagenes-isg/Reactance.jpg) -->
+<!-- ![](imagenes-obediencia/Reactance.jpg) -->
 
 
 ## Identidad Social y Cambio Social {#identidad-cambio}
@@ -416,25 +416,25 @@ vs. identificación con alumno.
 >"En estos términos, la resistencia tendrá éxito en la medida en que los participantes se identifiquen más con la causa de su grupo que sus oponentes con la suya. Si bien esto debería ser cierto en general, cuando se trata de resistencia, este análisis descuida el papel de liderazgo activo que desempeñan los miembros individuales del grupo, tanto en el cultivo de un sentido compartido de identidad social como en la movilización de los miembros del grupo en torno a un conjunto específico de alternativas cognitivas.\
 @haslam_beyond_2011 [, p. 337] -->
 
-# Desobediencia {data-background="imagenes-isg/Desobediencia.png"   data-background-transition=zoom data-state=fondo .center}
+# Desobediencia {data-background="imagenes-obediencia/Desobediencia.png"   data-background-transition=zoom data-state=fondo .center}
 
 ## La banalidad del bien
 
 <div id="column1" style="float:left; margin:0; width:33%;">
 
-![Mahatma Gandhi](imagenes-isg/Gandhi.jpg)
+![Mahatma Gandhi](imagenes-obediencia/Gandhi.jpg)
 
 </div>
 
 <div id="column1" style="float:left; margin:0; width:33%;">
 
-![Martin Luther King](imagenes-isg/MartinLuther.jpg)
+![Martin Luther King](imagenes-obediencia/MartinLuther.jpg)
 
 </div>
 
 <div id="column1" style="float:left; margin:0; width:33%;">
 
-![Nelson Mandela](imagenes-isg/Mandela.jpg)
+![Nelson Mandela](imagenes-obediencia/Mandela.jpg)
 
 </div>
 
@@ -449,14 +449,14 @@ vs. identificación con alumno.
 <div id="column1" style="float:left; margin:0; width:50%;">
 
 ![Étienne de La Boétie\
-1530-1563](imagenes-isg/LaBoetie.jpg)
+1530-1563](imagenes-obediencia/LaBoetie.jpg)
 
 </div>
 
 <div id="column1" style="float:left; margin:0; width:33%;">
 
 ![Henry David Thoreau\
-1817-1862](imagenes-isg/Thoreau.jpg)
+1817-1862](imagenes-obediencia/Thoreau.jpg)
 
 </div>
 
