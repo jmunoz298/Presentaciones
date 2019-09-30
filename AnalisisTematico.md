@@ -13,12 +13,12 @@ lateral-menu: 'True'
 
 ## Contenidos {#indice}
 
+:::nonincremental
 * Qué es
 * Gestión de datos
 * Memoing
 * Codificación
-
-admonition
+:::
 
 # Definiciones {.center data-background="imagenes-cuali/Definicion.jpg" data-background-transition=zoom data-state=fondo}
 
@@ -72,9 +72,11 @@ Shinzō Abe
 
 ## Fases preparación datos {#fases-preparacion-datos}
 
+:::nonincremental
 * Transcripción (literal de los datos)
 * Convenciones ("jeffersonianas")
 * Gestión (archivado, formato, control)
+:::
 
 ## Transcribir: herramientas {#transcribir-herramientas}
 
@@ -90,9 +92,9 @@ Shinzō Abe
 **Software**
 
 Soundscriber:
-[http://www-personal.umich.edu/~ebreck/sscriber.html](http://www-personal.umich.edu/~ebreck/sscriber.html)
+[http://www-personal.umich.edu/~ebreck/sscriber.html](http://www-personal.umich.edu/~ebreck/sscriber.html){target="_blank"}
 
-F4: [http://www.audiotranskription.de/english](http://www.audiotranskription.de/english)
+F4: [http://www.audiotranskription.de/english](http://www.audiotranskription.de/english){target="_blank"}
 
 ##
 
@@ -100,11 +102,13 @@ F4: [http://www.audiotranskription.de/english](http://www.audiotranskription.de/
 
 https://otranscribe.com/
 
-##
+## Transcripción "automática"
 
-<iframe  height="600" width="1200" data-src="https://dictation.io/speech"></iframe>
+<!-- <iframe  height="600" width="1200" data-src="https://dictation.io/speech"></iframe>
+https://dictation.io/speech -->
 
-https://dictation.io/speech
+
+![[Google Docs](https://docs.google.com/document/u/0/){target="_blank"}](imagenes-cuali/docs.png){.noshadow}
 
 <!-- ## Pero...
 <iframe width="800" height="400" data-src="http://swiftscribe.ai"></iframe>
@@ -152,7 +156,7 @@ https://dictation.io/speech
 ![](imagenes-cuali/Transcripcion.jpg)
 
 @lerner_glossary_2004 [p. 15]
-[>](https://www.dropbox.com/s/q0sardadq3ijqsa/JeffersonianTranscriptionNotationCast.pdf?dl=0)
+[>](https://www.dropbox.com/s/q0sardadq3ijqsa/JeffersonianTranscriptionNotationCast.pdf?dl=0){target="_blank"}
 
 Ver también: @bassi_follari_codigo_2015
 
@@ -164,10 +168,10 @@ Ver también: @bassi_follari_codigo_2015
 >La inadecuada documentación y monitorización de las actividades relacionadas con los datos pueden [amenazar su integridad]{.fosforito}. Además, las prácticas inadecuadas de seguimiento pueden dificultar el análisis y aumentar la probabilidad de un [pandemónium]{.fosforito} de investigación.\
 @mclellan_beyond_2003 [p. 69]
 
-Ver: [Processing Qualitative Data Files](http://www.fsd.uta.fi/aineistonhallinta/en/processing-qualitative-data-files.html)\
+[Processing Qualitative Data Files](http://www.fsd.uta.fi/aineistonhallinta/en/processing-qualitative-data-files.html){.peque target="_blank"}\
 `http://www.fsd.uta.fi/aineistonhallinta/en/processing-qualitative-data-files.html`{.figcaption}
 
-Ver: [UK · Data Archive: Create & Manage Data](http://www.data-archive.ac.uk/create-manage)\
+[UK · Data Archive: Create & Manage Data](http://www.data-archive.ac.uk/create-manage){.peque target="_blank"}\
 `http://www.data-archive.ac.uk/create-manage`{.figcaption}
 
 
@@ -177,21 +181,21 @@ Ver: [UK · Data Archive: Create & Manage Data](http://www.data-archive.ac.uk/cr
 
 ## Plan de Gestión de Datos {#plan-gestion-datos}
 
-![Plan de Gestión de Datos](imagenes-cuali/PlanDeDatos.png){.noshadow width=650}
+![[Plan de Gestión de Datos](http://rebiun.xercode.es/xmlui/bitstream/handle/20.500.11967/71/ES_IIIPE_Linea2_SubgOA_Info9_resolucionmedia_2016.jpg?sequence=8&isAllowed=y){target="_blank"}](imagenes-cuali/PlanDeDatos.png){.noshadow width=650}
 
-[Ver](http://rebiun.xercode.es/xmlui/bitstream/handle/20.500.11967/71/ES_IIIPE_Linea2_SubgOA_Info9_resolucionmedia_2016.jpg?sequence=8&isAllowed=y)
+
+
 
 ## {#dmp-csuc}
 
-![](imagenes-cuali/DMP-CSUC.png)
+![Pla de Gestió de Dades de Recerca:\
+[https://dmp.csuc.cat](https://dmp.csuc.cat/)](imagenes-cuali/DMP-CSUC.png){target="_blank"}
 
-[Pla de Gestió de Dades de Recerca](https://dmp.csuc.cat/)\
-
-`https://dmp.csuc.cat`{.figcaption}
 
 ## Control de versiones {#control-versiones}
 
-![https://www.ukdataservice.ac.uk/manage-data/format/versioning](imagenes-cuali/VersionControlTable.jpg)
+![[https://www.ukdataservice.ac.uk/manage-data/format/versioning](https://www.ukdataservice.ac.uk/manage-data/format/versioning)](imagenes-cuali/VersionControlTable.jpg){target="_blank"}
+
 
 ## Ejercicio: Gestión de datos {#ejercicio-gestion}
 
@@ -260,7 +264,6 @@ Ver: [UK · Data Archive: Create & Manage Data](http://www.data-archive.ac.uk/cr
 ## Proceso de análisis {#proceso-analisis}
 
 ![Adaptado de @seidel_qualitative_1998 [p. 2]](imagenes-cuali/Seidel-NCT.png)
-
 
 <!--
 ## Análisis temático
@@ -331,7 +334,7 @@ Codificar el aula
 ## Comparación constante {#comparacion-constante}
 ![](imagenes-cuali/comparacion-constante.png){.noshadow}
 
-
+<!--
 ## Categorizar {#categorizar}
 >Categorizar es tratar objetos diferentes como si fueran equivalentes, agrupar en clases los objetos, los acontecimientos y las personas que nos rodean, y responder hacia ellos en función de su clase de pertenencia más que de su unicidad.\
 @bruner_study_1956 [p. 1]
@@ -341,8 +344,7 @@ Codificar el aula
 `J.L.Borges (1952). El idioma analítico de John Wilkins.`{.autor}
 
 ## Jerarquías códigos {#jerarquias-codigos}
-![](imagenes-cuali/JerarquiaCodificacion.jpg)
-
+![](imagenes-cuali/JerarquiaCodificacion.jpg) -->
 
 ## {transition=none}
 

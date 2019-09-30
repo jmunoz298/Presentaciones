@@ -18,8 +18,8 @@ Archivos fuente en: [https://github.com/jmunoz298/Presentaciones](https://github
 Influencia social y grupos
 --------------------------
 
-- Conformismo (Septiembre 2018) ([HTML](Conformismo.html) | [PDF](Conformismo.pdf))
-- Obediencia (Septiembre 2018) ([HTML](Obediencia.html) | [PDF](Obediencia.pdf))
+- Conformismo (Septiembre 2019) ([HTML](Conformismo.html) | [PDF](Conformismo.pdf))
+- Obediencia (Septiembre 2019) ([HTML](Obediencia.html) | [PDF](Obediencia.pdf))
 - Desobediencia (Octubre 2017) ([HTML](Desobediencia.html) | [PDF](Desobediencia.pdf))
 
 Dinámicas
@@ -43,7 +43,7 @@ Acción Pública y cambio social
 Análisis temático / Atlas-ti
 -----------------
 
-- Análisis temático (Septiembre 2018) ([HTML](AnalisisTematico.html) | [PDF](AnalisisTematico.pdf))
+- Análisis temático (Septiembre 2019) ([HTML](AnalisisTematico.html) | [PDF](AnalisisTematico.pdf))
 - Análisis con Atlas.ti 7 (Junio 2018) ([HTML](AT-Atlas.ti.html) | [PDF](AT-Atlas.ti.pdf))
 - Análisis con Atlas.ti 8 (febrero 2019) [HTML](AT-Atlas.ti-8.html) | [PDF](AT-Atlas.ti-8.pdf))
 

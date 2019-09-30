@@ -11,6 +11,7 @@ lateral-menu: 'True'
 ...
 
 
+<!--
 ## El "inspector" Milgram {#inspector-milgram}
 
 <video class="stretch" controls><source src="multimedia/LeyYOrden.mp4"></video>
@@ -18,6 +19,7 @@ lateral-menu: 'True'
 `Authority - Law & Order: Special Victims Unit (Temporada 9, episodio 17)`{.figcaption}
 
 ##### [https://en.wikipedia.org/wiki/Authority_(Law_%26_Order:_Special_Victims_Unit)](https://en.wikipedia.org/wiki/Authority_(Law_%26_Order:_Special_Victims_Unit)) {.peque}
+-->
 
 ## Índice
 
