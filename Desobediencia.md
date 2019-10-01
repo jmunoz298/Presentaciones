@@ -24,7 +24,7 @@ lateral-menu: 'True'
 
 <!-- ## Sesgo de conformismo
 
-![Representación del experimento de Asch en libros de texto de Psicología Social](imagenes-isg/Friend-Asch.png)\
+![Representación del experimento de Asch en libros de texto de Psicología Social](imagenes-obediencia/Friend-Asch.png)\
 @friend_puzzling_1990 -->
 
 ## Independencia y resistencia
@@ -32,11 +32,11 @@ lateral-menu: 'True'
 >La lucha por la independencia y la resistencia a la usurpación son aspectos tan reales de las personas como la conformidad. Por lo tanto, es indebidamente limitado enfatizar la sumisión, el descuido de los poderes no despreciables que las personas demuestran en ocasiones para actuar de acuerdo a la convicción y elevándose por encima de la pasión del grupo.\
 @asch_studies_1956 [, p. 3]
 
-# Reactancia {data-background="imagenes-isg/AdanyEva.jpg"   data-background-transition=zoom data-state=fondo .center}
+# Reactancia {data-background="imagenes-obediencia/AdanyEva.jpg"   data-background-transition=zoom data-state=fondo .center}
 
 <!-- Adan y Eva, Rubens -->
 
-<!-- ![](imagenes-isg/Reactance.jpg) -->
+<!-- ![](imagenes-obediencia/Reactance.jpg) -->
 
 
 # Identidad Social y Cambio Social { .center}
@@ -51,7 +51,7 @@ lateral-menu: 'True'
 >"En estos términos, la resistencia tendrá éxito en la medida en que los participantes se identifiquen más con la causa de su grupo que sus oponentes con la suya. Si bien esto debería ser cierto en general, cuando se trata de resistencia, este análisis descuida el papel de liderazgo activo que desempeñan los miembros individuales del grupo, tanto en el cultivo de un sentido compartido de identidad social como en la movilización de los miembros del grupo en torno a un conjunto específico de alternativas cognitivas.\
 @haslam_beyond_2011 [, p. 337]
 
-# Desobediencia {data-background="imagenes-isg/Desobediencia.png"   data-background-transition=zoom data-state=fondo .center}
+# Desobediencia {data-background="imagenes-obediencia/Desobediencia.png"   data-background-transition=zoom data-state=fondo .center}
 
 ## La banalidad del bien
 
@@ -60,19 +60,19 @@ lateral-menu: 'True'
 
 <div id="column1" style="float:left; margin:0; width:33%;">
 
-![Mahatma Gandhi](imagenes-isg/Gandhi.jpg)
+![Mahatma Gandhi](imagenes-obediencia/Gandhi.jpg)
 
 </div>
 
 <div id="column1" style="float:left; margin:0; width:33%;">
 
-![Martin Luther King](imagenes-isg/MartinLuther.jpg)
+![Martin Luther King](imagenes-obediencia/MartinLuther.jpg)
 
 </div>
 
 <div id="column1" style="float:left; margin:0; width:33%;">
 
-![Nelson Mandela](imagenes-isg/Mandela.jpg)
+![Nelson Mandela](imagenes-obediencia/Mandela.jpg)
 
 </div>
 
@@ -83,14 +83,14 @@ lateral-menu: 'True'
 <div id="column1" style="float:left; margin:0; width:50%;">
 
 ![Étienne de La Boétie\
-1530-1563](imagenes-isg/LaBoetie.jpg)
+1530-1563](imagenes-obediencia/LaBoetie.jpg)
 
 </div>
 
 <div id="column1" style="float:left; margin:0; width:33%;">
 
 ![Henry David Thoreau\
-1817-1862](imagenes-isg/Thoreau.jpg)
+1817-1862](imagenes-obediencia/Thoreau.jpg)
 
 </div>
 
