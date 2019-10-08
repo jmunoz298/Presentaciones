@@ -255,11 +255,11 @@ r = resolución de la tensión
 
 ::: nonincremental
 * Ética
-   * Daño participantes
-   * Engaño - Consentimiento informado
+   * Daño participantes [>>>](#mal-participantes)
+   * Engaño - Consentimiento informado [>>>](#enganyo)
    * Derecho a retirarse
-   * Debriefing
-* Metodológica
+   * Debriefing [>>>](#debriefing)
+* Metodológica [>>>](#metodologica)
   - Validez interna
   - Validez externa
 * Teórica
@@ -276,7 +276,7 @@ r = resolución de la tensión
 
 
 >[Un observador relató:] Observé un hombre de negocios maduro e inicialmente equilibrado entrar en el laboratorio sonriente y confiado. [A los 20 minutos se vio reducido a una ruina tartamudeante, que se acercaba rápidamente a un punto de colapso nervioso]{.fosforito}. Constantemente se estiraba el lóbulo de la oreja, y se retorcía las manos. En un momento, puso su puño en la frente y murmuró: "Oh, Dios, vamos a parar". Y sin embargo, siguió respondiendo a cada palabra del experimentador, y obedeció hasta el final.\
-@milgram_obediencia_1974  [p. 377]
+@milgram_obediencia_1974  [p. 377] [<<<](#tipos-criticas)
 
 
 <!-- >Por desgracia, el sujeto no siempre es tratado con el respeto que se merece. Se ha convertido en algo común en los estudios de laboratorio sociopsicológicos manipular, avergonzar e incomodar a los sujetos. A veces, el insulto a la sensibilidad de los sujetos se extiende al lector de la revista cuando se presentan los resultados. El estudio de Milgram (1963) es un ejemplo de ello.\
@@ -288,13 +288,17 @@ r = resolución de la tensión
 
 #### Middlemist, R. D., Knowles, E. S., & Matter, C. F. (1976). Personal space invasions in the lavatory: Suggestive evidence for arousal. _Journal of Personality and Social Psychology_, _33_(5), 541-546.{.autor}
 
+[<<<](#tipos-criticas)
+
 ## Debriefing
 
-Sujeto 711: “El experimento me produjo tal efecto que pasé toda la noche con sudores fríos y pesadillas por el miedo de haber podido matar al hombre allí sentado.”
+[Sujeto 711:]{.fosforito} “El experimento me produjo tal efecto que pasé toda la noche con sudores fríos y pesadillas por el miedo de haber podido matar al hombre allí sentado.”
 
-Sujeto 829: “Estuve considerablemente afectado durante unos días después del experimento. Me habría ayudado si me hubieran dicho la verdad justo después.”
+[Sujeto 829:]{.fosforito} “Estuve considerablemente afectado durante unos días después del experimento. Me habría ayudado si me hubieran dicho la verdad justo después.”
 
-Sujeto 623: "Cuestiono seriamente la sensatez y la ética de no desengañar a cada sujeto inmediatamente después de la sesión..... Permitir que los sujetos permanezcan engañados no está justificado, en mi opinión, incluso si se considerara necesario continuar el engaño' para evitar la contaminación'"
+[<<<](#tipos-criticas)
+
+<!-- [Sujeto 623:]{.fosforito} "Cuestiono seriamente la sensatez y la ética de no desengañar a cada sujeto inmediatamente después de la sesión..... Permitir que los sujetos permanezcan engañados no está justificado, en mi opinión, incluso si se considerara necesario continuar el engaño' para evitar la contaminación'"  -->
 
 <!-- (Perry, 2013). -->
 
@@ -320,13 +324,14 @@ Validez externa [>>](#generalizacion)
 Validez interna
 :    Los resultados obtenidos son debidos única y exclusivamente a las manipulaciones experimentales realizadas
 
+[>>>](#critica-teorica)
 
 ## Generalización {#generalizacion}
 
 >Yo diría, sobre la base de haber observado un millar de personas en el experimento y de mi propia intuición formada e informada por estos experimentos, que si se instalara en los Estados Unidos un sistema de campos de exterminio, del tipo de los que hemos visto en la Alemania Nazi, seriamos capaces de encontrar suficiente personal para esos campos en cualquier ciudad Americana de tamaño medio.\
 [Milgram, 1979, citado por @blass_milgram_1999, pp. 955-956]
 
-[<<](#resultados)
+[<<](#metodologica)
 
 ## Críticas: Teórica {#critica-teorica}
 

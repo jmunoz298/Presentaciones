@@ -3,7 +3,7 @@ title:  'Influencia Social y Grupos'
 author:
 - name: Juan Muñoz
   affiliation: Universitat Autònoma de Barcelona
-tags: [Obediencia, Milgram]
+tags: [Resistencia, Desobediencia]
 tema: "Resistencia"
 url: "http:/juan.psicologiasocial.eu"
 csl: apa.csl
@@ -17,8 +17,8 @@ lateral-menu: 'True'
 * Identidad Social y Cambio social
 * Desobediencia
 
-[Bongo Kanny - Civil Disobedience](https://youtu.be/qScsUOsh6qA?t=43)\
-`https://youtu.be/qScsUOsh6qA?t=43`{.peque}
+[Bongo Kanny - Civil Disobedience](https://www.youtube.com/embed/qScsUOsh6qA?start=43;autoplay=1){target="_blank"}\
+`https://youtu.be/qScsUOsh6qA?t=43`{.peque }
 
 # Sesgo de conformismo { .center}
 
@@ -36,20 +36,21 @@ lateral-menu: 'True'
 
 <!-- Adan y Eva, Rubens -->
 
-<!-- ![](imagenes-obediencia/Reactance.jpg) -->
+##
+![El Jueves, 20-07-2007](imagenes-obediencia/ElJueves-20-07-2007.png)
 
 
 # Identidad Social y Cambio Social { .center}
 
 ##
 
->Esto no es negar que vivimos en un mundo donde estos fenómenos [conformismo y obediencia] son muy frecuentes. Pero donde se producen, no son el producto de la irreflexión y de la sumisión zombie, sino de la identificación y el compromiso activo de los individuos con los grupos de los que forman parte.\
-@haslam_beyond_2011 [, pp. 338-339]
+>"La resistencia es vista principalmente como un proceso de movilización de la identidad social que proporciona a los miembros del grupo una base para trabajar juntos para desafiar las fallas percibidas de un sistema social dado".\
+@haslam_beyond_2011 [, p. 327]
 
-## El papel del liderazgo
+<!-- ## El papel del liderazgo
 
 >"En estos términos, la resistencia tendrá éxito en la medida en que los participantes se identifiquen más con la causa de su grupo que sus oponentes con la suya. Si bien esto debería ser cierto en general, cuando se trata de resistencia, este análisis descuida el papel de liderazgo activo que desempeñan los miembros individuales del grupo, tanto en el cultivo de un sentido compartido de identidad social como en la movilización de los miembros del grupo en torno a un conjunto específico de alternativas cognitivas.\
-@haslam_beyond_2011 [, p. 337]
+@haslam_beyond_2011 [, p. 337] -->
 
 # Desobediencia {data-background="imagenes-obediencia/Desobediencia.png"   data-background-transition=zoom data-state=fondo .center}
 
