@@ -21,13 +21,13 @@ lateral-menu: 'True'
 
 **Unos enlaces:**
 
-[CAQDAS Networking Project](https://www.surrey.ac.uk/computer-assisted-qualitative-data-analysis/ "CAQDAS Networking Project")
+[CAQDAS Networking Project](https://www.surrey.ac.uk/computer-assisted-qualitative-data-analysis/ "CAQDAS Networking Project"){target=_"blank"}
 
-[Online QDA](http://onlineqda.hud.ac.uk/ "Online QDA")
+[Online QDA](http://onlineqda.hud.ac.uk/ "Online QDA"){target=_"blank"}
 
-[Text Analysis Info – QDA Software](http://www.textanalysis.info/ "Text Analysis Info – QDA Software")
+[Text Analysis Info – QDA Software](http://www.textanalysis.info/ "Text Analysis Info – QDA Software"){target=_"blank"}
 
-[UK Data Archive](http://www.data-archive.ac.uk/ "UK Data Archive")
+[UK Data Archive](http://www.data-archive.ac.uk/ "UK Data Archive"){target=_"blank"}
 
 ## Una advertencia
 >Recuerde siempre que un ordenador es sólo una máquina, [no pensará por usted]{.fosforito}, y puede incluso dificultarle progresar con su análisis. No olvide apagar el ordenador de vez en cuando. Lleve sus datos, resultados de búsquedas, esquemas de codificación, etc, a un lugar tranquilo, y luego [léalos y piense en ellos]{.fosforito}. Dé un largo paseo y despeje su mente. Será entonces cuando probablemente obtenga las mejores ideas.\
@@ -145,10 +145,11 @@ En este esquema podemos ver cómo, el proceso de análisis temático implica una
 
 ## Fases preparación datos {#fases-preparacion-datos}
 
+:::nonincremental
 * Transcripción (literal de los datos)
 * Convenciones ("jeffersonianas")
 * Gestión (archivado, formato, control)
-
+:::
 
 ## Transcripción {#transcripcion}
 
@@ -157,7 +158,7 @@ En este esquema podemos ver cómo, el proceso de análisis temático implica una
 >(…) La producción y el uso de transcripciones son ['actividades de investigación']{.fosforito} y no deben ser enfocadas como simplemente 'detalles técnicos' que preceden el análisis.\
 @mclellan_beyond_2003 [p. 64]
 
-## Transcribir: herramientas
+<!-- ## Transcribir: herramientas
 
 :::::: {.columns}
 ::: {.column width="50%"}
@@ -171,27 +172,24 @@ En este esquema podemos ver cómo, el proceso de análisis temático implica una
 **Software**
 
 Soundscriber:
-[http://www-personal.umich.edu/~ebreck/sscriber.html](http://www-personal.umich.edu/~ebreck/sscriber.html)
+[http://www-personal.umich.edu/~ebreck/sscriber.html](http://www-personal.umich.edu/~ebreck/sscriber.html){target=_"blank"}
 
 F4:
-[http://www.audiotranskription.de/english](http://www.audiotranskription.de/english)
+[http://www.audiotranskription.de/english](http://www.audiotranskription.de/english){target=_"blank"} -->
 
-##
+<!-- ##
 
 <iframe  height="600" width="1200" data-src="https://otranscribe.com/"></iframe>
 
-https://otranscribe.com/
+https://otranscribe.com/ -->
 
-##
+## Dictado de voz
 
-<iframe  height="600" width="1200" data-src="https://dictation.io/speech"></iframe>
+![[Google Docs](https://docs.google.com/document/u/0/){target="_blank"}](imagenes-cuali/docs.png){.noshadow}
 
-https://dictation.io/speech
+<!-- <iframe  height="600" width="1200" data-src="https://dictation.io/speech"></iframe> -->
+<!-- https://dictation.io/speech -->
 
-<!-- ## Pero...
-<iframe width="800" height="400" data-src="http://swiftscribe.ai"></iframe>
-
-[http://swiftscribe.ai/](http://swiftscribe.ai/) -->
 
 ## Transcripción y ¿realidad? {#transcripcion-realidad}
 
@@ -237,18 +235,14 @@ Shinzō Abe
 >La inadecuada documentación y monitorización de las actividades relacionadas con los datos pueden [amenazar su integridad]{.fosforito}. Además, las prácticas inadecuadas de seguimiento pueden dificultar el análisis y aumentar la probabilidad de un [pandemónium]{.fosforito} de investigación.\
 @mclellan_beyond_2003 [p. 69]
 
-Ver: [Processing Qualitative Data Files](http://www.fsd.uta.fi/aineistonhallinta/en/processing-qualitative-data-files.html)\
+## Gestión de los datos: Enlaces {#gestion-datos-enlaces}
+
+Ver: [Processing Qualitative Data Files](http://www.fsd.uta.fi/aineistonhallinta/en/processing-qualitative-data-files.html){target=_"blank"}\
 `http://www.fsd.uta.fi/aineistonhallinta/en/processing-qualitative-data-files.html`{.figcaption}
 
-Ver: [UK · Data Archive: Create & Manage Data](http://www.data-archive.ac.uk/create-manage)\
+Ver: [UK · Data Archive: Create & Manage Data](http://www.data-archive.ac.uk/create-manage){target=_"blank"}\
 `http://www.data-archive.ac.uk/create-manage`{.figcaption}
 
-<!--
-
-##
-
-<section data-background-iframe="https://slides.com/news/make-better-presentations/embed?style=hidden&autoSlide=4000">
-</section>
 
 <!-- ## Gestión de los datos {#gestion-datos-2}
 >Una buena gestión de los datos es la base para una buena investigación. Si los datos están debidamente organizados, preservados y bien documentados, y su exactitud, vigencia e integridad es controlada en todo momento, el resultado es de datos de alta calidad, investigación eficiente, resultados basados en pruebas sólidas y ahorro de tiempo y recursos. (...) La gestión de datos debe planificarse desde el inicio de la investigación. Si se convierte en parte de la práctica de investigación estándar, entonces no implicará necesariamente mucho tiempo ni costos adicionales.\
@@ -269,42 +263,9 @@ Ver: [UK · Data Archive: Create & Manage Data](http://www.data-archive.ac.uk/cr
 
 `https://dmp.csuc.cat`{.figcaption} -->
 
-<!--
+<!-- ## Control de versiones
 
-## Control {.medio}
-
---------      -------------------------------------------
-   Title      Vission screening tests in Exxex nurseries
-
-File name     VisionScreenResults_00_05
-
-Description   Results data of 120 Vision Screen Tests carried out in 5 nurseries in Essex during June 2007
-
-Created by    Chris Wilkinson
-
-Maintained by Sally Wastley
-
-Created       04/07/2007
-
-Last modified 25/11/2007
-
-Based on      VisionScreenDataaseDesign_02_00
---------      -------------------------------------------
-
--------  ------------  --------------------------------------------   ----------
-Version  Responsable   Notes                                          Changed
--------  ------------  --------------------------------------------   ----------
-00_05    Sally Wastley Version 00_03 and 00_04 compared and merged    25/11/2007
-
-00_04    Vani Yussu    Entries checked by VY, independent from SK     17/10/2007
-
-00_03    Karin Mills    Entries checked by SK                         17/10/2007
--------  ---------------------------------------------------------    ----------
--->
-
-## Control de versiones
-
-![https://www.ukdataservice.ac.uk/manage-data/format/versioning](imagenes-cuali/VersionControlTable.jpg)
+![https://www.ukdataservice.ac.uk/manage-data/format/versioning](imagenes-cuali/VersionControlTable.jpg){target=_"blank"} -->
 
 ## Y luego...
 
@@ -321,10 +282,15 @@ Version  Responsable   Notes                                          Changed
 
 ##
 
-### https://bit.ly/2SN6RjE
+Descargar (atlproj)
+
+[https://bit.ly/2SN6RjE](https://bit.ly/2SN6RjE){.fosforito .medium target="_blank"}
+
+![Archivo > Nuevo > Importar paquete](imagenes-atlas-8/ProyectoImportar.png)
 
 
-## Estrategias trabajo en equipo
+
+<!-- ## Estrategias trabajo en equipo
 
 ![](imagenes-atlas-8/atlas-trabajo-equipo.png){.noshadow width=55%}
 
@@ -335,15 +301,15 @@ Dos formas básicas de trabajo en equipo:
 - Diferentes analistas trabajan con diferentes documentos.
 
 En ambos casos, el resultado final es la unión de los diferentes proyectos
-:::
+::: -->
 
-## Unir proyectos
+<!-- ## Unir proyectos
 
-![](imagenes-atlas-8/FusionarProyecto-8.png)
+![](imagenes-atlas-8/FusionarProyecto-8.png) -->
 
 ## Crear nuevo proyecto {#nuevo-proyecto}
 
-![](imagenes-atlas-8/NuevoProyecto.png)
+![](imagenes-atlas-8/ProyectoNuevo.png)
 
 ## Añadir documentos {#anadir-documentos}
 
@@ -359,7 +325,7 @@ En ambos casos, el resultado final es la unión de los diferentes proyectos
 :::::: {.columns}
 ::: {.column width="100%"}
 
-Descargar y descomprimir [https://bit.ly/2tboqvO]{.fosforito}
+Descargar y descomprimir [https://bit.ly/2tboqvO](https://bit.ly/2tboqvO){.fosforito .medium target="_blank"}
 
 >- Inicio > Agregar documentos > Agregar archivos
 - Gestor de documentos > Crear comentarios de documentos
@@ -438,24 +404,6 @@ Si la estrategia es inductiva, los códigos surgirán de la lectura de los datos
 * Eliminar citas.
 * Modificar tamaño de citas.
 * Explorar citas con el [Administrador de citas]{.resaltar} y con el [Navegador de citas]{.resaltar}.
-
-## Relaciones
-
-![](imagenes-atlas-8/TiposRelaciones-8.png)
-
-::: notes
-Existen pocas limitaciones en cuanto a cómo crear citas libres, pueden ser de cualquier extensión, pueden solaparse entre ellas... pero sí que tenemos la limitación de que una cita no puede ser "discontínua", es decir, no puede tener una primera parte, p.ej. de la línea 3 a 5, y una segunda parte de la 8 a la 10 sin que estén incluidas las líneas 6 y 7.
-Esto podría provocar que se pierda el significado si no se tiene en cuenta la primera parte, por lo que tendríamos que incluir todas las líneas. Pero si eso implica tener una cita excesivamente larga, otra opción sería crear dos citas y una relación entre ambas.
-:::
-
-## Ejercicio: Relaciones entre citas
-
-![](imagenes-atlas-8/menu-hyperlinks.png){.border}
-
->* Crear relaciones entre citas del mismo/diferente documento.
-* "Navegar" entre citas.
-* Explorar relaciones con el [Administrador de vínculos]{.resaltar}.
-
 
 ## Categorización {#categorizacion}
 >Los animales se clasifican en a) pertenecientes al emperador, b) embalsamados, c) amaestrados, d) lechones, e) sirenas, f) fabulosos, g) perros sueltos, h) incluidos en esta clasificación, i) que se agitan como locos, j) innumerables, k) dibujados con un pincel finísimo de pelo de camello, l) etcétera, m) que acaban de romper el jarrón, n) que de lejos parecen moscas.\
@@ -559,7 +507,7 @@ Tenemos dos posibles respuestas (no incompatibles entre sí):
 
 ## Ejercicio: Depurar códigos {#depurar-codigos}
 
-Descargar: [https://bit.ly/2TKfOaX]{.fosforito}
+Descargar/Importar [https://bit.ly/2TKfOaX](https://bit.ly/2TKfOaX){.fosforito .medium target="_blank"}
 
 ![](imagenes-atlas-8/Menu-imprimir.png){.border}
 
@@ -624,7 +572,7 @@ Para llegar al resultado de la imagen, en primer lugar se ha añadido un identif
 
 ##
 
-### Descargar: [https://bit.ly/2WWDY3T]{.fosforito}
+Descargar/Importar [https://bit.ly/2WWDY3T](https://bit.ly/2WWDY3T){.fosforito .medium target="_blank"}
 
 ## Agrupar
 
@@ -691,7 +639,7 @@ Para llegar al resultado de la imagen, en primer lugar se ha añadido un identif
 * Ver memo "co:Citas literales".
 * Autocodificar.
 
-[(Puedes hacer pruebas en https://regex101.com/)]{.peque}
+[Puedes hacer pruebas en https://regex101.com/](https://regex101.com/){.peque target=_"blank"}
 
 ## Codificación de grupo focal {#codificacion-grupo-focal}
 
@@ -713,6 +661,24 @@ Por ejemplo:
 ## Tipos de relaciones
 
 ![](imagenes-atlas-8/TiposRelaciones-8.png)
+
+## Relaciones
+
+![](imagenes-atlas-8/TiposRelaciones-8.png)
+
+::: notes
+Existen pocas limitaciones en cuanto a cómo crear citas libres, pueden ser de cualquier extensión, pueden solaparse entre ellas... pero sí que tenemos la limitación de que una cita no puede ser "discontínua", es decir, no puede tener una primera parte, p.ej. de la línea 3 a 5, y una segunda parte de la 8 a la 10 sin que estén incluidas las líneas 6 y 7.
+Esto podría provocar que se pierda el significado si no se tiene en cuenta la primera parte, por lo que tendríamos que incluir todas las líneas. Pero si eso implica tener una cita excesivamente larga, otra opción sería crear dos citas y una relación entre ambas.
+:::
+
+## Ejercicio: Relaciones entre citas
+
+![](imagenes-atlas-8/menu-hyperlinks.png){.border}
+
+>* Crear relaciones entre citas del mismo/diferente documento.
+* "Navegar" entre citas.
+* Explorar relaciones con el [Administrador de vínculos]{.resaltar}.
+
 
 ## Estructura: Grupos de códigos... {#estructura-grupos-codigos-1}
 
@@ -743,6 +709,8 @@ Por ejemplo:
 * Definir un nuevo tipo de relación.
 
 Descargar: [https://bit.ly/2BvAw76]{.fosforito}
+
+Descargar y descomprimir [https://bit.ly/2BvAw76](https://bit.ly/2BvAw76){.fosforito .medium target="_blank"}
 
 # Vistas de red{.center data-background="imagenes-cuali/neurons.jpg" data-background-transition=zoom data-state=opacidad}
 
@@ -798,6 +766,8 @@ Todas las citas codificadas como C1 **Y** C2 **O** como C1 y C3
 :::::
 
 ### https://bit.ly/2SD7368
+
+Descargar y descomprimir [https://bit.ly/2SD7368](https://bit.ly/2SD7368){.fosforito .medium target="_blank"}
 
 ## Construcción de una consulta {#construccion-booleana-2 transition=none}
 
