@@ -25,13 +25,9 @@ lateral-menu: 'True'
 
 [Online QDA](http://onlineqda.hud.ac.uk/ "Online QDA"){target=_"blank"}
 
-[Text Analysis Info – QDA Software](http://www.textanalysis.info/ "Text Analysis Info – QDA Software"){target=_"blank"}
+<!-- [Text Analysis Info – QDA Software](http://www.textanalysis.info/ "Text Analysis Info – QDA Software"){target=_"blank"}
 
-[UK Data Archive](http://www.data-archive.ac.uk/ "UK Data Archive"){target=_"blank"}
-
-## Una advertencia
->Recuerde siempre que un ordenador es sólo una máquina, [no pensará por usted]{.fosforito}, y puede incluso dificultarle progresar con su análisis. No olvide apagar el ordenador de vez en cuando. Lleve sus datos, resultados de búsquedas, esquemas de codificación, etc, a un lugar tranquilo, y luego [léalos y piense en ellos]{.fosforito}. Dé un largo paseo y despeje su mente. Será entonces cuando probablemente obtenga las mejores ideas.\
-`Friese,  1998`{.autor}
+[UK Data Archive](http://www.data-archive.ac.uk/ "UK Data Archive"){target=_"blank"} -->
 
 ## ¿Qué permite? {#permite}
 
@@ -60,6 +56,14 @@ lateral-menu: 'True'
 "Silver and Lewins (2014) discuss how CAQDAS packages support key analytic activities that cut across qualitative methodologies, specifically the activities of integrating, organizing, exploring, reflecting upon, and interrogating qualitative data." (Bulloch et al 2017:383)
 :::
 
+## Una advertencia
+>Recuerde siempre que un ordenador es sólo una máquina, [no pensará por usted]{.fosforito}, y puede incluso dificultarle progresar con su análisis. No olvide apagar el ordenador de vez en cuando. Lleve sus datos, resultados de búsquedas, esquemas de codificación, etc, a un lugar tranquilo, y luego [léalos y piense en ellos]{.fosforito}. Dé un largo paseo y despeje su mente. Será entonces cuando probablemente obtenga las mejores ideas.\
+`Friese,  1998`{.autor}
+
+::: notes
+Además, debemos tener en cuenta que, aunque quizás cada vez menos, hay quienes consideran que, por sus características, no debería utilizarse software para la realización de análisis cualitativo.
+:::
+
 # Definiciones {.center data-background="imagenes-cuali/Definicion.jpg" data-background-transition=zoom data-state=fondo}
 
 ## La investigación cualitativa {#investigacion-cualitativa data-background="imagenes-cuali/AnalisisCotidiano.png" data-background-transition=zoom data-state=opacidad}
@@ -67,6 +71,9 @@ lateral-menu: 'True'
 >Un enfoque cualitativo es uno en el que hay necesidad de [interpretar los datos]{.fosforito} a través de la identificación y, posiblemente, la [codificación]{.fosforito} de temas, conceptos, procesos, contextos, etc., con el fin de construir [explicaciones]{.fosforito} o teorías o para probar o ampliar una teoría.\
 @lewins_using_2007 [, p. 7]
 
+## ¿Cómo? {#como}
+
+![Análisis "cotidiano"](imagenes-cuali/AnalisisCotidiano.png)
 
 ## Análisis temático {#analisis-tematico data-background="imagenes-cuali/AnalisisCotidiano.png" data-background-transition=zoom data-state=opacidad}
  >El análisis temático es un método para identificar, analizar y reportar patrones (temas) dentro de los datos. Como mínimo [organiza y describe]{.fosforito} en detalle el conjunto de datos. Sin embargo, con frecuencia, va más allá e [interpreta]{.fosforito} diversos aspectos del tema de investigación.\
@@ -117,10 +124,6 @@ En este esquema podemos ver cómo, el proceso de análisis temático implica una
 
 ##
 ![](imagenes-cuali/RedesTematicas-2.png)
-
-## ¿Cómo? {#como}
-
-![Análisis "cotidiano"](imagenes-cuali/AnalisisCotidiano.png)
 
 ## Proceso de análisis {#proceso-analisis}
 
@@ -191,10 +194,10 @@ https://otranscribe.com/ -->
 <!-- https://dictation.io/speech -->
 
 
-## Transcripción y ¿realidad? {#transcripcion-realidad}
+<!-- ## Transcripción y ¿realidad? {#transcripcion-realidad}
 
 >Cualquier persona que transcriba o trabaje con transcripciones debería ser consciente de que [una transcripción nunca podrá representar una situación de entrevista en su totalidad]{.fosforito}. En la comunicación intervienen demasiados elementos y es imposible transcribirlos todos. Incluso una transcripción fonética ignora aspectos no verbales como el olor, configuración de espacio y tiempo, aspectos visuales, expresiones faciales y gestos.\
-@dresing_manual_2015 [p. 22]
+@dresing_manual_2015 [p. 22] -->
 
 
 ## ¿Realidad? {#realidad}
@@ -221,9 +224,9 @@ Shinzō Abe
 
 `https://www.youtube.com/watch?v=Zxxvr0ex8MI`{.figcaption} -->
 
-## Convenciones
+<!-- ## Convenciones
 >En una conversación [lo más significativo es lo que no se dice entre lo que se está diciendo]{.fosforito}, como por ejemplo las pausas y silencios, las entonaciones y los gestos, porque ahí radican los dobles significados, los ánimos y el objetivo mismo de la comunicación.\
-@fernandez_christlieb_espiritu_2004 [p. 46]
+@fernandez_christlieb_espiritu_2004 [p. 46] -->
 
 ## Convenciones "jeffersonianas"
 ![](imagenes-cuali/Transcripcion.jpg)
@@ -277,17 +280,19 @@ Ver: [UK · Data Archive: Create & Manage Data](http://www.data-archive.ac.uk/cr
 
 ![](imagenes-cuali/readers.jpg){.noshadow width=80%}
 
-# Proyecto {.center data-background="imagenes-cuali/escriba.jpg" data-background-transition=zoom data-state=opacidad}
-
+# Atlas.ti 8 {.center data-background="imagenes-atlas-8/Logo.png"}
 
 ##
 
 Descargar (atlproj)
 
-[https://bit.ly/2SN6RjE](https://bit.ly/2SN6RjE){.fosforito .medium target="_blank"}
+Descargar/Importar [https://bit.ly/2SN6RjE](https://bit.ly/2SN6RjE){.fosforito .medium target="_blank"}
 
-![Archivo > Nuevo > Importar paquete](imagenes-atlas-8/ProyectoImportar.png)
+![](imagenes-atlas-8/ProyectoImportar.png)
 
+`Archivo > Nuevo > Importar proyecto`{.fosforito}
+
+# Proyecto {.center data-background="imagenes-cuali/escriba.jpg" data-background-transition=zoom data-state=opacidad}
 
 
 <!-- ## Estrategias trabajo en equipo
@@ -362,12 +367,11 @@ Descargar y descomprimir [https://bit.ly/2tboqvO](https://bit.ly/2tboqvO){.fosfo
 
 ![](imagenes-atlas-8/AdministradorMemos-8-01.png)
 
- >* Crear una memo
- >     * Etiquetarla como "Proceso"
- >     * Describir los pasos dados hasta el momento
- >     * Guardar
- * Crear una memo "Objetivos"
-
+>* Crear un memo "Proceso"
+>     * Describir los pasos dados hasta el momento
+* Crear un memo "Objetivos"
+>     * "Caracterización del discurso de la prensa española sobre la PPR"
+* Crear un memo "Prisión permanente"
 
 # Segmentar y codificar {.center data-background="imagenes-cuali/Coding.jpg" data-background-transition=zoom data-state=opacidad}
 
@@ -459,14 +463,14 @@ Tenemos dos posibles respuestas (no incompatibles entre sí):
 
 <!-- # "Transportar" UH{.center data-background="imagenes/luggage.png"} -->
 
-## Ejercicio: Crear/abrir copia
+## Ejercicio: Guardar {#ejercicio-guardar}
 
 :::::: {.columns}
 ::: {.column width="50%"}
-![](imagenes-atlas-8/Importar-proyecto.png){.border}
+![](imagenes-atlas-8/Archivo-Instantanea.png){.border height=400px}
 :::
 ::: {.column width="50%"}
-![](imagenes-atlas-8/Exportar.png){.border}
+![](imagenes-atlas-8/Archivo-Exportar.png){.border height=400px}
 :::
 :::::
 
