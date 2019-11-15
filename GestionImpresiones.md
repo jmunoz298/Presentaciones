@@ -24,16 +24,15 @@ lateral-menu: 'True'
 . . .
 
 
-#### Autopresentación es cualquier conducta que intenta crear, modificar o mantener una imagen o impresión de nosotros mismos en los demás, que intenta hacer que los demás piensen sobre nosotros de una forma determinada. {.fondoblanco .transparencia}
+#### Autopresentación es cualquier conducta que intenta crear, modificar o mantener una imagen o impresión de nosotros mismos en los demás, que intenta hacer que los demás piensen sobre nosotros de una forma determinada. {.fondoblanco }
 
-#### Organizamos estratégicamente nuestra propia actuación, los escenarios en los que la orquestamos, y los equipamientos que nos apoyan  para crear una impresión de nosotros mismos para presentar a un público. {.fondoblanco .transparencia}
+#### Organizamos estratégicamente nuestra propia actuación, los escenarios en los que la orquestamos, y los equipamientos que nos apoyan  para crear una impresión de nosotros mismos para presentar a un público. {.fondoblanco}
 
-## {data-background="imagenes-gestionimp/Mascaras.jpg" data-background-transition=zoom data-state=fondo}
-![](imagenes-gestionimp/Meetic.jpg)
+<!-- ## {data-background="imagenes-gestionimp/Mascaras.jpg" data-background-transition=zoom data-state=fondo}
+![](imagenes-gestionimp/Meetic.jpg) -->
 
-## {data-background="imagenes-gestionimp/Mascaras.jpg" data-background-transition=zoom data-state=fondo}
-
-![](imagenes-gestionimp/FirstDates.jpg)
+<!-- ## {data-background="imagenes-gestionimp/Mascaras.jpg" data-background-transition=zoom data-state=fondo}
+![](imagenes-gestionimp/FirstDates.jpg) -->
 
 ## Aprendiendo a actuar
 <video width="860" class="stretch" controls>
@@ -46,9 +45,9 @@ lateral-menu: 'True'
 
 . . .
 
-### El frente o la región visible para el público (fachada, imagen) tiene la función de ofrecer esta actuación al público {.fondoblanco .transparencia}
+### El frente o la región visible para el público (fachada, imagen) tiene la función de ofrecer esta actuación al público {.fondoblanco}
 
-### El fondo o la región invisible para el público se utiliza para preparar la actuación de una rutina (rol) {.fondoblanco .transparencia}
+### El fondo o la región invisible para el público se utiliza para preparar la actuación de una rutina (rol) {.fondoblanco}
 
 ## Cibereespacio {data-background="imagenes-gestionimp/SocialMediaFakery.jpg" data-background-transition=zoom data-state=fondo}
 

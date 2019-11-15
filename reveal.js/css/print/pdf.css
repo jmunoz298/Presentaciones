@@ -25,6 +25,7 @@ html {
 
 /* Remove any elements not needed in print. */
 .nestedarrow,
+.reveal .slide-menu-button,
 .reveal .controls,
 .reveal .progress,
 .reveal .playback,

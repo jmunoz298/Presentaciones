@@ -511,7 +511,7 @@ Tenemos dos posibles respuestas (no incompatibles entre sí):
 
 ## Ejercicio: Depurar códigos {#depurar-codigos}
 
-Descargar/Importar [https://bit.ly/2TKfOaX](https://bit.ly/2TKfOaX){.fosforito .medium target="_blank"}
+Descargar/Importar [https://bit.ly/2EHBgbD](https://bit.ly/2EHBgbD){.fosforito .medium target="_blank"}
 
 ![](imagenes-atlas-8/Menu-imprimir.png){.border}
 

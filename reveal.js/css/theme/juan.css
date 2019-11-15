@@ -375,6 +375,7 @@ line-height: 1.5em;
 .ribbon { display: none; }
 .show-github-ribbon .ribbon { display: block; }
 
+
 /** Poder hacer scroll vertical en algunas diapos **/
 .scrollable {
   overflow-y: auto  !important;

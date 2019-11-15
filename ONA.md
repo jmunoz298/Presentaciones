@@ -11,9 +11,11 @@ csl: apa.csl
 lateral-menu: 'True'
 ...
 
+# Introducción {#introduccion .center data-background="imagenes-ONA/Organizational-network.jpg" data-background-transition=zoom data-state=fondo}
+
 ## El Análisis de Redes Sociales {#comunicacion-redes data-background="imagenes-ONA/red-comunicacion.jpg" data-background-transition=zoom data-state=fondo}
 
->La idea de red reside en el hecho de que cada individuo mantiene ligamenes con otros individuos, cada uno de los cuales está a su vez ligado a otros, y así sucesivamente.  La estructura relacional de un grupo (...) consiste en las pautas de relaciones entre los actores.\
+>La idea de red reside en el hecho de que cada individuo mantiene ligámenes con otros individuos, cada uno de los cuales está a su vez ligado a otros, y así sucesivamente.  La estructura relacional de un grupo (...) consiste en las pautas de relaciones entre los actores.\
 @rodriguez_alisis_1995 [11]
 
 ##
@@ -21,49 +23,16 @@ lateral-menu: 'True'
 >La estructura de relaciones entre actores y la ubicación en la red de actores individuales tiene importantes consecuencias conductuales, perceptivas y actitudinales tanto para las unidades individuales como para el sistema en su conjunto.\
 @knoke_network_1982 [13]
 
-## Orígenes: J.L. Moreno
-
-![ @moreno_who_1934 [p, 36]](imagenes-ONA/Moreno-01.png)
-
-::: notes
-¿Con quién quieres sentarte?
-Estructura de la clase de 2º grado.
-Triángulos chicos, círculos chicas.
-:::
-
-## Redes de comunicación
-
-![ @bavelas_communication_1950](imagenes-redes-com/Redes-eficacia.jpg)
-
-## El mundo es un pañuelo
-
-![ @milgram_small_1967](imagenes-ONA/Small-World.png)
-
-## Western Electric
-
-![ @roethlisberger_management_1939 [p. 507]](imagenes-ONA/ManagementAndTheWorkerNetwork.png)
-
-::: notes
-I = Inspector
-W = Wiremen
-S = Soldier
-
-De mayor a menor jerarquía
-:::
-
-
 ## Nodos y relaciones {data-background="imagenes-ONA/red.png" data-background-transition=zoom }
 
 <div id="column1" style="float:left; margin:0; width:35%">
 
 ::: nonincremental
-
 - **Nodos**
-  - Personas
-  - Ordenadores
-  - Empresas
-  - Aeropuertos
-
+- Personas
+- Ordenadores
+- Empresas
+- Aeropuertos
 :::
 
 </div>
@@ -71,14 +40,12 @@ De mayor a menor jerarquía
 <div id="column2" style="float:left; margin:0; width: 35%">
 
 ::: nonincremental
-
 - **Relaciones**
-  - Amistad
-  - Parentesco
-  - Colaboración
-  - Reconocimiento
-  - Intercambio
-
+- Amistad
+- Parentesco
+- Colaboración
+- Reconocimiento
+- Intercambio
 :::
 
 </div>
@@ -97,6 +64,40 @@ De mayor a menor jerarquía
 ** Como entidades corporativas: compra, vende, alquila subcontrata, posee acciones, filial de, alianza con, acuerdo comercial con...
 ** A través de sus miembros: amistad personal, consejo de administración...
 :::
+
+## Orígenes: J.L. Moreno
+
+![ @moreno_who_1934 [p, 36]](imagenes-ONA/Moreno-01.png)
+
+::: notes
+¿Con quién quieres sentarte?
+Estructura de la clase de 2º grado.
+Triángulos chicos, círculos chicas.
+:::
+
+## Redes de comunicación
+
+>¿Podría ocurrir que entre varios patrones de comunicación uno permitiera mejor ejecución que otro? ¿Qué efectos tendrá el patrón, como tal, sobre el surgimiento del liderazgo, el desarrollo de la organización y el grado de resistencia a la ruptura del grupo?\
+@bavelas_communication_1950 [726]
+
+![](imagenes-ONA/Redes-Bavelas.jpg){.noshadow}
+
+## El mundo es un pañuelo
+
+![ @milgram_small_1967](imagenes-ONA/Small-World.png)
+
+## Western Electric
+
+![ @roethlisberger_management_1939 [p. 507]](imagenes-ONA/ManagementAndTheWorkerNetwork.png)
+
+::: notes
+I = Inspector
+W = Wiremen
+S = Soldier
+
+De mayor a menor jerarquía
+:::
+
 
 ##  {#relaciones-romanticas data-background="imagenes-ONA/RomanticRelationships.jpg" data-transition=fade}
 
@@ -119,7 +120,7 @@ https://www.flickr.com/photos/speedoflife/8273922515/
 
 ## ¿Qué es?
 
->ONA consiste en el uso del análisis de redes sociales (SNA) para comprender e intervenir en los fenómenos organizativos. Se diferencia de las otras herramientas existentes en que se centra y analiza las interacciones entre los actores, los recursos que transitan dentro de estas interacciones y la estructura social formada por estas interacciones".\
+>ONA consiste en el uso del análisis de redes sociales (SNA) para comprender e intervenir en los fenómenos organizativos. Se diferencia de las otras herramientas existentes en que se centra en y analiza las interacciones entre los actores, los recursos que transitan dentro de estas interacciones y la estructura social formada por estas interacciones".\
 @ribeiro_social_2017 [243-244]
 
 
@@ -132,6 +133,36 @@ https://www.flickr.com/photos/speedoflife/8273922515/
 
 ![ @newman_retain_2017](imagenes-ONA/CapitalSocial.png)
 
+## Capital social y redes
+
+::: nonincremental
+- Red de trabajo.
+- Red de Innovación.
+- Red Social.
+- Red de Aprendizaje.
+- Red de expertos.
+- Red Estratégica.
+:::
+
+#### @ebelle-ebanda_organizational_2018 [14]{.autor}
+
+# Roles {.center}
+
+## Principales roles
+
+![ @mcgregor_organizational_nodate](imagenes-ONA/roles-deloitte.png)
+
+## La fuerza de los lazos débiles
+
+![](imagenes-ONA/Lazos-Debiles.png)
+
+<!-- <div id="column1" style="float:left; width: 100%">
+
+>Los lazos débiles proporcionan acceso a información y recursos que están más allá de los disponibles en los propios círculos sociales; pero los lazos fuertes tienen más motivación para proporcionar ayuda y normalmente están disponibles con más facilidad.\
+@granovetter_fuerza_2003 [205]
+</div> -->
+
+
 ## Centralidad {.medio}
 
 Grado (Degree)
@@ -143,20 +174,20 @@ Intermediación (Betwenness)
 Vector propio (Eigenvector)
 : Grado en que un nodo está conectado con otros nodos con alto grado (bien conectados).
 
+
 ## Centralidad
 
-<div style="position:relative; width:900px; height:530px; margin:0 auto;">
-<img  src="imagenes-ONA/kite-1.png" style="position:absolute;top:0;left:0;" />
-<img class="fragment current-visible" data-fragment-index="1"  src="imagenes-ONA/kite-2.png" style="position:absolute;top:0;left:0;" />
-<img class="fragment current-visible" data-fragment-index="2" src="imagenes-ONA/kite-3.png" style="position:absolute;top:0;left:0;" />
-<img class="fragment current-visible" data-fragment-index="3" src="imagenes-ONA/kite-4.png" style="position:absolute;top:0;left:0;" />
+<div style="position:relative; width:900px; height:450px; margin:0 auto;">
+<img  src="imagenes-ONA/kite-1.png" style="position:absolute;top:0;left:0; box-shadow:none; border:0" />
+<img class="fragment current-visible" data-fragment-index="1"  src="imagenes-ONA/kite-2.png"  style="position:absolute;top:0;left:0;box-shadow:none; border:0" />
+<img class="fragment current-visible" data-fragment-index="2" src="imagenes-ONA/kite-3.png" style="position:absolute;top:0;left:0;box-shadow:none; border:0" />
+<img class="fragment current-visible" data-fragment-index="3" src="imagenes-ONA/kite-4.png" style="position:absolute;top:0;left:0;box-shadow:none; border:0" />
 </div>
 
-#### @krackhardt_assessing_1990 [351]{.peque}
 
-## Roles
 
-![ @mcgregor_organizational_nodate](imagenes-ONA/roles-deloitte.png)
+#### @krackhardt_assessing_1990 [351]{.peque .center}
+
 
 ##
 ![ @cross_knowing_2001](imagenes-ONA/Cross-01.png)
@@ -165,19 +196,11 @@ Vector propio (Eigenvector)
 
 ![](imagenes-ONA/Cross-02.png)
 
-## Escuelas secundaria holandesas
+## Escuelas secundaria holandesas {.scrollable}
 
-![ @zwijze-koning_network_2015](imagenes-ONA/Zwijze-Koning.png)
+<iframe  height="600" width="1400" data-src="http://presentaciones.psicologiasocial.eu/imagenes-ONA/NetworkAnalysisAsACommunication.jpg"></iframe>
 
-## La fuerza de los lazos débiles
-
-![](imagenes-ONA/Lazos-Debiles.png)
-
-<!-- <div id="column1" style="float:left; width: 100%">
-
->Los lazos débiles proporcionan acceso a información y recursos que están más allá de los disponibles en los propios círculos sociales; pero los lazos fuertes tienen más motivación para proporcionar ayuda y normalmente están disponibles con más facilidad.\
-@granovetter_fuerza_2003 [205]
-</div> -->
+<!-- ![ @zwijze-koning_network_2015](imagenes-ONA/Zwijze-Koning.png) -->
 
 
 ## Desvinculación
@@ -234,6 +257,12 @@ Vector propio (Eigenvector)
 
 ![](imagenes-ONA/Ramco-2018-06.png) -->
 
+# Metodología {.center}
+
+
+## Cuestionarios
+
+[https://www.onasurveys.com/](https://www.onasurveys.com/){.medium}
 
 ## Ética {#etica}
 
