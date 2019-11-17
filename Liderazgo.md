@@ -69,15 +69,15 @@ lateral-menu: 'True'
 
 ![](imagenes-liderazgo/MotinBounty.jpg){width=600}
 
+<!-- ## Rejilla de liderazgo (Blake y Mouton)
+
+![](imagenes-liderazgo/Rejilla-Liderazgo-explicacion.png){.noshadow width=550} -->
+
 ## Rejilla de liderazgo (Blake y Mouton)
 
-![](imagenes-liderazgo/Rejilla-Liderazgo-explicacion.png){.noshadow width=550}
-
-## Rejilla de liderazgo (Blake y Mouton) {.noshadow .noborder}
-
 <div style="position:relative; width:900px; height:530px; top: 10px; left:150px; margin:0 auto;">
-<img  src="imagenes-liderazgo/Rejilla-Liderazgo-explicacion.png" style="position:absolute;top:0;left:0" />
-<img class="fragment" data-fragment-index="0"  src="imagenes-liderazgo/Rejilla-Liderazgo-explicacion-g.png" style="position:absolute;top:0px;left:0px" />
+<img  src="imagenes-liderazgo/Rejilla-Liderazgo-explicacion.png" style="position:absolute;top:0;left:0; box-shadow: none" />
+<img class="fragment" data-fragment-index="0"  src="imagenes-liderazgo/Rejilla-Liderazgo-explicacion-g.png" style="position:absolute;top:0px;left:0px;box-shadow: none" />
 <img class="fragment current-visible" data-fragment-index="0"  src="imagenes-liderazgo/Rejilla-Liderazgo-5-5.png" style="position:absolute;top:95px;left:100px; box-shadow:none; border:0" />
 <img class="fragment current-visible" data-fragment-index="2"  src="imagenes-liderazgo/Rejilla-Liderazgo-1-1.png" style="position:absolute;top:95px;left:100px; box-shadow:none; border:0" />
 <img class="fragment current-visible" data-fragment-index="3" src="imagenes-liderazgo/Rejilla-Liderazgo-9-1.png" style="position:absolute;top:95px;left:100px; box-shadow:none; border:0" />
