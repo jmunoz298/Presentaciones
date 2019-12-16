@@ -62,7 +62,7 @@ Leavitt, H.J. (1951). Some effects of certain communication patterns on group pe
 ![Saturación](imagenes-redes-com/saturacion-2.jpg)
 </div>
 
-#### @leavitt_effects_1951{.peque}
+#### @Leavitteffectscertaincommunication1951{.peque}
 
 
 <!-- ## Conceptos explicativos: Saturación
@@ -92,7 +92,7 @@ Leavitt, H.J. (1951). Some effects of certain communication patterns on group pe
 @wasserman_social_1994 [3]-->
 
 >La idea de red reside en el hecho de que cada individuo mantiene ligamenes con otros individuos, cada uno de los cuales está a su vez ligado a otros, y así sucesivamente.  La estructura relacional de un grupo (...) consiste en las pautas de relaciones entre los actores.\
-@rodriguez_alisis_1995 [11]
+@rodriguez-Analisisestructural-1995 [11]
 
 ## Nodos y relaciones {data-background="imagenes-redes-com/red.png" data-background-transition=zoom }
 
@@ -145,7 +145,7 @@ De mayor a menor jerarquía
 #### @bearman_chains_2002 [58]{.peque} -->
 
 ## Ejemplo: Relaciones románticas {data-transition=fade}
-![ @bearman_chains_2002 [58]](imagenes-redes-com/RomanticRelationships-2.png){width=80%}
+![ @bearman-ChainsAffection-2004 [58]](imagenes-redes-com/RomanticRelationships-2.png){width=80%}
 
 ##  {data-background="imagenes-redes-com/airports-world-network.png" data-background-transition=zoom}
 

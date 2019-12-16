@@ -244,6 +244,6 @@ Desventajas
 
 ##### Durante el alunizaje gran parte del equipo de la nave quedó dañado y, puesto que la supervivencia de la tripulación depende de que podáis llegar a la nave nodriza, debéis escoger los artículos más importantes para llevar.
 
-##### La tarea consiste en ordenar todos estos artículos de acuerdo con su importancia y utilidad para ayudaros a llegar al punto de encuentro con la nave nodriza. Hay que poner un 1 para el artículo más importante, un 2 para el que sigue en importancia, etc . Así hasta llegar a ordenar todos los artículos.
+##### Tu tarea consiste en ordenar los 15 artículos en función de su importancia y utilidad para ayudaros a llegar al punto de encuentro con la nave nodriza. Da una puntuación de 1 al más importante, una puntuación de 2 al segundo más importante, y así sucesivamente hasta el número 15, el de menor importancia.
 
 ## {#luna data-background="imagenes-decisiones/astronauta.jpg" data-background-transition=zoom, data-state=fondo .transparencia}
