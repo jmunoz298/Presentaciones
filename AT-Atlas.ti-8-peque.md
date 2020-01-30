@@ -205,7 +205,7 @@ Si la estrategia es inductiva, los códigos surgirán de la lectura de los datos
 * Modificar tamaño de citas.
 * Explorar citas con el [Administrador de citas]{.resaltar} y con el [Navegador de citas]{.resaltar}.
 
-## Comentarios de códigos {#comentarios-codigos }
+## Comentarios de códigos {#comentarios-codigos .peque}
 
 | Código              | MARGPROB                                                                                                                                                                                                                                                        |
 |:--------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
