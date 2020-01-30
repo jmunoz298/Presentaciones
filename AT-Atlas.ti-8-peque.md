@@ -474,7 +474,7 @@ Esto podría provocar que se pierda el significado si no se tiene en cuenta la p
 * Crear otros tipos de relaciones.
 * Definir un nuevo tipo de relación.
 
-Descargar y descomprimir [https://bit.ly/2BvAw76](https://bit.ly/2BvAw76){.fosforito .medium target="_blank"}
+Descargar y renombrar [https://bit.ly/2BvAw76](https://bit.ly/2BvAw76){.fosforito .medium target="_blank"}
 
 # Vistas de red{.center data-background="imagenes-cuali/neurons.jpg" data-background-transition=zoom data-state=opacidad}
 
@@ -517,7 +517,7 @@ Todas las citas codificadas como C1 **Y** C2 **O** como C1 y C3
 :::
 :::::
 
-Descargar y descomprimir [https://bit.ly/2SD7368](https://bit.ly/2SD7368){.fosforito target="_blank"}
+Descargar y renombrar [https://bit.ly/2SD7368](https://bit.ly/2SD7368){.fosforito target="_blank"}
 
 ## Construcción de una consulta {#construccion-booleana-2 transition=none}
 
