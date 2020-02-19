@@ -17,7 +17,7 @@ lateral-menu: 'True'
 ## Colectivos
 
 >Una agrupación o grupo de individuos relativamente grande que muestran similitudes en acciones y perspectivas (actitudes, opiniones).\
-@forsyth_group_2010 [p, 503]
+@forsyth-Groupdynamics-2010 [p, 503]
 
 ::: notes
 - No necesita estar en un mismo espacio, sino que lo que lo caracteriza es en responder a algo de una forma similar.
@@ -27,7 +27,7 @@ lateral-menu: 'True'
 
 ## Comportamiento colectivo
 > Las acciones de un grupo de personas que responden de manera similar a un evento o situación, incluyendo personas que ocupan el mismo lugar (una multitud), así como fenómenos de masas en los que los individuos están dispersos en una amplia área (Movimientos colectivos).\
-@forsyth_group_2010 [, p. 502]
+@forsyth-Groupdynamics-2010 [, p. 502]
 
 ## Elementos de la definición
 
@@ -53,7 +53,7 @@ Multitudes expresivas
 Multitudes activas
 : realizan alguna acción hacia un objetivo. Se concentra intensamente en algún objetivo y se involucra en un comportamiento activo para lograrlo.
 
-#### @blumer_collective_1939 {.autor}
+#### @blumer-CollectiveBehavior-1939 {.autor}
 
 ## Clasificación (Forsyth, 2010) {#clasificacion-forsyth}
 
@@ -92,6 +92,9 @@ Multitudes activas
 ## Concepto paraguas {data-background="imagenes-APCS-1/Umbrella.jpg" data-background-transition=zoom data-state=opacidad}
 
 #### Fenómenos que caen fuera de la estructura social u orden establecido {.fondoblanco}
+
+>Conviene recordar que en inglés la expresión _collective behaviour_ designa esos _residuos_ que una sociología esencialmente preocupada por el orden social no llega a asimilar: comportamiento de masas, modas, agitaciones o desórdenes sociales, fenómenos de contagio, motines, histeria de masas, etc.\
+@dupuy-Panico-1999 [32]
 
 ::: notes
 Generalmente, se las ha caracterizado como aquellas conductas sociales que "caen fuera de lo habitual", en las que no rigen las convenciones sociales habituales y en las que las personas, de una forma colectiva, se alejan o incluso subvierten las estructuras institucionales#. (Turner, 2000, p. 348)
@@ -227,14 +230,14 @@ Y, sobre todo, del 18 de marzo al 28 de mayo de 1871, nos encontramos con la Com
 
 ##
 > Los senadores son todos hombres de bien, el Senado romano es una mala bestia.\
-[Citado por @moscovici_era_1985, p. 26]
+Citado por @moscovici-Eramultitudes-1985 [, p. 26]
 
 . . .
 
 Es decir,
 
 > considerado aisladamente, cada uno de nosotros es en definitiva razonable; juntos, en una multitud, con ocasión de una reunión política e incluso en el seno de un grupo de amigos, estamos todos dispuestos a cometer las mayores locuras.\
-[@moscovici_era_1985, p. 26]
+@moscovici-Eramultitudes-1985 [, p. 26]
 
 
 # Referencias {.center}

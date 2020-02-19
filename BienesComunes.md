@@ -10,13 +10,13 @@ csl: apa.csl
 lateral-menu: 'True'
 ...
 
-##Índice
+## Índice
 
 * La tragedia de los comunes
 * Los bienes comunes
 * Bienes comunes culturales
 
-#La tragedia de los comunes {}
+# La tragedia de los comunes {}
 
 ##
 
@@ -29,26 +29,26 @@ La Tragedia de los Comunes es el agotamiento  de un recurso compartido por las p
 
 ![](imagenes-bienes-comunes/TragedyOfTheCommons.png)
 
-##Egoísmo
+## Egoísmo
 
->El sistema propuesto ofrece todavía otro inconveniente, que es el poco interés que se tiene por la propiedad común, porque cada uno piensa en sus intereses privados y se cuida poco de los públicos, sino es en cuanto le toca personalmente, pues en todos los demás descansa de buen grado en los cuidados que otros se toman por ellos, sucediendo lo que en una casa servida por muchos criados, que unos por otros resulta mal hecho el servicio.\
+>El sistema propuesto ofrece todavía otro inconveniente, que es el poco interés que se tiene por la propiedad común, porque cada uno piensa en sus intereses privados y se cuida poco de los públicos, si no es en cuanto le toca personalmente, pues en todos los demás descansa de buen grado en los cuidados que otros se toman por ellos, sucediendo lo que en una casa servida por muchos criados, que unos por otros resulta mal hecho el servicio.\
 `Aristóteles, La Política, libro 1, capítulo 1`{.autor}
 
-##Egoísmo
+## Egoísmo
 
 >Las personas dedican una mínima fracción de su tiempo para la consideración de cualquier objeto público, la mayor parte a la persecución de sus propios objetivos. Mientras tanto, fantasean que su negligencia no les causará ningún daño, que es asunto de otros el cuidar de esto o aquello para él; y así, siendo compartida esta misma idea por todos por separado, la causa común decae imperceptiblemente.\
 `Tucidides, Historia de las guerras del Peloponeso`{.autor}
 
-##Dilemas sociales
+## Dilemas sociales
 
 >Definimos los dilemas sociales como situaciones en las que una forma no cooperativa de actuación es (en ocasiones) tentadora para cada individuo porque produce mejores resultados para ella misma (a menudo a corto plazo), y si todos siguen esta forma no cooperativa de actuación, todos obtendrán (a menudo a largo plazo) peores resultados que si hubieran cooperado.\
 `Lange, Balliet, Parks, & Vugt, 2014, p. 8`{.autor}
 
-##El dilema del prisionero
+## El dilema del prisionero
 
-![Dilema del prisionero](imagenes-bienes-comunes/DilemaPrisionero.jpg)
+![Dilema del prisionero](imagenes-prisionero/DilemaDelPrisionero.png)
 
-##¿Egoísmo?
+## ¿Egoísmo?
 
 <div id="column1" style="float:left; margin:0; width:20%;">
 
@@ -64,9 +64,9 @@ La Tragedia de los Comunes es el agotamiento  de un recurso compartido por las p
 
 </div>
 
-#Los bienes comunes {}
+# Los bienes comunes {}
 
-##Características de los recursos
+## Características de los recursos
 
 |              |    Excluible    |                No Excluible                 |
 |:-------------|:---------------:|:-------------------------------------------:|
@@ -75,7 +75,7 @@ La Tragedia de los Comunes es el agotamiento  de un recurso compartido por las p
 
 ![Elinor Ostrom](imagenes-bienes-comunes/Ostrom.jpg)
 
-#Bienes comunes culturales {}
+# Bienes comunes culturales {}
 
 ##
 
