@@ -14,7 +14,7 @@ lateral-menu: 'True'
 
 # Elementos de definición {.center data-background="imagenes-APCS-1/Concept.png" data-background-transition=zoom data-state=opacidad}
 
-## Colectivos
+<!-- ## Colectivos
 
 >Una agrupación o grupo de individuos relativamente grande que muestran similitudes en acciones y perspectivas (actitudes, opiniones).\
 @forsyth-Groupdynamics-2010 [p, 503]
@@ -23,7 +23,8 @@ lateral-menu: 'True'
 - No necesita estar en un mismo espacio, sino que lo que lo caracteriza es en responder a algo de una forma similar.
 - En cuanto a la uniformidad, aunque podemos apreciar cierta similitud en la conducta, eso no significa que no existan también diferencias entre los miembros.
 - También se suele utilizar como elemento de definición la falta de estructura, lo cual no es sinónimo de caos o desorden, sino que son agrupaciones sin una organización formal.
-:::
+::: -->
+
 
 ## Comportamiento colectivo
 > Las acciones de un grupo de personas que responden de manera similar a un evento o situación, incluyendo personas que ocupan el mismo lugar (una multitud), así como fenómenos de masas en los que los individuos están dispersos en una amplia área (Movimientos colectivos).\
@@ -149,11 +150,12 @@ Es decir, podemos plantear a las "conductas colectivas" como un "concepto paragu
 
 -->
 
-<!--
+
 ## Movimientos sociales
 >Una **colectividad** que actúa con cierta **continuidad** para **promover un cambio** en la sociedad o grupo de la que forma parte.\
-[Turner & Killian, 1987 en @miller_introduction_2013, p. 469]
--->
+[Turner & Killian, 1987 en @miller-IntroductionCollective-2013, p. 469]
+
+(el cambio se realiza "desde fuera" de las instituciones)
 
 
 # Los inicios { .center}
