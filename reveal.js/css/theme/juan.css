@@ -507,3 +507,7 @@ padding: 15px;
 #section h1{
   background: none;
 }
+
+.reveal .izquierda{
+  text-align: left;
+}
