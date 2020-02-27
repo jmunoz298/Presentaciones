@@ -42,12 +42,14 @@ Lo que se produce en la masa es un fenómeno de interestimulación recíproca, e
 
 . . .
 
-<video width="800"  class="stretch" controls>
+<!-- <video width="800"  class="stretch" controls>
 <source src="imagenes-APCS-2/StrangeFruit-BillieHoliday-sub.mp4">
-</video>
+</video> -->
+<!-- ###### [Billie Holiday - Strange fruit](https://www.youtube.com/watch?v=-_R8xxeMFEU){.fondoblanco target="_blank"} -->
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-_R8xxeMFEU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-###### [http://bit.ly/2FTXcSc](http://bit.ly/2FTXcSc){.fondoblanco}
+#### Billie Holiday - Strange fruit
 
 <!--## Linchamientos
 
@@ -217,11 +219,12 @@ Operación de **control social** que previenen la ocurrencia del episodio o, si 
 
 ## Un ejemplo: Universidad de Kent
 
-<!--<iframe width="560" height="315" src="https://www.youtube.com/embed/TRE9vMBBe10" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
- <video width="800"  class="stretch" controls>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Pwro3vCUdU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+ <!-- <video width="800"  class="stretch" controls>
 <source src="imagenes-APCS-2/KentState-sub.mp4">
-</video>
+</video> -->
 
 @lewis-StudyKent-1972 y @rudwick-KentState-1972
 
