@@ -426,6 +426,27 @@ Antonio Vallejo-Nágera (1889-1960), jefe de los Servicios Psiquiátricos del Ej
 :::
 
 
+<!-- ## Maupassant: _Sur l'eau_ {.scrollable .peque}
+
+El mismo fenómeno sorprendente se produce cada vez que un gran número de hombres se reúne. Todas esas personas, unas al lado de otras, distintas, con distintas mentalidades, inteligencia, pasiones, educación, creencias, prejuicios, forman de pronto, por el simple hecho de reunirse, un ser especial, dotado un alma propia, de una manera de pensar nueva, común, que es un resultado irreductible de la media de las opiniones individuales.
+
+Es una masa, y esta masa es alguien, un vasto individuo colectivo, tan distinto de otra masa como dos hombres entre sí.
+
+Un dicho popular afirma que "la masa no razona". ¿Pero por qué no razona la masa mientras que cada individuo de la masa razona? ¿Por qué una masa hará espontáneamente lo que ninguna de las individualidades de dicha masa habría hecho? ¿Por qué una masa tiene impulsos irresistibles, deseos feroces, reacciones estúpidas que nada puede detener y, llevada por esos impulsos irreflexivos, es capaz de acometer actos que ninguno de los individuos que la componen realizaría?
+
+Un desconocido lanza un grito y de pronto una especie de frenesí se apodera de todos, y todos, con un mismo impulso al que nadie intenta resistirse, llevados por un mismo pensamiento que les resulta inmediatamente común, a pesar de los actos, las opiniones, las creencias, las distintas costumbres, se avalanzarán sobre un hombre, lo masacrarán, lo ahogarán sin razón, casi sin pretexto, mientras que cada cual, si hubiera estado solo, se habría apresurado aun arriesgando su vida, para salvar a aquél al que mata.
+
+Y por la noche, cada cual de regreso a casa, se preguntará qué rabia o que locura se apoderó de él, lo expulsó bruscamente de su naturaleza y de su carácter, cómo pudo ceder a ese impulso feroz.
+
+Porque había dejado de ser un hombre para ser parte de una masa. Su voluntad individual se mezcló con la voluntad común como una gota de agua se mezcla con un río.
+
+Su personalidad había desaparecido, convirtiéndose en una ínfima partícula de una enorme y extraña personalidad, la de la masa. El pánico que se apodera de un ejército y esos huracanes de opiniones que arrastran a todo un pueblo, y la locura de las danzas macabras, ¿no son acaso otros tantos ejemplos del mismo fenómeno?
+
+En resumen, no es más sorprendente ver a los individuos reunidos formar un todo que ver a las moléculas reunidas formar un cuerpo.
+
+Maupassant, G. (1888). _Sur l'eau_. París: P. Ollendorff. Obtenido de http://archive.org/details/surleau00maupuoft (pp. 149-152) -->
+
+
 # Referencias {.center}
 
 
