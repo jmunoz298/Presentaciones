@@ -37,8 +37,6 @@ Acción Pública y cambio social
 - Primera parte (febrero 2020) ([HTML](APCS-1.html) | [PDF](APCS-1.pdf))
 - Segunda parte (febrero 2020) ([HTML](APCS-2.html) | [PDF](APCS-2.pdf))
 - Tercera parte (marzo 2020) ([HTML](APCS-3.html) | [PDF](APCS-3.pdf))
-- Cuarta parte (marzo 2019) ([HTML](APCS-4.html) | [PDF](APCS-4.pdf))
-- Quinta parte (marzo 2019) ([HTML](APCS-5.html) | [PDF](APCS-5.pdf))
 
 Análisis temático / Atlas-ti
 -----------------
