@@ -193,9 +193,11 @@ Reicher señala que una de las limitaciones de las teorías clásicas es que no 
 
 ## Los disturbios de St. Pauls {data-background="imagenes-APCS-4/SaintPauls-back.jpg" data-background-transition=fade data-state=fondo}
 
-<video   class="stretch" controls data-autoplay>
+<iframe width="499" height="384" src="https://www.youtube.com/embed/Wdyo16VMhIQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!-- <video   class="stretch" controls data-autoplay>
   <source src="imagenes-APCS-4/St_Pauls_Uprising_Bristol_1980.mp4">
-</video>
+</video> -->
 
 [https://www.youtube.com/watch?v=Wdyo16VMhIQ](https://www.youtube.com/watch?v=Wdyo16VMhIQ){.peque .fondoblanco target="_blank"}
 
@@ -292,9 +294,11 @@ El Modelo Elaborado de la Identidad Social se formula para tener en cuenta el co
 
 :::::: {.columns}
 ::: {.column width="70%"}
- <video data-autoplay width="450"  class="stretch" controls>
+<iframe width="450" height="275" src="https://www.youtube.com/embed/S1hOoM_93Bo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+ <!-- <video data-autoplay width="450"  class="stretch" controls>
    <source src="imagenes-APCS-4/Westminster-Student-Demonstration-1988.mkv">
- </video>
+ </video> -->
  [https://www.youtube.com/watch?v=S1hOoM_93Bo](https://www.youtube.com/watch?v=S1hOoM_93Bo){.peque .fondoblanco target="_blank"}
 :::
 ::: {.column width="30%"}
@@ -383,9 +387,11 @@ La "creación de identidades" se relaciona con datos que sugieren que las autori
 
 ## Port Said (1-2-2012){data-background="imagenes-APCS-4/PortSaid.jpg"}
 
-<video  data-autoplay class="stretch" controls>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1mUd9vW4NnU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!-- <video  data-autoplay class="stretch" controls>
 <source src="imagenes-APCS-4/EgyptPortSaid.mp4">
-</video>
+</video> -->
 
 [https://www.youtube.com/watch?v=1mUd9vW4NnU](https://www.youtube.com/watch?v=1mUd9vW4NnU){.peque .fondoblanco target="_blank"}
 
