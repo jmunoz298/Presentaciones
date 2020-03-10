@@ -4,14 +4,14 @@ author:
 - name: Juan Muñoz
   affiliation: Universitat Autònoma de Barcelona
 tags: [Conductas colectivas]
-tema: "ST1"
+tema: "¿Qué son las organizaciones?: Estructura y crecimiento"
 url: "http:/juan.psicologiasocial.eu"
 bibliography: diapos.bib
 csl: apa.csl
 lateral-menu: 'True'
 ...
 
-## Las organizaciones existen para
+<!-- ## Las organizaciones existen para
 
 ::: nonincremental
 - Aunar los recursos para lograr los objetivos y resultados deseados
@@ -23,8 +23,7 @@ lateral-menu: 'True'
 - Dar cabida a los desafíos actuales de la diversidad, la ética, y la motivación y la coordinación de los empleados
 :::
 
-
-@daft-Organizationtheory-2010[, p. 14]
+@daft-Organizationtheory-2010[, p. 14] -->
 
 ## Descripción
 
@@ -56,21 +55,28 @@ Personal de apoyo: no directamente vinculados con la actividad principal.
 Ideología: fuerza motora para la cooperación en la organización.
 :::
 
+## Mecanismos de coordinación
+
+![ @mintzberg-Mintzbergdireccion-1991[17]](imagenes-organizaciones/MecanismosCoordinacion.png)
+
 ## Tipos de organizaciones
 
 ![Adaptado de @mintzberg-Structurefives-1993](imagenes-organizaciones/TiposOrganizaciones.png)
 
 ## Configuraciones organizacionales {#configuraciones .peque}
 
-|                      | CONFIGURACIÓN                     | MECANISMO DE COORDINACIÓN               | PARTE CLAVE DE LA ORGANIZACIÓN | TIPO DE DESCENTRALIZACIÓN              |
-|-------------------------|-----------------------------------|-----------------------------------------|--------------------------------|----------------------------------------|
-| **Estructura simple**       | Organización empresarial          | Supervisión directa                     | Ápice estratégico              | Centralización horizontal y vertical  |
-| **Burocracia maquinal**     | Organización máquina -industrial- | Estandarización de procesos de trabajo | Tecnoestructura                | Descentralización horizontal limitada |
-| **Burocracia profesional** | Organización profesional          | Estandarización de habilidades           | Núcleo de operaciones          | Descentralización                      |
-| **Forma divisionalizada**  | Organización diversificada        | Estandarización de producción           | Linea intermedia                | Descentralización vertical limitada    |
-| **Adhocracia**              | Organización innovadora           | Adaptación mutua                        | Personal de apoyo              | Descentralización selectiva            |
-| **Misionera**               | Organización misionera            | Estandarización de normas               | Ideología                      | Descentralización                     |
-|                         | Organización política             | Ninguna                                 | Ninguna                        | Varia                                  |
+|                            | CONFIGURACIÓN                     | MECANISMO DE COORDINACIÓN              | PARTE CLAVE DE LA ORGANIZACIÓN | TIPO DE DESCENTRALIZACIÓN |
+|:---------------------------|:----------------------------------|:---------------------------------------|:-------------------------------|:-|
+| **Estructura simple**      | Organización empresarial          | Supervisión directa                    | Ápice estratégico              | Centralización horizontal y vertical |
+| **Burocracia maquinal**    | Organización máquina -industrial- | Estandarización de procesos de trabajo | Tecnoestructura                | Descentralización horizontal limitada |
+| **Burocracia profesional** | Organización profesional          | Estandarización de habilidades         | Núcleo de operaciones          | Descentralización |
+| **Forma divisionalizada**  | Organización diversificada        | Estandarización de producción          | Linea intermedia               | Descentralización vertical limitada |
+| **Adhocracia**             | Organización innovadora           | Adaptación mutua                       | Personal de apoyo              | Descentralización selectiva |
+| **Misionera**              | Organización misionera            | Estandarización de normas              | Ideología                      | Descentralización |
+
+
+<!-- |                            | Organización política             | Ninguna                                | Ninguna                        | Varia                                 | -->
+
 
 # La curva de Greiner
 
