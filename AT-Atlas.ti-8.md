@@ -416,9 +416,9 @@ Si la estrategia es inductiva, los códigos surgirán de la lectura de los datos
 
 ## Literatura definicional
 
-| Origen            | El gato ha bebido la leche                                                                                                                                                                                                                                                                                                               |
-|:------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1ª Transformación | El mamífero carnívoro digitígrado doméstico<br>ha tragado un líquido blanco, de sabor dulce producido<br>por las hembras de los mamíferos.                                                                                                                                                                                               |
+| Origen            | El gato ha bebido la leche                               |
+|:------------------|:---------------------------------------------------------|
+| 1ª Transformación | El mamífero carnívoro digitígrado doméstico<br>ha tragado un líquido blanco, de sabor dulce producido<br>por las hembras de los mamíferos. |
 | 2ª Transformación | Quien tiene tetas, come carne, camina sobre<br>la extremidad de sus dedos y pertenece a la casa<br>ha hecho descender por el gaznate al estómago<br>un estado de la materia sin forma propia,<br>del color de la leche, de impresión<br>agradable al órgano del gusto y procurado por<br>los animales de sexo femenino que tienen tetas. |
 
 `Raymond Queneau`{.autor}
@@ -441,13 +441,13 @@ Tenemos dos posibles respuestas (no incompatibles entre sí):
 
 ## Comentarios de códigos {#comentarios-codigos .medio}
 
-| Código              | MARGPROB                                                                                                                                                                                                                                                        |
-|:--------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Definición breve    | Problemas propios de comunidades marginales                                                                                                                                                                                                                     |
-| Definición completa | Situaciones sociales que son vividas exclusivamente por aquellas personas que llevan un estilo de vida marginal, con carencia fundamentalmente de bienes y servicios que sí están presentes en personas con nivel socioeconómico medio.                         |
+| Código              | MARGPROB                                               |
+|:--------------------|:-------------------------------------------------------|
+| Definición breve    | Problemas propios de comunidades marginales            |
+| Definición completa | Situaciones sociales que son vividas exclusivamente por aquellas personas que llevan un estilo de vida marginal, con carencia fundamentalmente de bienes y servicios que sí están presentes en personas con nivel socioeconómico medio. |
 | Cuándo se usa       | Cuando las personas señalan alguna dificultad que denote un problema social instrumental, como falta de alimento, abrigo, techo, salud, servicios sanitarios. Debe tener carácter grave o impedir el desarrollo adecuado de su vida familiar, social o laboral. |
-| Cuándo no se usa    | No se aplica a problemas propios de una conducta condicionada por cultura marginal, como violencia doméstica, alcoholismo, abandono de hogar, delincuencia, prostitución                                                                                        |
-| Ejemplo             | “Como aquí no hay agua ni alcantarillado, la suciedad que hay aquí en las calles es terrible, ahí se puede ver... ¿se fija?, los niños se enferman a cada rato.”                                                                                                |
+| Cuándo no se usa    | No se aplica a problemas propios de una conducta condicionada por cultura marginal, como violencia doméstica, alcoholismo, abandono de hogar, delincuencia, prostitución |
+| Ejemplo             | “Como aquí no hay agua ni alcantarillado, la suciedad que hay aquí en las calles es terrible, ahí se puede ver... ¿se fija?, los niños se enferman a cada rato.” |
 
 ###### @macqueen_codebook_1998{.autor}
 
