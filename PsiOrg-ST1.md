@@ -11,6 +11,11 @@ csl: apa.csl
 lateral-menu: 'True'
 ...
 
+## Definición
+
+> Las organizaciones son (1) entidades sociales que (2) están orientadas a objetivos, (3) están diseñadas como sistemas de actividad deliberadamente estructurados y coordinados, y (4) están vinculadas al entorno externo.\
+@daft-Organizationtheory-2010[, p. 11]
+
 <!-- ## Las organizaciones existen para
 
 ::: nonincremental
@@ -49,15 +54,15 @@ lateral-menu: 'True'
 ::: notes
 - Núcleo de operaciones: realiza la actividad principal de la organización.
 - Ápice estratégico: primera división del trabajo. Gobiernan la organización.
-Línea media: aumento de complejidad de la organización. Mandos intermedios.
-Tecnoestructura: estandarizar procesos de trabajo. Técnicos expertos en la actividad principal de la organización.
-Personal de apoyo: no directamente vinculados con la actividad principal.
-Ideología: fuerza motora para la cooperación en la organización.
+- Línea media: aumento de complejidad de la organización. Mandos intermedios.
+- Tecnoestructura: estandarizar procesos de trabajo. Técnicos expertos en la actividad principal de la organización.
+- Personal de apoyo: no directamente vinculados con la actividad principal.
+- Ideología: fuerza motora para la cooperación en la organización.
 :::
 
 ## Mecanismos de coordinación
 
-![ @mintzberg-Mintzbergdireccion-1991[17]](imagenes-organizaciones/MecanismosCoordinacion.png)
+![ @mintzberg-Mintzbergdireccion-1991[17]](imagenes-organizaciones/MecanismosCoordinacion.png){width="750"}
 
 ## Tipos de organizaciones
 
@@ -75,10 +80,8 @@ Ideología: fuerza motora para la cooperación en la organización.
 | **Misionera**              | Organización misionera            | Estandarización de normas              | Ideología                      | Descentralización |
 
 
-<!-- |                            | Organización política             | Ninguna                                | Ninguna                        | Varia                                 | -->
 
-
-# La curva de Greiner
+## La curva de Greiner
 
 ![ @greiner-EvolutionRevolution-1994 ](imagenes-organizaciones/FasesGreiner.png){width=600}
 
