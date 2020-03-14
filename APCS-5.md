@@ -12,7 +12,16 @@ csl: apa.csl
 lateral-menu: 'True'
 ...
 
-## Violencia fútbol {#violencia-futbol}
+##
+
+<video   class="stretch" controls data-autoplay>
+  <source src="imagenes-APCS-5/AtaqueDePanicoSNAKE.mkv">
+</video>
+
+[https://www.youtube.com/watch?v=r8F9Qvror6g](https://www.youtube.com/watch?v=r8F9Qvror6g){.peque .fondoblanco target="_blank"}
+
+
+## Tragedias en el fútbol {#tragedia-futbol}
 
 [![Tragedia de Heysel - 29 de mayo de 1985](imagenes-APCS-4/Heysel.jpg)](https://www.youtube.com/watch?v=3AD9XBdV7c4){target="_blank"}
 
@@ -26,6 +35,8 @@ lateral-menu: 'True'
 ![](imagenes-APCS-4/Hillsborough_disaster_Sun.jpg)
 
 [The Sun, 19 de abril de 1989]{.autor .fondoblanco}
+
+[https://www.youtube.com/watch?v=iORjkuClnMo](https://www.youtube.com/watch?v=iORjkuClnMo){.medio .fondoblanco target="_blank"}
 
 ## Desastres
 
@@ -63,14 +74,6 @@ Evidentemente, esta definición podría ser suscrita por las *teorías irraciona
 En los casos en que no existen relaciones sociales previas, en los que las personas implicadas son desconocidas entre sí o no tienen lazos fuertes, "El comportamiento puede entonces volverse altamente egoísta y agresivo, no como resultado del pánico irracional, sino de definiciones emergentes de la situación como una en la cual las normas de civilidad ya no se aplican, y competir por la ventaja individual es legítimo." (Johnson 1987:173)
 :::
 
-##
-
-<video   class="stretch" controls data-autoplay>
-  <source src="imagenes-APCS-5/AtaqueDePanicoSNAKE.mkv">
-</video>
-
-[https://www.youtube.com/watch?v=r8F9Qvror6g](https://www.youtube.com/watch?v=r8F9Qvror6g){.peque .fondoblanco target="_blank"}
-
 ## Egoísmo: Tragedia de los comunes {#tragedia}
 
 >Pero, ¿qué significa libertad? Cuando los hombres mutuamente acordaron instaurar leyes contra los robos, la humanidad se volvió más libre, no menos. Los individuos encerrados en la lógica de los recursos comunes son libres únicamente para traer la ruina universal; una vez que ven la necesidad de la coerción mutua, quedan libres para perseguir nuevas metas.\
@@ -88,7 +91,7 @@ Una visión compartida desde otros campos de estudio. Por ejemplo Garret Hardin 
 :::
 ::: {.column width="80%"}
 >Afirmamos que la sociabilidad es la ventaja más grande en la lucha por la existencia en todas las circunstancias naturales, sean cuales fueran. Las especies que voluntaria o involuntariamente reniegan de ella, están condenadas a la extinción, mientras que los animales que saben unirse del mejor modo, tienen mayores oportunidades para subsistir y para un desarrollo máximo (…)  Los vertebrados superiores, y en especial el género humano, sirven como la mejor demostración de esta afirmación.\
-@kropotkin-Apoyo-1902
+@kropotkin_apoyo_1902
 :::
 ::::::
 
@@ -128,6 +131,8 @@ Aún así, podemos ver que es cierto que se transmite esa imagen de irracionalid
 ## La Guerra de los Mundos
 
 ![](imagenes-APCS-5/WarOfWorlds.jpg)
+
+[https://youtu.be/VMGRCU4kLjI?t=277](https://youtu.be/VMGRCU4kLjI?t=277){.peque .fondoblanco target="_blank"}
 
 ::: notes
 Un ejemplo de informaciones de prensa en el que se destaca el pánico de la población, es el famoso caso de la emisión radiofónica (dirigida por Orson Wells) de la *Guerra de los mundos* (30 de octubre de 1938), que llevó a miles de personas a creer que efectivamente los marcianos habían invadido la prensa.

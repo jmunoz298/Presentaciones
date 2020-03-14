@@ -54,7 +54,7 @@
 </video>
 <p><a href="https://www.youtube.com/watch?v=r8F9Qvror6g" class="peque fondoblanco" target="_blank">https://www.youtube.com/watch?v=r8F9Qvror6g</a></p>
 </section>
-<section id="tragedia-futbol" class="slide level2" data-video="big top-right">
+<section id="tragedia-futbol" class="slide level2">
 <h2>Tragedias en el fútbol</h2>
 <p><a href="https://www.youtube.com/watch?v=3AD9XBdV7c4" target="_blank"><img data-src="imagenes-APCS-4/Heysel.jpg" alt="Tragedia de Heysel - 29 de mayo de 1985" /></a></p>
 <p><a href="https://www.youtube.com/watch?v=3AD9XBdV7c4" target="_blank">Tragedia de Heysel - 29 de mayo de 1985</a></p>
@@ -261,7 +261,7 @@ Aún así, podemos ver que es cierto que se transmite esa imagen de irracionalid
 	keyboard: {
 			// alternative to toggleSpotlightOnMouseDown:
 			// toggle spotlight by pressing key 'c = 67'
-			//67: function() { RevealSpotlight.toggleSpotlight() },
+			67: function() { RevealSpotlight.toggleSpotlight() },
 
 			// enter/leave presentation mode by pressing key 'Windows Menu/Right' (93)
 			93: function() {
@@ -269,15 +269,7 @@ Aún así, podemos ver que es cierto que se transmite esa imagen de irracionalid
 			},
 	},
 	//Fin spotlight
-  //Opciones embed video
-  'embed-video': {
-  enabled: true, // optional, default false
-  persistent: false, // optional, default false
-  //path: '/path/to/plugin' // optional, default null
-  },
-  //Fin Opciones embed video
-
-        //Opciones coursemod
+      //Opciones coursemod
         coursemod: {
         enabled: false, //enable or disable the plugin, default to false
         shown: false //immediatly show the course notes view, this defaults to true if not present.
@@ -296,7 +288,7 @@ Aún así, podemos ver que es cierto que se transmite esa imagen de irracionalid
 
           keyboard: {
 	//Plugin chalkboard
-              //67: function() { RevealChalkboard.toggleNotesCanvas() },	// toggle notes canvas when 'c' is pressed
+              67: function() { RevealChalkboard.toggleNotesCanvas() },	// toggle notes canvas when 'c' is pressed
               66: function() { RevealChalkboard.toggleChalkboard() },	// toggle chalkboard when 'b' is pressed
               46: function() { RevealChalkboard.clear() },	// clear chalkboard when 'DEL' is pressed
                8: function() { RevealChalkboard.reset() },	// reset chalkboard data on current slide when 'BACKSPACE' is pressed
@@ -346,7 +338,6 @@ Aún así, podemos ver que es cierto que se transmite esa imagen de irracionalid
           // Optional libraries used to extend on reveal.js
         dependencies: [
 	  //{ src: 'reveal.js/plugin/spotlight/spotlight.js' }, //https://github.com/denniskniep/reveal.js-plugin-spotlight
-          { src: 'reveal.js/plugin/reveal-embed-video.js' },
           { src: 'reveal.js/plugin/coursemod/coursemod.js', async: true},
           { src: 'reveal.js/plugin/anything/anything.js' },
           { src: 'reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },

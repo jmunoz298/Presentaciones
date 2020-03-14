@@ -47,7 +47,7 @@ Análisis temático / Atlas-ti
 
 Psicología de las organizaciones
 --------------------------------
-- ST1: ¿Qué son las organizaciones? ([HTML](PsiOrg-ST1.html) | [PDF](PsiOrg-ST1.pdf){target=_"blank"})
+- ST1: ¿Qué son las organizaciones? (marzo 2020) ([HTML](PsiOrg-ST1.html) | [PDF](PsiOrg-ST1.pdf){target=_"blank"})
 
 <!-- Otros
 -----
