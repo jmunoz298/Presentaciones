@@ -149,7 +149,7 @@ $endfor$
 	keyboard: {
 			// alternative to toggleSpotlightOnMouseDown:
 			// toggle spotlight by pressing key 'c = 67'
-			67: function() { RevealSpotlight.toggleSpotlight() },
+			//67: function() { RevealSpotlight.toggleSpotlight() },
 
 			// enter/leave presentation mode by pressing key 'Windows Menu/Right' (93)
 			93: function() {
@@ -157,13 +157,20 @@ $endfor$
 			},
 	},
 	//Fin spotlight
+  //Opciones embed video
+  'embed-video': {
+  enabled: true, // optional, default false
+  persistent: false, // optional, default false
+  //path: '/path/to/plugin' // optional, default null
+  },
+  //Fin Opciones embed video
+
         //Opciones coursemod
         coursemod: {
         enabled: false, //enable or disable the plugin, default to false
         shown: false //immediatly show the course notes view, this defaults to true if not present.
         }, //Pueden mostrarse con ?show-notes=true
         //fin opciones coursemod
-
         //Opciones plugin menu
         menu: {
           themes: false,
@@ -177,7 +184,7 @@ $endfor$
 
           keyboard: {
 	//Plugin chalkboard
-              67: function() { RevealChalkboard.toggleNotesCanvas() },	// toggle notes canvas when 'c' is pressed
+              //67: function() { RevealChalkboard.toggleNotesCanvas() },	// toggle notes canvas when 'c' is pressed
               66: function() { RevealChalkboard.toggleChalkboard() },	// toggle chalkboard when 'b' is pressed
               46: function() { RevealChalkboard.clear() },	// clear chalkboard when 'DEL' is pressed
                8: function() { RevealChalkboard.reset() },	// reset chalkboard data on current slide when 'BACKSPACE' is pressed
@@ -227,6 +234,7 @@ $endfor$
           // Optional libraries used to extend on reveal.js
         dependencies: [
 	  //{ src: '$revealjs-url$/plugin/spotlight/spotlight.js' }, //https://github.com/denniskniep/reveal.js-plugin-spotlight
+          { src: '$revealjs-url$/plugin/reveal-embed-video.js' },
           { src: '$revealjs-url$/plugin/coursemod/coursemod.js', async: true},
           { src: '$revealjs-url$/plugin/anything/anything.js' },
           { src: '$revealjs-url$/lib/js/classList.js', condition: function() { return !document.body.classList; } },
