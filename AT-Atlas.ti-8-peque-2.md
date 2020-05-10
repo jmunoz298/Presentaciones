@@ -131,7 +131,7 @@ Descargar y descomprimir [https://bit.ly/2tboqvO](https://bit.ly/2tboqvO){.fosfo
 ::::::
 
 ::: notes
-Ahora ya podemos añadir los datos al proyecto. Podemos hacerlo añadiendo uno o varios documentos o añadiendo todo el contenido de un directorio. En ambos casos, lo haremos clicando en el icono
+Ahora ya podemos añadir los datos al proyecto. Podemos hacerlo añadiendo uno o varios documentos o añadiendo todo el contenido de un directorio. En ambos casos, lo haremos clicando en el icono "Agregar documentos".
 :::
 
 ## Memoing
@@ -139,7 +139,7 @@ Ahora ya podemos añadir los datos al proyecto. Podemos hacerlo añadiendo uno o
 @BirksMemoingqualitativeresearch2008 [p. 69]
 
 ::: notes
-Si una de las actividades imprescindibles de cualquier investigación es la documentación de la misma, esto probablemente todavía es más cierto en el caso de la investigación cualitativa, en la que es fundamental poder "dar cuenta" del qué, cómo y porqué de lo que hagamos. Esta documentación la realizamos mediante la escritura de "memos", es decir, anotaciones, comentarios... en los que  según Saldaña podemos describir:
+Si una de las actividades imprescindibles de cualquier investigación es la documentación de la misma, esto probablemente todavía es más cierto en el caso de la investigación cualitativa, en la que es fundamental poder "dar cuenta" del qué, cómo y porqué de lo que hagamos. Esta documentación la realizamos mediante la escritura de "memos", es decir, anotaciones, comentarios... en los que, según Saldaña, podemos describir:
 
 * Relación con participantes y/o fenómeno
 * Preguntas de investigación
@@ -153,6 +153,12 @@ Si una de las actividades imprescindibles de cualquier investigación es la docu
 
 @saldana_coding_2009 [pp. 34-40]
 :::
+
+## Documentación
+
+<video width="800"  class="stretch" controls>
+<source src="imagenes-atlas-8/documentacion.mp4">
+</video>
 
 ## Crear memos-anotaciones
 
@@ -189,15 +195,6 @@ Si la estrategia de trabajo es de tipo deductivo, se creará una lista de códig
 Si la estrategia es inductiva, los códigos surgirán de la lectura de los datos y por lo tanto primero crearemos citas que se vincularán con códigos.
 :::
 
-## Ejercicio: Segmentación {#ejercicio-segmentacion}
-
-![](imagenes-atlas-8/ejercicio-citas.png){.noshadow  .border}
-
->* Crear citas "libres" en varios documentos.
-* Eliminar citas.
-* Modificar tamaño de citas.
-* Explorar citas con el [Administrador de citas]{.resaltar} y con el [Navegador de citas]{.resaltar}.
-
 ## Comentarios de códigos {#comentarios-codigos .peque}
 
 | Código              | MARGPROB                                                                                                                                                                                                                                                        |
@@ -209,6 +206,29 @@ Si la estrategia es inductiva, los códigos surgirán de la lectura de los datos
 | Ejemplo             | “Como aquí no hay agua ni alcantarillado, la suciedad que hay aquí en las calles es terrible, ahí se puede ver... ¿se fija?, los niños se enferman a cada rato.”                                                                                                |
 
 ###### @MacQueenCodebookdevelopmentteambased1998{.autor}
+
+::: notes
+Mientras vamos creando los códigos, es conveniente dedicar un tiempo a su descripción, es decir, a crear comentarios. Si los comentarios son elementos importantes de los componentes que hemos visto hasta el momento, lo son mucho más en el caso de los códigos, sobre todo cuando el trabajo de codificación es compartido por varios analistas. Es fundamental que el significado de los códigos, tanto conceptual como operativamente, alcance cierto grado de estabilidad durante el análisis, de forma que un mismo codificador interprete y aplique de la misma forma un código en diferentes momentos del proceso de análisis o que varios codificadores interpreten de la misma forma un mismo código. En algunos casos la simple etiqueta puede parecer lo suficientemente descriptiva como para que no haga falta escribir un comentario. Sin embargo, conforme progresa el análisis o cuando intervienen distintos analistas, esa aparente claridad puede no serlo del todo en la práctica.
+
+Una posible forma de sistematizar los contenidos a añadir a los comentarios de códigos es seguir el modelo que proponen @MacQueenCodebookdevelopmentteambased1998
+:::
+
+
+## Segmentación y codificación{#segmentacion-codificacion}
+
+<video width="800"  class="stretch" controls>
+<source src="imagenes-atlas-8/segmentacion.mp4">
+</video>
+
+## Ejercicio: Segmentación {#ejercicio-segmentacion}
+
+![](imagenes-atlas-8/ejercicio-citas.png){.noshadow  .border}
+
+>* Crear citas "libres" en varios documentos.
+* Eliminar citas.
+* Modificar tamaño de citas.
+* Explorar citas con el [Administrador de citas]{.resaltar} y con el [Navegador de citas]{.resaltar}.
+
 
 ## Ejercicio: Codificación {#ejercicio-codificacion}
 
