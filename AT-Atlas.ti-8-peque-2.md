@@ -132,6 +132,11 @@ Descargar y descomprimir [https://bit.ly/2tboqvO](https://bit.ly/2tboqvO){.fosfo
 
 ::: notes
 Ahora ya podemos añadir los datos al proyecto. Podemos hacerlo añadiendo uno o varios documentos o añadiendo todo el contenido de un directorio. En ambos casos, lo haremos clicando en el icono "Agregar documentos".
+
+En el enlace puedes descargar unos datos de ejemplo. Se trata de artículos de opinión en la prensa española sobre la "Prisión permanente revisable".
+
+Descarga el archivo ".zip" y [descomprímelo]{.fosforito} en tu ordenador para poder añadir los documentos a un proyecto.
+
 :::
 
 ## Memoing
@@ -248,7 +253,7 @@ Evidentemente, cuando utilizamos la opción "Guardar proyecto", estamos guardand
 
 Si queremos crear una copia para conservar el estado de nuestro trabajo en un momento determinado, utilizaremos la opción "Instantánea", que nos permitirá crear una versión de nuestro análisis de forma que si con posterioridad hacemos cambios que no son satisfactorios, podamos recuperar esa versión previa.
 
-Aunque hayamos creado instantáneas, seguiremos sin tener la posibilidad de acceder en nuestro ordenador a ningún archivo con el análisis. La única posibilidad que tenemos para acceder a nuestro proyecto es a través del programa y única y exclusivamente en el ordenador en que lo hemos creado.
+Aunque hayamos creado instantáneas, seguiremos sin tener la posibilidad de acceder en nuestro ordenador a ningún archivo con el análisis. La única posibilidad que tenemos para acceder a nuestro proyecto es través del programa, y única y exclusivamente en el ordenador en que lo hemos creado.
 
 Para disponer de una copia del proyecto que podamos "transportar" entre diferentes ordenadores (o simplemente como un sistema de copia de seguridad), tenemos que utilizar la opción "Exportar > Paquete de proyecto", que creará un archivo (con extensión .atlproj) que podremos abrir en otros ordenadores con la opción "Importar proyecto" que habíamos visto en la pantalla inicial.
 :::
@@ -273,25 +278,52 @@ En las pantallas siguientes puedes ver un ejemplo hipotético de depuración que
 
 ![](imagenes-atlas-8/Categorizacion01.png){.noshadow }
 
+::: notes
+Imaginemos que partimos de una situación como la de la imagen, en la que tenemos seis códigos con sus correspondientes citas. Lo que haremos, será depurar empezando por los códigos que tienen un mayor número de citas, en este caso los códigos "C1" y "C2".
+:::
+
 ## {transition=none}
 
 ![](imagenes-atlas-8/Categorizacion02.png){.noshadow}
+
+::: notes
+Puede ocurrir que el gran número de citas que incluye "C1" obedezca a que hemos asignado fragmentos que en realidad tienen significados diferentes, por lo que la "comparación intra" puede llevarnos a decidir que en realidad este conjunto de citas lo tenemos que asignar a tres códigos diferentes, por lo que crearemos tres nuevos códigos.
+:::
 
 ## {transition=none}
 
 ![](imagenes-atlas-8/Categorizacion03.png){.noshadow}
 
+::: notes
+Lo mismo nos puede ocurrir con "C2", aunque en este caso no sólo lo hemos dividido en dos códigos, sino que además esos dos códigos los consideramos subcategorías de un nuevo código (ver más adelante la creación de relaciones entre códigos).
+:::
+
 ## {transition=none}
 
 ![](imagenes-atlas-8/Categorizacion04.png){.noshadow}
+
+::: notes
+En el caso de los códigos "C3" y "C4", la "comparación intra" no nos lleva a ningún cambio, pero la "comparación inter" nos hace ver que en realidad hemos creado dos códigos para un mismo concepto, por lo que uniremos todas las citas en un único código (con la función "unir códigos").
+:::
 
 ## {transition=none}
 
 ![](imagenes-atlas-8/Categorizacion05.png){.noshadow}
 
+::: notes
+La comparación "inter" del código "C6" nos puede llevar a darnos cuenta de que es equivalente a uno de los códigos que habíamos creado durante la depuración, por lo que de los uniremos.
+:::
+
 ## {transition=none}
 
 ![](imagenes-atlas-8/Categorizacion06.png){.noshadow}
+
+::: notes
+Finalmente, el análisis del código "C5" nos lleva a relacionarlo con la categoría "CAT1".
+
+Como vemos, el resultado final puede ser una importante reorganización de nuestro sistema de codificación. Esto es algo habitual, y no debemos preocuparnos si durante el análisis nos vemos en la necesidad de realizar cambios (aunque sería importante que siempre los documentemos).
+
+:::
 
 ###### @friese_using_2011 {.autor}
 
@@ -299,41 +331,69 @@ En las pantallas siguientes puedes ver un ejemplo hipotético de depuración que
 
 Descargar/Importar [https://bit.ly/2EHBgbD](https://bit.ly/2EHBgbD){.fosforito .medium target="_blank"}
 
-![](imagenes-atlas-8/Menu-imprimir.png){.border}
+![](imagenes-atlas-8/A8-depurar.png){.border}
 
 >* Generar [Informe]{.resaltar} de todas las citas de un código.
 * Generar informe de un conjunto de códigos.
 * [Dividir]{.resaltar} un código en dos.
 * [Fusionar]{.resaltar} varios códigos.
 
-# Preguntas {.center data-state=opacidad data-background="fondos/Research.jpg" data-background-transition=zoom}
+::: notes
+Para la depuración de los códigos nos pueden ser útiles algunas de las funcionalidades a las que tenemos acceso desde la pestaña "Códigos" (la podremos ver si tenemos activo el "Administrador de códigos").
+
+- Podemos "Duplicar", "Renombrar" o "Eliminar" códigos.
+- Con los "Informes" podremos generar listados de las citas de uno o más códigos, lo que nos permitirá tomar decisiones sobre su ideoneidad o no para el código.
+- Y a partir de las decisiones anteriores podemos utilizar la herramienta "Fusionar códigos" cuando, por ejemplo, pensamos que es conveniente unir varios de los códigos iniciales en un único código. Si por el contrario decidimos que parte de las citas de un código en realidad tienen un "significado" diferente, podemos utilizar la herramienta "Dividir código", que nos facilitará de una forma considerable el proceso.
+
+Si quieres probar la unión y división de códigos, puedes descargar el proyecto del enlace que aparece en la pantalla (e importarlo en Atlas.ti). Encontrarás dos códigos: "críticas" y "opinion-publica". Puedes intentar dividir el primero en diferentes códigos para diferentes tipos de críticas y con el segundo crear un código específico para aquellas citas que hagan referencia a encuestas a la población.
+
+:::
+
+## Agrupar{#agrupar}
+
+![Tipos de Grupos](imagenes-atlas-8/Grupos.png)
+
+::: notes
+Una de las opciones que nos ofrece el programa, es la de crear agrupaciones de elementos (documentos, códigos, memos y redes).
+
+En el siguiente vídeo puedes ver cómo hacerlo.
+:::
+
+## Agrupar{#agrupar-2}
+
+<video width="800"  class="stretch" controls>
+<source src="imagenes-atlas-8/agrupar.mp4">
+</video>
+
+::: notes
+En el minuto 5 del vídeo, cuando se dice "grupos de documentos" debería decir "grupos de códigos"
+:::
+
+## Ejercicio: grupos de códigos {#ejercicio-grupos-codigos}
+
+<!-- ![](imagenes-atlas-8/Menu-codigos.png) -->
+
+::: nonincremental
+- Descargar [https://bit.ly/2WOWX0V](https://bit.ly/2WOWX0V){target="_blank"}
+- Crear grupos de documentos.
+- Crear grupos de códigos.
+:::
+
+::: notes
+Descarga e importa el proyecto _Prision-Permanente-01a.atlproj_ y, siguiendo las instrucciones del vídeo anterior, crea grupos de documentos (por diario y por fecha) y grupos de códigos (actores y secciones).
+:::
 
 ## Analizar
 
-![](imagenes-atlas-8/Analizar-8.png)
-
-
-## Pregunta 1a
-
-#### ¿Qué "actores" aparecen en las secciones utilizadas para captar la atención (títulos...)?
-
-. . .
-
->* [Escribir Memo]{.resaltar}.
-* Identificar secciones.
-* Identificar "actores".
-* ...
-
-##
-
 ##### ¿Qué "actores" aparecen en las secciones utilizadas para captar la atención (títulos...)?
 
->* Escribir Memo
-* Identificar secciones.
-* Identificar "actores".
-* [Buscar co-ocurrencias.]{.resaltar}.
-
 ![](imagenes-atlas-8/Analizar-8.png)
+
+::: notes
+Con los datos de que disponemos, ya podemos realizar alguna "pregunta" al programa. Por ejemplo, dado que tenemos códigos de "actores" y "códigos" de secciones, nos podría interesar saber cómo aparecen los "actores" en las diferentes secciones de los artículos. Por ejemplo "¿quienes aparecen más en las imágenes?" "¿qué actores son mencionados prioritariamente en los titulares?"
+
+Para contestar esta pregunta, utilizaremos una de las herramientas de la pestaña "Analizar", la ["Tabla de co-ocurrencias"]{.fosforito}, que nos permitirá identificar las citas que co-ocurren en dos códigos.
+:::
 
 ## Co-ocurrencias {#coocurrencias-0 transition=none}
 
@@ -351,154 +411,110 @@ Las coocurrencias son las citas (codificadas) que presentan algún grado de sola
 
 ![](imagenes-atlas-8/Cooc-Marquez-00-2.png){.border width=75%}
 
-## Tabla de co-coocurrencias
+## Analizar: Tabla de coocurrencias
 
-![Resultados Tabla de co-ocurrencias](imagenes-atlas-8/Tabla-co-ocurrencias.png){.border .noshadow}
+<video width="800"  class="stretch" controls>
+<source src="imagenes-atlas-8/co-ocurrencias.mp4">
+</video>
 
+## Documentar Análisis
+
+_Research question memos_
+
+:::nonincremental
+- PI#: Descripción de la pregunta:
+- Descripción de los pasos que se han dado con Atlas para su respuesta:
+- Respuesta:
+- Captura de pantalla (si es necesario/conveniente)
+- Desarrollo (elaboración para informe):
+- Vincular con este memo citas ilustrativas que apoyen los argumentos dados
+:::
+
+@friese-QualitativeData-2014 [pp. 167 y ss.]
 
 ::: notes
-Para llegar al resultado de la imagen, en primer lugar se ha añadido un identificador a las etiquetas de códigos, "es:" para los códigos "estructurales", y "ac:" a los códigos que identifican a los diferentes "actores". De esta forma, aparecerán juntos en el Administrador de códigos. Además, al acceder a la herramienta "Tabla de co-ocurrencias", podemos filtrar fácilmente "es:" en filas y "ac:" en columnas.
+A medida que vamos realizando nuestro análisis y "formulando preguntas" al programa, debemos documentar este trabajo mediante la escritura de lo que Susan Friese denomina _Research question memos_, "Research question memos are analytic memos. I describe them as places where you develop the interpretation of your data step by step" @friese-QualitativeData-2014 [p. 167].
+
+En la "diapositiva" puedes ver un ejemplo de los contenidos que debería incluir una memo de este tipo. En el proyecto que has descargado, también encontrarás un memo describiendo la pregunta sobre co-ocurrencias y una "plantilla" para reutilizar en otras preguntas (utilizando la opción "Duplicar memos").
+
 :::
 
-##
+## Pregunta 1
 
-Descargar/Importar [https://bit.ly/2WWDY3T](https://bit.ly/2WWDY3T){.fosforito .medium target="_blank"}
+##### ¿Qué "actores" aparecen en las secciones utilizadas para captar la atención (títulos...)?
 
-## Agrupar
-
-![Tipos de Grupos](imagenes-atlas-8/Grupos.png)
-
-## Ejercicio: grupos de códigos {#ejercicio-grupos-codigos}
-
-![](imagenes-atlas-8/Menu-codigos.png)
-
->* Crear grupos de códigos.
->   - Desde el [Administrador de códigos]{.resaltar}.
->   - Con el [Administrador de grupos de códigos]{.resaltar}.
-
-
-## Pregunta 1b
-
-#### ¿Cómo presentan esa información los diferentes diarios?
-
-. . .
-
-::: nonincremental
-* Escribir Memo
-* Grupos de documentos.
-* [Grupos inteligentes]{.resaltar} de documentos.
-* [Activar filtro global]{.resaltar}.
-:::
-
-![](imagenes-atlas-8/GruposDocumentos.png)
-
-## Grupos "inteligentes"
-
-|                | + Derechas | - Derechas |
-|:---------------|:----------:|:----------:|
-| Pre (15 marzo) |            |            |
-| Post           |            |            |
-
-. . .
-
-![](imagenes-atlas-8/GruposDocumentos-ej.png){.noshadow}
-
-
-<!-- # Estructurar {.center data-state=opacidad data-background="imagenes-cuali/hanging-files.jpg" data-background-transition=zoom} -->
+>* Escribir Memo
+* Identificar secciones.
+* Identificar "actores".
+* [Buscar co-ocurrencias.]{.resaltar}.
 
 ## Pregunta 2
 
-#### ¿En qué contextos aparecen las víctimas?
+##### 1 - ¿Qué "actores" aparecen en las secciones utilizadas para captar la atención (títulos...)?
 
-. . .
-
->* [Autocodificar]{.resaltar} Cruz, Quer...
-
-![](imagenes-cuali/Autocodificacion-menu-8-01.png)
-
-## Autocodificación {#autocodificacion}
-
-![](imagenes-atlas-8/Autocodificacion.png){.noshadow}
-
-## Pregunta 3
-
-#### ¿Qué características tienen los contenidos que son citas textuales?
-
->* Codificar todos los fragmentos entre cualquier tipo de comillas.
-* Tabla de co-coocurrencias.
-* Ver memo "co:Citas literales".
-* Autocodificar.
-
-[Puedes hacer pruebas en https://regex101.com/](https://regex101.com/){.peque target=_"blank"}
-
-## Codificación de grupo focal {#codificacion-grupo-focal}
-
-![](imagenes-atlas-8/CodificacionGrupoFocal-8.png)
+#### 2 - ¿Cómo presentan esa información los diferentes diarios?
 
 ::: notes
-
-Se pueden introducir expresiones GREP. La etiqueta de código será lo que esté definido en la expresión. Si el primer carácter es @ o el último es ":", no se incluirán en la etiqueta de código.
-
-Por ejemplo:
-
-`@\S+:` creará etiquetas de código de cualquier carácter que no sea espacio `\S`, de cualquier longitud `+`, seguido de `:`
-
-`Ent-\d+:` Creará etiquetas con la raíz "Ent-" seguido de uno o más dígitos
+Ahora puedes intentar contestar una nueva pregunta "¿Cómo presentan esa información los diferentes diarios?". Tendremos que volver a utilizar la _Tabla de co-ocurrencias_, pero realizando el análisis para cada uno de los diarios por separado. Para ello, tendrás que utilizar la opción [_Activar filtro global_]{.resaltar} sobre cada uno de los grupos antes de realizar el análisis de co-ocurrencias.
 :::
-
-# Relaciones {.center data-background="imagenes-cuali/network.jpg" data-background-transition=zoom data-state=opacidad}
 
 ## Relaciones
 
 ![](imagenes-atlas-8/TiposRelaciones-8.png)
 
 ::: notes
-Existen pocas limitaciones en cuanto a cómo crear citas libres, pueden ser de cualquier extensión, pueden solaparse entre ellas... pero sí que tenemos la limitación de que una cita no puede ser "discontínua", es decir, no puede tener una primera parte, p.ej. de la línea 3 a 5, y una segunda parte de la 8 a la 10 sin que estén incluidas las líneas 6 y 7.
-Esto podría provocar que se pierda el significado si no se tiene en cuenta la primera parte, por lo que tendríamos que incluir todas las líneas. Pero si eso implica tener una cita excesivamente larga, otra opción sería crear dos citas y una relación entre ambas.
+Otra forma de organización de los datos es mediante la creación de relaciones entre elementos. Como vemos en la imagen, podemos crear relaciones entre citas, entre códigos, entre memos, entre citas y códigos (codificación)...
+
+
 :::
-
-## Ejercicio: Relaciones entre citas
-
-![](imagenes-atlas-8/menu-hyperlinks.png){.border}
-
->* Crear relaciones entre citas del mismo/diferente documento.
-* "Navegar" entre citas.
-* Explorar relaciones con el [Administrador de vínculos]{.resaltar}.
-
 
 ## Estructura: Grupos de códigos... {#estructura-grupos-codigos-1}
 
 ![](imagenes-atlas-8/Sentimientos-01.png)
 
+::: notes
+Veamos un ejemplo de relaciones entre códigos.
+
+Imaginemos que tenemos cuatro códigos: amor, gratitud, ira y odio. Dado que todos ellos hacen referencia a sentimientos, podríamos crear grupos de códigos del tipo "Sentimientos positivos", "Sentimientos negativos", o un grupo "SENTIMIENTOS" que los englobara a todos.
+
+Pasa a la siguiente diapositiva
+
+:::
+
 ## Estructura: Grupos de códigos {#estructura-grupos-codigos-2 transition=none}
 
 ![](imagenes-atlas-8/Sentimientos-02.png)
 
-## Estructura: Relaciones entre códigos... {#estructura-relaciones-codigos-1 transition=none}
-![](imagenes-atlas-8/Sentimientos-03.png)
+::: notes
+La estrategia de crear grupos es correcta, pero imaginemos que además de esos códigos tenemos un código "EMOCIONES" y otro "Relaciones sociales". Podemos suponer que existe alguna relación entre esos códigos y los "SENTIMIENTOS", por ejemplo que las "Emociones" _causan_ "Sentimientos" y que los "Sentimientos" _causan_ (afectan, influyen...) las "Relaciones-sociales".
+
+Dado que "SENTIMIENTOS" es un grupo, la única forma que tenemos de relacionarlo con los códigos sería haciendo que formaran parte de ese grupo, algo que no reflejaría el tipo de relación que queríamos crear.
+
+Pasa a la siguiente diapositiva
+:::
 
 ## Estructura: Relaciones entre códigos... {#estructura-relaciones-codigos-2 transition=none}
 ![](imagenes-atlas-8/Sentimientos-04.png)
 
-<!-- ## Estructura: Relaciones entre códigos {#estructura-relaciones-codigos}
+::: notes
+Necesitamos por lo tanto una estrategia diferente que implica crear nuevos códigos y crear relaciones entre códigos.
 
-![](imagenes-atlas-8/Estructura-con-relaciones.png)
+En primer lugar, crearemos los códigos (no grupos) "Sentimiento positivo", "Sentimiento negativo" y "SENTIMIENTOS", es decir, utilizaremos códigos para poder crear relaciones. A continuación crearemos relaciones de tipo "es un" entre los diferentes tipos de sentimientos y sus códigos correspondientes. Esta relación sería conceptualmente equivalente a decir "amor" forma parte del grupo "Sentimiento positivo", pero en este caso en vez de una asignación a un grupo, establecemos una relación. De la misma forma, creamos las relaciones entre "Sentimiento positivo" y "Sentimiento negativo" con "SENTIMIENTOS", puesto que ambos "son" tipos de sentimientos. De esta forma hemos creado una "jerarquía" de códigos relacionados con los sentimientos. Finalmente ya podemos crear las relaciones EMOCIONES > SENTIMIENTOS > Relaciones sociales.
 
-## Jerarquías de códigos {#jerarquias-codigos-2}
+En el próximo vídeo puedes ver todo el proceso.
+:::
 
-![](imagenes-atlas-8/JerarquiasCodigos.png) -->
+## Relaciones y redes{#relaciones-redes}
+
+<video width="800"  class="stretch" controls>
+<source src="imagenes-atlas-8/relaciones-redes.mp4">
+</video>
 
 ## Ejercicio: Relaciones entre códigos
 
->* Crear relaciones "es una" entre códigos.
-* Crear otros tipos de relaciones.
-* Definir un nuevo tipo de relación.
+Reproduce la estructura de relaciones "sentimientos"
 
-Descargar y renombrar [https://bit.ly/2BvAw76](https://bit.ly/2BvAw76){.fosforito .medium target="_blank"}
-
-# Vistas de red{.center data-background="imagenes-cuali/neurons.jpg" data-background-transition=zoom data-state=opacidad}
-
-##
+## Redes temáticas
 
 >Aplicar redes temáticas es simplemente una forma de organizar un análisis temático de datos cualitativos. Los análisis temáticos intentan descubrir los temas más destacados en un texto a diferentes niveles, y las redes temáticas tienen como objetivo [facilitar la estructuración y representación]{.fosforito} de esos temas.\
 @attride_stirling2001 [p. 387]
@@ -510,144 +526,13 @@ Descargar y renombrar [https://bit.ly/2BvAw76](https://bit.ly/2BvAw76){.fosforit
 
 ![](imagenes-atlas-8/red-donacion.png){ width=85% }
 
-# Consultas {.center data-background="imagenes-cuali/query.jpg" data-background-transition=zoom data-state=opacidad}
-
-## Consultas
-
-![Herramienta de consulta](imagenes-cuali/Analizar-Consulta-8.png)
-
-## Consultas: Operadores Booleanos
-
-![](imagenes-atlas-8/Operadores-Booleanos-8.png)
-
-## Operadores Booleanos
-
-![](imagenes-atlas-8/VennBooleanos-00.png)
-
-## Construcción de una consulta {#construccion-booleana-1}
-
-Todas las citas codificadas como C1 **Y** C2 **O** como C1 y C3
-
-:::::: {.columns}
-::: {.column width="40%"}
-![](imagenes-atlas-8/VennBooleanos-01.png){ width="300px"}
-:::
-::: {.column width="60%"}
-![](imagenes-atlas-8/Consulta-booleanos-01.png){ width="450px"}
-:::
-:::::
-
-Descargar y renombrar [https://bit.ly/2SD7368](https://bit.ly/2SD7368){.fosforito target="_blank"}
-
-## Construcción de una consulta {#construccion-booleana-2 transition=none}
-
-Todas las citas codificadas como C1 **O** C2 pero **NO** como C3
-
-<div id="column1" style="float:left; margin:0; width:40%;">
-
-![](imagenes-atlas-8/VennBooleanos-02.png){ width="300px"}
-</div>
-. . .
-
-<div id="column1" style="float:left; margin:0; width:60%;">
-
-![](imagenes-atlas-8/Consulta-booleanos-02.png){ width="450px"}
-</div>
-
-## Construcción de una consulta {#construccion-booleana-3 transition=none}
-
-Todas las citas codificadas como C1 **O** C2 **O** como C3 **Y** C4 **Y** **NO** como C1 **Y** C3
-
-<div id="column1" style="float:left; margin:0; width:40%;">
-
-![](imagenes-atlas-8/VennBooleanos-03.png){ width="300px"}
-</div>
-. . .
-
-
-<div id="column1" style="float:left; margin:0; width:60%;">
-![](imagenes-atlas-8/Consulta-booleanos-03.png){ width="450px"}
-</div>
-
-
-## Operadores Semánticos {#operadores-semanticos}
-
-![](imagenes-atlas-8/Operadores-Semanticos-8.png)
-
-## Operadores Semánticos {#ejemplo-operadores-semanticos}
-
-![](imagenes-atlas-8/RedSentimientos.png)
-
-## Operadores de Proximidad
-
-![](imagenes-atlas-8/Operadores-Proximidad-8.png)
-
-##
-![](imagenes-cuali/Proximidad-8.png)
-
-<!-- ## Ejemplo consulta
-
-![](imagenes-cuali/Consulta-8-ejemplo-01.png)
-
-## Ejemplo consulta
-
-![](imagenes-cuali/Consulta-8-ejemplo-02.png)
-
-### https://bit.ly/2JoJhCg
-
-<!--
-## Consultas: Alcance
-
-![](imagenes-cuali/ConsultasAlcance.png)
--->
-
-## Buscar texto
-
-![](imagenes-cuali/Buscar-8.png)
-
-  <!--
- Conjunto de términos
-   : `Jorquera|Pérez-Bouza`
-
- Categoría
-   : `BNG:=Jorquera|Pérez-Bouza`
-
- Múltiples categorías
-   : `AUTONOMICO:= $AMAIUR|$BNG|$CC|$CiU`
-
-
- ## GREP
-
-   |  Operador   | Función                                                                        |
-   |:-----------:|:-------------------------------------------------------------------------------|
-   | ^*término*  | Limita la expresión de búsqueda que sigue al marcador al principio de la línea |
-   | *término*$  | Limita la expresión de búsqueda precedente al final de la línea                |
-   | \<*término* | Limita la expresión de búsqueda siguiente al inicio de una palabra             |
-   | *término*\> | Limita la expresión de búsqueda precedente al inicio de una palabra            |
-   |     \\B     | Limita la expresión de búsqueda siguiente a NO incio de palabra                |
-   |      .      | Localiza cualquier carácter                                                    |
-   |     \\w     | Localiza cualquier carácter alfanumérico                                       |
-   |      *      | Localiza cualquier cantidad (o su ausencia) de la expresión precedente         |
-   |      +      | Localiza al menos una ocurrencia de la expresión precedente                    |
-
- -->
-
-# Otras herramientas
-
-
 # Referencias{.center data-background="imagenes-cuali/books.jpg" data-background-transition=zoom data-state=opacidad}
 
 ## {.scrollable .peque}
 
 
 
+<!-- ##
 
-<!--
-
-# Organización Datos {.center data-state=opacidad data-background="imagenes-cuali/hanging-files.jpg" data-background-transition=zoom }
-
-
-# Informes {.center data-background="imagenes-cuali/reports.jpg" data-background-transition=zoom data-state=opacidad}
-
-
--->
+Descargar/Importar [https://bit.ly/2WWDY3T](https://bit.ly/2WWDY3T){.fosforito .medium target="_blank"}
+ -->

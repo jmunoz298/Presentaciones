@@ -131,32 +131,26 @@ $endfor$
 
         theme: $if(theme)$'$theme$'$else$Reveal.getQueryHash().theme$endif$, // available themes are in /css/theme
         transition: $if(transition)$'$transition$'$else$Reveal.getQueryHash().transition || 'default'$endif$, // default/cube/page/concave/zoom/linear/fade/none
-	//Opciones spotlight
-	spotlight: {
 
-			// size of the spotlight
-			size: 45,
+        //audio slideshow
+  audio: {
+          prefix: 'audio/',   // audio files are stored in the "audio" folder
+          suffix: '.ogg',   // audio files have the ".ogg" ending
+          textToSpeechURL: null,  // the URL to the text to speech converter
+          defaultNotes: false,  // use slide notes as default for the text to speech converter
+          defaultText: false,   // use slide text as default for the text to speech converter
+          advance: 0,     // advance to next slide after given time in milliseconds after audio has played, use negative value to not advance 
+          autoplay: true,  // automatically start slideshow
+          defaultDuration: 5, // default duration in seconds if no audio is available 
+          defaultAudios: false,  // try to play audios with names such as audio/1.2.ogg
+          playerOpacity: 0.05,  // opacity value of audio player if unfocused
+          playerStyle: 'position: fixed; bottom: 4px; left: 25%; width: 50%; height:75px; z-index: 33;', // style used for container of audio controls 
+          startAtFragment: true, // when moving to a slide, start at the current fragment or at the start of the slide
+  },
 
-			// toggle spotlight by holding down the mouse key
-			toggleSpotlightOnMouseDown: true,
+// fin audio slidehow
 
-			// choose the cursor when spotlight is on. Maybe "crosshair", "none"?
-			presentingCursor: "arrow",
 
-			// true: cursor is always "none" except when spotlight is on.
-			presentingCursorOnlyVisibleWhenSpotlightVisible: true,
-	},
-	keyboard: {
-			// alternative to toggleSpotlightOnMouseDown:
-			// toggle spotlight by pressing key 'c = 67'
-			67: function() { RevealSpotlight.toggleSpotlight() },
-
-			// enter/leave presentation mode by pressing key 'Windows Menu/Right' (93)
-			93: function() {
-				RevealSpotlight.togglePresentationMode();
-			},
-	},
-	//Fin spotlight
       //Opciones coursemod
         coursemod: {
         enabled: false, //enable or disable the plugin, default to false
@@ -181,6 +175,10 @@ $endfor$
               46: function() { RevealChalkboard.clear() },	// clear chalkboard when 'DEL' is pressed
                8: function() { RevealChalkboard.reset() },	// reset chalkboard data on current slide when 'BACKSPACE' is pressed
               68: function() { RevealChalkboard.download() },	// downlad recorded chalkboard drawing when 'd' is pressed
+              82: function() { Recorder.toggleRecording(); }, // press 'r' to start/stop recording
+              90: function() { Recorder.downloadZip(); },   // press 'z' to download zip containing audio files
+              84: function() { Recorder.fetchTTS(); }   // press 't' to fetch TTS audio files
+
 	//Opciones spotlight
 	//81: function() { RevealSpotlight.toggleSpotlight() }, //// toggle spotlight by pressing key 'q'
 	//87: function() { RevealSpotlight.togglePresentationMode() }, // enter/leave presentation mode by pressing key 'w' 'Windows Menu/Right' (93)
@@ -235,6 +233,9 @@ $endfor$
           { src: 'reveal.js/plugin/reveal.js-menu-master/menu.js' },
           $endif$
           { src: 'reveal.js/plugin/chalkboard/chalkboard.js' },
+          // { src: 'reveal.js/plugin/audio-slideshow/RecordRTC.js', condition: function( ) { return !!document.body.classList; } },       
+          // { src: 'reveal.js/plugin/audio-slideshow/slideshow-recorder.js', condition: function( ) { return !!document.body.classList; } },        
+          // { src: 'reveal.js/plugin/audio-slideshow/audio-slideshow.js', condition: function( ) { return !!document.body.classList; } },
           // Muestra la tabla de contenido a pie de página
           //	  { src: 'reveal.js/plugin/toc-progress/toc-progress.js', async: true, callback: function()
           //		{ toc_progress.initialize(); toc_progress.create(); }},

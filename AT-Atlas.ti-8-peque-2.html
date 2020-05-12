@@ -153,6 +153,8 @@ Al crear un proyecto, se nos mostrará la pantalla principal del programa, en la
 </div>
 <aside class="notes">
 <p>Ahora ya podemos añadir los datos al proyecto. Podemos hacerlo añadiendo uno o varios documentos o añadiendo todo el contenido de un directorio. En ambos casos, lo haremos clicando en el icono “Agregar documentos”.</p>
+<p>En el enlace puedes descargar unos datos de ejemplo. Se trata de artículos de opinión en la prensa española sobre la “Prisión permanente revisable”.</p>
+<p>Descarga el archivo “.zip” y <span class="fosforito">descomprímelo</span> en tu ordenador para poder añadir los documentos a un proyecto.</p>
 </aside>
 </section>
 <section id="memoing" class="slide level2">
@@ -290,7 +292,7 @@ Al crear un proyecto, se nos mostrará la pantalla principal del programa, en la
 <aside class="notes">
 <p>Evidentemente, cuando utilizamos la opción “Guardar proyecto”, estamos guardando el estado de nuestro trabajo, pero a diferencia de otros programas, esto no nos permite acceder a ningún archivo que podamos copiar, cambiar el nombre, crear una versión diferente… para ello tendremos que utilizar otras opciones del programa.</p>
 <p>Si queremos crear una copia para conservar el estado de nuestro trabajo en un momento determinado, utilizaremos la opción “Instantánea”, que nos permitirá crear una versión de nuestro análisis de forma que si con posterioridad hacemos cambios que no son satisfactorios, podamos recuperar esa versión previa.</p>
-<p>Aunque hayamos creado instantáneas, seguiremos sin tener la posibilidad de acceder en nuestro ordenador a ningún archivo con el análisis. La única posibilidad que tenemos para acceder a nuestro proyecto es a través del programa y única y exclusivamente en el ordenador en que lo hemos creado.</p>
+<p>Aunque hayamos creado instantáneas, seguiremos sin tener la posibilidad de acceder en nuestro ordenador a ningún archivo con el análisis. La única posibilidad que tenemos para acceder a nuestro proyecto es través del programa, y única y exclusivamente en el ordenador en que lo hemos creado.</p>
 <p>Para disponer de una copia del proyecto que podamos “transportar” entre diferentes ordenadores (o simplemente como un sistema de copia de seguridad), tenemos que utilizar la opción “Exportar &gt; Paquete de proyecto”, que creará un archivo (con extensión .atlproj) que podremos abrir en otros ordenadores con la opción “Importar proyecto” que habíamos visto en la pantalla inicial.</p>
 </aside>
 </section>
@@ -313,55 +315,151 @@ Al crear un proyecto, se nos mostrará la pantalla principal del programa, en la
 <section id="section-1" class="slide level2" data-transition="none">
 <h2></h2>
 <p><img data-src="imagenes-atlas-8/Categorizacion01.png" class="noshadow" /></p>
+<aside class="notes">
+<p>Imaginemos que partimos de una situación como la de la imagen, en la que tenemos seis códigos con sus correspondientes citas. Lo que haremos, será depurar empezando por los códigos que tienen un mayor número de citas, en este caso los códigos “C1” y “C2”.</p>
+</aside>
 </section>
 <section id="section-2" class="slide level2" data-transition="none">
 <h2></h2>
 <p><img data-src="imagenes-atlas-8/Categorizacion02.png" class="noshadow" /></p>
+<aside class="notes">
+<p>Puede ocurrir que el gran número de citas que incluye “C1” obedezca a que hemos asignado fragmentos que en realidad tienen significados diferentes, por lo que la “comparación intra” puede llevarnos a decidir que en realidad este conjunto de citas lo tenemos que asignar a tres códigos diferentes, por lo que crearemos tres nuevos códigos.</p>
+</aside>
 </section>
 <section id="section-3" class="slide level2" data-transition="none">
 <h2></h2>
 <p><img data-src="imagenes-atlas-8/Categorizacion03.png" class="noshadow" /></p>
+<aside class="notes">
+<p>Lo mismo nos puede ocurrir con “C2”, aunque en este caso no sólo lo hemos dividido en dos códigos, sino que además esos dos códigos los consideramos subcategorías de un nuevo código (ver más adelante la creación de relaciones entre códigos).</p>
+</aside>
 </section>
 <section id="section-4" class="slide level2" data-transition="none">
 <h2></h2>
 <p><img data-src="imagenes-atlas-8/Categorizacion04.png" class="noshadow" /></p>
+<aside class="notes">
+<p>En el caso de los códigos “C3” y “C4”, la “comparación intra” no nos lleva a ningún cambio, pero la “comparación inter” nos hace ver que en realidad hemos creado dos códigos para un mismo concepto, por lo que uniremos todas las citas en un único código (con la función “unir códigos”).</p>
+</aside>
 </section>
 <section id="section-5" class="slide level2" data-transition="none">
 <h2></h2>
 <p><img data-src="imagenes-atlas-8/Categorizacion05.png" class="noshadow" /></p>
+<aside class="notes">
+<p>La comparación “inter” del código “C6” nos puede llevar a darnos cuenta de que es equivalente a uno de los códigos que habíamos creado durante la depuración, por lo que de los uniremos.</p>
+</aside>
 </section>
 <section id="section-6" class="slide level2" data-transition="none">
 <h2></h2>
 <p><img data-src="imagenes-atlas-8/Categorizacion06.png" class="noshadow" /></p>
+<aside class="notes">
+<p>Finalmente, el análisis del código “C5” nos lleva a relacionarlo con la categoría “CAT1”.</p>
+<p>Como vemos, el resultado final puede ser una importante reorganización de nuestro sistema de codificación. Esto es algo habitual, y no debemos preocuparnos si durante el análisis nos vemos en la necesidad de realizar cambios (aunque sería importante que siempre los documentemos).</p>
+</aside>
 <h6 id="friese_using_2011" class="autor"><span class="citation" data-cites="friese_using_2011">Friese (2011)</span></h6>
 </section>
 <section id="depurar-codigos" class="slide level2">
 <h2>Ejercicio: Depurar códigos</h2>
 <p>Descargar/Importar <a href="https://bit.ly/2EHBgbD" class="uri fosforito medium" target="_blank">https://bit.ly/2EHBgbD</a></p>
-<p><img data-src="imagenes-atlas-8/Menu-imprimir.png" class="border" /></p>
+<p><img data-src="imagenes-atlas-8/A8-depurar.png" class="border" /></p>
 <ul>
 <li>Generar <span class="resaltar">Informe</span> de todas las citas de un código.</li>
 <li>Generar informe de un conjunto de códigos.</li>
 <li><span class="resaltar">Dividir</span> un código en dos.</li>
 <li><span class="resaltar">Fusionar</span> varios códigos.</li>
 </ul>
-</section>
-<section><section id="preguntas" class="title-slide slide level1 center" data-state="opacidad" data-background="fondos/Research.jpg" data-background-transition="zoom"><h1>Preguntas</h1></section><section id="analizar" class="slide level2">
-<h2>Analizar</h2>
-<p><img data-src="imagenes-atlas-8/Analizar-8.png" /></p>
-</section><section id="pregunta-1a" class="slide level2">
-<h2>Pregunta 1a</h2>
-<h4 id="qué-actores-aparecen-en-las-secciones-utilizadas-para-captar-la-atención-títulos">¿Qué “actores” aparecen en las secciones utilizadas para captar la atención (títulos…)?</h4>
-<div class="fragment">
+<aside class="notes">
+<p>Para la depuración de los códigos nos pueden ser útiles algunas de las funcionalidades a las que tenemos acceso desde la pestaña “Códigos” (la podremos ver si tenemos activo el “Administrador de códigos”).</p>
 <ul>
-<li><span class="resaltar">Escribir Memo</span>.</li>
-<li>Identificar secciones.</li>
-<li>Identificar “actores”.</li>
-<li>…</li>
+<li>Podemos “Duplicar”, “Renombrar” o “Eliminar” códigos.</li>
+<li>Con los “Informes” podremos generar listados de las citas de uno o más códigos, lo que nos permitirá tomar decisiones sobre su ideoneidad o no para el código.</li>
+<li>Y a partir de las decisiones anteriores podemos utilizar la herramienta “Fusionar códigos” cuando, por ejemplo, pensamos que es conveniente unir varios de los códigos iniciales en un único código. Si por el contrario decidimos que parte de las citas de un código en realidad tienen un “significado” diferente, podemos utilizar la herramienta “Dividir código”, que nos facilitará de una forma considerable el proceso.</li>
+</ul>
+<p>Si quieres probar la unión y división de códigos, puedes descargar el proyecto del enlace que aparece en la pantalla (e importarlo en Atlas.ti). Encontrarás dos códigos: “críticas” y “opinion-publica”. Puedes intentar dividir el primero en diferentes códigos para diferentes tipos de críticas y con el segundo crear un código específico para aquellas citas que hagan referencia a encuestas a la población.</p>
+</aside>
+</section>
+<section id="agrupar" class="slide level2">
+<h2>Agrupar</h2>
+<figure>
+<img data-src="imagenes-atlas-8/Grupos.png" alt="Tipos de Grupos" /><figcaption>Tipos de Grupos</figcaption>
+</figure>
+<aside class="notes">
+<p>Una de las opciones que nos ofrece el programa, es la de crear agrupaciones de elementos (documentos, códigos, memos y redes).</p>
+<p>En el siguiente vídeo puedes ver cómo hacerlo.</p>
+</aside>
+</section>
+<section id="agrupar-2" class="slide level2">
+<h2>Agrupar</h2>
+<video width="800"  class="stretch" controls>
+<source src="imagenes-atlas-8/agrupar.mp4">
+</video>
+<aside class="notes">
+<p>En el minuto 5 del vídeo, cuando se dice “grupos de documentos” debería decir “grupos de códigos”</p>
+</aside>
+</section>
+<section id="ejercicio-grupos-codigos" class="slide level2">
+<h2>Ejercicio: grupos de códigos</h2>
+<!-- ![](imagenes-atlas-8/Menu-codigos.png) -->
+<div>
+<ul>
+<li>Descargar <a href="https://bit.ly/2WOWX0V" class="uri" target="_blank">https://bit.ly/2WOWX0V</a></li>
+<li>Crear grupos de documentos.</li>
+<li>Crear grupos de códigos.</li>
 </ul>
 </div>
-</section><section id="section-7" class="slide level2">
-<h2></h2>
+<aside class="notes">
+<p>Descarga e importa el proyecto <em>Prision-Permanente-01a.atlproj</em> y, siguiendo las instrucciones del vídeo anterior, crea grupos de documentos (por diario y por fecha) y grupos de códigos (actores y secciones).</p>
+</aside>
+</section>
+<section id="analizar" class="slide level2">
+<h2>Analizar</h2>
+<h5 id="qué-actores-aparecen-en-las-secciones-utilizadas-para-captar-la-atención-títulos">¿Qué “actores” aparecen en las secciones utilizadas para captar la atención (títulos…)?</h5>
+<p><img data-src="imagenes-atlas-8/Analizar-8.png" /></p>
+<aside class="notes">
+<p>Con los datos de que disponemos, ya podemos realizar alguna “pregunta” al programa. Por ejemplo, dado que tenemos códigos de “actores” y “códigos” de secciones, nos podría interesar saber cómo aparecen los “actores” en las diferentes secciones de los artículos. Por ejemplo “¿quienes aparecen más en las imágenes?” “¿qué actores son mencionados prioritariamente en los titulares?”</p>
+<p>Para contestar esta pregunta, utilizaremos una de las herramientas de la pestaña “Analizar”, la <span class="fosforito">“Tabla de co-ocurrencias”</span>, que nos permitirá identificar las citas que co-ocurren en dos códigos.</p>
+</aside>
+</section>
+<section id="coocurrencias-0" class="slide level2" data-transition="none">
+<h2>Co-ocurrencias</h2>
+<p><img data-src="imagenes-atlas-8/Cooc-Marquez-00.png" class="border" style="width:75.0%" /></p>
+<aside class="notes">
+<p>Las coocurrencias son las citas (codificadas) que presentan algún grado de solapamiento entre sí, por lo tanto, las coocurrencias de códigos nos indican los códigos con los que están codificados esas citas. Cuando dos códigos presentan coocurrencias, significa que un significado (código) está en cierta forma relacionado con otro.</p>
+</aside>
+</section>
+<section id="coocurrencias-1" class="slide level2" data-transition="none">
+<h2>Co-ocurrencias</h2>
+<p><img data-src="imagenes-atlas-8/Cooc-Marquez-00-1.png" class="border" style="width:75.0%" /></p>
+</section>
+<section id="coocurrencias-2" class="slide level2" data-transition="none">
+<h2>Co-ocurrencias</h2>
+<p><img data-src="imagenes-atlas-8/Cooc-Marquez-00-2.png" class="border" style="width:75.0%" /></p>
+</section>
+<section id="analizar-tabla-de-coocurrencias" class="slide level2">
+<h2>Analizar: Tabla de coocurrencias</h2>
+<video width="800"  class="stretch" controls>
+<source src="imagenes-atlas-8/co-ocurrencias.mp4">
+</video>
+</section>
+<section id="documentar-análisis" class="slide level2">
+<h2>Documentar Análisis</h2>
+<p><em>Research question memos</em></p>
+<div>
+<ul>
+<li>PI#: Descripción de la pregunta:</li>
+<li>Descripción de los pasos que se han dado con Atlas para su respuesta:</li>
+<li>Respuesta:</li>
+<li>Captura de pantalla (si es necesario/conveniente)</li>
+<li>Desarrollo (elaboración para informe):</li>
+<li>Vincular con este memo citas ilustrativas que apoyen los argumentos dados</li>
+</ul>
+</div>
+<p><span class="citation" data-cites="friese-QualitativeData-2014">Friese (2014, p. 167 y ss.)</span></p>
+<aside class="notes">
+<p>A medida que vamos realizando nuestro análisis y “formulando preguntas” al programa, debemos documentar este trabajo mediante la escritura de lo que Susan Friese denomina <em>Research question memos</em>, “Research question memos are analytic memos. I describe them as places where you develop the interpretation of your data step by step” <span class="citation" data-cites="friese-QualitativeData-2014">Friese (2014, p. 167)</span>.</p>
+<p>En la “diapositiva” puedes ver un ejemplo de los contenidos que debería incluir una memo de este tipo. En el proyecto que has descargado, también encontrarás un memo describiendo la pregunta sobre co-ocurrencias y una “plantilla” para reutilizar en otras preguntas (utilizando la opción “Duplicar memos”).</p>
+</aside>
+</section>
+<section id="pregunta-1" class="slide level2">
+<h2>Pregunta 1</h2>
 <h5 id="qué-actores-aparecen-en-las-secciones-utilizadas-para-captar-la-atención-títulos-1">¿Qué “actores” aparecen en las secciones utilizadas para captar la atención (títulos…)?</h5>
 <ul>
 <li>Escribir Memo</li>
@@ -369,288 +467,82 @@ Al crear un proyecto, se nos mostrará la pantalla principal del programa, en la
 <li>Identificar “actores”.</li>
 <li><span class="resaltar">Buscar co-ocurrencias.</span>.</li>
 </ul>
-<p><img data-src="imagenes-atlas-8/Analizar-8.png" /></p>
-</section><section id="coocurrencias-0" class="slide level2" data-transition="none">
-<h2>Co-ocurrencias</h2>
-<p><img data-src="imagenes-atlas-8/Cooc-Marquez-00.png" class="border" style="width:75.0%" /></p>
-<aside class="notes">
-<p>Las coocurrencias son las citas (codificadas) que presentan algún grado de solapamiento entre sí, por lo tanto, las coocurrencias de códigos nos indican los códigos con los que están codificados esas citas. Cuando dos códigos presentan coocurrencias, significa que un significado (código) está en cierta forma relacionado con otro.</p>
-</aside>
-</section><section id="coocurrencias-1" class="slide level2" data-transition="none">
-<h2>Co-ocurrencias</h2>
-<p><img data-src="imagenes-atlas-8/Cooc-Marquez-00-1.png" class="border" style="width:75.0%" /></p>
-</section><section id="coocurrencias-2" class="slide level2" data-transition="none">
-<h2>Co-ocurrencias</h2>
-<p><img data-src="imagenes-atlas-8/Cooc-Marquez-00-2.png" class="border" style="width:75.0%" /></p>
-</section><section id="tabla-de-co-coocurrencias" class="slide level2">
-<h2>Tabla de co-coocurrencias</h2>
-<figure>
-<img data-src="imagenes-atlas-8/Tabla-co-ocurrencias.png" alt="Resultados Tabla de co-ocurrencias" class="border noshadow" /><figcaption>Resultados Tabla de co-ocurrencias</figcaption>
-</figure>
-<aside class="notes">
-<p>Para llegar al resultado de la imagen, en primer lugar se ha añadido un identificador a las etiquetas de códigos, “es:” para los códigos “estructurales”, y “ac:” a los códigos que identifican a los diferentes “actores”. De esta forma, aparecerán juntos en el Administrador de códigos. Además, al acceder a la herramienta “Tabla de co-ocurrencias”, podemos filtrar fácilmente “es:” en filas y “ac:” en columnas.</p>
-</aside>
-</section><section id="section-8" class="slide level2">
-<h2></h2>
-<p>Descargar/Importar <a href="https://bit.ly/2WWDY3T" class="uri fosforito medium" target="_blank">https://bit.ly/2WWDY3T</a></p>
-</section><section id="agrupar" class="slide level2">
-<h2>Agrupar</h2>
-<figure>
-<img data-src="imagenes-atlas-8/Grupos.png" alt="Tipos de Grupos" /><figcaption>Tipos de Grupos</figcaption>
-</figure>
-</section><section id="ejercicio-grupos-codigos" class="slide level2">
-<h2>Ejercicio: grupos de códigos</h2>
-<p><img data-src="imagenes-atlas-8/Menu-codigos.png" /></p>
-<ul>
-<li>Crear grupos de códigos.
-<ul>
-<li>Desde el <span class="resaltar">Administrador de códigos</span>.</li>
-<li>Con el <span class="resaltar">Administrador de grupos de códigos</span>.</li>
-</ul></li>
-</ul>
-</section><section id="pregunta-1b" class="slide level2">
-<h2>Pregunta 1b</h2>
-<h4 id="cómo-presentan-esa-información-los-diferentes-diarios">¿Cómo presentan esa información los diferentes diarios?</h4>
-<div class="fragment">
-<div>
-<ul>
-<li>Escribir Memo</li>
-<li>Grupos de documentos.</li>
-<li><span class="resaltar">Grupos inteligentes</span> de documentos.</li>
-<li><span class="resaltar">Activar filtro global</span>.</li>
-</ul>
-</div>
-<p><img data-src="imagenes-atlas-8/GruposDocumentos.png" /></p>
-</div>
-</section><section id="grupos-inteligentes" class="slide level2">
-<h2>Grupos “inteligentes”</h2>
-<table>
-<thead>
-<tr class="header">
-<th style="text-align: left;"></th>
-<th style="text-align: center;">+ Derechas</th>
-<th style="text-align: center;">- Derechas</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">Pre (15 marzo)</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Post</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-</tr>
-</tbody>
-</table>
-<div class="fragment">
-<p><img data-src="imagenes-atlas-8/GruposDocumentos-ej.png" class="noshadow" /></p>
-<!-- # Estructurar {.center data-state=opacidad data-background="imagenes-cuali/hanging-files.jpg" data-background-transition=zoom} -->
-</div>
-</section><section id="pregunta-2" class="slide level2">
+</section>
+<section id="pregunta-2" class="slide level2">
 <h2>Pregunta 2</h2>
-<h4 id="en-qué-contextos-aparecen-las-víctimas">¿En qué contextos aparecen las víctimas?</h4>
-<div class="fragment">
-<ul>
-<li><span class="resaltar">Autocodificar</span> Cruz, Quer…</li>
-</ul>
-<p><img data-src="imagenes-cuali/Autocodificacion-menu-8-01.png" /></p>
-</div>
-</section><section id="autocodificacion" class="slide level2">
-<h2>Autocodificación</h2>
-<p><img data-src="imagenes-atlas-8/Autocodificacion.png" class="noshadow" /></p>
-</section><section id="pregunta-3" class="slide level2">
-<h2>Pregunta 3</h2>
-<h4 id="qué-características-tienen-los-contenidos-que-son-citas-textuales">¿Qué características tienen los contenidos que son citas textuales?</h4>
-<ul>
-<li>Codificar todos los fragmentos entre cualquier tipo de comillas.</li>
-<li>Tabla de co-coocurrencias.</li>
-<li>Ver memo “co:Citas literales”.</li>
-<li>Autocodificar.</li>
-</ul>
-<p><a href="https://regex101.com/" class="peque" target="_&quot;blank&quot;">Puedes hacer pruebas en https://regex101.com/</a></p>
-</section><section id="codificacion-grupo-focal" class="slide level2">
-<h2>Codificación de grupo focal</h2>
-<p><img data-src="imagenes-atlas-8/CodificacionGrupoFocal-8.png" /></p>
+<h5 id="qué-actores-aparecen-en-las-secciones-utilizadas-para-captar-la-atención-títulos-2">1 - ¿Qué “actores” aparecen en las secciones utilizadas para captar la atención (títulos…)?</h5>
+<h4 id="cómo-presentan-esa-información-los-diferentes-diarios">2 - ¿Cómo presentan esa información los diferentes diarios?</h4>
 <aside class="notes">
-<p>Se pueden introducir expresiones GREP. La etiqueta de código será lo que esté definido en la expresión. Si el primer carácter es @ o el último es “:”, no se incluirán en la etiqueta de código.</p>
-<p>Por ejemplo:</p>
-<p><code>@\S+:</code> creará etiquetas de código de cualquier carácter que no sea espacio <code>\S</code>, de cualquier longitud <code>+</code>, seguido de <code>:</code></p>
-<p><code>Ent-\d+:</code> Creará etiquetas con la raíz “Ent-” seguido de uno o más dígitos</p>
+<p>Ahora puedes intentar contestar una nueva pregunta “¿Cómo presentan esa información los diferentes diarios?”. Tendremos que volver a utilizar la <em>Tabla de co-ocurrencias</em>, pero realizando el análisis para cada uno de los diarios por separado. Para ello, tendrás que utilizar la opción <span class="resaltar"><em>Activar filtro global</em></span> sobre cada uno de los grupos antes de realizar el análisis de co-ocurrencias.</p>
 </aside>
-</section></section>
-<section><section id="relaciones" class="title-slide slide level1 center" data-background="imagenes-cuali/network.jpg" data-background-transition="zoom" data-state="opacidad"><h1>Relaciones</h1></section><section id="relaciones-1" class="slide level2">
+</section>
+<section id="relaciones" class="slide level2">
 <h2>Relaciones</h2>
 <p><img data-src="imagenes-atlas-8/TiposRelaciones-8.png" /></p>
 <aside class="notes">
-<p>Existen pocas limitaciones en cuanto a cómo crear citas libres, pueden ser de cualquier extensión, pueden solaparse entre ellas… pero sí que tenemos la limitación de que una cita no puede ser “discontínua”, es decir, no puede tener una primera parte, p.ej. de la línea 3 a 5, y una segunda parte de la 8 a la 10 sin que estén incluidas las líneas 6 y 7. Esto podría provocar que se pierda el significado si no se tiene en cuenta la primera parte, por lo que tendríamos que incluir todas las líneas. Pero si eso implica tener una cita excesivamente larga, otra opción sería crear dos citas y una relación entre ambas.</p>
+<p>Otra forma de organización de los datos es mediante la creación de relaciones entre elementos. Como vemos en la imagen, podemos crear relaciones entre citas, entre códigos, entre memos, entre citas y códigos (codificación)…</p>
 </aside>
-</section><section id="ejercicio-relaciones-entre-citas" class="slide level2">
-<h2>Ejercicio: Relaciones entre citas</h2>
-<p><img data-src="imagenes-atlas-8/menu-hyperlinks.png" class="border" /></p>
-<ul>
-<li>Crear relaciones entre citas del mismo/diferente documento.</li>
-<li>“Navegar” entre citas.</li>
-<li>Explorar relaciones con el <span class="resaltar">Administrador de vínculos</span>.</li>
-</ul>
-</section><section id="estructura-grupos-codigos-1" class="slide level2">
+</section>
+<section id="estructura-grupos-codigos-1" class="slide level2">
 <h2>Estructura: Grupos de códigos…</h2>
 <p><img data-src="imagenes-atlas-8/Sentimientos-01.png" /></p>
-</section><section id="estructura-grupos-codigos-2" class="slide level2" data-transition="none">
+<aside class="notes">
+<p>Veamos un ejemplo de relaciones entre códigos.</p>
+<p>Imaginemos que tenemos cuatro códigos: amor, gratitud, ira y odio. Dado que todos ellos hacen referencia a sentimientos, podríamos crear grupos de códigos del tipo “Sentimientos positivos”, “Sentimientos negativos”, o un grupo “SENTIMIENTOS” que los englobara a todos.</p>
+<p>Pasa a la siguiente diapositiva</p>
+</aside>
+</section>
+<section id="estructura-grupos-codigos-2" class="slide level2" data-transition="none">
 <h2>Estructura: Grupos de códigos</h2>
 <p><img data-src="imagenes-atlas-8/Sentimientos-02.png" /></p>
-</section><section id="estructura-relaciones-codigos-1" class="slide level2" data-transition="none">
-<h2>Estructura: Relaciones entre códigos…</h2>
-<p><img data-src="imagenes-atlas-8/Sentimientos-03.png" /></p>
-</section><section id="estructura-relaciones-codigos-2" class="slide level2" data-transition="none">
+<aside class="notes">
+<p>La estrategia de crear grupos es correcta, pero imaginemos que además de esos códigos tenemos un código “EMOCIONES” y otro “Relaciones sociales”. Podemos suponer que existe alguna relación entre esos códigos y los “SENTIMIENTOS”, por ejemplo que las “Emociones” <em>causan</em> “Sentimientos” y que los “Sentimientos” <em>causan</em> (afectan, influyen…) las “Relaciones-sociales”.</p>
+<p>Dado que “SENTIMIENTOS” es un grupo, la única forma que tenemos de relacionarlo con los códigos sería haciendo que formaran parte de ese grupo, algo que no reflejaría el tipo de relación que queríamos crear.</p>
+<p>Pasa a la siguiente diapositiva</p>
+</aside>
+</section>
+<section id="estructura-relaciones-codigos-2" class="slide level2" data-transition="none">
 <h2>Estructura: Relaciones entre códigos…</h2>
 <p><img data-src="imagenes-atlas-8/Sentimientos-04.png" /></p>
-<!-- ## Estructura: Relaciones entre códigos {#estructura-relaciones-codigos}
-
-![](imagenes-atlas-8/Estructura-con-relaciones.png)
-
-## Jerarquías de códigos {#jerarquias-codigos-2}
-
-![](imagenes-atlas-8/JerarquiasCodigos.png) -->
-</section><section id="ejercicio-relaciones-entre-códigos" class="slide level2">
+<aside class="notes">
+<p>Necesitamos por lo tanto una estrategia diferente que implica crear nuevos códigos y crear relaciones entre códigos.</p>
+<p>En primer lugar, crearemos los códigos (no grupos) “Sentimiento positivo”, “Sentimiento negativo” y “SENTIMIENTOS”, es decir, utilizaremos códigos para poder crear relaciones. A continuación crearemos relaciones de tipo “es un” entre los diferentes tipos de sentimientos y sus códigos correspondientes. Esta relación sería conceptualmente equivalente a decir “amor” forma parte del grupo “Sentimiento positivo”, pero en este caso en vez de una asignación a un grupo, establecemos una relación. De la misma forma, creamos las relaciones entre “Sentimiento positivo” y “Sentimiento negativo” con “SENTIMIENTOS”, puesto que ambos “son” tipos de sentimientos. De esta forma hemos creado una “jerarquía” de códigos relacionados con los sentimientos. Finalmente ya podemos crear las relaciones EMOCIONES &gt; SENTIMIENTOS &gt; Relaciones sociales.</p>
+<p>En el próximo vídeo puedes ver todo el proceso.</p>
+</aside>
+</section>
+<section id="relaciones-redes" class="slide level2">
+<h2>Relaciones y redes</h2>
+<video width="800"  class="stretch" controls>
+<source src="imagenes-atlas-8/relaciones-redes.mp4">
+</video>
+</section>
+<section id="ejercicio-relaciones-entre-códigos" class="slide level2">
 <h2>Ejercicio: Relaciones entre códigos</h2>
-<ul>
-<li>Crear relaciones “es una” entre códigos.</li>
-<li>Crear otros tipos de relaciones.</li>
-<li>Definir un nuevo tipo de relación.</li>
-</ul>
-<p>Descargar y renombrar <a href="https://bit.ly/2BvAw76" class="uri fosforito medium" target="_blank">https://bit.ly/2BvAw76</a></p>
-</section></section>
-<section><section id="vistas-de-red" class="title-slide slide level1 center" data-background="imagenes-cuali/neurons.jpg" data-background-transition="zoom" data-state="opacidad"><h1>Vistas de red</h1></section><section id="section-9" class="slide level2">
-<h2></h2>
+<p>Reproduce la estructura de relaciones “sentimientos”</p>
+</section>
+<section id="redes-temáticas" class="slide level2">
+<h2>Redes temáticas</h2>
 <blockquote>
 <p>Aplicar redes temáticas es simplemente una forma de organizar un análisis temático de datos cualitativos. Los análisis temáticos intentan descubrir los temas más destacados en un texto a diferentes niveles, y las redes temáticas tienen como objetivo <span class="fosforito">facilitar la estructuración y representación</span> de esos temas.<br />
 <span class="citation" data-cites="attride_stirling2001">Attride-Stirling (2001, p. 387)</span></p>
 </blockquote>
-</section><section id="redes-tematicas" class="slide level2">
+</section>
+<section id="redes-tematicas" class="slide level2">
 <h2>Redes temáticas</h2>
 <figure>
 <img data-src="imagenes-cuali/RedesTematicas.png" alt="Attride-Stirling, 2001. p. 388" /><figcaption>Attride-Stirling, 2001. p. 388</figcaption>
 </figure>
-</section><section id="relaciones-codigos-donacion" class="slide level2">
+</section>
+<section id="relaciones-codigos-donacion" class="slide level2">
 <h2>Redes</h2>
 <p><img data-src="imagenes-atlas-8/red-donacion.png" style="width:85.0%" /></p>
-</section></section>
-<section><section id="consultas" class="title-slide slide level1 center" data-background="imagenes-cuali/query.jpg" data-background-transition="zoom" data-state="opacidad"><h1>Consultas</h1></section><section id="consultas-1" class="slide level2">
-<h2>Consultas</h2>
-<figure>
-<img data-src="imagenes-cuali/Analizar-Consulta-8.png" alt="Herramienta de consulta" /><figcaption>Herramienta de consulta</figcaption>
-</figure>
-</section><section id="consultas-operadores-booleanos" class="slide level2">
-<h2>Consultas: Operadores Booleanos</h2>
-<p><img data-src="imagenes-atlas-8/Operadores-Booleanos-8.png" /></p>
-</section><section id="operadores-booleanos" class="slide level2">
-<h2>Operadores Booleanos</h2>
-<p><img data-src="imagenes-atlas-8/VennBooleanos-00.png" /></p>
-</section><section id="construccion-booleana-1" class="slide level2">
-<h2>Construcción de una consulta</h2>
-<p>Todas las citas codificadas como C1 <strong>Y</strong> C2 <strong>O</strong> como C1 y C3</p>
-<div class="columns">
-<div class="column" style="width:40%;">
-<p><img data-src="imagenes-atlas-8/VennBooleanos-01.png" width="300" /></p>
-</div><div class="column" style="width:60%;">
-<p><img data-src="imagenes-atlas-8/Consulta-booleanos-01.png" width="450" /></p>
-</div>
-</div>
-<p>Descargar y renombrar <a href="https://bit.ly/2SD7368" class="uri fosforito" target="_blank">https://bit.ly/2SD7368</a></p>
-</section><section id="construccion-booleana-2" class="slide level2" data-transition="none">
-<h2>Construcción de una consulta</h2>
-<p>Todas las citas codificadas como C1 <strong>O</strong> C2 pero <strong>NO</strong> como C3</p>
-<div id="column1" style="float:left; margin:0; width:40%;">
-<p><img data-src="imagenes-atlas-8/VennBooleanos-02.png" width="300" /></p>
-</div>
-<div class="fragment">
-<div id="column1" style="float:left; margin:0; width:60%;">
-<p><img data-src="imagenes-atlas-8/Consulta-booleanos-02.png" width="450" /></p>
-</div>
-</div>
-</section><section id="construccion-booleana-3" class="slide level2" data-transition="none">
-<h2>Construcción de una consulta</h2>
-<p>Todas las citas codificadas como C1 <strong>O</strong> C2 <strong>O</strong> como C3 <strong>Y</strong> C4 <strong>Y</strong> <strong>NO</strong> como C1 <strong>Y</strong> C3</p>
-<div id="column1" style="float:left; margin:0; width:40%;">
-<p><img data-src="imagenes-atlas-8/VennBooleanos-03.png" width="300" /></p>
-</div>
-<div class="fragment">
-<div id="column1" style="float:left; margin:0; width:60%;">
-<p><img data-src="imagenes-atlas-8/Consulta-booleanos-03.png" width="450" /></p>
-</div>
-</div>
-</section><section id="operadores-semanticos" class="slide level2">
-<h2>Operadores Semánticos</h2>
-<p><img data-src="imagenes-atlas-8/Operadores-Semanticos-8.png" /></p>
-</section><section id="ejemplo-operadores-semanticos" class="slide level2">
-<h2>Operadores Semánticos</h2>
-<p><img data-src="imagenes-atlas-8/RedSentimientos.png" /></p>
-</section><section id="operadores-de-proximidad" class="slide level2">
-<h2>Operadores de Proximidad</h2>
-<p><img data-src="imagenes-atlas-8/Operadores-Proximidad-8.png" /></p>
-</section><section id="section-10" class="slide level2">
+</section>
+<section><section id="referencias" class="title-slide slide level1 center" data-background="imagenes-cuali/books.jpg" data-background-transition="zoom" data-state="opacidad"><h1>Referencias</h1></section><section id="section-7" class="slide level2 scrollable peque">
 <h2></h2>
-<p><img data-src="imagenes-cuali/Proximidad-8.png" /></p>
-<!-- ## Ejemplo consulta
+<!-- ##
 
-![](imagenes-cuali/Consulta-8-ejemplo-01.png)
-
-## Ejemplo consulta
-
-![](imagenes-cuali/Consulta-8-ejemplo-02.png)
-
-### https://bit.ly/2JoJhCg
-
-<!--
-## Consultas: Alcance
-
-![](imagenes-cuali/ConsultasAlcance.png)
--->
-</section><section id="buscar-texto" class="slide level2">
-<h2>Buscar texto</h2>
-<p><img data-src="imagenes-cuali/Buscar-8.png" /></p>
-<p><!--
- Conjunto de términos
-   : `Jorquera|Pérez-Bouza`
-
- Categoría
-   : `BNG:=Jorquera|Pérez-Bouza`
-
- Múltiples categorías
-   : `AUTONOMICO:= $AMAIUR|$BNG|$CC|$CiU`
-
-
- ## GREP
-
-   |  Operador   | Función                                                                        |
-   |:-----------:|:-------------------------------------------------------------------------------|
-   | ^*término*  | Limita la expresión de búsqueda que sigue al marcador al principio de la línea |
-   | *término*$  | Limita la expresión de búsqueda precedente al final de la línea                |
-   | \<*término* | Limita la expresión de búsqueda siguiente al inicio de una palabra             |
-   | *término*\> | Limita la expresión de búsqueda precedente al inicio de una palabra            |
-   |     \\B     | Limita la expresión de búsqueda siguiente a NO incio de palabra                |
-   |      .      | Localiza cualquier carácter                                                    |
-   |     \\w     | Localiza cualquier carácter alfanumérico                                       |
-   |      *      | Localiza cualquier cantidad (o su ausencia) de la expresión precedente         |
-   |      +      | Localiza al menos una ocurrencia de la expresión precedente                    |
-
- --></p>
-</section></section>
-<section><section id="otras-herramientas" class="title-slide slide level1"><h1>Otras herramientas</h1></section></section>
-<section><section id="referencias" class="title-slide slide level1 center" data-background="imagenes-cuali/books.jpg" data-background-transition="zoom" data-state="opacidad"><h1>Referencias</h1></section><section id="section-11" class="slide level2 scrollable peque">
-<h2></h2>
-<!--
-
-# Organización Datos {.center data-state=opacidad data-background="imagenes-cuali/hanging-files.jpg" data-background-transition=zoom }
-
-
-# Informes {.center data-background="imagenes-cuali/reports.jpg" data-background-transition=zoom data-state=opacidad}
-
-
--->
+Descargar/Importar [https://bit.ly/2WWDY3T](https://bit.ly/2WWDY3T){.fosforito .medium target="_blank"}
+ -->
 <div id="refs" class="references">
 <div id="ref-attride_stirling2001">
 <p>Attride-Stirling, J. (2001). Thematic networks: An analytic tool for qualitative research. <em>Qualitative Research</em>, <em>1</em>(3), 385–405. <a href="http://doi.org/10.1177/146879410100100307" class="uri">http://doi.org/10.1177/146879410100100307</a></p>
@@ -666,6 +558,9 @@ Al crear un proyecto, se nos mostrará la pantalla principal del programa, en la
 </div>
 <div id="ref-friese_using_2011">
 <p>Friese, S. (2011). Using ATLAS.Ti for Analyzing the Financial Crisis Data. <em>Forum Qualitative Sozialforschung / Forum: Qualitative Social Research</em>, <em>12</em>(1).</p>
+</div>
+<div id="ref-friese-QualitativeData-2014">
+<p>Friese, S. (2014). <em>Qualitative Data Analysis with ATLAS.Ti</em> (Second). London: SAGE.</p>
 </div>
 <div id="ref-friese-Carryingout-2018">
 <p>Friese, S., Soratto, J., &amp; Pires, D. (2018). Carrying out a computer-aided thematic content analysis with ATLAS.Ti. <em>IWMI Working Papers</em>, <em>18</em>, 1–30.</p>

@@ -13,7 +13,7 @@ lateral-menu: 'True'
 ...
 
 
-# El rumor{.center data-background="imagenes-APCS-6/Rumor-01.jpg" data-background-transition=fade data-state=opacidad}
+# El rumor{.center data-background="imagenes-rumor/Rumor-01.jpg" data-background-transition=fade data-state=opacidad}
 
 ## Definición {#definicion}
 
@@ -23,11 +23,11 @@ lateral-menu: 'True'
 <!--
 ## Ejemplos
 
-![](imagenes-APCS-6/Rumor-whatsap.jpg)
+![](imagenes-rumor/Rumor-whatsap.jpg)
 
 ##
 
-![](imagenes-APCS-6/Rumor-telefono.png)
+![](imagenes-rumor/Rumor-telefono.png)
  -->
 
 ## Tipos de rumor
@@ -40,24 +40,24 @@ lateral-menu: 'True'
 * De atrocidades
 * De conspiraciones
 
-###### @knapp_psychology_1944 {.autor}
+###### @knapp-Psychologyrumor-1944 {.autor}
 
 ## Procter & Gamble
 
-![](imagenes-APCS-6/ProcterGamble.png)
+![](imagenes-rumor/ProcterGamble.png){height=500px}
 
 ## Panfleto de Villejuif
 
-![](imagenes-APCS-6/Villejuif.jpg)
+![](imagenes-rumor/Villejuif.jpg){height=500px}
 
 ## Allport y Postman: Transmisión serial {#transmision-serial}
 
-![](imagenes-APCS-6/AllportPostman.jpg)
+![](imagenes-rumor/AllportPostman.jpg){height=500px}
 
 ##
 
 >El enfoque de Allport y Postman es diferente del que trata el rumor como una forma de opinión pública y a la opinión pública como un complejo proceso colectivo. Asumen que el contexto social en el que se producen los rumores puede reducirse a una simple cadena de sujetos; que, por implicación, la amplia circulación del rumor no es nada más que la adición de tales cadenas; y que el rumor puede ser explicado, al menos en parte, por referencia a mecanismos psicológicos uniformes y omnipresentes como 'el proceso economizador de memoria'.\
-@peterson_rumor_1951 [, p. 161]
+@peterson-Rumorpublic-1951 [, p. 161]
 
 ## Allport y Postman: Tranformación {#transformacion}
 
@@ -65,16 +65,16 @@ lateral-menu: 'True'
 * **Acentuación**: Percepción, retención y narración selectiva de un limitado número de pormenores de un contexto mayor.
 * **Asimilación**: Distorsión de la información por asimilación a los marcos de referencia de la persona.
 
-###### @allport_psicologirumor_1947 {.autor}
+###### @allport-Psicologiarumor-1947a {.autor}
 
 ## Transmisión: Serie vs. red {#transmision-red}
 
-![](imagenes-APCS-6/Rumor-red.png)
+![](imagenes-rumor/Rumor-red.png)
 
 
 ## Contra los rumores
 
-![](imagenes-APCS-6/StopRumores.png)
+![](imagenes-rumor/StopRumores.png)
 
 [http://stoprumores.com/rumores/](http://stoprumores.com/rumores/)
 
