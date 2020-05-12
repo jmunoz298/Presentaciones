@@ -504,7 +504,7 @@ En primer lugar, crearemos los códigos (no grupos) "Sentimiento positivo", "Sen
 En el próximo vídeo puedes ver todo el proceso.
 :::
 
-## Relaciones y redes{#relaciones-redes}
+## Relaciones y redes {#relaciones-redes}
 
 <video width="800"  class="stretch" controls>
 <source src="imagenes-atlas-8/relaciones-redes.mp4">
@@ -514,12 +514,12 @@ En el próximo vídeo puedes ver todo el proceso.
 
 Reproduce la estructura de relaciones "sentimientos"
 
-## Redes temáticas
+## Redes temáticas {#redes-tematicas-1}
 
 >Aplicar redes temáticas es simplemente una forma de organizar un análisis temático de datos cualitativos. Los análisis temáticos intentan descubrir los temas más destacados en un texto a diferentes niveles, y las redes temáticas tienen como objetivo [facilitar la estructuración y representación]{.fosforito} de esos temas.\
 @attride_stirling2001 [p. 387]
 
-## Redes temáticas {#redes-tematicas}
+## Redes temáticas {#redes-tematicas-2}
 ![Attride-Stirling, 2001. p. 388](imagenes-cuali/RedesTematicas.png)
 
 ## Redes {#relaciones-codigos-donacion}
