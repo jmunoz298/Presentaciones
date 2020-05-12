@@ -220,27 +220,17 @@ Una posible forma de sistematizar los contenidos a añadir a los comentarios de 
 <source src="imagenes-atlas-8/segmentacion.mp4">
 </video>
 
-## Ejercicio: Segmentación {#ejercicio-segmentacion}
+## Ejercicio: Segmentación y codificación {#ejercicio-segmentacion-codificacion}
 
 ![](imagenes-atlas-8/ejercicio-citas.png){.noshadow  .border}
 
 >* Crear citas "libres" en varios documentos.
 * Eliminar citas.
 * Modificar tamaño de citas.
-* Explorar citas con el [Administrador de citas]{.resaltar} y con el [Navegador de citas]{.resaltar}.
+* Codificar con las opciones "Codificación abierta" y "Codificación por lista".
+* Añadir comentarios de códigos.
+* Explorar citas y códigos con los respectivos [administradores]{.resaltar} y [navegadores]{.resaltar}.
 
-
-## Ejercicio: Codificación {#ejercicio-codificacion}
-
-![](imagenes-atlas-8/ejercicio-codificacion.png){.noshadow  .border}
-
->* Crear códigos libres con [Nuevas entidades]{.resaltar} (y comentarios de códigos).
-* Relacionar códigos libres con citas existentes utilizando el [Navegador de códigos]{.resaltar}.
-* Utilizar la opción de [Codificación abierta]{.resaltar}.
-* Desvincular código de cita.
-* Explorar códigos con el [Administrador de códigos]{.resaltar}.
-
-<!-- # "Transportar" UH{.center data-background="imagenes/luggage.png"} -->
 
 ## Ejercicio: Guardar {#ejercicio-guardar}
 
@@ -253,6 +243,16 @@ Una posible forma de sistematizar los contenidos a añadir a los comentarios de 
 :::
 :::::
 
+::: notes
+Evidentemente, cuando utilizamos la opción "Guardar proyecto", estamos guardando el estado de nuestro trabajo, pero a diferencia de otros programas, esto no nos permite acceder a ningún archivo que podamos copiar, cambiar el nombre, crear una versión diferente... para ello tendremos que utilizar otras opciones del programa.
+
+Si queremos crear una copia para conservar el estado de nuestro trabajo en un momento determinado, utilizaremos la opción "Instantánea", que nos permitirá crear una versión de nuestro análisis de forma que si con posterioridad hacemos cambios que no son satisfactorios, podamos recuperar esa versión previa.
+
+Aunque hayamos creado instantáneas, seguiremos sin tener la posibilidad de acceder en nuestro ordenador a ningún archivo con el análisis. La única posibilidad que tenemos para acceder a nuestro proyecto es a través del programa y única y exclusivamente en el ordenador en que lo hemos creado.
+
+Para disponer de una copia del proyecto que podamos "transportar" entre diferentes ordenadores (o simplemente como un sistema de copia de seguridad), tenemos que utilizar la opción "Exportar > Paquete de proyecto", que creará un archivo (con extensión .atlproj) que podremos abrir en otros ordenadores con la opción "Importar proyecto" que habíamos visto en la pantalla inicial.
+:::
+
 ## Codificación: "Depuración" {#codificacion-depuracion}
 
 >Durante el desarrollo de un sistema de códigos y eventualmente temas, el investigador va en constante ir y venir entre la lectura de los datos, la relectura de los segmentos codificados, la organización de los códigos, el cambio de nombre y el reordenamiento de los códigos y la recodificación de los segmentos de datos.\
@@ -261,6 +261,13 @@ Una posible forma de sistematizar los contenidos a añadir a los comentarios de 
 ## Comparación constante {#comparacion-constante}
 ![](imagenes-cuali/comparacion-constante.png){.noshadow}
 
+::: notes
+La depuración implica, entre otras cosas, comprobar la consistencia de nuestro sistema de codificación, tanto intra-código como inter-códigos. Es decir, tenemos que asegurarnos que todas las citas de un código son casos representativos de ese cógico (comparación intra) y que los contenidos de diferentes códigos son efectivamente diferentes (comparación inter).
+
+Este proceso puede implicar la creación de códigos nuevos o la desaparición o agrupación de algunos de los existentes.
+
+En las pantallas siguientes puedes ver un ejemplo hipotético de depuración que lleva a una transformación importante de la codificación original.
+:::
 
 ## {transition=none}
 
