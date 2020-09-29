@@ -6,6 +6,7 @@ author:
 tags: [Obediencia, Milgram]
 tema: "Obediencia a la autoridad"
 url: "http:/juan.psicologiasocial.eu"
+bibliography: diapos.bib
 csl: apa.csl
 lateral-menu: 'True'
 ...
@@ -21,20 +22,27 @@ lateral-menu: 'True'
 ##### [https://en.wikipedia.org/wiki/Authority_(Law_%26_Order:_Special_Victims_Unit)](https://en.wikipedia.org/wiki/Authority_(Law_%26_Order:_Special_Victims_Unit)) {.peque}
 -->
 
-## Índice
 
->* Introducción
-* La banalidad del mal
-* Milgram
+<!-- ##
+
+<video class="stretch" controls><source src="imagenes-obediencia/RespectAndObeyAuthority-sub.mp4"></video> -->
+
+## Índice
+>* La banalidad del mal
+* La investigación de S.Milgram
 * Críticas
 * Milgram en el S. XXI
 
 <hr>
-
+<!--
 [The obedience song](https://www.youtube.com/watch?v=KKMSg_8aMoo)\
-`https://www.youtube.com/watch?v=KKMSg_8aMoo`{.peque}
+`https://www.youtube.com/watch?v=KKMSg_8aMoo`{.peque} -->
 
-# Introducción { .center}
+<video class="stretch" controls data-autoplay src="imagenes-obediencia/ObedienceSong.mkv"></video>
+
+
+
+# La banalidad del mal { .center}
 
 ## Obediencia {data-background="imagenes-obediencia/abraham-sacrifice-caravaggio.jpg" data-background-transition=zoom data-state=fondo}
 
@@ -107,8 +115,6 @@ lateral-menu: 'True'
 
 </div>
 
-# La banalidad del mal { .center}
-
 ## Disposicional vs. situacional
 
 > No pocas veces no es tanto el tipo de persona que es un hombre en concreto, cuanto más bien el tipo de situación en la que se encuentra, el que determina cómo va a actuar.\
@@ -116,8 +122,7 @@ lateral-menu: 'True'
 
 
 
-## La prisión de Stanford
-
+<!-- ## La prisión de Stanford
 
 <div id="column1" style="float:left; margin:0; width:33%;">
 
@@ -131,12 +136,9 @@ lateral-menu: 'True'
 >Las malas acciones rara vez son el producto de gente malvada que actúan por motivos malvados, sino que son el producto de buenos burócratas simplemente haciendo su trabajo\
 @zimbardo_obedience_1974 [p. 566]
 
-
-
 [https://www.youtube.com/watch?v=ilzeRaO2TUw](https://www.youtube.com/watch?v=ilzeRaO2TUw)
 `Redes 54: La pendiente resbaladiza de la maldad`{.figcaption}
-</div>
-
+</div> -->
 
 ## Batallón 101 {data-background="imagenes-obediencia/Batallon101.jpg"   data-background-transition=zoom data-state=fondo}
 
@@ -210,12 +212,19 @@ lateral-menu: 'True'
 
 -->
 
+<!-- ## Diseños experimentales
+
+![Diseñose experimentales](imagenes-obediencia/Milgram-diseños.png) -->
+
 
 ## Resultados: Niveles de obediencia {#resultados}
 
 ![Resultados: Niveles de obediencia por diseño](imagenes-obediencia/Milgram-NivelesObediencia.jpg)
 
 <!-- # La explicación de Milgram { .center} -->
+
+
+
 
 ## Explicación: El _Estado Agéntico_ {#explicacion}
 
@@ -256,12 +265,12 @@ r = resolución de la tensión
 ::: nonincremental
 * Ética
    * Daño participantes [>>>](#mal-participantes)
-   * Engaño - Consentimiento informado [>>>](#enganyo)
+   * Engaño - Consentimiento informado  <!--  [>>>](#enganyo) -->
    * Derecho a retirarse
    * Debriefing [>>>](#debriefing)
 * Metodológica [>>>](#metodologica)
-  - Validez interna
   - Validez externa
+  - Validez interna
 * Teórica
 :::
 
@@ -275,20 +284,26 @@ r = resolución de la tensión
 ## Daño a los participantes {#mal-participantes}
 
 
->[Un observador relató:] Observé un hombre de negocios maduro e inicialmente equilibrado entrar en el laboratorio sonriente y confiado. [A los 20 minutos se vio reducido a una ruina tartamudeante, que se acercaba rápidamente a un punto de colapso nervioso]{.fosforito}. Constantemente se estiraba el lóbulo de la oreja, y se retorcía las manos. En un momento, puso su puño en la frente y murmuró: "Oh, Dios, vamos a parar". Y sin embargo, siguió respondiendo a cada palabra del experimentador, y obedeció hasta el final.\
+>[Un observador relató:] Observé un hombre de negocios maduro e inicialmente equilibrado entrar en el laboratorio sonriente y confiado. [A los 20 minutos se vio reducido a una ruina tartamudeante, que se acercaba rápidamente a un punto de colapso nervioso]{.fosforito}.\
 @milgram_obediencia_1974  [p. 377] [<<<](#tipos-criticas)
+
+
+<!-- Constantemente se estiraba el lóbulo de la oreja, y se retorcía las manos. En un momento, puso su puño en la frente y murmuró: "Oh, Dios, vamos a parar". Y sin embargo, siguió respondiendo a cada palabra del experimentador, y obedeció hasta el final.\
+@milgram_obediencia_1974  [p. 377] [<<<](#tipos-criticas) -->
+
+<video class="stretch" controls  data-autoplay src="imagenes-obediencia/MilgramExperiment-0b.mp4"></video>
 
 
 <!-- >Por desgracia, el sujeto no siempre es tratado con el respeto que se merece. Se ha convertido en algo común en los estudios de laboratorio sociopsicológicos manipular, avergonzar e incomodar a los sujetos. A veces, el insulto a la sensibilidad de los sujetos se extiende al lector de la revista cuando se presentan los resultados. El estudio de Milgram (1963) es un ejemplo de ello.\
 @baumrind_thoughts_1964 [p. 422] -->
 
-## Engaño {#enganyo}
+<!-- ## Engaño {#enganyo}
 
 >El observador usó un prisma periscópico incrustado en una pila de libros tirados en el suelo del retrete. Un espacio de 11 pulgadas (28 cm.) entre el suelo  y la pared del retrete proporcionó una vista, a través del periscopio, de la parte inferior del torso del usuario y posibilitó observaciones visuales directas del chorro de orina. (p. 544)\
 
 #### Middlemist, R. D., Knowles, E. S., & Matter, C. F. (1976). Personal space invasions in the lavatory: Suggestive evidence for arousal. _Journal of Personality and Social Psychology_, _33_(5), 541-546.{.autor}
 
-[<<<](#tipos-criticas)
+[<<<](#tipos-criticas) -->
 
 ## Debriefing
 
@@ -318,20 +333,21 @@ Kohlberg, 1974, p. 607
 
 ## Metodológica {#metodologica}
 
-Validez externa [>>](#generalizacion)
+>Validez externa  <!-- [>>](#generalizacion) -->
 :    Posibilidad de que los resultados de la investigación sean generalizables más allá de la investigación en la que se han realizado (entorno, muestra...)
+
 
 Validez interna
 :    Los resultados obtenidos son debidos única y exclusivamente a las manipulaciones experimentales realizadas
 
-[>>>](#critica-teorica)
+<!-- [>>>](#critica-teorica) -->
 
-## Generalización {#generalizacion}
+<!-- ## Generalización {#generalizacion}
 
 >Yo diría, sobre la base de haber observado un millar de personas en el experimento y de mi propia intuición formada e informada por estos experimentos, que si se instalara en los Estados Unidos un sistema de campos de exterminio, del tipo de los que hemos visto en la Alemania Nazi, seriamos capaces de encontrar suficiente personal para esos campos en cualquier ciudad Americana de tamaño medio.\
 [Milgram, 1979, citado por @blass_milgram_1999, pp. 955-956]
 
-[<<](#metodologica)
+[<<](#metodologica) -->
 
 ## Críticas: Teórica {#critica-teorica}
 
