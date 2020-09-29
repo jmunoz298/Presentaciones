@@ -18,8 +18,8 @@ Archivos fuente en: [https://github.com/jmunoz298/Presentaciones](https://github
 Influencia social y grupos
 --------------------------
 
-- Conformismo (Septiembre 2019) ([HTML](Conformismo.html) | [PDF](Conformismo.pdf){target=_"blank"})
-- Obediencia (Septiembre 2019) ([HTML](Obediencia.html) | [PDF](Obediencia.pdf){target=_"blank"})
+- Conformismo (Septiembre 2020) ([HTML](Conformismo.html) | [PDF](Conformismo.pdf){target=_"blank"})
+- Obediencia (Septiembre 2020) ([HTML](Obediencia.html) | [PDF](Obediencia.pdf){target=_"blank"})
 - Desobediencia (Octubre 2017) ([HTML](Desobediencia.html) | [PDF](Desobediencia.pdf){target=_"blank"})
 
 Dinámicas

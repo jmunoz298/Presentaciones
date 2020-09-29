@@ -116,6 +116,7 @@ $endfor$
       Reveal.initialize({
 
         //Opciones reveal
+        //autoPlayMedia: true,
         pdfSeparateFragments: false,
         controls: true,
         controlsTutorial: true,
@@ -139,12 +140,12 @@ $endfor$
           textToSpeechURL: null,  // the URL to the text to speech converter
           defaultNotes: false,  // use slide notes as default for the text to speech converter
           defaultText: false,   // use slide text as default for the text to speech converter
-          advance: 0,     // advance to next slide after given time in milliseconds after audio has played, use negative value to not advance 
+          advance: 0,     // advance to next slide after given time in milliseconds after audio has played, use negative value to not advance
           autoplay: true,  // automatically start slideshow
-          defaultDuration: 5, // default duration in seconds if no audio is available 
+          defaultDuration: 5, // default duration in seconds if no audio is available
           defaultAudios: false,  // try to play audios with names such as audio/1.2.ogg
           playerOpacity: 0.05,  // opacity value of audio player if unfocused
-          playerStyle: 'position: fixed; bottom: 4px; left: 25%; width: 50%; height:75px; z-index: 33;', // style used for container of audio controls 
+          playerStyle: 'position: fixed; bottom: 4px; left: 25%; width: 50%; height:75px; z-index: 33;', // style used for container of audio controls
           startAtFragment: true, // when moving to a slide, start at the current fragment or at the start of the slide
   },
 
@@ -233,8 +234,8 @@ $endfor$
           { src: 'reveal.js/plugin/reveal.js-menu-master/menu.js' },
           $endif$
           { src: 'reveal.js/plugin/chalkboard/chalkboard.js' },
-          // { src: 'reveal.js/plugin/audio-slideshow/RecordRTC.js', condition: function( ) { return !!document.body.classList; } },       
-          // { src: 'reveal.js/plugin/audio-slideshow/slideshow-recorder.js', condition: function( ) { return !!document.body.classList; } },        
+          // { src: 'reveal.js/plugin/audio-slideshow/RecordRTC.js', condition: function( ) { return !!document.body.classList; } },
+          // { src: 'reveal.js/plugin/audio-slideshow/slideshow-recorder.js', condition: function( ) { return !!document.body.classList; } },
           // { src: 'reveal.js/plugin/audio-slideshow/audio-slideshow.js', condition: function( ) { return !!document.body.classList; } },
           // Muestra la tabla de contenido a pie de página
           //	  { src: 'reveal.js/plugin/toc-progress/toc-progress.js', async: true, callback: function()
