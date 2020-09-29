@@ -12,6 +12,19 @@ lateral-menu: 'True'
 ...
 
 
+
+## Índice
+>* La banalidad del mal
+* La investigación de S.Milgram
+* Críticas
+* Milgram en el S. XXI
+
+<!--
+[The obedience song](https://www.youtube.com/watch?v=KKMSg_8aMoo)\
+`https://www.youtube.com/watch?v=KKMSg_8aMoo`{.peque} -->
+
+<video class="stretch" controls data-autoplay src="imagenes-obediencia/ObedienceSong.mkv"></video>
+
 <!--
 ## El "inspector" Milgram {#inspector-milgram}
 
@@ -26,20 +39,6 @@ lateral-menu: 'True'
 <!-- ##
 
 <video class="stretch" controls><source src="imagenes-obediencia/RespectAndObeyAuthority-sub.mp4"></video> -->
-
-## Índice
->* La banalidad del mal
-* La investigación de S.Milgram
-* Críticas
-* Milgram en el S. XXI
-
-<hr>
-<!--
-[The obedience song](https://www.youtube.com/watch?v=KKMSg_8aMoo)\
-`https://www.youtube.com/watch?v=KKMSg_8aMoo`{.peque} -->
-
-<video class="stretch" controls data-autoplay src="imagenes-obediencia/ObedienceSong.mkv"></video>
-
 
 
 # La banalidad del mal { .center}
@@ -356,7 +355,7 @@ vs.\ Confianza en un experto.
 * Identificación con experimentador\
 vs. identificación con alumno.
 
-## Inicio de la desobediencia
+<!-- ## Inicio de la desobediencia
 
 <div id="column1" style="float:left; margin:0; width:50%;">
 
@@ -368,7 +367,7 @@ vs. identificación con alumno.
 
 ![Resultados (Experimento nº 2)](imagenes-obediencia/Milgram-experimento-2.jpg)
 
-</div>
+</div> -->
 
 
 # ¿Obediencia en el siglo XXI? { .center}
