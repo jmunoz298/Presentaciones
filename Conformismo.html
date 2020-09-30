@@ -279,8 +279,17 @@ Tu bebé empieza a llorar a gritos. Le cubres la boca para amortiguar el sonido.
 </section></section>
 <section><section id="importancia-grupos" class="title-slide slide level1 center"><h1>La importancia de los grupos</h1></section><section id="un-experimento-con-61-millones-de-participantes" class="slide level2">
 <h2>Un experimento con 61 millones de participantes</h2>
-<p><img data-src="imagenes-conformismo/A61MillionVote-2.jpg" /></p>
+<p><img data-src="imagenes-conformismo/Bond-InformationalMessage.png" /></p>
 <p><span class="citation" data-cites="bond_61millionperson_2012">Bond et al. (2012)</span></p>
+</section><section id="un-experimento-con" class="slide level2">
+<h2>Un experimento con…</h2>
+<p><img data-src="imagenes-conformismo/Bond-SocialMessage.png" /></p>
+<p><span class="citation" data-cites="bond_61millionperson_2012">Bond et al. (2012)</span></p>
+<!-- ## Un experimento con...
+
+![](imagenes-conformismo/Bond-Resultados.png)
+
+@bond_61millionperson_2012 -->
 </section><section id="influencia-informativa-referente" class="slide level2">
 <h2>Influencia informativa referente</h2>
 <blockquote>
@@ -354,6 +363,7 @@ Tu bebé empieza a llorar a gritos. Le cubres la boca para amortiguar el sonido.
       Reveal.initialize({
 
         //Opciones reveal
+        //autoPlayMedia: true,
         pdfSeparateFragments: false,
         controls: true,
         controlsTutorial: true,
@@ -377,12 +387,12 @@ Tu bebé empieza a llorar a gritos. Le cubres la boca para amortiguar el sonido.
           textToSpeechURL: null,  // the URL to the text to speech converter
           defaultNotes: false,  // use slide notes as default for the text to speech converter
           defaultText: false,   // use slide text as default for the text to speech converter
-          advance: 0,     // advance to next slide after given time in milliseconds after audio has played, use negative value to not advance 
+          advance: 0,     // advance to next slide after given time in milliseconds after audio has played, use negative value to not advance
           autoplay: true,  // automatically start slideshow
-          defaultDuration: 5, // default duration in seconds if no audio is available 
+          defaultDuration: 5, // default duration in seconds if no audio is available
           defaultAudios: false,  // try to play audios with names such as audio/1.2.ogg
           playerOpacity: 0.05,  // opacity value of audio player if unfocused
-          playerStyle: 'position: fixed; bottom: 4px; left: 25%; width: 50%; height:75px; z-index: 33;', // style used for container of audio controls 
+          playerStyle: 'position: fixed; bottom: 4px; left: 25%; width: 50%; height:75px; z-index: 33;', // style used for container of audio controls
           startAtFragment: true, // when moving to a slide, start at the current fragment or at the start of the slide
   },
 
@@ -469,8 +479,8 @@ Tu bebé empieza a llorar a gritos. Le cubres la boca para amortiguar el sonido.
           { src: 'reveal.js/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } },
                     { src: 'reveal.js/plugin/reveal.js-menu-master/menu.js' },
                     { src: 'reveal.js/plugin/chalkboard/chalkboard.js' },
-          // { src: 'reveal.js/plugin/audio-slideshow/RecordRTC.js', condition: function( ) { return !!document.body.classList; } },       
-          // { src: 'reveal.js/plugin/audio-slideshow/slideshow-recorder.js', condition: function( ) { return !!document.body.classList; } },        
+          // { src: 'reveal.js/plugin/audio-slideshow/RecordRTC.js', condition: function( ) { return !!document.body.classList; } },
+          // { src: 'reveal.js/plugin/audio-slideshow/slideshow-recorder.js', condition: function( ) { return !!document.body.classList; } },
           // { src: 'reveal.js/plugin/audio-slideshow/audio-slideshow.js', condition: function( ) { return !!document.body.classList; } },
           // Muestra la tabla de contenido a pie de página
           //	  { src: 'reveal.js/plugin/toc-progress/toc-progress.js', async: true, callback: function()

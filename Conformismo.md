@@ -273,10 +273,21 @@ Tu bebé empieza a llorar a gritos. Le cubres la boca para amortiguar el sonido.
 
 ## Un experimento con 61 millones de participantes
 
-![](imagenes-conformismo/A61MillionVote-2.jpg)
+![](imagenes-conformismo/Bond-InformationalMessage.png)
 
 @bond_61millionperson_2012
 
+## Un experimento con...
+
+![](imagenes-conformismo/Bond-SocialMessage.png)
+
+@bond_61millionperson_2012
+
+<!-- ## Un experimento con...
+
+![](imagenes-conformismo/Bond-Resultados.png)
+
+@bond_61millionperson_2012 -->
 
 ## Influencia informativa referente {#influencia-informativa-referente}
 
