@@ -50,7 +50,11 @@ lateral-menu: 'True'
 
 ## Contenido - Temático {#contenido-tematico}
 
-![](imagenes-cuali/ContenidoTematico.jpg)
+![](imagenes-cuali/ContenidoTematico.png)
+
+::: notes
+https://www.eldiario.es/politica/secreto-banderas-cumbre-sanchez-ayuso-escenografia-pactada-moncloa-puerta-sol_1_6238572.html
+:::
 
 ## Manifiesto vs. latente {#manifiesto-latente}
 
@@ -64,6 +68,11 @@ Justin Trudeau
 Emmanuel Macron
 Shinzō Abe
 :::
+
+## Manifiesto vs. latente {#manifiesto-latente-2}
+
+![Comparecencia Sánchez-Ayuso, 21 de septiembre de 2020](imagenes-cuali/SanchezAyuso.jpg){.noshadow}
+
 
 ## Fases del análisis {#fases-analisis}
 ![](imagenes-cuali/Fases.png)
@@ -98,17 +107,24 @@ F4: [http://www.audiotranskription.de/english](http://www.audiotranskription.de/
 
 ##
 
-<iframe  height="600" width="1200" data-src="https://otranscribe.com/"></iframe>
+<iframe  height="500" width="1200" data-src="https://otranscribe.com/"></iframe>
 
-https://otranscribe.com/
+[https://otranscribe.com/](https://otranscribe.com/){target="_blank"}
 
 ## Transcripción "automática"
 
 <!-- <iframe  height="600" width="1200" data-src="https://dictation.io/speech"></iframe>
 https://dictation.io/speech -->
 
-
+:::::: {.columns}
+::: {.column width="50%"}
 ![[Google Docs](https://docs.google.com/document/u/0/){target="_blank"}](imagenes-cuali/docs.png){.noshadow}
+:::
+::: {.column width="50%"}
+![Microsoft Word](imagenes-cuali/MicrosoftWord.jpg){.noshadow}
+:::
+::::::
+
 
 <!-- ## Pero...
 <iframe width="800" height="400" data-src="http://swiftscribe.ai"></iframe>
@@ -122,7 +138,7 @@ https://dictation.io/speech -->
 . . .
 
 >(…) La producción y el uso de transcripciones son ['actividades de investigación']{.fosforito} y no deben ser enfocadas como simplemente 'detalles técnicos' que preceden el análisis.\
-@mclellan_beyond_2003 [p. 64]
+@mclellan_qualitative_2003 [p. 64]
 
 <!--
 “(…) el examen de la grabación como una práctica perturba el tratamiento aproblemático de la cinta como "datos" inmutables. De repente, la cinta es tan "insegura" y "poco fiable" como todos los demás objetos, más obviamente artesanales.\
@@ -149,16 +165,16 @@ https://dictation.io/speech -->
 
 ## Convenciones {#convenciones}
 >En una conversación [lo más significativo es lo que no se dice entre lo que se está diciendo]{.fosforito}, como por ejemplo las pausas y silencios, las entonaciones y los gestos, porque ahí radican los dobles significados, los ánimos y el objetivo mismo de la comunicación.\
-@fernandez_christlieb_espiritu_2004 [p. 46]
+@fernandezchristlieb_espiritu_2004 [p. 46]
 
 
 ## Convenciones "jeffersonianas" {#convenciones-jeffersonianas}
 ![](imagenes-cuali/Transcripcion.jpg)
 
-@lerner_glossary_2004 [p. 15]
+@jefferson_glossary_2004 [p. 15]
 [>](https://www.dropbox.com/s/q0sardadq3ijqsa/JeffersonianTranscriptionNotationCast.pdf?dl=0){target="_blank"}
 
-Ver también: @bassi_follari_codigo_2015
+Ver también: @bassifollari_codigo_2015
 
 <!--
 ## Ejercicio: transcripción con convenciones
@@ -166,7 +182,7 @@ Ver también: @bassi_follari_codigo_2015
 
 ## Gestión de los datos {#gestion-datos-1}
 >La inadecuada documentación y monitorización de las actividades relacionadas con los datos pueden [amenazar su integridad]{.fosforito}. Además, las prácticas inadecuadas de seguimiento pueden dificultar el análisis y aumentar la probabilidad de un [pandemónium]{.fosforito} de investigación.\
-@mclellan_beyond_2003 [p. 69]
+@mclellan_qualitative_2003 [p. 69]
 
 [Processing Qualitative Data Files](http://www.fsd.uta.fi/aineistonhallinta/en/processing-qualitative-data-files.html){.peque target="_blank"}\
 `http://www.fsd.uta.fi/aineistonhallinta/en/processing-qualitative-data-files.html`{.figcaption}
@@ -194,8 +210,18 @@ Ver también: @bassi_follari_codigo_2015
 
 ## Control de versiones {#control-versiones}
 
-![[https://www.ukdataservice.ac.uk/manage-data/format/versioning](https://www.ukdataservice.ac.uk/manage-data/format/versioning)](imagenes-cuali/VersionControlTable.jpg){target="_blank"}
+![[https://www.ukdataservice.ac.uk/manage-data/format/versioning](https://www.ukdataservice.ac.uk/manage-data/format/versioning){target="_blank"}](imagenes-cuali/VersionControlTable.jpg){.noshadow}
 
+## Depósito de datos
+
+>- [https://toolbox.google.com/datasetsearch](https://toolbox.google.com/datasetsearch){target="_blank"}
+- [https://figshare.com/](https://figshare.com/){target="_blank"}
+- [https://zenodo.org/](https://zenodo.org/){target="_blank"}
+- [https://qdr.syr.edu/](https://qdr.syr.edu/){target="_blank"}
+- [https://dataverse.harvard.edu/](https://dataverse.harvard.edu/){target="_blank"}
+- [http://www.data-archive.ac.uk/](http://www.data-archive.ac.uk/){target="_blank"}
+- [https://www.icpsr.umich.edu/icpsrweb/index.jsp](https://www.icpsr.umich.edu/icpsrweb/index.jsp){target="_blank"}
+- [https://www.ukdataservice.ac.uk](https://www.ukdataservice.ac.uk){target="_blank"}
 
 ## Ejercicio: Gestión de datos {#ejercicio-gestion}
 
