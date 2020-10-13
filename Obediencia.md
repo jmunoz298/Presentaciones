@@ -257,6 +257,27 @@ s = tensión
 r = resolución de la tensión
 ``` -->
 
+## Otras explicaciones teóricas {#otras-explicaciones}
+
+* Obediencia a la autoridad legítima\
+vs.\ Confianza en un experto.
+* Identificación con experimentador\
+vs. identificación con alumno.
+
+<!-- ## Inicio de la desobediencia
+
+<div id="column1" style="float:left; margin:0; width:50%;">
+
+![Resultados (Experimento nº 1)](imagenes-obediencia/Milgram-experimento-1.jpg)
+
+</div>
+
+<div id="column1" style="float:left; margin:0; width:50%;">
+
+![Resultados (Experimento nº 2)](imagenes-obediencia/Milgram-experimento-2.jpg)
+
+</div> -->
+
 # Críticas { .center}
 
 ## Tipos de críticas {#tipos-criticas}
@@ -270,7 +291,6 @@ r = resolución de la tensión
 * Metodológica [>>>](#metodologica)
   - Validez externa
   - Validez interna
-* Teórica
 :::
 
 <!-- ## Críticas: Ética {#critica-etica}
@@ -339,6 +359,11 @@ Kohlberg, 1974, p. 607
 Validez interna
 :    Los resultados obtenidos son debidos única y exclusivamente a las manipulaciones experimentales realizadas
 
+##
+
+>Debo confesar que sospeché desde el principio que algo andaba mal. Estando en un campo electromecánico sospeché que el voltaje no estaba subiendo como se mostraba en el tablero de control, pero mientras estaba sentado aquí en el tablero me di cuenta que si algo estaba subiendo era sólo el amperaje... Mientras me sentaba en el tablero, puedo recordar que me tranquilicé cada vez más al darme cuenta de que no le estaba dando a la persona del otro lado de la pared los descargas que se mostraban en el tablero.\
+[Relato post-experimental. Sujeto 0113]{.autor}
+
 <!-- [>>>](#critica-teorica) -->
 
 <!-- ## Generalización {#generalizacion}
@@ -347,28 +372,6 @@ Validez interna
 [Milgram, 1979, citado por @blass_milgram_1999, pp. 955-956]
 
 [<<](#metodologica) -->
-
-## Críticas: Teórica {#critica-teorica}
-
-* Obediencia a la autoridad legítima\
-vs.\ Confianza en un experto.
-* Identificación con experimentador\
-vs. identificación con alumno.
-
-<!-- ## Inicio de la desobediencia
-
-<div id="column1" style="float:left; margin:0; width:50%;">
-
-![Resultados (Experimento nº 1)](imagenes-obediencia/Milgram-experimento-1.jpg)
-
-</div>
-
-<div id="column1" style="float:left; margin:0; width:50%;">
-
-![Resultados (Experimento nº 2)](imagenes-obediencia/Milgram-experimento-2.jpg)
-
-</div> -->
-
 
 # ¿Obediencia en el siglo XXI? { .center}
 
