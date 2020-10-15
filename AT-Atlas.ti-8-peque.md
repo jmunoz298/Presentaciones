@@ -13,6 +13,14 @@ lateral-menu: 'True'
 
 # Introducción {.center data-background="imagenes-cuali/introduction-2.jpg" data-background-transition=zoom data-state=opacidad }
 
+## Notas:
+
+"Axial coding, which is coding along the axis of a category, is not immediately visible in the tag list. In the third edition, Corbin defined axial coding as "crosscutting or relating concepts to each other" (p. 195). And in more detail in the fourth edition (Corbin and Strauss 2015), we read:
+
+When researchers are coding for context, they are doing what Strauss (1987) called 'axial coding'. They are locating and linking action-interaction within the framework of sub concepts that give it meaning and enable it to explain what interactions are occurring, and why and what consequences real or anticipated are happening because of action-interaction. (Chapter 8, position 4126)" (Friese 2016:20-21)
+
+"While tagging is no solution here, creating linkages is. Yet, easy though it is to create links in the software, you first must work out exactly where and how to link something meaningfully. This is best possible if you start to think about your data during the process of writing. Axial coding therefore takes place primarily in memos, not when "tagging" raw data." (Friese 2016:21)
+
 ## CAQDAS
 
 >Programas para el análisis cualitativo de datos [ASISTIDO]{.fosforito} por ordenador.

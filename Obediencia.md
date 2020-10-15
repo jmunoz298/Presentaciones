@@ -117,7 +117,7 @@ lateral-menu: 'True'
 ## Disposicional vs. situacional
 
 > No pocas veces no es tanto el tipo de persona que es un hombre en concreto, cuanto más bien el tipo de situación en la que se encuentra, el que determina cómo va a actuar.\
-@milgram_obediencia_1974 [p. 194]
+@milgram_obediencia_1980 [p. 194]
 
 
 
@@ -228,7 +228,7 @@ lateral-menu: 'True'
 ## Explicación: El _Estado Agéntico_ {#explicacion}
 
 >“[el estado agéntico es] la condición en que se encuentra una persona cuando se considera a sí misma como un [agente]{.fosforito} que ejecuta los deseos de otra persona. Este término será empleado en oposición al de [autonomía]{.fosforito}, es decir, cuando una persona se considera a sí misma como actuando por propia iniciativa."\
-@milgram_obediencia_1974 [p. 127]
+@milgram_obediencia_1980 [p. 127]
 
 <!-- ## El proceso de la obediencia
 
@@ -259,12 +259,13 @@ r = resolución de la tensión
 
 ## Otras explicaciones teóricas {#otras-explicaciones}
 
-* Obediencia a la autoridad legítima\
-vs.\ Confianza en un experto.
+>* Obediencia a la autoridad legítima\
+vs.\ Confianza en un experto. [>>>](#inicio-desobediencia)
 * Identificación con experimentador\
-vs. identificación con alumno.
+vs. identificación con alumno. [>>>](#obediencia-identificacion)
 
-<!-- ## Inicio de la desobediencia
+
+## Inicio de la desobediencia{#inicio-desobediencia}
 
 <div id="column1" style="float:left; margin:0; width:50%;">
 
@@ -276,7 +277,15 @@ vs. identificación con alumno.
 
 ![Resultados (Experimento nº 2)](imagenes-obediencia/Milgram-experimento-2.jpg)
 
-</div> -->
+</div>
+
+[<<<](#otras-explicaciones)
+
+
+## Obediencia = Identificación{#obediencia-identificacion .medio}
+
+>la obediencia a la autoridad (...) debe ser explicada por los niveles de [identificación social]{.fosforito} activados en la situación grupal generadora de obediencia. En las variaciones del paradigma de Milgram habrían condiciones que fomentarían la [identificación con el experimentador]{.fosforito} (y, por lo tanto, con la comunidad científica), mientras otras fomentarían la [identificación con el alumno]{.fosforito} (y, por extensión, con la comunidad en general). La complacencia de los participantes en llevar a cabo una conducta destructiva no se deriva de un simple acto de pérdida de conciencia moral, sino de una identificación activa con el experimentador y la misión científica que realiza y con la cual él se compromete." \
+@cantoortiz_mas_2015 [p. 18]
 
 # Críticas { .center}
 
@@ -304,11 +313,11 @@ vs. identificación con alumno.
 
 
 >[Un observador relató:] Observé un hombre de negocios maduro e inicialmente equilibrado entrar en el laboratorio sonriente y confiado. [A los 20 minutos se vio reducido a una ruina tartamudeante, que se acercaba rápidamente a un punto de colapso nervioso]{.fosforito}.\
-@milgram_obediencia_1974  [p. 377] [<<<](#tipos-criticas)
+@milgram_obediencia_1980  [p. 377] [<<<](#tipos-criticas)
 
 
 <!-- Constantemente se estiraba el lóbulo de la oreja, y se retorcía las manos. En un momento, puso su puño en la frente y murmuró: "Oh, Dios, vamos a parar". Y sin embargo, siguió respondiendo a cada palabra del experimentador, y obedeció hasta el final.\
-@milgram_obediencia_1974  [p. 377] [<<<](#tipos-criticas) -->
+@milgram_obediencia_1980  [p. 377] [<<<](#tipos-criticas) -->
 
 <video class="stretch" controls  data-autoplay src="imagenes-obediencia/MilgramExperiment-0b.mp4"></video>
 
