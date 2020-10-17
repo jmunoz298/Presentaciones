@@ -61,24 +61,29 @@ lateral-menu: 'True'
 . . .
 
 
-<div id="column1" style="float:left; margin:0; width:33%;">
+<div id="column1" style="float:left; margin:0; width:25%;">
 
-![Mahatma Gandhi](imagenes-obediencia/Gandhi.jpg)
-
-</div>
-
-<div id="column1" style="float:left; margin:0; width:33%;">
-
-![Martin Luther King](imagenes-obediencia/MartinLuther.jpg)
+![Mahatma Gandhi](imagenes-obediencia/Gandhi.jpg){ height=200px }
 
 </div>
 
-<div id="column1" style="float:left; margin:0; width:33%;">
+<div id="column2" style="float:left; margin:0; width:25%;">
 
-![Nelson Mandela](imagenes-obediencia/Mandela.jpg)
+![Martin Luther King](imagenes-obediencia/MartinLuther.jpg){ height=200px }
 
 </div>
 
+<div id="column1" style="float:left; margin:0; width:25%;">
+
+![Nelson Mandela](imagenes-obediencia/Mandela.jpg){ height=200px }
+
+</div>
+
+<div id="column1" style="float:left; margin:0; width:25%;">
+
+![Rosa Parks](imagenes-obediencia/RosaParks.jpg){ height=200px }
+
+</div>
 
 ## Desobediencia civil
 
