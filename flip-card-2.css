@@ -1,4 +1,6 @@
-* {
+/*https://www.codewithrandom.com/2022/10/12/flip-card-using-html-css/ */
+
+{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -18,7 +20,7 @@
 
 .card-wrap {
   display: block;
-  width: 300px;
+  width: 600px;
   max-width: 100%;
   height: 400px;
   margin: 0 auto;
@@ -58,23 +60,24 @@
 }
 
 .back{
-  background-color: white;
+  background-color: green;
   transform: rotateY(180deg);
   text-align: center;
   color: darkgray;
   border-radius: 10px;
   font-family: "Raleway", sans-serif;
-  font-weight: 600;
+  font-weight: 300;
+    font-size:xx-large;
 }
 
 .front{
   background-color: blue;
-
   text-align: center;
   color: darkgray;
   border-radius: 10px;
   font-family: "Raleway", sans-serif;
-  font-weight: 600;
+  font-weight: 300;
+  font-size:xx-large;
 }
 
 .back p, .front p {
@@ -99,3 +102,16 @@ input:checked + .card {
     justify-content: space-around;
   }
 }
+
+.numberCircle {
+    border-radius: 50%;
+    width: 36px;
+    height: 36px;
+    padding: 16px;
+    background: #fff;
+    border: 2px solid #666;
+    color: #666;
+    text-align: center;
+    font: 32px Arial, sans-serif;
+}
+
