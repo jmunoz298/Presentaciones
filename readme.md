@@ -3,7 +3,7 @@ Presentaciones docentes
 
 Repositorio de los archivos fuente de mis presentaciones docentes.
 
-Para visualizarlas (html): [http://jmunoz298.github.io/Presentaciones/](http://jmunoz298.github.io/Presentaciones/)
+// Para visualizarlas (html): [http://jmunoz298.github.io/Presentaciones/](http://jmunoz298.github.io/Presentaciones/)
 
 
 Cómo verlas
